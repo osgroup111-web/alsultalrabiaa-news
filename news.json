@@ -1,11 +1,46 @@
 {
- "updated": 1793294982,
+ "updated": 1793297822,
  "sources": [
   "شفق نيوز",
-  "السومرية",
-  "المدى"
+  "السومرية"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "عضو بمجلس نينوى: يجب بسط سلطة الدولة في سنجار ودمج العرب بالأجهزة الأمنية",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B9%D8%B6%D9%88-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%8A%D8%AC%D8%A8-%D8%A8%D8%B3%D8%B7-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%81%D9%8A-%D8%B3%D9%86%D8%AC%D8%A7%D8%B1-%D9%88%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D8%A8%D8%A7%D9%84-%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84-%D9%85%D9%86%D9%8A%D8%A9",
+   "ts": 1793297522
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "نتائج انتخابات إسرائيل.. نتنياهو 53 مقعداً مقابل 48 لأيزنكوت و19 للأحزاب العربية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D8%AA%D8%A7-%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-53-%D9%85%D9%82%D8%B9%D8%AF%D8%A7-%D9%85%D9%82%D8%A7%D8%A8%D9%84-48-%D9%84-%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%8819-%D9%84%D9%84-%D8%AD%D8%B2%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+   "ts": 1793297330
+  },
+  {
+   "source": "السومرية",
+   "title": "بلاغ عن إصابة ناقلة بمقذوف بعد مرورها في مضيق هرمز",
+   "link": "https://www.alsumaria.tv/news/international/580131/%d8%a8%d9%84%d8%a7%d8%ba-%d8%b9%d9%86-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d9%86%d8%a7%d9%82%d9%84%d8%a9-%d8%a8%d9%85%d9%82%d8%b0%d9%88%d9%81-%d8%a8%d8%b9%d8%af-%d9%85%d8%b1%d9%88%d8%b1%d9%87%d8%a7-%d9%81%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793296808
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "نجوم العراق.. التعادل السلبي ينهي لقاء القوة الجوية والميناء",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%A8%D9%8A-%D9%8A%D9%86%D9%87%D9%8A-%D9%84%D9%82%D8%A7-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D9%86%D8%A7",
+   "ts": 1793296696
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "العراق لـ\"التعاون الإسلامي\": يجب منع توفير \"ملاذ آمن\" للفاسد",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%80-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84-%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%8A%D8%AC%D8%A8-%D9%85%D9%86%D8%B9-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%85%D9%84%D8%A7%D8%B0-%D9%85%D9%86-%D9%84%D9%84%D9%81%D8%A7%D8%B3%D8%AF",
+   "ts": 1793295284
+  },
+  {
+   "source": "السومرية",
+   "title": "التعادل يحسم لقاء الجوية والميناء في \"نجوم العراق\"",
+   "link": "https://www.alsumaria.tv/Entertainment-News/580129/sports/%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d9%8a%d8%ad%d8%b3%d9%85-%d9%84%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d9%8a%d9%86%d8%a7%d8%a1-%d9%81%d9%8a-quot%d9%86%d8%ac%d9%88%d9%85-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793294749
+  },
   {
    "source": "السومرية",
    "title": "الحوثي: لا حصار على مدينة تعز وكل المزاعم باطلة",
@@ -35,12 +70,6 @@
    "title": "دهوك.. اعتقال موظف في ممثلية التربية بتهمة \"هدر المال العام\"",
    "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AF%D9%87%D9%88%D9%83-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D9%88%D8%B8%D9%81-%D9%81%D9%8A-%D9%85%D9%85%D8%AB%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D9%87%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
    "ts": 1793293175
-  },
-  {
-   "source": "المدى",
-   "title": "«النصر» يحذر من استغلال المناصب لمنح الشركات امتيازات حكومية",
-   "link": "https://almadapaper.net/458966/",
-   "ts": 1793292231
   },
   {
    "source": "السومرية",
@@ -85,36 +114,6 @@
    "ts": 1793290212
   },
   {
-   "source": "شفق نيوز",
-   "title": "الخزانة الأميركية: سنواصل الضغوط حتى استسلام النظام الإيراني",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%B3%D9%86%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B6%D8%BA%D9%88%D8%B7-%D8%AD%D8%AA%D9%89-%D8%A7%D8%B3%D8%AA%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
-   "ts": 1793289751
-  },
-  {
-   "source": "المدى",
-   "title": "نتنياهو يتصدر بلا أغلبية.. والمعارضة تتحرك لتشكيل الحكومة",
-   "link": "https://almadapaper.net/458963/",
-   "ts": 1793289710
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "‏دوري النجوم.. النفط يحقق فوزاً قاتلاً على الكهرباء",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AD%D9%82%D9%82-%D9%81%D9%88%D8%B2%D8%A7-%D9%82%D8%A7%D8%AA%D9%84%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7",
-   "ts": 1793289292
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "أسوة بآثار العالم.. دعوة لإحياء \"شمس الحضر\" في نينوى",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B3%D9%88%D8%A9-%D8%A8-%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AF%D8%B9%D9%88%D8%A9-%D9%84-%D8%AD%D9%8A%D8%A7-%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89",
-   "ts": 1793289286
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "حكومة كوردستان ترد على تقرير بريطاني بشأن الحريات وتقر بوجود تحديات",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4-%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA-%D9%88%D8%AA%D9%82%D8%B1-%D8%A8%D9%88%D8%AC%D9%88%D8%AF-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA",
-   "ts": 1793289161
-  },
-  {
    "source": "السومرية",
    "title": "\"لوري\" يودي بحياة نقيب ويصب سائقه غرب كربلاء",
    "link": "https://www.alsumaria.tv/news/localnews/580123/quot%d9%84%d9%88%d8%b1%d9%8aquot-%d9%8a%d9%88%d8%af%d9%8a-%d8%a8%d8%ad%d9%8a%d8%a7%d8%a9-%d9%86%d9%82%d9%8a%d8%a8-%d9%88%d9%8a%d8%b5%d8%a8-%d8%b3%d8%a7%d8%a6%d9%82%d9%87-%d8%ba%d8%b1%d8%a8-%d9%83%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -125,12 +124,6 @@
    "title": "إرهاق بلا سبب واضح؟.. راقب وقتك أمام الشاشة",
    "link": "https://www.alsumaria.tv/infograph-details/579350/infographics/%d8%a5%d8%b1%d9%87%d8%a7%d9%82-%d8%a8%d9%84%d8%a7-%d8%b3%d8%a8%d8%a8-%d9%88%d8%a7%d8%b6%d8%ad%d8%9f-%d8%b1%d8%a7%d9%82%d8%a8-%d9%88%d9%82%d8%aa%d9%83-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793288119
-  },
-  {
-   "source": "المدى",
-   "title": "رواتب متأخرة وأخطاء متكررة.. جماهير الرمادي تطالب بإنقاذ النادي",
-   "link": "https://almadapaper.net/458960/",
-   "ts": 1793287841
   },
   {
    "source": "السومرية",
@@ -155,60 +148,6 @@
    "title": "الحسيني يبحث مع مدير الأمن العام اللبناني ونظيره المغربي القضايا المشتركة والاقليمية",
    "link": "https://www.alsumaria.tv/news/politics/580119/%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86%d9%8a-%d9%8a%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d9%85%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a-%d9%88%d9%86%d8%b8%d9%8a%d8%b1%d9%87-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793286066
-  },
-  {
-   "source": "السومرية",
-   "title": "ثروات الإقليم ترد على اتهامات آلا طالباني بشأن النفط: ادعاءات باطلة",
-   "link": "https://www.alsumaria.tv/news/localnews/580118/%d8%ab%d8%b1%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%82%d9%84%d9%8a%d9%85-%d8%aa%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d8%a7%d8%aa%d9%87%d8%a7%d9%85%d8%a7%d8%aa-%d8%a2%d9%84%d8%a7-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793285853
-  },
-  {
-   "source": "السومرية",
-   "title": "منتخب الأشبال يتخطى السلفادور ويواجه هايتي غداً في كأس العالم",
-   "link": "https://www.alsumaria.tv/Entertainment-News/580117/sports/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a3%d8%b4%d8%a8%d8%a7%d9%84-%d9%8a%d8%aa%d8%ae%d8%b7%d9%89-%d8%a7%d9%84%d8%b3%d9%84%d9%81%d8%a7%d8%af%d9%88%d8%b1-%d9%88%d9%8a%d9%88%d8%a7%d8%ac%d9%87-%d9%87%d8%a7%d9%8a%d8%aa%d9%8a-%d8%ba%d8%af%d8%a7%d9%8b-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793285277
-  },
-  {
-   "source": "المدى",
-   "title": "المتقاعدون يلوّحون باعتصام مفتوح.. وعجز الرواتب يبلغ 360 مليار دينار",
-   "link": "https://almadapaper.net/458957/",
-   "ts": 1793284575
-  },
-  {
-   "source": "المدى",
-   "title": "رونالدو يتصدر تصويت «الكرة الذهبية عبر التاريخ» ومانشستر وريال يحتفيان",
-   "link": "https://almadapaper.net/458954/",
-   "ts": 1793282275
-  },
-  {
-   "source": "المدى",
-   "title": "إقليم كردستان يستقطب الخبرات الفرنسية لتطوير الرعاية الصحية",
-   "link": "https://almadapaper.net/458951/",
-   "ts": 1793280134
-  },
-  {
-   "source": "المدى",
-   "title": "أمانة بغداد تفرض غرامة تصل إلى مليون دينار بحق العابثين بالشوارع",
-   "link": "https://almadapaper.net/458947/",
-   "ts": 1793278577
-  },
-  {
-   "source": "المدى",
-   "title": "العزم يكلف رعد الدهلكي بإدارة مؤقتاً عقب صدور الحكم القضائي بحق السامرائي",
-   "link": "https://almadapaper.net/458943/",
-   "ts": 1793277306
-  },
-  {
-   "source": "المدى",
-   "title": "العراق ضمن أكبر موردي الوقود والنافثا إلى الأسواق الآسيوية",
-   "link": "https://almadapaper.net/458940/",
-   "ts": 1793274901
-  },
-  {
-   "source": "المدى",
-   "title": "تحقيق لرويترز يكشف عن شبكة سرية إيرانية لاستيراد المعدات العسكرية بمليارات الدولارات",
-   "link": "https://almadapaper.net/458937/",
-   "ts": 1793273334
   }
  ]
 }
