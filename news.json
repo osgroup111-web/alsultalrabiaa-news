@@ -1,11 +1,41 @@
 {
- "updated": 1793338547,
+ "updated": 1793341234,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الآم الظهر.. ماذا تفعل المسكنات في جسمك؟",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%A7%D9%84-%D9%85-%D8%A7%D9%84%D8%B8%D9%87%D8%B1-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%81%D8%B9%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%83%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AC%D8%B3%D9%85%D9%83",
+   "ts": 1793340742
+  },
+  {
+   "source": "المدى",
+   "title": "تغيرات جوية مرتقبة في العراق مع فرص لهطول الأمطار وانخفاض الحرارة",
+   "link": "https://almadapaper.net/458984/",
+   "ts": 1793340717
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "دوري نجوم العراق.. 3 مواجهات تقام اليوم في استكمال الجولة 12",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-3-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%AA%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-12",
+   "ts": 1793339529
+  },
+  {
+   "source": "السومرية",
+   "title": "دعوات للتحقيق باستخدام الحوثيين قذائف يشتبه باحتوائها مواد سامة محرمة دوليا",
+   "link": "https://www.alsumaria.tv/news/international/580144/%d8%af%d8%b9%d9%88%d8%a7%d8%aa-%d9%84%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%8a%d9%86-%d9%82%d8%b0%d8%a7%d8%a6%d9%81-%d9%8a%d8%b4%d8%aa%d8%a8%d9%87-%d8%a8%d8%a7%d8%ad%d8%aa%d9%88%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793338534
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب يلغي تجمعاته في أيوا وكانساس ويحول الحملة الانتخابية إلى تجمعات هاتفية",
+   "link": "https://www.alsumaria.tv/news/international/580143/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%84%d8%ba%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9%d8%a7%d8%aa%d9%87-%d9%81%d9%8a-%d8%a3%d9%8a%d9%88%d8%a7-%d9%88%d9%83%d8%a7%d9%86%d8%b3%d8%a7%d8%b3-%d9%88%d9%8a%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793338180
+  },
   {
    "source": "شفق نيوز",
    "title": "تفاصيل رسالة فانس إلى طهران",
@@ -109,18 +139,6 @@
    "ts": 1793305260
   },
   {
-   "source": "شفق نيوز",
-   "title": "العراق يستعيد عضويته الكاملة في المجلس الدولي للزيتون",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B9%D8%B6%D9%88%D9%8A%D8%AA%D9%87-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86",
-   "ts": 1793304837
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عيون نفط مكحول.. ثروة تتدفق نحو دجلة ومخاوف من \"كوارث بيئية\"",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B9%D9%8A%D9%88%D9%86-%D9%86%D9%81%D8%B7-%D9%85%D9%83%D8%AD%D9%88%D9%84-%D8%AB%D8%B1%D9%88%D8%A9-%D8%AA%D8%AA%D8%AF%D9%81%D9%82-%D9%86%D8%AD%D9%88-%D8%AF%D8%AC%D9%84%D8%A9-%D9%88%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%85%D9%86-%D9%83%D9%88%D8%A7%D8%B1%D8%AB-%D8%A8%D9%8A-%D9%8A%D8%A9",
-   "ts": 1793304171
-  },
-  {
    "source": "المدى",
    "title": "!من التاسعة مساءً حتى الثانية فجراً.. تحذير للطيران المدني العراقي",
    "link": "https://almadapaper.net/458978/",
@@ -149,18 +167,6 @@
    "title": "برلماني يكشف أسباب تراجع الزراعة وهجرة السكان في سهل نينوى",
    "link": "https://www.alsumaria.tv/news/localnews/580130/%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8-%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d9%88%d9%87%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%83%d8%a7%d9%86-%d9%81%d9%8a-%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793299140
-  },
-  {
-   "source": "السومرية",
-   "title": "اعتقال متهم بارتكابه سطو مسلح في بغداد وذي قار",
-   "link": "https://www.alsumaria.tv/news/security/580133/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%85%d8%aa%d9%87%d9%85-%d8%a8%d8%a7%d8%b1%d8%aa%d9%83%d8%a7%d8%a8%d9%87-%d8%b3%d8%b7%d9%88-%d9%85%d8%b3%d9%84%d8%ad-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%88%d8%b0%d9%8a-%d9%82%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793298900
-  },
-  {
-   "source": "السومرية",
-   "title": "نائب: قوى سياسية تستغل المكونات في علاقاتها مع السفراء والمنظمات الدولية",
-   "link": "https://www.alsumaria.tv/news/alsumariaspecial/580128/%d9%86%d8%a7%d8%a6%d8%a8-%d9%82%d9%88%d9%89-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ba%d9%84-%d8%a7%d9%84%d9%85%d9%83%d9%88%d9%86%d8%a7%d8%aa-%d9%81%d9%8a-%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa%d9%87%d8%a7-%d9%85%d8%b9-%d8%a7%d9%84%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793298780
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "رونالدو يتصدر تصويت «الكرة الذهبية عبر التاريخ» ومانشستر وريال يحتفيان",
    "link": "https://almadapaper.net/458954/",
    "ts": 1793282275
-  },
-  {
-   "source": "المدى",
-   "title": "إقليم كردستان يستقطب الخبرات الفرنسية لتطوير الرعاية الصحية",
-   "link": "https://almadapaper.net/458951/",
-   "ts": 1793280134
   }
  ]
 }
