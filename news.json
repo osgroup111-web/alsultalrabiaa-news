@@ -1,11 +1,53 @@
 {
- "updated": 1793352687,
+ "updated": 1793356111,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "إيطاليا.. احتجاجات في 50 مدينة ودعوات لمسيرات طلابية وإضراب",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-50-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88-%D8%B6%D8%B1%D8%A7%D8%A8",
+   "ts": 1793355063
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "حلم يتلاشى بمرور الزمن.. غلاء العقارات يحرم عراقيين من امتلاك منزل",
+   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%AD%D9%84%D9%85-%D9%8A%D8%AA%D9%84%D8%A7%D8%B4%D9%89-%D8%A8%D9%85%D8%B1%D9%88%D8%B1-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%BA%D9%84%D8%A7-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%AD%D8%B1%D9%85-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83-%D9%85%D9%86%D8%B2%D9%84",
+   "ts": 1793354779
+  },
+  {
+   "source": "المدى",
+   "title": "الزراعة تنفي ارتباط البيض المستورد بمخاطر صحية أو إنفلونزا الطيور",
+   "link": "https://almadapaper.net/458997/",
+   "ts": 1793354315
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "واشنطن تتهم إيران بـ\"استغلال الفصائل لسرقة موارد العراق\" وترفض دورها في استقراره",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AA%D9%87%D9%85-%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%80-%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D8%B5%D8%A7-%D9%84-%D9%84%D8%B3%D8%B1%D9%82%D8%A9-%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%B1%D9%81%D8%B6-%D8%AF%D9%88%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1%D9%87",
+   "ts": 1793353927
+  },
+  {
+   "source": "السومرية",
+   "title": "رونالدو يقترب من الـ1000 هدف",
+   "link": "https://www.alsumaria.tv/Entertainment-News/580155/sports/%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d9%801000-%d9%87%d8%af%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793353031
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "غاز الشمال يتطلع لمواصلة انتصاراته أمام أربيل في مواجهة مرتقبة بدوري النجوم",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%8A%D8%AA%D8%B7%D9%84%D8%B9-%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D9%85%D8%A7%D9%85-%D8%B1%D8%A8%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85",
+   "ts": 1793353013
+  },
+  {
+   "source": "السومرية",
+   "title": "حافلة تقل نحو 20 طفلا تصطدم بجدار منزل (صورة)",
+   "link": "https://www.alsumaria.tv/news/international/580154/%d8%ad%d8%a7%d9%81%d9%84%d8%a9-%d8%aa%d9%82%d9%84-%d9%86%d8%ad%d9%88-20-%d8%b7%d9%81%d9%84%d8%a7-%d8%aa%d8%b5%d8%b7%d8%af%d9%85-%d8%a8%d8%ac%d8%af%d8%a7%d8%b1-%d9%85%d9%86%d8%b2%d9%84-%d8%b5%d9%88%d8%b1%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793352647
+  },
   {
    "source": "شفق نيوز",
    "title": "\"اعتداءات جنسية\" على أطفال.. اتهامات لوالد زوجة الأمير هاري بكونه \"إبستين بريطانيا\"",
@@ -103,40 +145,16 @@
    "ts": 1793344263
   },
   {
-   "source": "شفق نيوز",
-   "title": "رويترز: عودة الوسطاء القطريين إلى طهران لاستئناف مفاوضات واشنطن وإيران",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D8%A7-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D9%8A%D9%86-%D9%84%D9%89-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%84%D8%A7%D8%B3%D8%AA-%D9%86%D8%A7%D9%81-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88-%D9%8A%D8%B1%D8%A7%D9%86",
-   "ts": 1793344023
-  },
-  {
    "source": "السومرية",
    "title": "اسبوع ممطر قادم",
    "link": "https://www.alsumaria.tv/news/localnews/580147/%d8%a7%d8%b3%d8%a8%d9%88%d8%b9-%d9%85%d9%85%d8%b7%d8%b1-%d9%82%d8%a7%d8%af%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793344000
   },
   {
-   "source": "شفق نيوز",
-   "title": "البعثة العراقية تصل إلى داكار استعداداً للمشاركة في أولمبياد الشباب",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D9%89-%D8%AF%D8%A7%D9%83%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
-   "ts": 1793343764
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اختراق أمني يكبد شركة بينانس 6.3 مليار دولار",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D9%8A-%D9%8A%D9%83%D8%A8%D8%AF-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%8A%D9%86%D8%A7%D9%86%D8%B3-6-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-   "ts": 1793342743
-  },
-  {
    "source": "المدى",
    "title": "ثلاث مواجهات تستكمل الجولة الـ12 من دوري نجوم العراق اليوم",
    "link": "https://almadapaper.net/458987/",
    "ts": 1793342098
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اليوم.. منتخب رواد العراق يستهل مشواره الخليجي بمواجهة عُمان",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%B1%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D9%87%D9%84-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D8%A8%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B9-%D9%85%D8%A7%D9%86",
-   "ts": 1793341914
   },
   {
    "source": "السومرية",
@@ -161,18 +179,6 @@
    "title": "دعوات للتحقيق باستخدام الحوثيين قذائف يشتبه باحتوائها مواد سامة محرمة دوليا",
    "link": "https://www.alsumaria.tv/news/international/580144/%d8%af%d8%b9%d9%88%d8%a7%d8%aa-%d9%84%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%8a%d9%86-%d9%82%d8%b0%d8%a7%d8%a6%d9%81-%d9%8a%d8%b4%d8%aa%d8%a8%d9%87-%d8%a8%d8%a7%d8%ad%d8%aa%d9%88%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793338534
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب يلغي تجمعاته في أيوا وكانساس ويحول الحملة الانتخابية إلى تجمعات هاتفية",
-   "link": "https://www.alsumaria.tv/news/international/580143/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%84%d8%ba%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9%d8%a7%d8%aa%d9%87-%d9%81%d9%8a-%d8%a3%d9%8a%d9%88%d8%a7-%d9%88%d9%83%d8%a7%d9%86%d8%b3%d8%a7%d8%b3-%d9%88%d9%8a%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793338180
-  },
-  {
-   "source": "السومرية",
-   "title": "دوي انفجار في محيط مضيق هرمز",
-   "link": "https://www.alsumaria.tv/news/international/580142/%d8%af%d9%88%d9%8a-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793313780
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "«النصر» يحذر من استغلال المناصب لمنح الشركات امتيازات حكومية",
    "link": "https://almadapaper.net/458966/",
    "ts": 1793292231
-  },
-  {
-   "source": "المدى",
-   "title": "نتنياهو يتصدر بلا أغلبية.. والمعارضة تتحرك لتشكيل الحكومة",
-   "link": "https://almadapaper.net/458963/",
-   "ts": 1793289710
   }
  ]
 }
