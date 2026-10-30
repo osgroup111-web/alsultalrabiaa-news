@@ -1,11 +1,47 @@
 {
- "updated": 1793374204,
+ "updated": 1793377306,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "‏دوري النجوم.. انتصار مثير للكرمة على دهوك",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D9%87%D9%88%D9%83",
+   "ts": 1793376599
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "السعودية.. اعتراض صاروخ ومسيّرة أطلقهما الحوثيون باتجاه منطقتي الرياض والجنوبية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%88%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D8%B7%D9%84%D9%82%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%85%D9%86%D8%B7%D9%82%D8%AA%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9",
+   "ts": 1793376503
+  },
+  {
+   "source": "السومرية",
+   "title": "موسيالا يغيب عن قمة بايرن ميونيخ ودورتموند",
+   "link": "https://www.alsumaria.tv/Entertainment-News/580176/sports/%d9%85%d9%88%d8%b3%d9%8a%d8%a7%d9%84%d8%a7-%d9%8a%d8%ba%d9%8a%d8%a8-%d8%b9%d9%86-%d9%82%d9%85%d8%a9-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae-%d9%88%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793375718
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الزيدي في الأنبار يوم الأحد",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1-%D9%8A%D9%88%D9%85-%D8%A7%D9%84-%D8%AD%D8%AF",
+   "ts": 1793374804
+  },
+  {
+   "source": "المدى",
+   "title": "إنفانتينو لأشبال العراق: أنتم مستقبل المنتخبات الوطنية",
+   "link": "https://almadapaper.net/459024/",
+   "ts": 1793374728
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"اغتراب خارج الجنة\".. كيف دمر الجفاف والنفط سكان أهوار العراق",
+   "link": "https://shafaq.com/ar/%D8%AA%D8%B1%D8%AC%D9%85%D8%A7%D8%AA/%D8%A7%D8%BA%D8%AA%D8%B1%D8%A7%D8%A8-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D9%83%D9%8A%D9%81-%D8%AF%D9%85%D8%B1-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D9%88%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B3%D9%83%D8%A7%D9%86-%D9%87%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1793374210
+  },
   {
    "source": "شفق نيوز",
    "title": "إغلاق شواطئ في الإمارات إثر تسرب نفطي من ناقلة مستهدفة",
@@ -109,12 +145,6 @@
    "ts": 1793366669
   },
   {
-   "source": "شفق نيوز",
-   "title": "توقعات بارتفاع متوسط سعر نفط برنت لأكثر من 90 دولاراً",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%B9%D8%B1-%D9%86%D9%81%D8%B7-%D8%A8%D8%B1%D9%86%D8%AA-%D9%84-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-90-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7",
-   "ts": 1793366645
-  },
-  {
    "source": "المدى",
    "title": "هل يختفي هور الحويزة تحت ضغط الجفاف والتوسع النفطي؟",
    "link": "https://almadapaper.net/459015/",
@@ -125,18 +155,6 @@
    "title": "رسمياً.. الكاف يقرر إقامة كأس أمم إفريقيا كل عامين",
    "link": "https://www.alsumaria.tv/Entertainment-News/580168/sports/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d8%a7%d9%84%d9%83%d8%a7%d9%81-%d9%8a%d9%82%d8%b1%d8%b1-%d8%a5%d9%82%d8%a7%d9%85%d8%a9-%d9%83%d8%a3%d8%b3-%d8%a3%d9%85%d9%85-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%83%d9%84-%d8%b9%d8%a7%d9%85%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793365624
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تعرف على توقيتات وملاعب مباريات ناشئين العراق في تصفيات كأس آسيا",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%82%D9%8A%D8%AA%D8%A7%D8%AA-%D9%88%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%86%D8%A7%D8%B4-%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA-%D9%83-%D8%B3-%D8%B3%D9%8A%D8%A7",
-   "ts": 1793365038
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تضم العشرات.. تفكيك شبكة للإتجار بالمخدرات في الديوانية",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AA%D8%B6%D9%85-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D9%8A%D8%A9",
-   "ts": 1793364829
   },
   {
    "source": "السومرية",
@@ -151,12 +169,6 @@
    "ts": 1793364342
   },
   {
-   "source": "شفق نيوز",
-   "title": "مصرع رجلين بحادثي دهس في بغداد",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B1%D8%AC%D9%84%D9%8A%D9%86-%D8%A8%D8%AD%D8%A7%D8%AF%D8%AB%D9%8A-%D8%AF%D9%87%D8%B3-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-   "ts": 1793364310
-  },
-  {
    "source": "المدى",
    "title": "النفط يقترب من 118 دولاراً للبرميل وسط مخاوف بشأن إمدادات مضيق هرمز",
    "link": "https://almadapaper.net/459013/",
@@ -167,12 +179,6 @@
    "title": "تظاهرة حاشدة في روما احتجاجاً على الإنفاق العسكري وارتفاع تكاليف المعيشة",
    "link": "https://www.alsumaria.tv/news/international/580165/%d8%aa%d8%b8%d8%a7%d9%87%d8%b1%d8%a9-%d8%ad%d8%a7%d8%b4%d8%af%d8%a9-%d9%81%d9%8a-%d8%b1%d9%88%d9%85%d8%a7-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793363271
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب من جديد: حرب ايران ستنتهي قريباً",
-   "link": "https://www.alsumaria.tv/news/international/580164/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%8a%d8%b1%d8%a7%d9%86-%d8%b3%d8%aa%d9%86%d8%aa%d9%87%d9%8a-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7%d9%8b?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793362287
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "الدفاع الروسية تسقط أكثر من 1000 طائرة مسيرة أوكرانية خلال ليلة واحدة",
    "link": "https://almadapaper.net/458998/",
    "ts": 1793352039
-  },
-  {
-   "source": "المدى",
-   "title": "نصب روافد الجسر النهري الثالث ضمن مشروع ربط الطابقين بالمعلّق في بغداد",
-   "link": "https://almadapaper.net/458994/",
-   "ts": 1793346780
   }
  ]
 }
