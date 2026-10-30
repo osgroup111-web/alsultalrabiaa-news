@@ -1,11 +1,35 @@
 {
- "updated": 1793388444,
+ "updated": 1793390978,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "إصابة سفينة بمقذوف مجهول قبالة إيران",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A8%D9%85%D9%82%D8%B0%D9%88%D9%81-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D9%8A%D8%B1%D8%A7%D9%86",
+   "ts": 1793390381
+  },
+  {
+   "source": "المدى",
+   "title": "الأنواء تحدد مناطق الأمطار خلال الساعات الـ24 المقبلة",
+   "link": "https://almadapaper.net/459042/",
+   "ts": 1793390084
+  },
+  {
+   "source": "السومرية",
+   "title": "الجيش الباكستاني: أطراف تسعى لعرقلة الوساطة بين إيران وأمريكا",
+   "link": "https://www.alsumaria.tv/news/international/580184/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a8%d8%a7%d9%83%d8%b3%d8%aa%d8%a7%d9%86%d9%8a-%d8%a3%d8%b7%d8%b1%d8%a7%d9%81-%d8%aa%d8%b3%d8%b9%d9%89-%d9%84%d8%b9%d8%b1%d9%82%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d8%a8%d9%8a%d9%86-%d8%a5%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793389629
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "طقس العراق.. أمطار خلال الـ24 ساعة المقبلة",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8024-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
+   "ts": 1793388838
+  },
   {
    "source": "السومرية",
    "title": "المركزية الأمريكية تنفي تدمير زورق أمريكي مسير في مضيق هرمز",
@@ -139,18 +163,6 @@
    "ts": 1793377675
   },
   {
-   "source": "شفق نيوز",
-   "title": "‏دوري النجوم.. انتصار مثير للكرمة على دهوك",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D9%87%D9%88%D9%83",
-   "ts": 1793376599
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "السعودية.. اعتراض صاروخ ومسيّرة أطلقهما الحوثيون باتجاه منطقتي الرياض والجنوبية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%88%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D8%B7%D9%84%D9%82%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%85%D9%86%D8%B7%D9%82%D8%AA%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9",
-   "ts": 1793376503
-  },
-  {
    "source": "السومرية",
    "title": "موسيالا يغيب عن قمة بايرن ميونيخ ودورتموند",
    "link": "https://www.alsumaria.tv/Entertainment-News/580176/sports/%d9%85%d9%88%d8%b3%d9%8a%d8%a7%d9%84%d8%a7-%d9%8a%d8%ba%d9%8a%d8%a8-%d8%b9%d9%86-%d9%82%d9%85%d8%a9-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae-%d9%88%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -187,12 +199,6 @@
    "ts": 1793372277
   },
   {
-   "source": "السومرية",
-   "title": "شرطة أربيل تعلن السيطرة على خلاف مسلح بين عائلتين في خبات",
-   "link": "https://www.alsumaria.tv/news/security/580172/%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a3%d8%b1%d8%a8%d9%8a%d9%84-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%ae%d9%84%d8%a7%d9%81-%d9%85%d8%b3%d9%84%d8%ad-%d8%a8%d9%8a%d9%86-%d8%b9%d8%a7%d8%a6%d9%84%d8%aa%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793370783
-  },
-  {
    "source": "المدى",
    "title": "باراك: «إسرائيل الكبرى» وهم والعراق قادر على جذب الاستثمارات",
    "link": "https://almadapaper.net/459018/",
@@ -203,12 +209,6 @@
    "title": "هل يختفي هور الحويزة تحت ضغط الجفاف والتوسع النفطي؟",
    "link": "https://almadapaper.net/459015/",
    "ts": 1793366221
-  },
-  {
-   "source": "المدى",
-   "title": "النفط يقترب من 118 دولاراً للبرميل وسط مخاوف بشأن إمدادات مضيق هرمز",
-   "link": "https://almadapaper.net/459013/",
-   "ts": 1793364036
   }
  ]
 }
