@@ -1,11 +1,41 @@
 {
- "updated": 1793377306,
+ "updated": 1793380359,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "القبض على أشخاص أثناء قيامهم بقطع أشجار معمرة في نينوى",
+   "link": "https://www.alsumaria.tv/news/localnews/580178/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a3%d8%ab%d9%86%d8%a7%d8%a1-%d9%82%d9%8a%d8%a7%d9%85%d9%87%d9%85-%d8%a8%d9%82%d8%b7%d8%b9-%d8%a3%d8%b4%d8%ac%d8%a7%d8%b1-%d9%85%d8%b9%d9%85%d8%b1%d8%a9-%d9%81%d9%8a-%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793380077
+  },
+  {
+   "source": "المدى",
+   "title": "هدف قاتل يعيد الكرمة إلى صدارة دوري نجوم العراق",
+   "link": "https://almadapaper.net/459030/",
+   "ts": 1793379456
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "دوري النجوم.. التعادل الايجابي ينهي لقاء الطلبة وكربلاء",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A-%D9%8A%D9%86%D9%87%D9%8A-%D9%84%D9%82%D8%A7-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D9%88%D9%83%D8%B1%D8%A8%D9%84%D8%A7",
+   "ts": 1793379173
+  },
+  {
+   "source": "المدى",
+   "title": "مليار دولار عجزاً تجارياً للعراق مع الأردن خلال ثمانية أشهر",
+   "link": "https://almadapaper.net/459027/",
+   "ts": 1793377807
+  },
+  {
+   "source": "السومرية",
+   "title": "ترمب يلغي تجمعات انتخابية في ولايتين ويستبدلها بفعاليات عبر الهاتف",
+   "link": "https://www.alsumaria.tv/news/international/580177/%d8%aa%d8%b1%d9%85%d8%a8-%d9%8a%d9%84%d8%ba%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d9%88%d9%84%d8%a7%d9%8a%d8%aa%d9%8a%d9%86-%d9%88%d9%8a%d8%b3%d8%aa%d8%a8%d8%af%d9%84%d9%87%d8%a7-%d8%a8%d9%81%d8%b9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793377675
+  },
   {
    "source": "شفق نيوز",
    "title": "‏دوري النجوم.. انتصار مثير للكرمة على دهوك",
@@ -133,12 +163,6 @@
    "ts": 1793368467
   },
   {
-   "source": "شفق نيوز",
-   "title": "البحرية العمانية تُجلي 25 فردا من سفينة مشتعلة قبالة سواحل مسندم",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA-%D8%AC%D9%84%D9%8A-25-%D9%81%D8%B1%D8%AF%D8%A7-%D9%85%D9%86-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D9%85%D8%B3%D9%86%D8%AF%D9%85",
-   "ts": 1793367065
-  },
-  {
    "source": "السومرية",
    "title": "فرنسا تعيد فرض حظر التجول الليلي في منطقتين وسط باريس",
    "link": "https://www.alsumaria.tv/news/international/580169/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b9%d9%8a%d8%af-%d9%81%d8%b1%d8%b6-%d8%ad%d8%b8%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d9%88%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%8a-%d9%81%d9%8a-%d9%85%d9%86%d8%b7%d9%82%d8%aa%d9%8a%d9%86-%d9%88%d8%b3%d8%b7-%d8%a8%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -163,22 +187,10 @@
    "ts": 1793364488
   },
   {
-   "source": "السومرية",
-   "title": "تفكيك شبكة للاتجار بالمخدرات والاطاحة بـ31 متهماً في الديوانية",
-   "link": "https://www.alsumaria.tv/news/security/580166/%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d8%b1-%d8%a8%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%ad%d8%a9-%d8%a8%d9%8031-%d9%85%d8%aa%d9%87%d9%85%d8%a7%d9%8b?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793364342
-  },
-  {
    "source": "المدى",
    "title": "النفط يقترب من 118 دولاراً للبرميل وسط مخاوف بشأن إمدادات مضيق هرمز",
    "link": "https://almadapaper.net/459013/",
    "ts": 1793364036
-  },
-  {
-   "source": "السومرية",
-   "title": "تظاهرة حاشدة في روما احتجاجاً على الإنفاق العسكري وارتفاع تكاليف المعيشة",
-   "link": "https://www.alsumaria.tv/news/international/580165/%d8%aa%d8%b8%d8%a7%d9%87%d8%b1%d8%a9-%d8%ad%d8%a7%d8%b4%d8%af%d8%a9-%d9%81%d9%8a-%d8%b1%d9%88%d9%85%d8%a7-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793363271
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "رونالدو يسجل أول هاتريك هذا الموسم ويقترب من الهدف الألف",
    "link": "https://almadapaper.net/459004/",
    "ts": 1793357628
-  },
-  {
-   "source": "المدى",
-   "title": "الزراعة تنفي ارتباط البيض المستورد بمخاطر صحية أو إنفلونزا الطيور",
-   "link": "https://almadapaper.net/458997/",
-   "ts": 1793354315
-  },
-  {
-   "source": "المدى",
-   "title": "الدفاع الروسية تسقط أكثر من 1000 طائرة مسيرة أوكرانية خلال ليلة واحدة",
-   "link": "https://almadapaper.net/458998/",
-   "ts": 1793352039
   }
  ]
 }
