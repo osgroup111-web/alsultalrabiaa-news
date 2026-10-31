@@ -1,10 +1,46 @@
 {
- "updated": 1793435197,
+ "updated": 1793437924,
  "sources": [
   "شفق نيوز",
   "السومرية"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "أسعار الذهب تهبط قليلاً بأسواق بغداد وأربيل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D9%87%D8%A8%D8%B7-%D9%82%D9%84%D9%8A%D9%84%D8%A7-%D8%A8-%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84",
+   "ts": 1793437747
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تهريب \"بونوبو\" مولود في العراق إلى الهند",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A8%D9%88%D9%86%D9%88%D8%A8%D9%88-%D9%85%D9%88%D9%84%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%89-%D8%A7%D9%84%D9%87%D9%86%D8%AF",
+   "ts": 1793436732
+  },
+  {
+   "source": "السومرية",
+   "title": "التربية تعلن جدول الامتحانات المهنية العامة للدور الثالث",
+   "link": "https://www.alsumaria.tv/news/localnews/580202/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%ac%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d8%af%d9%88%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793436439
+  },
+  {
+   "source": "السومرية",
+   "title": "هل ستقترض الحكومة 16 تريليون دينار لسد عجز الموازنة؟",
+   "link": "https://www.alsumaria.tv/news/politics/580201/%d9%87%d9%84-%d8%b3%d8%aa%d9%82%d8%aa%d8%b1%d8%b6-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-16-%d8%aa%d8%b1%d9%8a%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%8a%d9%86%d8%a7%d8%b1-%d9%84%d8%b3%d8%af-%d8%b9%d8%ac%d8%b2-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b2%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793436301
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "من العبوات إلى القتل والغرق.. حصيلة أحداث أمنية شهدتها 4 محافظات عراقية",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D9%88%D8%A7%D8%AA-%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D9%82-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D9%8A%D8%A9-%D8%B4%D9%87%D8%AF%D8%AA%D9%87%D8%A7-4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+   "ts": 1793435838
+  },
+  {
+   "source": "السومرية",
+   "title": "بين البيع والشراء 1000 دينار .. اسعار الدولار استقرت عند هذا الحد",
+   "link": "https://www.alsumaria.tv/news/economy/580200/%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d9%8a%d8%b9-%d9%88%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-1000-%d8%af%d9%8a%d9%86%d8%a7%d8%b1-%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%a7%d8%b3%d8%aa%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793435106
+  },
   {
    "source": "شفق نيوز",
    "title": "إعمار شامل لـ\"الحبانية السياحية\".. فندق و377 شاليهاً ومدينة سفاري حتى 2027",
@@ -108,46 +144,10 @@
    "ts": 1793426943
   },
   {
-   "source": "السومرية",
-   "title": "فرنسا تستعد ليوم مضطرب.. وأقنعة الهالوين تثير القلق",
-   "link": "https://www.alsumaria.tv/news/international/580191/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%8a%d9%88%d9%85-%d9%85%d8%b6%d8%b7%d8%b1%d8%a8-%d9%88%d8%a3%d9%82%d9%86%d8%b9%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%84%d9%88%d9%8a%d9%86-%d8%aa%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d9%82%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793425872
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب يتهم ملياردير بدفع أموال للاحتجاج ضده",
-   "link": "https://www.alsumaria.tv/news/international/580190/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%aa%d9%87%d9%85-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%af%d9%8a%d8%b1-%d8%a8%d8%af%d9%81%d8%b9-%d8%a3%d9%85%d9%88%d8%a7%d9%84-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac-%d8%b6%d8%af%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793425735
-  },
-  {
    "source": "شفق نيوز",
    "title": "العراق يلتقي الكويت في خليجي القدامى لتعزيز صدارته للمجموعة الأولى",
    "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D9%82%D8%AF%D8%A7%D9%85%D9%89-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87-%D9%84%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84-%D9%88%D9%84%D9%89",
    "ts": 1793425516
-  },
-  {
-   "source": "السومرية",
-   "title": "البنتاغون يكشف عن حجم أضرار القواعد بالشرق الأوسط",
-   "link": "https://www.alsumaria.tv/news/international/580189/%d8%a7%d9%84%d8%a8%d9%86%d8%aa%d8%a7%d8%ba%d9%88%d9%86-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%ad%d8%ac%d9%85-%d8%a3%d8%b6%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%a3%d9%88%d8%b3%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793424737
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عراقجي يلوح برد عسكري مدمر: لا خطوط حمراء بعد اليوم",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%8A%D9%84%D9%88%D8%AD-%D8%A8%D8%B1%D8%AF-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%85%D8%AF%D9%85%D8%B1-%D9%84%D8%A7-%D8%AE%D8%B7%D9%88%D8%B7-%D8%AD%D9%85%D8%B1%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-   "ts": 1793424734
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اليوم.. أربع مواجهات تختتم الجولة 12 من دوري نجوم العراق",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B1%D8%A8%D8%B9-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-12-%D9%85%D9%86-%D8%AF%D9%88%D8%B1%D9%8A-%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1793424098
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "أكسيوس: طلبان متناقضان يعرقلان محادثات أميركا وإيران لإنهاء الحرب",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%83%D8%B3%D9%8A%D9%88%D8%B3-%D8%B7%D9%84%D8%A8%D8%A7%D9%86-%D9%85%D8%AA%D9%86%D8%A7%D9%82%D8%B6%D8%A7%D9%86-%D9%8A%D8%B9%D8%B1%D9%82%D9%84%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88-%D9%8A%D8%B1%D8%A7%D9%86-%D9%84-%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
-   "ts": 1793423592
   }
  ]
 }
