@@ -1,11 +1,47 @@
 {
- "updated": 1793425735,
+ "updated": 1793428541,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "خام البصرة ينهي الأسبوع على خسارة طفيفة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AE%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%8A%D9%86%D9%87%D9%8A-%D8%A7%D9%84-%D8%B3%D8%A8%D9%88%D8%B9-%D8%B9%D9%84%D9%89-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%B7%D9%81%D9%8A%D9%81%D8%A9",
+   "ts": 1793427847
+  },
+  {
+   "source": "السومرية",
+   "title": "تركيا ترشح وزير خارجيتها السابق لخلافة غوتيريش",
+   "link": "https://www.alsumaria.tv/news/international/580192/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%aa%d8%b1%d8%b4%d8%ad-%d9%88%d8%b2%d9%8a%d8%b1-%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82-%d9%84%d8%ae%d9%84%d8%a7%d9%81%d8%a9-%d8%ba%d9%88%d8%aa%d9%8a%d8%b1%d9%8a%d8%b4?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793427579
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "فرنسا تستنفر 70 ألف شرطي تحسباً لاضطرابات جديدة اليوم",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-70-%D9%84%D9%81-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7-%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+   "ts": 1793426943
+  },
+  {
+   "source": "المدى",
+   "title": "الأنواء الجوية تتوقع أمطاراً خفيفة وتغيرات في درجات الحرارة",
+   "link": "https://almadapaper.net/459048/",
+   "ts": 1793426554
+  },
+  {
+   "source": "السومرية",
+   "title": "فرنسا تستعد ليوم مضطرب.. وأقنعة الهالوين تثير القلق",
+   "link": "https://www.alsumaria.tv/news/international/580191/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%8a%d9%88%d9%85-%d9%85%d8%b6%d8%b7%d8%b1%d8%a8-%d9%88%d8%a3%d9%82%d9%86%d8%b9%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%84%d9%88%d9%8a%d9%86-%d8%aa%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d9%82%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793425872
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب يتهم ملياردير بدفع أموال للاحتجاج ضده",
+   "link": "https://www.alsumaria.tv/news/international/580190/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%aa%d9%87%d9%85-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%af%d9%8a%d8%b1-%d8%a8%d8%af%d9%81%d8%b9-%d8%a3%d9%85%d9%88%d8%a7%d9%84-%d9%84%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac-%d8%b6%d8%af%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793425735
+  },
   {
    "source": "شفق نيوز",
    "title": "العراق يلتقي الكويت في خليجي القدامى لتعزيز صدارته للمجموعة الأولى",
@@ -109,22 +145,10 @@
    "ts": 1793389629
   },
   {
-   "source": "شفق نيوز",
-   "title": "طقس العراق.. أمطار خلال الـ24 ساعة المقبلة",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8024-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
-   "ts": 1793388838
-  },
-  {
    "source": "السومرية",
    "title": "المركزية الأمريكية تنفي تدمير زورق أمريكي مسير في مضيق هرمز",
    "link": "https://www.alsumaria.tv/news/international/580183/%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d9%86%d9%81%d9%8a-%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d8%b2%d9%88%d8%b1%d9%82-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%85%d8%b3%d9%8a%d8%b1-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793387753
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اليمن.. الحوثيون يقصفون مطار عدن وقصر المعاشيق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D9%82%D8%B5%D9%81%D9%88%D9%86-%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D8%AF%D9%86-%D9%88%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B4%D9%8A%D9%82",
-   "ts": 1793387110
   },
   {
    "source": "المدى",
@@ -151,28 +175,10 @@
    "ts": 1793383485
   },
   {
-   "source": "السومرية",
-   "title": "قبل أن تتخلص منها.. أجزاء من الفواكه والخضروات قد تفيد صحتك والكوكب",
-   "link": "https://www.alsumaria.tv/news/miscellaneous/580180/%d9%82%d8%a8%d9%84-%d8%a3%d9%86-%d8%aa%d8%aa%d8%ae%d9%84%d8%b5-%d9%85%d9%86%d9%87%d8%a7-%d8%a3%d8%ac%d8%b2%d8%a7%d8%a1-%d9%85%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%a7%d9%83%d9%87-%d9%88%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d9%88%d8%a7%d8%aa-%d9%82%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793383099
-  },
-  {
    "source": "المدى",
    "title": "الأمن الوطني يفكك شبكة مخدرات ويعتقل 31 متهماً",
    "link": "https://almadapaper.net/459033/",
    "ts": 1793382269
-  },
-  {
-   "source": "السومرية",
-   "title": "بابل.. ضبط 3 كغم من الكريستال والاطاحة بمتهمين اثنين",
-   "link": "https://www.alsumaria.tv/news/localnews/580179/%d8%a8%d8%a7%d8%a8%d9%84-%d8%b6%d8%a8%d8%b7-3-%d9%83%d8%ba%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d9%88%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%ad%d8%a9-%d8%a8%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a7%d8%ab%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793380644
-  },
-  {
-   "source": "السومرية",
-   "title": "القبض على أشخاص أثناء قيامهم بقطع أشجار معمرة في نينوى",
-   "link": "https://www.alsumaria.tv/news/localnews/580178/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a3%d8%ab%d9%86%d8%a7%d8%a1-%d9%82%d9%8a%d8%a7%d9%85%d9%87%d9%85-%d8%a8%d9%82%d8%b7%d8%b9-%d8%a3%d8%b4%d8%ac%d8%a7%d8%b1-%d9%85%d8%b9%d9%85%d8%b1%d8%a9-%d9%81%d9%8a-%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793380077
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "باراك: «إسرائيل الكبرى» وهم والعراق قادر على جذب الاستثمارات",
    "link": "https://almadapaper.net/459018/",
    "ts": 1793369029
-  },
-  {
-   "source": "المدى",
-   "title": "هل يختفي هور الحويزة تحت ضغط الجفاف والتوسع النفطي؟",
-   "link": "https://almadapaper.net/459015/",
-   "ts": 1793366221
   }
  ]
 }
