@@ -1,11 +1,23 @@
 {
- "updated": 1793483410,
+ "updated": 1793485580,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "الشرطة البريطانية تعتقل 139 شخصا باحتجاج أمام السفارة الأمريكية",
+   "link": "https://www.alsumaria.tv/news/international/580249/%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d9%82%d9%84-139-%d8%b4%d8%ae%d8%b5%d8%a7-%d8%a8%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793485500
+  },
+  {
+   "source": "السومرية",
+   "title": "بعد فوزها بـ19 مقعدا.. الأحزاب العربية تستعد للإطاحة بنتنياهو",
+   "link": "https://www.alsumaria.tv/news/international/580248/%d8%a8%d8%b9%d8%af-%d9%81%d9%88%d8%b2%d9%87%d8%a7-%d8%a8%d9%8019-%d9%85%d9%82%d8%b9%d8%af%d8%a7-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d8%a5%d8%b7%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793483400
+  },
   {
    "source": "السومرية",
    "title": "اعتقال متهم بجريمة قتل في بغداد",
@@ -197,18 +209,6 @@
    "title": "واشنطن: ترامب لم يتخذ قرارا بشأن تنفيذ عمل عسكري ضد إيران",
    "link": "https://www.alsumaria.tv/news/international/580238/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%84%d9%85-%d9%8a%d8%aa%d8%ae%d8%b0-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7-%d8%a8%d8%b4%d8%a3%d9%86-%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%b9%d9%85%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793468100
-  },
-  {
-   "source": "السومرية",
-   "title": "الكشف عن طبيعة أضرار القواعد الأمريكية بسبب الحرب الأخيرة",
-   "link": "https://www.alsumaria.tv/news/international/580237/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b7%d8%a8%d9%8a%d8%b9%d8%a9-%d8%a3%d8%b6%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793467200
-  },
-  {
-   "source": "السومرية",
-   "title": "آسياسيل تتسلّم خمس جوائز ستيفي® خلال حفل باريس، بينها جائزتان ذهبيتان تقديراً لابتكاراتها في مجال الذكاء الاصطناعي",
-   "link": "https://www.alsumaria.tv/news/technology/580236/%d8%a2%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%84-%d8%aa%d8%aa%d8%b3%d9%84%d9%91%d9%85-%d8%ae%d9%85%d8%b3-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%b3%d8%aa%d9%8a%d9%81%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%ad%d9%81%d9%84-%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3%d8%8c-%d8%a8%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793466722
   }
  ]
 }
