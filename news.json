@@ -1,16 +1,63 @@
 {
- "updated": 1793432129,
+ "updated": 1793435197,
  "sources": [
   "شفق نيوز",
-  "السومرية",
-  "المدى"
+  "السومرية"
  ],
  "items": [
   {
-   "source": "المدى",
-   "title": "طهران تتوعد مهاجميها برد مدمر وعراقجي يؤكد غياب الخطوط الحمراء",
-   "link": "https://almadapaper.net/459055/",
-   "ts": 1793431632
+   "source": "شفق نيوز",
+   "title": "إعمار شامل لـ\"الحبانية السياحية\".. فندق و377 شاليهاً ومدينة سفاري حتى 2027",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B9%D9%85%D8%A7%D8%B1-%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%80-%D8%A7%D9%84%D8%AD%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9-%D9%81%D9%86%D8%AF%D9%82-%D9%88377-%D8%B4%D8%A7%D9%84%D9%8A%D9%87%D8%A7-%D9%88%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B3%D9%81%D8%A7%D8%B1%D9%8A-%D8%AD%D8%AA%D9%89-2027",
+   "ts": 1793434501
+  },
+  {
+   "source": "السومرية",
+   "title": "القبض على \"الشطري\" بتهمة انتحال صفة مدير مكتب وزير الداخلية",
+   "link": "https://www.alsumaria.tv/news/security/580199/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-quot%d8%a7%d9%84%d8%b4%d8%b7%d8%b1%d9%8aquot-%d8%a8%d8%aa%d9%87%d9%85%d8%a9-%d8%a7%d9%86%d8%aa%d8%ad%d8%a7%d9%84-%d8%b5%d9%81%d8%a9-%d9%85%d8%af%d9%8a%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793434248
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الطاقة والنفوذ.. العراق يواجه مقايضة بالغة الصعوبة بين واشنطن وطهران",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D9%82%D8%A7%D9%8A%D8%B6%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B5%D8%B9%D9%88%D8%A8%D8%A9-%D8%A8%D9%8A%D9%86-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+   "ts": 1793433659
+  },
+  {
+   "source": "السومرية",
+   "title": "في عصر الذكاء الاصطناعي... إل جي إلكترونيكس تعيد تعريف مفهوم الراحة الذهنية من خلال حملتها العالمية \"Life’s Good\" لعام 2026",
+   "link": "https://www.alsumaria.tv/news/technology/580035/%d9%81%d9%8a-%d8%b9%d8%b5%d8%b1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%a5%d9%84-%d8%ac%d9%8a-%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%83%d8%b3-%d8%aa%d8%b9%d9%8a%d8%af-%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793433600
+  },
+  {
+   "source": "السومرية",
+   "title": "البرلمان يتحرك نحو العقود والاجراء",
+   "link": "https://www.alsumaria.tv/news/localnews/580198/%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d9%8a%d8%aa%d8%ad%d8%b1%d9%83-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%af-%d9%88%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793433512
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تراجع طفيف في بغداد واستقرار بأربيل.. أسعار الدولار في افتتاح تداولات الأسبوع",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B7%D9%81%D9%8A%D9%81-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8-%D8%B1%D8%A8%D9%8A%D9%84-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84-%D8%B3%D8%A8%D9%88%D8%B9",
+   "ts": 1793433116
+  },
+  {
+   "source": "السومرية",
+   "title": "واشنطن تدرس نقل القواعد العسكرية إلى مناطق أبعد عن متناول إيران",
+   "link": "https://www.alsumaria.tv/news/international/580197/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%af%d8%b1%d8%b3-%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a3%d8%a8%d8%b9%d8%af-%d8%b9%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793432549
+  },
+  {
+   "source": "السومرية",
+   "title": "من فخّ الاستدراج إلى سقوطه.. 34 كغم مخدرات تُنهي نشاط أحد المتاجرين بالأنبار",
+   "link": "https://www.alsumaria.tv/news/security/580196/%d9%85%d9%86-%d9%81%d8%ae%d9%91-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%af%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%b3%d9%82%d9%88%d8%b7%d9%87-34-%d9%83%d8%ba%d9%85-%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%aa%d9%8f%d9%86%d9%87%d9%8a-%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793432401
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "انخفاض واردات العراق من الإمارات بنسبة 25% خلال النصف الأول من 2026",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-25-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%B5%D9%81-%D8%A7%D9%84-%D9%88%D9%84-%D9%85%D9%86-2026",
+   "ts": 1793432296
   },
   {
    "source": "السومرية",
@@ -37,12 +84,6 @@
    "ts": 1793429240
   },
   {
-   "source": "المدى",
-   "title": "70 ألف شرطي لتأمين فرنسا مع تصاعد الاحتجاجات على الأوضاع المعيشية",
-   "link": "https://almadapaper.net/459052/",
-   "ts": 1793428965
-  },
-  {
    "source": "شفق نيوز",
    "title": "التحالف السعودي يعلن اعتراض مسيّرة في أجواء الرياض",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D9%81%D9%8A-%D8%AC%D9%88%D8%A7-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
@@ -65,12 +106,6 @@
    "title": "فرنسا تستنفر 70 ألف شرطي تحسباً لاضطرابات جديدة اليوم",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-70-%D9%84%D9%81-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7-%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
    "ts": 1793426943
-  },
-  {
-   "source": "المدى",
-   "title": "الأنواء الجوية تتوقع أمطاراً خفيفة وتغيرات في درجات الحرارة",
-   "link": "https://almadapaper.net/459048/",
-   "ts": 1793426554
   },
   {
    "source": "السومرية",
@@ -113,102 +148,6 @@
    "title": "أكسيوس: طلبان متناقضان يعرقلان محادثات أميركا وإيران لإنهاء الحرب",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%83%D8%B3%D9%8A%D9%88%D8%B3-%D8%B7%D9%84%D8%A8%D8%A7%D9%86-%D9%85%D8%AA%D9%86%D8%A7%D9%82%D8%B6%D8%A7%D9%86-%D9%8A%D8%B9%D8%B1%D9%82%D9%84%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88-%D9%8A%D8%B1%D8%A7%D9%86-%D9%84-%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
    "ts": 1793423592
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "وول ستريت: أضرار القواعد الأميركية خلال حرب إيران تقدر بـ 5 مليارات دولار",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%AD%D8%B1%D8%A8-%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%82%D8%AF%D8%B1-%D8%A8%D9%80-5-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-   "ts": 1793422659
-  },
-  {
-   "source": "السومرية",
-   "title": "وزير الصحة: أهمية تعزيز الشراكات الدولية وتطوير الخدمات الصحية",
-   "link": "https://www.alsumaria.tv/news/localnews/580188/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a3%d9%87%d9%85%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793395471
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق.. اختناق منتسب بالكلور وضبط كريستال ومحتالين والعثور على رضيع قرب مزار",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D9%86%D8%A7%D9%82-%D9%85%D9%86%D8%AA%D8%B3%D8%A8-%D8%A8%D8%A7%D9%84%D9%83%D9%84%D9%88%D8%B1-%D9%88%D8%B6%D8%A8%D8%B7-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D9%88%D9%85%D8%AD%D8%AA%D8%A7%D9%84%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B1%D8%B6%D9%8A%D8%B9-%D9%82%D8%B1%D8%A8-%D9%85%D8%B2%D8%A7%D8%B1",
-   "ts": 1793394219
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "خاص من \"المحور\".. سيناريوهات انخراط فصائل العراق بحرب إيران المحتملة",
-   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%AE%D8%A7%D8%B5-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D9%88%D8%B1-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%86%D8%AE%D8%B1%D8%A7%D8%B7-%D9%81%D8%B5%D8%A7-%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AD%D8%B1%D8%A8-%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%85%D9%84%D8%A9",
-   "ts": 1793392876
-  },
-  {
-   "source": "السومرية",
-   "title": "وزير الداخلية يوجه بمنع نقل الضباط والمنتسبين من التشكيلات القتالية بكافة صنوفها",
-   "link": "https://www.alsumaria.tv/news/localnews/580187/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%8a%d9%88%d8%ac%d9%87-%d8%a8%d9%85%d9%86%d8%b9-%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%b6%d8%a8%d8%a7%d8%b7-%d9%88%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b3%d8%a8%d9%8a%d9%86-%d9%85%d9%86-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793392862
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب: المحادثات جارية مع إيران والحرب معها ليست تقليدية",
-   "link": "https://www.alsumaria.tv/news/international/580186/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa-%d8%ac%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d9%85%d8%b9%d9%87%d8%a7-%d9%84%d9%8a%d8%b3%d8%aa-%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793392259
-  },
-  {
-   "source": "السومرية",
-   "title": "8 وفيات و4 مفقودين وعمليات الإنقاذ مستمرة في سوريا جراء الفيضانات",
-   "link": "https://www.alsumaria.tv/news/international/580185/8-%d9%88%d9%81%d9%8a%d8%a7%d8%aa-%d9%884-%d9%85%d9%81%d9%82%d9%88%d8%af%d9%8a%d9%86-%d9%88%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d9%82%d8%a7%d8%b0-%d9%85%d8%b3%d8%aa%d9%85%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793391496
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ترمب: المحادثات مستمرة مع إيران ولدينا متسع من الوقت",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D9%85%D8%B9-%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%84%D8%AF%D9%8A%D9%86%D8%A7-%D9%85%D8%AA%D8%B3%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%82%D8%AA",
-   "ts": 1793391344
-  },
-  {
-   "source": "المدى",
-   "title": "الأنواء تحدد مناطق الأمطار خلال الساعات الـ24 المقبلة",
-   "link": "https://almadapaper.net/459042/",
-   "ts": 1793390084
-  },
-  {
-   "source": "السومرية",
-   "title": "الجيش الباكستاني: أطراف تسعى لعرقلة الوساطة بين إيران وأمريكا",
-   "link": "https://www.alsumaria.tv/news/international/580184/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a8%d8%a7%d9%83%d8%b3%d8%aa%d8%a7%d9%86%d9%8a-%d8%a3%d8%b7%d8%b1%d8%a7%d9%81-%d8%aa%d8%b3%d8%b9%d9%89-%d9%84%d8%b9%d8%b1%d9%82%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d8%a8%d9%8a%d9%86-%d8%a5%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793389629
-  },
-  {
-   "source": "المدى",
-   "title": "100 لتر لكل عائلة.. النفط تطلق الحصة الشتوية",
-   "link": "https://almadapaper.net/459039/",
-   "ts": 1793386383
-  },
-  {
-   "source": "المدى",
-   "title": "احتجاجات السبت تقلق فرنسا.. تحذيرات من عنف ونهب واسع!",
-   "link": "https://almadapaper.net/459036/",
-   "ts": 1793383485
-  },
-  {
-   "source": "المدى",
-   "title": "الأمن الوطني يفكك شبكة مخدرات ويعتقل 31 متهماً",
-   "link": "https://almadapaper.net/459033/",
-   "ts": 1793382269
-  },
-  {
-   "source": "المدى",
-   "title": "هدف قاتل يعيد الكرمة إلى صدارة دوري نجوم العراق",
-   "link": "https://almadapaper.net/459030/",
-   "ts": 1793379456
-  },
-  {
-   "source": "المدى",
-   "title": "مليار دولار عجزاً تجارياً للعراق مع الأردن خلال ثمانية أشهر",
-   "link": "https://almadapaper.net/459027/",
-   "ts": 1793377807
-  },
-  {
-   "source": "المدى",
-   "title": "إنفانتينو لأشبال العراق: أنتم مستقبل المنتخبات الوطنية",
-   "link": "https://almadapaper.net/459024/",
-   "ts": 1793374728
   }
  ]
 }
