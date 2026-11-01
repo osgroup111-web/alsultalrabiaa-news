@@ -1,11 +1,29 @@
 {
- "updated": 1793561840,
+ "updated": 1793563968,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "المزاول الفلكية تعود لمساجد المدينة القديمة.. شمس الموصل تضبط عقارب التاريخ (صور)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D9%81%D9%84%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B9%D9%82%D8%A7%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B5%D9%88%D8%B1",
+   "ts": 1793563585
+  },
+  {
+   "source": "المدى",
+   "title": "تسعيرة المولدات تفجّر احتجاجات ليلية ومواجهات في كركوك",
+   "link": "https://almadapaper.net/459311/",
+   "ts": 1793562334
+  },
+  {
+   "source": "السومرية",
+   "title": "بعد مكالمة بشأن إيران.. تقرير يكشف خلاف ترامب ونتنياهو",
+   "link": "https://www.alsumaria.tv/news/international/580319/%d8%a8%d8%b9%d8%af-%d9%85%d9%83%d8%a7%d9%84%d9%85%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d8%ae%d9%84%d8%a7%d9%81-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%88%d9%86%d8%aa%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793562300
+  },
   {
    "source": "المدى",
    "title": "مكافآت ملغاة ومسافات أوسع.. سائقو «بلي» يحتجون في بغداد",
@@ -139,12 +157,6 @@
    "ts": 1793554261
   },
   {
-   "source": "شفق نيوز",
-   "title": "كربلاء.. بلاغ غريب يستنفر الدفاع المدني لمطاردة قرد (فيديو)",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%83%D8%B1%D8%A8%D9%84%D8%A7-%D8%A8%D9%84%D8%A7%D8%BA-%D8%BA%D8%B1%D9%8A%D8%A8-%D9%8A%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%AF%D8%A9-%D9%82%D8%B1%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1793553970
-  },
-  {
    "source": "السومرية",
    "title": "ريال مدريد يهزم راسينغ سانتاندير بثلاثية نظيفة",
    "link": "https://www.alsumaria.tv/Entertainment-News/580310/sports/%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%8a%d9%87%d8%b2%d9%85-%d8%b1%d8%a7%d8%b3%d9%8a%d9%86%d8%ba-%d8%b3%d8%a7%d9%86%d8%aa%d8%a7%d9%86%d8%af%d9%8a%d8%b1-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-%d9%86%d8%b8%d9%8a%d9%81%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -167,12 +179,6 @@
    "title": "نتنياهو يرفض تشكيل حكومة وحدة ويتجه لانتخابات جديدة",
    "link": "https://www.alsumaria.tv/news/international/580308/%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%8a%d8%b1%d9%81%d8%b6-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%88%d8%ad%d8%af%d8%a9-%d9%88%d9%8a%d8%aa%d8%ac%d9%87-%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793552408
-  },
-  {
-   "source": "السومرية",
-   "title": "بالصور.. احد شوارع بغداد في حلة جديدة",
-   "link": "https://www.alsumaria.tv/news/localnews/580307/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d8%a7%d8%ad%d8%af-%d8%b4%d9%88%d8%a7%d8%b1%d8%b9-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%81%d9%8a-%d8%ad%d9%84%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793551611
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "مفاوضات الدوحة تتقدم وسط تهديدات بعودة الحرب على إيران",
    "link": "https://almadapaper.net/459286/",
    "ts": 1793541459
-  },
-  {
-   "source": "المدى",
-   "title": "صفقات بأربع دول.. هل ينجح العراق في تحصين أجوائه؟",
-   "link": "https://almadapaper.net/459283/",
-   "ts": 1793539528
   }
  ]
 }
