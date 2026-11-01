@@ -1,11 +1,71 @@
 {
- "updated": 1793537072,
+ "updated": 1793539957,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "عراقجي: مفاوضات الدوحة تشهد تقدماً والنتيجة النهائية مرهونة برد الطرف المقابل",
+   "link": "https://www.alsumaria.tv/news/international/580287/%d8%b9%d8%b1%d8%a7%d9%82%d8%ac%d9%8a-%d9%85%d9%81%d8%a7%d9%88%d8%b6%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9-%d8%aa%d8%b4%d9%87%d8%af-%d8%aa%d9%82%d8%af%d9%85%d8%a7%d9%8b-%d9%88%d8%a7%d9%84%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793539817
+  },
+  {
+   "source": "السومرية",
+   "title": "‏بالوثيقة.. وزير العدل يعفي مدير عام السجون",
+   "link": "https://www.alsumaria.tv/news/localnews/580286/%d8%a8%d8%a7%d9%84%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d9%8a%d8%b9%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d8%b1-%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d8%ac%d9%88%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793539585
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "عراقجي: المفاوضات تشهد تقدماً والنتيجة النهائية مرهونة برد الطرف المقابل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AA%D8%B4%D9%87%D8%AF-%D8%AA%D9%82%D8%AF%D9%85%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7-%D9%8A%D8%A9-%D9%85%D8%B1%D9%87%D9%88%D9%86%D8%A9-%D8%A8%D8%B1%D8%AF-%D8%A7%D9%84%D8%B7%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%A8%D9%84",
+   "ts": 1793539559
+  },
+  {
+   "source": "المدى",
+   "title": "صفقات بأربع دول.. هل ينجح العراق في تحصين أجوائه؟",
+   "link": "https://almadapaper.net/459283/",
+   "ts": 1793539528
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تلامس الـ169 ألفاً.. ارتفاع أسعار الدولار في بغداد وأربيل عند الإغلاق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AA%D9%84%D8%A7%D9%85%D8%B3-%D8%A7%D9%84%D9%80169-%D9%84%D9%81%D8%A7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84-%D8%BA%D9%84%D8%A7%D9%82",
+   "ts": 1793539330
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "العراق ودول أوبك+ يثبتون حصص إنتاج النفط للشهر المقبل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AF%D9%88%D9%84-%D9%88%D8%A8%D9%83-%D9%8A%D8%AB%D8%A8%D8%AA%D9%88%D9%86-%D8%AD%D8%B5%D8%B5-%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%84%D9%84%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+   "ts": 1793539032
+  },
+  {
+   "source": "السومرية",
+   "title": "العدل تنجز أكثر من 75% من قاعدة بيانات مالكي العقارات ضمن مبادرة \"وطن\"",
+   "link": "https://www.alsumaria.tv/news/localnews/580285/%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d8%aa%d9%86%d8%ac%d8%b2-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-75-%d9%85%d9%86-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%83%d9%8a-%d8%a7%d9%84%d8%b9%d9%82%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793538463
+  },
+  {
+   "source": "السومرية",
+   "title": "أوبك+ يجمّد زيادات الإنتاج في كانون الاول.. والأسواق تترقب قرار 2027",
+   "link": "https://www.alsumaria.tv/news/economy/580284/%d8%a3%d9%88%d8%a8%d9%83-%d9%8a%d8%ac%d9%85%d9%91%d8%af-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%81%d9%8a-%d9%83%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%88%d8%a7%d9%84%d8%a3%d8%b3%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793538067
+  },
+  {
+   "source": "السومرية",
+   "title": "مفاوضات الدوحة في يومها الثالث.. هل تنجح الوساطة قبل عودة المواجهة؟",
+   "link": "https://www.alsumaria.tv/news/international/580283/%d9%85%d9%81%d8%a7%d9%88%d8%b6%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9-%d9%81%d9%8a-%d9%8a%d9%88%d9%85%d9%87%d8%a7-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d9%87%d9%84-%d8%aa%d9%86%d8%ac%d8%ad-%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793537572
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "حل بالمركز 12.. عراقي يودع منافسات التجديف في أولمبياد داكار",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AD%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-12-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%88%D8%AF%D8%B9-%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D9%81-%D9%81%D9%8A-%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%AF%D8%A7%D9%83%D8%A7%D8%B1",
+   "ts": 1793537320
+  },
   {
    "source": "السومرية",
    "title": "تصعيد ميداني في اليمن.. الحوثيون يتقدمون في لحج والقوات الحكومية تتراجع وترفض القتال",
@@ -121,46 +181,10 @@
    "ts": 1793530497
   },
   {
-   "source": "شفق نيوز",
-   "title": "إيران.. حمّام كرناسيون التاريخي يتحول إلى متحف للحياة الشعبية (صور)",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AD%D9%85-%D8%A7%D9%85-%D9%83%D8%B1%D9%86%D8%A7%D8%B3%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D9%84%D9%89-%D9%85%D8%AA%D8%AD%D9%81-%D9%84%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D8%B5%D9%88%D8%B1",
-   "ts": 1793530297
-  },
-  {
    "source": "المدى",
    "title": "8 مليارات للشرب و7.5 مليارات تتبخر.. الموارد تكشف حجم الاستهلاك المائي!",
    "link": "https://almadapaper.net/459254/",
    "ts": 1793530229
-  },
-  {
-   "source": "السومرية",
-   "title": "اعتقال \"حياوي\" في الزعفرانية.. دكات عشائرية مأجورة واتهامات بـ\"النهوة\"",
-   "link": "https://www.alsumaria.tv/news/security/580275/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-quot%d8%ad%d9%8a%d8%a7%d9%88%d9%8aquot-%d9%81%d9%8a-%d8%a7%d9%84%d8%b2%d8%b9%d9%81%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%af%d9%83%d8%a7%d8%aa-%d8%b9%d8%b4%d8%a7%d8%a6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793530156
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بغداد.. الإطاحة بـ\"حياوي\" و10 من تجار ومروجي المخدرات",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84-%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D9%80-%D8%AD%D9%8A%D8%A7%D9%88%D9%8A-%D9%8810-%D9%85%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1-%D9%88%D9%85%D8%B1%D9%88%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA",
-   "ts": 1793529577
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "البنك المركزي ينفي لشفق نيوز رفع حصة الدولار للمسافرين إلى 3500 دولار",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D9%84%D8%B4%D9%81%D9%82-%D9%86%D9%8A%D9%88%D8%B2-%D8%B1%D9%81%D8%B9-%D8%AD%D8%B5%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%89-3500-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-   "ts": 1793529453
-  },
-  {
-   "source": "السومرية",
-   "title": "فيرمين لوبيز يحسم موقفه من اهتمام مانشستر يونايتد",
-   "link": "https://www.alsumaria.tv/Entertainment-News/580274/sports/%d9%81%d9%8a%d8%b1%d9%85%d9%8a%d9%86-%d9%84%d9%88%d8%a8%d9%8a%d8%b2-%d9%8a%d8%ad%d8%b3%d9%85-%d9%85%d9%88%d9%82%d9%81%d9%87-%d9%85%d9%86-%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793529193
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "صحة نينوى تسجل إصابة مؤكدة بالحمى النزفية لمواطن ثلاثيني في الموصل",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B5%D8%AD%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%AA%D8%B3%D8%AC%D9%84-%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85-%D9%83%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D8%AD%D9%85%D9%89-%D8%A7%D9%84%D9%86%D8%B2%D9%81%D9%8A%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84",
-   "ts": 1793528961
   },
   {
    "source": "المدى",
@@ -169,28 +193,10 @@
    "ts": 1793528747
   },
   {
-   "source": "السومرية",
-   "title": "واشنطن تواصل استبعاد النفط العراقي من وارداتها للأسبوع الخامس توالياً",
-   "link": "https://www.alsumaria.tv/news/economy/580273/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d8%b3%d8%aa%d8%a8%d8%b9%d8%a7%d8%af-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%85%d9%86-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa%d9%87%d8%a7-%d9%84%d9%84%d8%a3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793528505
-  },
-  {
    "source": "المدى",
    "title": "محكمة الكرخ تسترد أكثر من 21 مليار دينار في جريمة احتيال",
    "link": "https://almadapaper.net/459246/",
    "ts": 1793527311
-  },
-  {
-   "source": "السومرية",
-   "title": "القضاء يسترد 21 ملياراً عن جريمة احتيال مالي",
-   "link": "https://www.alsumaria.tv/news/localnews/580272/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d9%8a%d8%b3%d8%aa%d8%b1%d8%af-21-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d9%8b-%d8%b9%d9%86-%d8%ac%d8%b1%d9%8a%d9%85%d8%a9-%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d9%84-%d9%85%d8%a7%d9%84%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793526982
-  },
-  {
-   "source": "السومرية",
-   "title": "بغداد تخطط لإرسال 50 مليون لتر من النفط الأبيض لـ إقليم كردستان",
-   "link": "https://www.alsumaria.tv/news/economy/580271/%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-50-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%84%d8%aa%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%a7%d9%84%d8%a3%d8%a8%d9%8a%d8%b6-%d9%84%d9%80?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793526888
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "220 عملية ضبط.. النزاهة تعلن إحصائية نشاطاتها الميدانية وتوقف 35 متهماً",
    "link": "https://almadapaper.net/459234/",
    "ts": 1793524441
-  },
-  {
-   "source": "المدى",
-   "title": "الدولار يواصل الارتفاع: الورقة تلامس 169 ألف دينار !",
-   "link": "https://almadapaper.net/459232/",
-   "ts": 1793522809
   }
  ]
 }
