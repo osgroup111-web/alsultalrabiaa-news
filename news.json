@@ -1,11 +1,65 @@
 {
- "updated": 1793549833,
+ "updated": 1793552515,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "أوبك+ تقرر الإبقاء على مستويات الإنتاج في كانون الأول المقبل دون تغيير",
+   "link": "https://www.alsumaria.tv/news/economy/580308/%d8%a3%d9%88%d8%a8%d9%83-%d8%aa%d9%82%d8%b1%d8%b1-%d8%a7%d9%84%d8%a5%d8%a8%d9%82%d8%a7%d8%a1-%d8%b9%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%81%d9%8a-%d9%83%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793552408
+  },
+  {
+   "source": "السومرية",
+   "title": "بالصور.. احد شوارع بغداد في حلة جديدة",
+   "link": "https://www.alsumaria.tv/news/localnews/580307/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d8%a7%d8%ad%d8%af-%d8%b4%d9%88%d8%a7%d8%b1%d8%b9-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%81%d9%8a-%d8%ad%d9%84%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793551611
+  },
+  {
+   "source": "السومرية",
+   "title": "فرنسا.. استئناف إغلاق المدارس الثانوية اعتباراً من الاثنين",
+   "link": "https://www.alsumaria.tv/news/international/580306/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d8%a9-%d8%a7%d8%b9%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d9%8b-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793551595
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "احتجاجات غاضبة في حيين وسط كركوك ونائب يدعو الأهالي للتصعيد",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%BA%D8%A7%D8%B6%D8%A8%D8%A9-%D9%81%D9%8A-%D8%AD%D9%8A%D9%8A%D9%86-%D9%88%D8%B3%D8%B7-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%88%D9%86%D8%A7-%D8%A8-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84-%D9%87%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
+   "ts": 1793551100
+  },
+  {
+   "source": "المدى",
+   "title": "هل يمتلك الدماغ ذاكرة وصول عشوائي مثل الحاسوب؟",
+   "link": "https://almadapaper.net/459297/",
+   "ts": 1793550670
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"عراقجي لم يجد الرئيس\".. جدل إيراني حول وقف الحرب يستحضر عماد مغنية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%84%D9%85-%D9%8A%D8%AC%D8%AF-%D8%A7%D9%84%D8%B1-%D9%8A%D8%B3-%D8%AC%D8%AF%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%AD%D9%88%D9%84-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%8A%D8%B3%D8%AA%D8%AD%D8%B6%D8%B1-%D8%B9%D9%85%D8%A7%D8%AF-%D9%85%D8%BA%D9%86%D9%8A%D8%A9",
+   "ts": 1793550511
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أميركا.. 19 قتيلاً ومصاباً بإطلاق نار في ليلة الهالوين",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D9%8A%D8%B1%D9%83%D8%A7-19-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%A8-%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D9%84%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%87%D8%A7%D9%84%D9%88%D9%8A%D9%86",
+   "ts": 1793550414
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ترمب يشكك بتوصل إيران لاتفاق: يمكننا تدمير مواقعها النووية خلال 10 دقائق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B4%D9%83%D9%83-%D8%A8%D8%AA%D9%88%D8%B5%D9%84-%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%8A%D9%85%D9%83%D9%86%D9%86%D8%A7-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-10-%D8%AF%D9%82%D8%A7-%D9%82",
+   "ts": 1793550147
+  },
+  {
+   "source": "السومرية",
+   "title": "4 عيوب يجب معرفتها قبل شراء \"بلايستيشن 5\"",
+   "link": "https://www.alsumaria.tv/news/miscellaneous/580305/4-%d8%b9%d9%8a%d9%88%d8%a8-%d9%8a%d8%ac%d8%a8-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87%d8%a7-%d9%82%d8%a8%d9%84-%d8%b4%d8%b1%d8%a7%d8%a1-quot%d8%a8%d9%84%d8%a7%d9%8a%d8%b3%d8%aa%d9%8a%d8%b4%d9%86-5quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793550129
+  },
   {
    "source": "شفق نيوز",
    "title": "300 مليار دولار تتبخر من سوق العملات المشفرة خلال شهر",
@@ -109,64 +163,16 @@
    "ts": 1793545480
   },
   {
-   "source": "السومرية",
-   "title": "معلومات امريكية تُدخل روسيا في انذار",
-   "link": "https://www.alsumaria.tv/news/international/580296/%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d9%8f%d8%af%d8%ae%d9%84-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a7%d9%86%d8%b0%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793545363
-  },
-  {
    "source": "شفق نيوز",
    "title": "عالقون بين المركز والإقليم.. 10 آلاف موظف في ديالى محرمين من الأراضي السكنية",
    "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D9%88%D8%A7%D9%84-%D9%82%D9%84%D9%8A%D9%85-10-%D9%84%D8%A7%D9%81-%D9%85%D9%88%D8%B8%D9%81-%D9%81%D9%8A-%D8%AF%D9%8A%D8%A7%D9%84%D9%89-%D9%85%D8%AD%D8%B1%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84-%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A%D8%A9",
    "ts": 1793545238
   },
   {
-   "source": "السومرية",
-   "title": "تفاصيل جسر الصرافية الثاني",
-   "link": "https://www.alsumaria.tv/news/localnews/580295/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%b3%d8%b1-%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d9%81%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793545151
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "صادرات 6 شركاء تجاريين للعراق تتراجع 29% في النصف الأول من 2026",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-6-%D8%B4%D8%B1%D9%83%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-29-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D9%81-%D8%A7%D9%84-%D9%88%D9%84-%D9%85%D9%86-2026",
-   "ts": 1793544887
-  },
-  {
-   "source": "السومرية",
-   "title": "500 مليون دولار ستصل غدا الى العراق.. وسعر الصرف سينخفض",
-   "link": "https://www.alsumaria.tv/news/economy/580294/500-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%b3%d8%aa%d8%b5%d9%84-%d8%ba%d8%af%d8%a7-%d8%a7%d9%84%d9%89-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%88%d8%b3%d8%b9%d8%b1-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793544143
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "السجن 30 سنة بحق موظفة \"هاربة\" اختلست مبالغ مالية من حسابات محافظة ديالى",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-30-%D8%B3%D9%86%D8%A9-%D8%A8%D8%AD%D9%82-%D9%85%D9%88%D8%B8%D9%81%D8%A9-%D9%87%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D9%84%D8%B3%D8%AA-%D9%85%D8%A8%D8%A7%D9%84%D8%BA-%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%AF%D9%8A%D8%A7%D9%84%D9%89",
-   "ts": 1793543695
-  },
-  {
    "source": "المدى",
    "title": "موازنة 2027.. قروض ثقيلة ومخاوف من تقليص الإنفاق!",
    "link": "https://almadapaper.net/459289/",
    "ts": 1793543580
-  },
-  {
-   "source": "السومرية",
-   "title": "السجن (30) سنة لمدانة هاربة اختلست مبالغ مالية من حسابات محافظة ديالى",
-   "link": "https://www.alsumaria.tv/news/localnews/580292/%d8%a7%d9%84%d8%b3%d8%ac%d9%86-30-%d8%b3%d9%86%d8%a9-%d9%84%d9%85%d8%af%d8%a7%d9%86%d8%a9-%d9%87%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a7%d8%ae%d8%aa%d9%84%d8%b3%d8%aa-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793543566
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"التحالف\" يعلن تحييد مصادر دعم المجهود الحربي للحوثيين",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%AD%D9%8A%D9%8A%D8%AF-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%84%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
-   "ts": 1793542902
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "إيلام.. أكثر من 5 ملايين مسافر عبروا منفذ مهران مع العراق خلال 7 أشهر",
-   "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%8A%D9%84%D8%A7%D9%85-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-5-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D8%B9%D8%A8%D8%B1%D9%88%D8%A7-%D9%85%D9%86%D9%81%D8%B0-%D9%85%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AE%D9%84%D8%A7%D9%84-7-%D8%B4%D9%87%D8%B1",
-   "ts": 1793542594
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "بذور الطماطم تخذل مزارعي البصرة وتكبّدهم خسائر بمئات الملايين قبل انطلاق الموسم الشتوي",
    "link": "https://almadapaper.net/459260/",
    "ts": 1793532248
-  },
-  {
-   "source": "المدى",
-   "title": "8 مليارات للشرب و7.5 مليارات تتبخر.. الموارد تكشف حجم الاستهلاك المائي!",
-   "link": "https://almadapaper.net/459254/",
-   "ts": 1793530229
   }
  ]
 }
