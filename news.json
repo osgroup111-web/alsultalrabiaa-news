@@ -1,5 +1,5 @@
 {
- "updated": 1793532256,
+ "updated": 1793534356,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -8,9 +8,39 @@
  "items": [
   {
    "source": "المدى",
+   "title": "ست بواخر لتعزيز الخزين الغذائي والتجارة تلوّح بسلة تموينية إضافية",
+   "link": "https://almadapaper.net/459269/",
+   "ts": 1793534176
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إقليم كوردستان يطلب من بغداد اعتماد 4 منافذ حدودية جديدة",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-4-%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+   "ts": 1793534020
+  },
+  {
+   "source": "السومرية",
+   "title": "الاتحاد العراقي يتعاقد مع خبير برتغالي لتطوير الحكام وتعزيز خبراتهم في تقنية VAR",
+   "link": "https://www.alsumaria.tv/Entertainment-News/580278/sports/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%8a%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d9%85%d8%b9-%d8%ae%d8%a8%d9%8a%d8%b1-%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%ad%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793533641
+  },
+  {
+   "source": "السومرية",
+   "title": "الزيدي يوجّه بإطلاق حصة النفط الأبيض لإقليم كردستان بالسعر المدعوم",
+   "link": "https://www.alsumaria.tv/news/localnews/580277/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d9%88%d8%ac%d9%91%d9%87-%d8%a8%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%ad%d8%b5%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%a7%d9%84%d8%a3%d8%a8%d9%8a%d8%b6-%d9%84%d8%a5%d9%82%d9%84%d9%8a%d9%85-%d9%83%d8%b1%d8%af%d8%b3%d8%aa%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793532448
+  },
+  {
+   "source": "المدى",
    "title": "بذور الطماطم تخذل مزارعي البصرة وتكبّدهم خسائر بمئات الملايين قبل انطلاق الموسم الشتوي",
    "link": "https://almadapaper.net/459260/",
    "ts": 1793532248
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تنبيه أمني من الدفاع العراقية بشأن تحديد المواقع العسكرية أو نشر صورها",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AA%D9%86%D8%A8%D9%8A%D9%87-%D9%85%D9%86%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%B4-%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%88-%D9%86%D8%B4%D8%B1-%D8%B5%D9%88%D8%B1%D9%87%D8%A7",
+   "ts": 1793532035
   },
   {
    "source": "السومرية",
@@ -109,18 +139,6 @@
    "ts": 1793528031
   },
   {
-   "source": "شفق نيوز",
-   "title": "العراق يتصدر الجنسيات العربية الوافدة لتركيا خلال أيلول",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D8%A9-%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D9%8A%D9%84%D9%88%D9%84",
-   "ts": 1793527962
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تغييرات مرتقبة في العراق تشمل التقاعد والمنافذ والمصارف ومناصب مالية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D9%88%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
-   "ts": 1793527761
-  },
-  {
    "source": "المدى",
    "title": "محكمة الكرخ تسترد أكثر من 21 مليار دينار في جريمة احتيال",
    "link": "https://almadapaper.net/459246/",
@@ -187,28 +205,10 @@
    "ts": 1793522203
   },
   {
-   "source": "السومرية",
-   "title": "التعليم تعلن بدء التقديم الى قناة القبول المباشر \"التعليم الجامعي الحكومي الخاص\"",
-   "link": "https://www.alsumaria.tv/news/localnews/580266/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%aa%d8%b9%d9%84%d9%86-%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%a7%d9%84%d9%89-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793521486
-  },
-  {
-   "source": "السومرية",
-   "title": "\"بلا قيود جغرافية\".. إيران تعلن إضافة أهداف جديدة إلى بنك أهدافها",
-   "link": "https://www.alsumaria.tv/news/international/580265/quot%d8%a8%d9%84%d8%a7-%d9%82%d9%8a%d9%88%d8%af-%d8%ac%d8%ba%d8%b1%d8%a7%d9%81%d9%8a%d8%a9quot-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-%d8%a3%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793521397
-  },
-  {
    "source": "المدى",
    "title": "منتسبون في أمن مطار بغداد يناشدون لحسم تثبيتهم واستحقاقاتهم المالية",
    "link": "https://almadapaper.net/459218/",
    "ts": 1793518725
-  },
-  {
-   "source": "المدى",
-   "title": "التربية تقرر سنة عدم رسوب للمراحل الدراسية الأكاديمية والمهنية ومعاهد الفنون",
-   "link": "https://almadapaper.net/459213/",
-   "ts": 1793517479
   }
  ]
 }
