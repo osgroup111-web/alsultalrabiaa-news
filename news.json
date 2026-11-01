@@ -1,11 +1,59 @@
 {
- "updated": 1793545332,
+ "updated": 1793547771,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "كورك: أبو كلل لم يمتثل للقضاء ونطالب بتعويضات",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%83%D9%88%D8%B1%D9%83-%D8%A8%D9%88-%D9%83%D9%84%D9%84-%D9%84%D9%85-%D9%8A%D9%85%D8%AA%D8%AB%D9%84-%D9%84%D9%84%D9%82%D8%B6%D8%A7-%D9%88%D9%86%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA",
+   "ts": 1793547611
+  },
+  {
+   "source": "السومرية",
+   "title": "فرنسا تعتقل أكثر من 770 شخصاً خلال احتجاجات على ارتفاع الأسعار",
+   "link": "https://www.alsumaria.tv/news/international/580299/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b9%d8%aa%d9%82%d9%84-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-770-%d8%b4%d8%ae%d8%b5%d8%a7%d9%8b-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793547506
+  },
+  {
+   "source": "المدى",
+   "title": "العراق يحافظ على حصته النفطية و«أوبك بلس» تؤجل التغيير",
+   "link": "https://almadapaper.net/459292/",
+   "ts": 1793546895
+  },
+  {
+   "source": "السومرية",
+   "title": "الخليج يستعد لتوقيع اتفاقية الربط السككي في 8 تشرين الثاني",
+   "link": "https://www.alsumaria.tv/news/international/580297/%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d8%b3%d9%83%d9%83%d9%8a-%d9%81%d9%8a-8-%d8%aa%d8%b4%d8%b1%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793546518
+  },
+  {
+   "source": "السومرية",
+   "title": "المرور تنوه عن قطع في طريق رئيسي",
+   "link": "https://www.alsumaria.tv/news/localnews/580298/%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1-%d8%aa%d9%86%d9%88%d9%87-%d8%b9%d9%86-%d9%82%d8%b7%d8%b9-%d9%81%d9%8a-%d8%b7%d8%b1%d9%8a%d9%82-%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793546475
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إسرائيل تعتقل مواطناً سورياً في ريف درعا الغربي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A",
+   "ts": 1793546079
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "روسيا تعتقل قاصراً خطط لهجوم بموسكو إثر تحذير أميركي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D9%82%D8%A7%D8%B5%D8%B1%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AB%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
+   "ts": 1793545480
+  },
+  {
+   "source": "السومرية",
+   "title": "معلومات امريكية تُدخل روسيا في انذار",
+   "link": "https://www.alsumaria.tv/news/international/580296/%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d9%8f%d8%af%d8%ae%d9%84-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a7%d9%86%d8%b0%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793545363
+  },
   {
    "source": "شفق نيوز",
    "title": "عالقون بين المركز والإقليم.. 10 آلاف موظف في ديالى محرمين من الأراضي السكنية",
@@ -103,18 +151,6 @@
    "ts": 1793540500
   },
   {
-   "source": "السومرية",
-   "title": "عراقجي: مفاوضات الدوحة تشهد تقدماً والنتيجة النهائية مرهونة برد الطرف المقابل",
-   "link": "https://www.alsumaria.tv/news/international/580287/%d8%b9%d8%b1%d8%a7%d9%82%d8%ac%d9%8a-%d9%85%d9%81%d8%a7%d9%88%d8%b6%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9-%d8%aa%d8%b4%d9%87%d8%af-%d8%aa%d9%82%d8%af%d9%85%d8%a7%d9%8b-%d9%88%d8%a7%d9%84%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793539817
-  },
-  {
-   "source": "السومرية",
-   "title": "‏بالوثيقة.. وزير العدل يعفي مدير عام السجون",
-   "link": "https://www.alsumaria.tv/news/localnews/580286/%d8%a8%d8%a7%d9%84%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d9%8a%d8%b9%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d8%b1-%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d8%ac%d9%88%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793539585
-  },
-  {
    "source": "شفق نيوز",
    "title": "عراقجي: المفاوضات تشهد تقدماً والنتيجة النهائية مرهونة برد الطرف المقابل",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AA%D8%B4%D9%87%D8%AF-%D8%AA%D9%82%D8%AF%D9%85%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7-%D9%8A%D8%A9-%D9%85%D8%B1%D9%87%D9%88%D9%86%D8%A9-%D8%A8%D8%B1%D8%AF-%D8%A7%D9%84%D8%B7%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%A8%D9%84",
@@ -139,46 +175,16 @@
    "ts": 1793539032
   },
   {
-   "source": "السومرية",
-   "title": "العدل تنجز أكثر من 75% من قاعدة بيانات مالكي العقارات ضمن مبادرة \"وطن\"",
-   "link": "https://www.alsumaria.tv/news/localnews/580285/%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d8%aa%d9%86%d8%ac%d8%b2-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-75-%d9%85%d9%86-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%83%d9%8a-%d8%a7%d9%84%d8%b9%d9%82%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793538463
-  },
-  {
-   "source": "السومرية",
-   "title": "أوبك+ يجمّد زيادات الإنتاج في كانون الاول.. والأسواق تترقب قرار 2027",
-   "link": "https://www.alsumaria.tv/news/economy/580284/%d8%a3%d9%88%d8%a8%d9%83-%d9%8a%d8%ac%d9%85%d9%91%d8%af-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%81%d9%8a-%d9%83%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%88%d8%a7%d9%84%d8%a3%d8%b3%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793538067
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "حل بالمركز 12.. عراقي يودع منافسات التجديف في أولمبياد داكار",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AD%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-12-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%88%D8%AF%D8%B9-%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D9%81-%D9%81%D9%8A-%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%AF%D8%A7%D9%83%D8%A7%D8%B1",
-   "ts": 1793537320
-  },
-  {
    "source": "المدى",
    "title": "بالتزامن مع الشتاء.. الحكومة توجّه بتجهيز إقليم كردستان بحصة النفط الأبيض",
    "link": "https://almadapaper.net/459279/",
    "ts": 1793536824
   },
   {
-   "source": "شفق نيوز",
-   "title": "الاتحاد الدولي للألعاب المائية يوقف خالد كبيان مؤقتاً",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84-%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7-%D9%8A%D8%A9-%D9%8A%D9%88%D9%82%D9%81-%D8%AE%D8%A7%D9%84%D8%AF-%D9%83%D8%A8%D9%8A%D8%A7%D9%86-%D9%85-%D9%82%D8%AA%D8%A7",
-   "ts": 1793536333
-  },
-  {
    "source": "المدى",
    "title": "\"أو نشر صورها\".. الدفاع تمنع منتسبيها من تحديد المواقع العسكرية",
    "link": "https://almadapaper.net/459276/",
    "ts": 1793535931
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "القنيطرة السورية.. قوات الإسرائيلية تحذر من السفر ضمن قافلة",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%B6%D9%85%D9%86-%D9%82%D8%A7%D9%81%D9%84%D8%A9",
-   "ts": 1793535357
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "البيئة تطلق حملة لزراعة 4 آلاف شتلة في الأنبار",
    "link": "https://almadapaper.net/459250/",
    "ts": 1793528747
-  },
-  {
-   "source": "المدى",
-   "title": "محكمة الكرخ تسترد أكثر من 21 مليار دينار في جريمة احتيال",
-   "link": "https://almadapaper.net/459246/",
-   "ts": 1793527311
   }
  ]
 }
