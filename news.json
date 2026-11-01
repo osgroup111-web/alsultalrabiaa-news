@@ -1,5 +1,5 @@
 {
- "updated": 1793556846,
+ "updated": 1793559569,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,9 +7,51 @@
  ],
  "items": [
   {
+   "source": "المدى",
+   "title": "إيرادات طموحة واقتصاد ريعي.. معادلة موازنة 2027 الصعبة",
+   "link": "https://almadapaper.net/459305/",
+   "ts": 1793558891
+  },
+  {
    "source": "السومرية",
-   "title": "هيئة بحرية بريطانية: تلقينا بلاغا عن واقعة داخل مضيق هرمز",
-   "link": "https://www.alsumaria.tv/news/international/580314/%d9%87%d9%8a%d8%a6%d8%a9-%d8%a8%d8%ad%d8%b1%d9%8a%d8%a9-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%84%d9%82%d9%8a%d9%86%d8%a7-%d8%a8%d9%84%d8%a7%d8%ba%d8%a7-%d8%b9%d9%86-%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d8%af%d8%a7%d8%ae%d9%84-%d9%85%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "title": "إيران: نطاق الردع أعيد تعريفه ليتجاوز الإطار الإقليمي",
+   "link": "https://www.alsumaria.tv/news/international/580316/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%86%d8%b7%d8%a7%d9%82-%d8%a7%d9%84%d8%b1%d8%af%d8%b9-%d8%a3%d8%b9%d9%8a%d8%af-%d8%aa%d8%b9%d8%b1%d9%8a%d9%81%d9%87-%d9%84%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%a5%d9%82%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793558880
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "وزير الداخلية من كركوك يوجه بتنفيذ جميع مذكرات الاعتقال \"دون تهاون\"",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D9%86-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%AC%D9%85%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%AF%D9%88%D9%86-%D8%AA%D9%87%D8%A7%D9%88%D9%86",
+   "ts": 1793558406
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "هيئة الإعلام تعلن إطفاء بدالات \"كورك\" وإيقاف شبكتها في 14 محافظة",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%87%D9%8A-%D8%A9-%D8%A7%D9%84-%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%B7%D9%81%D8%A7-%D8%A8%D8%AF%D8%A7%D9%84%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%83-%D9%88-%D9%8A%D9%82%D8%A7%D9%81-%D8%B4%D8%A8%D9%83%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-14-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9",
+   "ts": 1793557606
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "نائبان تركيان يكشفان عن نقل أوجلان لمكان احتجاز جديد",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D8%A7-%D8%A8%D8%A7%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81%D8%A7%D9%86-%D8%B9%D9%86-%D9%86%D9%82%D9%84-%D9%88%D8%AC%D9%84%D8%A7%D9%86-%D9%84%D9%85%D9%83%D8%A7%D9%86-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF",
+   "ts": 1793557528
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "خاص- تغيير تسمية خلية الإعلام الأمني العراقي",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AE%D8%A7%D8%B5--%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%AA%D8%B3%D9%85%D9%8A%D8%A9-%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84-%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84-%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
+   "ts": 1793557447
+  },
+  {
+   "source": "السومرية",
+   "title": "الإعلام والاتصالات تعلن إطفاء بدالات لكورك وتوقف شبكتها في 14 محافظة",
+   "link": "https://www.alsumaria.tv/news/localnews/580315/%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b7%d9%81%d8%a7%d8%a1-%d8%a8%d8%af%d8%a7%d9%84%d8%a7%d8%aa-%d9%84%d9%83%d9%88%d8%b1%d9%83-%d9%88%d8%aa%d9%88%d9%82%d9%81-%d8%b4?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793557320
+  },
+  {
+   "source": "السومرية",
+   "title": "استهداف سفينة بمقذوف في مضيق هرمز",
+   "link": "https://www.alsumaria.tv/news/international/580314/%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%a8%d9%85%d9%82%d8%b0%d9%88%d9%81-%d9%81%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793556736
   },
   {
@@ -127,52 +169,16 @@
    "ts": 1793550414
   },
   {
-   "source": "شفق نيوز",
-   "title": "ترمب يشكك بتوصل إيران لاتفاق: يمكننا تدمير مواقعها النووية خلال 10 دقائق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B4%D9%83%D9%83-%D8%A8%D8%AA%D9%88%D8%B5%D9%84-%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%8A%D9%85%D9%83%D9%86%D9%86%D8%A7-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-10-%D8%AF%D9%82%D8%A7-%D9%82",
-   "ts": 1793550147
-  },
-  {
    "source": "السومرية",
    "title": "4 عيوب يجب معرفتها قبل شراء \"بلايستيشن 5\"",
    "link": "https://www.alsumaria.tv/news/miscellaneous/580305/4-%d8%b9%d9%8a%d9%88%d8%a8-%d9%8a%d8%ac%d8%a8-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87%d8%a7-%d9%82%d8%a8%d9%84-%d8%b4%d8%b1%d8%a7%d8%a1-quot%d8%a8%d9%84%d8%a7%d9%8a%d8%b3%d8%aa%d9%8a%d8%b4%d9%86-5quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793550129
   },
   {
-   "source": "شفق نيوز",
-   "title": "300 مليار دولار تتبخر من سوق العملات المشفرة خلال شهر",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/300-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%AA%D8%A8%D8%AE%D8%B1-%D9%85%D9%86-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%81%D8%B1%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1",
-   "ts": 1793549728
-  },
-  {
-   "source": "السومرية",
-   "title": "الرافدين يعلن استكمال منح الدفعة الثانية من الوجبة الثانية من السلف الإلكترونية",
-   "link": "https://www.alsumaria.tv/news/economy/580304/%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d9%83%d9%85%d8%a7%d9%84-%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%af%d9%81%d8%b9%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%88%d8%ac%d8%a8%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793549632
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "السعودية.. اعتراض صاروخ ومسيّرة أطلقهما الحوثيون باتجاه المنطقة الجنوبية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%88%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D8%B7%D9%84%D9%82%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9",
-   "ts": 1793549197
-  },
-  {
-   "source": "السومرية",
-   "title": "اصابة امراة اثناء محاولة الاعتداء عليها جنسيا في بغداد",
-   "link": "https://www.alsumaria.tv/news/security/580303/%d8%a7%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a7%d9%85%d8%b1%d8%a7%d8%a9-%d8%a7%d8%ab%d9%86%d8%a7%d8%a1-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1-%d8%b9%d9%84%d9%8a%d9%87%d8%a7-%d8%ac%d9%86%d8%b3%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793549184
-  },
-  {
    "source": "المدى",
    "title": "بغداد تتسلم دفعة جديدة من الدولار وتتعهد بخفض سعره الموازي",
    "link": "https://almadapaper.net/459295/",
    "ts": 1793549154
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "محاولة اغتصاب فاشلة تنتهي بنحر امرأة جنوبي بغداد",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D9%81%D8%A7%D8%B4%D9%84%D8%A9-%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D8%A8%D9%86%D8%AD%D8%B1-%D8%A7%D9%85%D8%B1-%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-   "ts": 1793548613
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "بالتزامن مع الشتاء.. الحكومة توجّه بتجهيز إقليم كردستان بحصة النفط الأبيض",
    "link": "https://almadapaper.net/459279/",
    "ts": 1793536824
-  },
-  {
-   "source": "المدى",
-   "title": "\"أو نشر صورها\".. الدفاع تمنع منتسبيها من تحديد المواقع العسكرية",
-   "link": "https://almadapaper.net/459276/",
-   "ts": 1793535931
   }
  ]
 }
