@@ -1,11 +1,71 @@
 {
- "updated": 1793547771,
+ "updated": 1793549833,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "300 مليار دولار تتبخر من سوق العملات المشفرة خلال شهر",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/300-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%AA%D8%A8%D8%AE%D8%B1-%D9%85%D9%86-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%81%D8%B1%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1",
+   "ts": 1793549728
+  },
+  {
+   "source": "السومرية",
+   "title": "الرافدين يعلن استكمال منح الدفعة الثانية من الوجبة الثانية من السلف الإلكترونية",
+   "link": "https://www.alsumaria.tv/news/economy/580304/%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d9%83%d9%85%d8%a7%d9%84-%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%af%d9%81%d8%b9%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%88%d8%ac%d8%a8%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793549632
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "السعودية.. اعتراض صاروخ ومسيّرة أطلقهما الحوثيون باتجاه المنطقة الجنوبية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%88%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D8%B7%D9%84%D9%82%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9",
+   "ts": 1793549197
+  },
+  {
+   "source": "السومرية",
+   "title": "اصابة امراة اثناء محاولة الاعتداء عليها جنسيا في بغداد",
+   "link": "https://www.alsumaria.tv/news/security/580303/%d8%a7%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a7%d9%85%d8%b1%d8%a7%d8%a9-%d8%a7%d8%ab%d9%86%d8%a7%d8%a1-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1-%d8%b9%d9%84%d9%8a%d9%87%d8%a7-%d8%ac%d9%86%d8%b3%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793549184
+  },
+  {
+   "source": "المدى",
+   "title": "بغداد تتسلم دفعة جديدة من الدولار وتتعهد بخفض سعره الموازي",
+   "link": "https://almadapaper.net/459295/",
+   "ts": 1793549154
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب: هناك أمور لم تحسم بعد في إيران",
+   "link": "https://www.alsumaria.tv/news/international/580302/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%87%d9%86%d8%a7%d9%83-%d8%a3%d9%85%d9%88%d8%b1-%d9%84%d9%85-%d8%aa%d8%ad%d8%b3%d9%85-%d8%a8%d8%b9%d8%af-%d9%81%d9%8a-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793549038
+  },
+  {
+   "source": "السومرية",
+   "title": "احباط مخطط ارهابي لاستهداف مصفاة بانياس",
+   "link": "https://www.alsumaria.tv/news/international/580301/%d8%a7%d8%ad%d8%a8%d8%a7%d8%b7-%d9%85%d8%ae%d8%b7%d8%b7-%d8%a7%d8%b1%d9%87%d8%a7%d8%a8%d9%8a-%d9%84%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d9%85%d8%b5%d9%81%d8%a7%d8%a9-%d8%a8%d8%a7%d9%86%d9%8a%d8%a7%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793548622
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "محاولة اغتصاب فاشلة تنتهي بنحر امرأة جنوبي بغداد",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D9%81%D8%A7%D8%B4%D9%84%D8%A9-%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D8%A8%D9%86%D8%AD%D8%B1-%D8%A7%D9%85%D8%B1-%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+   "ts": 1793548613
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سور النجف الأخير.. ذاكرة تختزل قروناً من تاريخ المدينة (صور)",
+   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%B3%D9%88%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84-%D8%AE%D9%8A%D8%B1-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D8%B2%D9%84-%D9%82%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D9%86-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9",
+   "ts": 1793548326
+  },
+  {
+   "source": "السومرية",
+   "title": "الجيش الإيراني: لو بدأ ترامب حربا جديدة فلن تتحكم واشنطن في موعد نهايتها",
+   "link": "https://www.alsumaria.tv/news/international/580300/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%84%d9%88-%d8%a8%d8%af%d8%a3-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%ad%d8%b1%d8%a8%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%84%d9%86-%d8%aa%d8%aa%d8%ad%d9%83%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793547753
+  },
   {
    "source": "شفق نيوز",
    "title": "كورك: أبو كلل لم يمتثل للقضاء ونطالب بتعويضات",
@@ -103,34 +163,10 @@
    "ts": 1793542902
   },
   {
-   "source": "السومرية",
-   "title": "وزير الداخلية يتخذ قرارا يخص الصحفيين",
-   "link": "https://www.alsumaria.tv/news/localnews/580293/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%8a%d8%aa%d8%ae%d8%b0-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7-%d9%8a%d8%ae%d8%b5-%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793542734
-  },
-  {
    "source": "شفق نيوز",
    "title": "إيلام.. أكثر من 5 ملايين مسافر عبروا منفذ مهران مع العراق خلال 7 أشهر",
    "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%8A%D9%84%D8%A7%D9%85-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-5-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D8%B9%D8%A8%D8%B1%D9%88%D8%A7-%D9%85%D9%86%D9%81%D8%B0-%D9%85%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AE%D9%84%D8%A7%D9%84-7-%D8%B4%D9%87%D8%B1",
    "ts": 1793542594
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تأجيل صرف رواتب المتقاعدين إلى الاثنين بانتظار إشعار التمويل",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AA-%D8%AC%D9%8A%D9%84-%D8%B5%D8%B1%D9%81-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A%D9%86-%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84",
-   "ts": 1793542532
-  },
-  {
-   "source": "السومرية",
-   "title": "بالوثيقة.. الغاء جميع الاستثناءات الممنوحة للمتقدمين لدورات المعهد العالي بالداخلية",
-   "link": "https://www.alsumaria.tv/news/localnews/580291/%d8%a8%d8%a7%d9%84%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d8%a1-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%85%d9%86%d9%88%d8%ad%d8%a9-%d9%84%d9%84%d9%85%d8%aa%d9%82%d8%af%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793542510
-  },
-  {
-   "source": "السومرية",
-   "title": "دراسة: جلسة رياضية أسبوعياً قد تساعد في الحفاظ على انخفاض ضغط الدم",
-   "link": "https://www.alsumaria.tv/news/science/580290/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ac%d9%84%d8%b3%d8%a9-%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9-%d8%a3%d8%b3%d8%a8%d9%88%d8%b9%d9%8a%d8%a7%d9%8b-%d9%82%d8%af-%d8%aa%d8%b3%d8%a7%d8%b9%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793542297
   },
   {
    "source": "المدى",
@@ -139,40 +175,10 @@
    "ts": 1793541459
   },
   {
-   "source": "السومرية",
-   "title": "تعزيزات عسكرية.. ماذا يحصل في هذه المحافظات؟",
-   "link": "https://www.alsumaria.tv/news/security/580289/%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2%d8%a7%d8%aa-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%ad%d8%b5%d9%84-%d9%81%d9%8a-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%a7%d8%aa%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793541440
-  },
-  {
-   "source": "السومرية",
-   "title": "الدولار يرتفع في العراق من جديد",
-   "link": "https://www.alsumaria.tv/news/economy/580288/%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%8a%d8%b1%d8%aa%d9%81%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793540500
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عراقجي: المفاوضات تشهد تقدماً والنتيجة النهائية مرهونة برد الطرف المقابل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AA%D8%B4%D9%87%D8%AF-%D8%AA%D9%82%D8%AF%D9%85%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7-%D9%8A%D8%A9-%D9%85%D8%B1%D9%87%D9%88%D9%86%D8%A9-%D8%A8%D8%B1%D8%AF-%D8%A7%D9%84%D8%B7%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%A8%D9%84",
-   "ts": 1793539559
-  },
-  {
    "source": "المدى",
    "title": "صفقات بأربع دول.. هل ينجح العراق في تحصين أجوائه؟",
    "link": "https://almadapaper.net/459283/",
    "ts": 1793539528
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تلامس الـ169 ألفاً.. ارتفاع أسعار الدولار في بغداد وأربيل عند الإغلاق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AA%D9%84%D8%A7%D9%85%D8%B3-%D8%A7%D9%84%D9%80169-%D9%84%D9%81%D8%A7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84-%D8%BA%D9%84%D8%A7%D9%82",
-   "ts": 1793539330
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق ودول أوبك+ يثبتون حصص إنتاج النفط للشهر المقبل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AF%D9%88%D9%84-%D9%88%D8%A8%D9%83-%D9%8A%D8%AB%D8%A8%D8%AA%D9%88%D9%86-%D8%AD%D8%B5%D8%B5-%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%84%D9%84%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-   "ts": 1793539032
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "8 مليارات للشرب و7.5 مليارات تتبخر.. الموارد تكشف حجم الاستهلاك المائي!",
    "link": "https://almadapaper.net/459254/",
    "ts": 1793530229
-  },
-  {
-   "source": "المدى",
-   "title": "البيئة تطلق حملة لزراعة 4 آلاف شتلة في الأنبار",
-   "link": "https://almadapaper.net/459250/",
-   "ts": 1793528747
   }
  ]
 }
