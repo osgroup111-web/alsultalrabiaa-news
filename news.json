@@ -1,11 +1,53 @@
 {
- "updated": 1793740431,
+ "updated": 1793743162,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "قرارات حكومية بشأن نفط كوردستان وحماية دجلة والفرات وتطوير الخطوط الجوية العراقية",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%A8%D8%B4-%D9%86-%D9%86%D9%81%D8%B7-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AF%D8%AC%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+   "ts": 1793741283
+  },
+  {
+   "source": "السومرية",
+   "title": "مجلس الوزراء يصدر قرارات عدة بينها يخص دجلة والفرات والنقل الجوي",
+   "link": "https://www.alsumaria.tv/news/politics/580566/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%8a%d8%b5%d8%af%d8%b1-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d9%86%d9%87%d8%a7-%d9%8a%d8%ae%d8%b5-%d8%af%d8%ac%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%81%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793740798
+  },
+  {
+   "source": "المدى",
+   "title": "بغداد أمام الحرب.. بلا خطط طوارئ معلنة ومخاوف من انخراط الفصائل",
+   "link": "https://almadapaper.net/459718/",
+   "ts": 1793740772
+  },
+  {
+   "source": "المدى",
+   "title": "تأمين الرواتب وإطلاق \"صندوق الأجيال\".. بين ضمان الالتزامات وبناء الثروة السيادية",
+   "link": "https://almadapaper.net/459714/",
+   "ts": 1793740668
+  },
+  {
+   "source": "المدى",
+   "title": "موقع اخباري: العراق مستمر بمحاكمة مسلحي داعش الأجانب الذين نُقلوا من سوريا",
+   "link": "https://almadapaper.net/459712/",
+   "ts": 1793740530
+  },
+  {
+   "source": "السومرية",
+   "title": "\"طقس العراق\".. تحذير للطيران المدني من غيوم ركامية وعواصف",
+   "link": "https://www.alsumaria.tv/news/weathernews/580565/quot%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82quot-%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d9%84%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a-%d9%85%d9%86-%d8%ba?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793740500
+  },
+  {
+   "source": "المدى",
+   "title": "دراسة: تأخر الرواتب يفاقم الأزمات المعيشية والنفسية ويزيد الأعباء على نساء إقليم كوردستان",
+   "link": "https://almadapaper.net/459710/",
+   "ts": 1793740448
+  },
   {
    "source": "المدى",
    "title": "مصانع إقليم كردستان.. ثروة إنتاجية تبحث عن الدعم لإنعاش الاقتصاد وتقليل الاستيراد",
@@ -53,30 +95,6 @@
    "title": "المؤبد لمدانين بحيازة أسلحة بقصد إثارة الفوضى في العراق",
    "link": "https://almadapaper.net/459693/",
    "ts": 1793740005
-  },
-  {
-   "source": "المدى",
-   "title": "عزيز الرسام يستذكر رحلة 40 عاما مع الشعر في \" لا ياصديقي ”",
-   "link": "https://almadapaper.net/459687/",
-   "ts": 1793739960
-  },
-  {
-   "source": "المدى",
-   "title": "العمودالثامن: لولا وحُكّامنا",
-   "link": "https://almadapaper.net/459691/",
-   "ts": 1793739960
-  },
-  {
-   "source": "المدى",
-   "title": "نبوءات نوستراداموس,, هل يحمل 2027 اكتشافا قاتلا؟",
-   "link": "https://almadapaper.net/459685/",
-   "ts": 1793739900
-  },
-  {
-   "source": "المدى",
-   "title": "حتى لا يضيع الوهم: غربة الكاتب. غربة الكتاب",
-   "link": "https://almadapaper.net/459668/",
-   "ts": 1793739840
   },
   {
    "source": "شفق نيوز",
@@ -169,12 +187,6 @@
    "ts": 1793732692
   },
   {
-   "source": "شفق نيوز",
-   "title": "\"نملكها أباً عن جد\".. عوائل مهددة بـ\"الإزالة\" بسبب ملكية أرض في الأنبار",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%86%D9%85%D9%84%D9%83%D9%87%D8%A7-%D8%A8%D8%A7-%D8%B9%D9%86-%D8%AC%D8%AF-%D8%B9%D9%88%D8%A7-%D9%84-%D9%85%D9%87%D8%AF%D8%AF%D8%A9-%D8%A8%D9%80-%D8%A7%D9%84-%D8%B2%D8%A7%D9%84%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%B1%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1",
-   "ts": 1793732417
-  },
-  {
    "source": "السومرية",
    "title": "\"من يحسم الكونغرس\".. ثلاثة سيناريوهات لنتائج انتخابات التجديد النصفي",
    "link": "https://www.alsumaria.tv/news/international/580558/quot%d9%85%d9%86-%d9%8a%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d9%83%d9%88%d9%86%d8%ba%d8%b1%d8%b3quot-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d9%84%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -197,18 +209,6 @@
    "title": "شرطة ديالى تعلن مقتل \"إرهابي\" وإصابة آخر بكمين أمني",
    "link": "https://www.alsumaria.tv/news/security/580555/%d8%b4%d8%b1%d8%b7%d8%a9-%d8%af%d9%8a%d8%a7%d9%84%d9%89-%d8%aa%d8%b9%d9%84%d9%86-%d9%85%d9%82%d8%aa%d9%84-quot%d8%a5%d8%b1%d9%87%d8%a7%d8%a8%d9%8aquot-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a2%d8%ae%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793728135
-  },
-  {
-   "source": "السومرية",
-   "title": "تهديد بقنبلة يوقف سفينة متجهة لإسرائيل",
-   "link": "https://www.alsumaria.tv/news/international/580554/%d8%aa%d9%87%d8%af%d9%8a%d8%af-%d8%a8%d9%82%d9%86%d8%a8%d9%84%d8%a9-%d9%8a%d9%88%d9%82%d9%81-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d9%85%d8%aa%d8%ac%d9%87%d8%a9-%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793727333
-  },
-  {
-   "source": "السومرية",
-   "title": "المنتخب العراقي لقدامى اللاعبين يبلغ نهائي كأس الخليج",
-   "link": "https://www.alsumaria.tv/Entertainment-News/580553/sports/%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%84%d9%82%d8%af%d8%a7%d9%85%d9%89-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d9%8a%d8%a8%d9%84%d8%ba-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%ae?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793725144
   }
  ]
 }
