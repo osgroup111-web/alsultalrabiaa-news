@@ -1,11 +1,47 @@
 {
- "updated": 1793791776,
+ "updated": 1793794660,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "السفير العراقي يبحث مع وزير الطاقة اللبناني تعزيز التعاون في قطاع الطاقة",
+   "link": "https://www.alsumaria.tv/news/localnews/580600/%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%8a%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793793448
+  },
+  {
+   "source": "المدى",
+   "title": "المؤتمر العلمي للقضاء العراقي وآفاق تطوير العدالة",
+   "link": "https://almadapaper.net/459763/",
+   "ts": 1793793373
+  },
+  {
+   "source": "السومرية",
+   "title": "النقل: نعمل على استيفاء متطلبات رفع الحظر الأوروبي عن الخطوط الجوية العراقية",
+   "link": "https://www.alsumaria.tv/news/localnews/580599/%d8%a7%d9%84%d9%86%d9%82%d9%84-%d9%86%d8%b9%d9%85%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d8%b3%d8%aa%d9%8a%d9%81%d8%a7%d8%a1-%d9%85%d8%aa%d8%b7%d9%84%d8%a8%d8%a7%d8%aa-%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d8%ad%d8%b8%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793793000
+  },
+  {
+   "source": "المدى",
+   "title": "الداخلية تلاحق \"التسول الرقمي\" والذكاء الاصطناعي يُستغل للاحتيال وجمع التبرعات الوهمية",
+   "link": "https://almadapaper.net/459759/",
+   "ts": 1793792162
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الديمقراطي الكوردستاني: تفعيل البرلمان خطوة لحماية كيان الإقليم وأبوابه مفتوحة للجميع",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%AE%D8%B7%D9%88%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%83%D9%8A%D8%A7%D9%86-%D8%A7%D9%84-%D9%82%D9%84%D9%8A%D9%85-%D9%88-%D8%A8%D9%88%D8%A7%D8%A8%D9%86%D8%A7-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%AC%D9%85%D9%8A%D8%B9",
+   "ts": 1793791865
+  },
+  {
+   "source": "السومرية",
+   "title": "متحف يهودي يفتح أبوابه في بغداد",
+   "link": "https://www.alsumaria.tv/news/localnews/580598/%d9%85%d8%aa%d8%ad%d9%81-%d9%8a%d9%87%d9%88%d8%af%d9%8a-%d9%8a%d9%81%d8%aa%d8%ad-%d8%a3%d8%a8%d9%88%d8%a7%d8%a8%d9%87-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793791783
+  },
   {
    "source": "شفق نيوز",
    "title": "تفعيل برلمان كوردستان.. خطوة نحو إنهاء الانسداد السياسي",
@@ -115,12 +151,6 @@
    "ts": 1793787739
   },
   {
-   "source": "شفق نيوز",
-   "title": "بعد 15 عاماً من الإغلاق.. التكية السليمانية تعود للحياة في دمشق (صور وفيديو)",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%A8%D8%B9%D8%AF-15-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84-%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B5%D9%88%D8%B1-%D9%88%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1793787597
-  },
-  {
    "source": "السومرية",
    "title": "رئيسة برلمان كردستان تحدد الاثنين المقبل موعداً لتقديم مرشحي اللجان البرلمانية",
    "link": "https://www.alsumaria.tv/news/politics/580592/%d8%b1%d8%a6%d9%8a%d8%b3%d8%a9-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d9%83%d8%b1%d8%af%d8%b3%d8%aa%d8%a7%d9%86-%d8%aa%d8%ad%d8%af%d8%af-%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84-%d9%85%d9%88%d8%b9%d8%af%d8%a7%d9%8b-%d9%84%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -151,28 +181,10 @@
    "ts": 1793784613
   },
   {
-   "source": "السومرية",
-   "title": "ارتفاع أسعار الذهب في بغداد.. والمثقال يسجل 950 ألف دينار",
-   "link": "https://www.alsumaria.tv/news/economy/580588/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d9%85%d8%ab%d9%82%d8%a7%d9%84-%d9%8a%d8%b3%d8%ac%d9%84-950-%d8%a3%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793783587
-  },
-  {
    "source": "المدى",
    "title": "الحبس الشديد بحق عالية نصيف جاسم ورائد الجبوري",
    "link": "https://almadapaper.net/459743/",
    "ts": 1793783095
-  },
-  {
-   "source": "السومرية",
-   "title": "النزاهة: الحبس الشديد بحق عالية نصيف ورائد الجبوري وإلزامهما برد 10 مليارات دينار",
-   "link": "https://www.alsumaria.tv/news/politics/580587/%d8%a7%d9%84%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%a7%d9%84%d8%ad%d8%a8%d8%b3-%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af-%d8%a8%d8%ad%d9%82-%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d9%86%d8%b5%d9%8a%d9%81-%d9%88%d8%b1%d8%a7%d8%a6%d8%af-%d8%a7%d9%84%d8%ac%d8%a8%d9%88%d8%b1%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793782890
-  },
-  {
-   "source": "السومرية",
-   "title": "الزيدي يغادر بغداد متوجهاً إلى البحرين في زيارة رسمية",
-   "link": "https://www.alsumaria.tv/news/politics/580586/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%ba%d8%a7%d8%af%d8%b1-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%85%d8%aa%d9%88%d8%ac%d9%87%d8%a7%d9%8b-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%b1%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793782306
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "وزارة الشباب والرياضة: 88 مشروعاً رياضياً متلكئاً في العراق وخطة لإعادة العمل بها",
    "link": "https://almadapaper.net/459735/",
    "ts": 1793779358
-  },
-  {
-   "source": "المدى",
-   "title": "عراق الـ76 مليوناً.. جيل قادم يبحث عن مدرسة ومستشفى ووظيفة!",
-   "link": "https://almadapaper.net/459730/",
-   "ts": 1793776850
-  },
-  {
-   "source": "المدى",
-   "title": "خسارة الأغلبية تضع ترمب أمام كونغرس ديمقراطي والرئيس يتوعد باستخدام الفيتو!",
-   "link": "https://almadapaper.net/459724/",
-   "ts": 1793774081
   }
  ]
 }
