@@ -1,11 +1,41 @@
 {
- "updated": 1793910514,
+ "updated": 1793913531,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "قريباً.. متاحف العراق تجوب دول العالم بعد نصف قرن من التوقف",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%AC%D9%88%D8%A8-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D8%B9%D8%AF-%D9%86%D8%B5%D9%81-%D9%82%D8%B1%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%81",
+   "ts": 1793912573
+  },
+  {
+   "source": "السومرية",
+   "title": "البرلمان التركي يصادق على اتفاقية مكة للدفاع المشترك",
+   "link": "https://www.alsumaria.tv/news/international/580693/%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a-%d9%8a%d8%b5%d8%a7%d8%af%d9%82-%d8%b9%d9%84%d9%89-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d9%85%d9%83%d8%a9-%d9%84%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d8%b4%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793912412
+  },
+  {
+   "source": "السومرية",
+   "title": "في البصرة.. تحذير من مدرسة آيلة للسقوط تضم ألف طالب",
+   "link": "https://www.alsumaria.tv/news/localnews/580692/%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d9%85%d9%86-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a2%d9%8a%d9%84%d8%a9-%d9%84%d9%84%d8%b3%d9%82%d9%88%d8%b7-%d8%aa%d8%b6%d9%85-%d8%a3%d9%84%d9%81-%d8%b7%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793912280
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أسعار النفط ترتفع 4%",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-4",
+   "ts": 1793911477
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "كردستان، بعد قرار الحزب الديمقراطي الكوردستاني تفعيل البرلمان",
+   "link": "https://shafaq.com/ar/%D9%85%D9%82%D9%80%D8%A7%D9%84%D8%A7%D8%AA/%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86",
+   "ts": 1793910680
+  },
   {
    "source": "السومرية",
    "title": "إخماد حريق داخل فرن في بغداد",
@@ -121,28 +151,10 @@
    "ts": 1793901475
   },
   {
-   "source": "شفق نيوز",
-   "title": "نيويورك تايمز: إيران تبدي انفتاحاً على المفاوضات النووية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%A8%D8%AF%D9%8A-%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9",
-   "ts": 1793900884
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الزيدي يبحث مع ترمب الاستقرار في المنطقة و\"سيادة الدول\"",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%AA%D8%B1%D9%85%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84",
-   "ts": 1793900452
-  },
-  {
    "source": "السومرية",
    "title": "الزيدي وترامب يؤكدان أهمية التنسيق والتشاور بين البلدين إزاء التحديات الراهنة",
    "link": "https://www.alsumaria.tv/news/politics/580684/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%88%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%a4%d9%83%d8%af%d8%a7%d9%86-%d8%a3%d9%87%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82-%d9%88%d8%a7%d9%84%d8%aa%d8%b4%d8%a7%d9%88%d8%b1-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793900372
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "دهوك يحقق فوزا قاتلا على الموصل في نجوم العراق",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%87%D9%88%D9%83-%D9%8A%D8%AD%D9%82%D9%82-%D9%81%D9%88%D8%B2%D8%A7-%D9%82%D8%A7%D8%AA%D9%84%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A-%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1793900322
   },
   {
    "source": "المدى",
@@ -163,22 +175,10 @@
    "ts": 1793898600
   },
   {
-   "source": "السومرية",
-   "title": "ضبط 25 كغم من المخدرات والقبض على تاجرين اجنبيين في المياه الاقليمية",
-   "link": "https://www.alsumaria.tv/news/localnews/580681/%d8%b6%d8%a8%d8%b7-25-%d9%83%d8%ba%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%aa%d8%a7%d8%ac%d8%b1%d9%8a%d9%86-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a%d9%8a%d9%86-%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793898528
-  },
-  {
    "source": "المدى",
    "title": "الكهرباء يهزم زاخو والميناء يتعادل مع ديالى",
    "link": "https://almadapaper.net/459950/",
    "ts": 1793898354
-  },
-  {
-   "source": "السومرية",
-   "title": "4 تريليونات دولار تبخرت في 100 دقيقة.. زلزال يضرب الاسواق الامريكية",
-   "link": "https://www.alsumaria.tv/news/economy/580680/4-%d8%aa%d8%b1%d9%8a%d9%84%d9%8a%d9%88%d9%86%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%aa%d8%a8%d8%ae%d8%b1%d8%aa-%d9%81%d9%8a-100-%d8%af%d9%82%d9%8a%d9%82%d8%a9-%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d9%8a%d8%b6%d8%b1%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793898164
   },
   {
    "source": "المدى",
