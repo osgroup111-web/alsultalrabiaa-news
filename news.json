@@ -1,11 +1,65 @@
 {
- "updated": 1793904170,
+ "updated": 1793907431,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "\"لن تُراق الدماء\".. بافل طالباني يوضح دوافع انسحاب الاتحاد من حكومة كوردستان",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%84%D9%86-%D8%AA-%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%85%D8%A7-%D8%A8%D8%A7%D9%81%D9%84-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%88%D8%B6%D8%AD-%D8%AF%D9%88%D8%A7%D9%81%D8%B9-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%85%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
+   "ts": 1793907010
+  },
+  {
+   "source": "المدى",
+   "title": "واشنطن: إقليم كردستان ركيزة أساسية في علاقاتنا مع العراق",
+   "link": "https://almadapaper.net/459962/",
+   "ts": 1793906912
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أسوشيتد برس: واشنطن أجرت محادثات سرية مع طهران لترحيل إيرانيين خلال الحرب",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%88%D8%B4%D9%8A%D8%AA%D8%AF-%D8%A8%D8%B1%D8%B3-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AC%D8%B1%D8%AA-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B3%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%84%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+   "ts": 1793906558
+  },
+  {
+   "source": "السومرية",
+   "title": "طالباني يقرر الانسحاب من حكومة إقليم كردستان",
+   "link": "https://www.alsumaria.tv/news/politics/580688/%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a-%d9%8a%d9%82%d8%b1%d8%b1-%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d9%85%d9%86-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a5%d9%82%d9%84%d9%8a%d9%85-%d9%83%d8%b1%d8%af%d8%b3%d8%aa%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793906040
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد اتصال ترمب.. الزيدي يستقبل باراك في بغداد",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D8%B1%D9%85%D8%A8-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+   "ts": 1793905831
+  },
+  {
+   "source": "السومرية",
+   "title": "ثمانية قتلى بهجمات مسلحة في تركيا",
+   "link": "https://www.alsumaria.tv/news/international/580687/%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d9%82%d8%aa%d9%84%d9%89-%d8%a8%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d9%85%d8%b3%d9%84%d8%ad%d8%a9-%d9%81%d9%8a-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793905320
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مقتل وإصابة 9 أشخاص في سلسلة هجمات بولاية تركية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D9%82%D8%AA%D9%84-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-9-%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A8%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+   "ts": 1793905213
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "فصائل العراق بين 3 محاور تتنافس إقليمياً.. هل خسرت أميركا مكانتها؟",
+   "link": "https://shafaq.com/ar/%D8%AA%D8%B1%D8%AC%D9%85%D8%A7%D8%AA/%D9%81%D8%B5%D8%A7-%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D9%8A%D9%86-3-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%AA%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A7-%D9%87%D9%84-%D8%AE%D8%B3%D8%B1%D8%AA-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%85%D9%83%D8%A7%D9%86%D8%AA%D9%87%D8%A7",
+   "ts": 1793905192
+  },
+  {
+   "source": "المدى",
+   "title": "تعثر «آيفون ديو» ينعش مبيعات «غالاكسي زد فولد 8»",
+   "link": "https://almadapaper.net/459959/",
+   "ts": 1793904533
+  },
   {
    "source": "السومرية",
    "title": "\"مقترحات ملموسة\".. انفراجة محتملة في مفاوضات طهران وواشنطن",
@@ -109,18 +163,6 @@
    "ts": 1793897967
   },
   {
-   "source": "شفق نيوز",
-   "title": "بسماية.. إطلاق 111 مليون دولار لشركة \"هانوا\" تمهيداً لتسليم 8 آلاف شقة",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A8%D8%B3%D9%85%D8%A7%D9%8A%D8%A9-%D8%B7%D9%84%D8%A7%D9%82-111-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D9%87%D9%86%D9%88%D8%A7-%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85-8-%D9%84%D8%A7%D9%81-%D8%B4%D9%82%D8%A9",
-   "ts": 1793897900
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "مقبرة \"أم خشم\".. شاهد على تاريخ المسيحيين في النجف القديمة (صور)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%82%D8%A8%D8%B1%D8%A9-%D9%85-%D8%AE%D8%B4%D9%85-%D8%B4%D8%A7%D9%87%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D8%B5%D9%88%D8%B1",
-   "ts": 1793897788
-  },
-  {
    "source": "السومرية",
    "title": "وعدها بالذهاب للكنيسة سوية وسرق اموالها.. السجن (6) سنوات لمتهم استغل امرأة ببغداد",
    "link": "https://www.alsumaria.tv/news/localnews/580679/%d9%88%d8%b9%d8%af%d9%87%d8%a7-%d8%a8%d8%a7%d9%84%d8%b0%d9%87%d8%a7%d8%a8-%d9%84%d9%84%d9%83%d9%86%d9%8a%d8%b3%d8%a9-%d8%b3%d9%88%d9%8a%d8%a9-%d9%88%d8%b3%d8%b1%d9%82-%d8%a7%d9%85%d9%88%d8%a7%d9%84%d9%87%d8%a7-%d8%a7%d9%84%d8%b3%d8%ac%d9%86-6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -133,28 +175,10 @@
    "ts": 1793897240
   },
   {
-   "source": "شفق نيوز",
-   "title": "نجوم العراق.. فوز الكهرباء على زاخو وتعادل الميناء وديالى",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7-%D8%B9%D9%84%D9%89-%D8%B2%D8%A7%D8%AE%D9%88-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D9%86%D8%A7-%D9%88%D8%AF%D9%8A%D8%A7%D9%84%D9%89",
-   "ts": 1793896152
-  },
-  {
    "source": "المدى",
    "title": "الخطوط العراقية تستأنف رحلاتها إلى بكين منتصف تشرين الثاني",
    "link": "https://almadapaper.net/459947/",
    "ts": 1793895826
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الجيش اليمني يعلن \"تحييد\" 440 حوثياً والسعودية تعترض مسيّرة",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A-%D9%8A%D9%82%D8%AA%D9%84-440-%D8%AD%D9%88%D8%AB%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6-%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9",
-   "ts": 1793895411
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بغداد والناصرية.. الكهرباء تودي بحياة عاملين وكلب يعض مسؤولاً في مركز للأورام",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7-%D8%AA%D9%88%D8%AF%D9%8A-%D8%A8%D8%AD%D9%8A%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D9%88%D9%83%D9%84%D8%A8-%D9%8A%D8%B9%D8%B6-%D9%85%D8%B3-%D9%88%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84-%D9%88%D8%B1%D8%A7%D9%85",
-   "ts": 1793893947
   },
   {
    "source": "المدى",
@@ -167,18 +191,6 @@
    "title": "ماذا فعلت جورجينا بعد إعلان كريستيانو رونالدو الاعتزال",
    "link": "https://www.alsumaria.tv/Entertainment-News/580677/sports/%d9%85%d8%a7%d8%b0%d8%a7-%d9%81%d8%b9%d9%84%d8%aa-%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d8%a7%d9%84%d8%a7%d8%b9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793891877
-  },
-  {
-   "source": "السومرية",
-   "title": "فرنسا.. الاحتجاجات تتصاعد وليون تسجل أكبر تظاهرة منذ انطلاقها",
-   "link": "https://www.alsumaria.tv/news/international/580676/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%aa%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d9%88%d9%84%d9%8a%d9%88%d9%86-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a3%d9%83%d8%a8%d8%b1-%d8%aa%d8%b8%d8%a7%d9%87%d8%b1%d8%a9-%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793891877
-  },
-  {
-   "source": "السومرية",
-   "title": "القاضي زيدان وتوم باراك يبحثان نتائج تعزيز العلاقات القضائية بين البلدين",
-   "link": "https://www.alsumaria.tv/news/politics/580675/%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a-%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%88%d8%aa%d9%88%d9%85-%d8%a8%d8%a7%d8%b1%d8%a7%d9%83-%d9%8a%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793891259
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "تراجع أسعار النفط لليوم الرابع عقب نتائج الانتخابات الأمريكية",
    "link": "https://almadapaper.net/459934/",
    "ts": 1793884848
-  },
-  {
-   "source": "المدى",
-   "title": "«ضربة قاضية» لترمب أم قراءة مبالغ بها عراقياً؟",
-   "link": "https://almadapaper.net/459926/",
-   "ts": 1793883847
-  },
-  {
-   "source": "المدى",
-   "title": "الحرس الثوري يعلن احتراق ناقلتي نفط وقاطرة بمضيق هرمز",
-   "link": "https://almadapaper.net/459925/",
-   "ts": 1793883327
   }
  ]
 }
