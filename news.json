@@ -1,11 +1,71 @@
 {
- "updated": 1793968735,
+ "updated": 1793973172,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "إصابة خطيرة تنهي مشاركة العراقي حسين صالح في أولمبياد داكار للشباب",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D8%AA%D9%86%D9%87%D9%8A-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%AD%D8%B3%D9%8A%D9%86-%D8%B5%D8%A7%D9%84%D8%AD-%D9%81%D9%8A-%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%AF%D8%A7%D9%83%D8%A7%D8%B1-%D9%84%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
+   "ts": 1793972712
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "شارع يعزف \"أي رقيب\".. تجربة موسيقية فريدة على طرق كوردستان (صور + فيديو)",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B4%D8%A7%D8%B1%D8%B9-%D9%8A%D8%B9%D8%B2%D9%81-%D9%8A-%D8%B1%D9%82%D9%8A%D8%A8-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A%D8%A9-%D9%81%D8%B1%D9%8A%D8%AF%D8%A9-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%82-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B5%D9%88%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+   "ts": 1793972472
+  },
+  {
+   "source": "السومرية",
+   "title": "إخلاء مؤسسات إعلامية في أيرلندا بعد تهديد بوجود قنبلة",
+   "link": "https://www.alsumaria.tv/news/international/580724/%d8%a5%d8%ae%d9%84%d8%a7%d8%a1-%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d9%8a%d8%b1%d9%84%d9%86%d8%af%d8%a7-%d8%a8%d8%b9%d8%af-%d8%aa%d9%87%d8%af%d9%8a%d8%af-%d8%a8%d9%88%d8%ac%d9%88%d8%af-%d9%82%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793972472
+  },
+  {
+   "source": "المدى",
+   "title": "اتحاد الكرة يبحث مع فيفا تطوير كرة القدم النسوية",
+   "link": "https://almadapaper.net/459994/",
+   "ts": 1793971107
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ليلة غزيرة المطر في العراق وتحذيرات من سيول بعدة محافظات",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%84%D9%8A%D9%84%D8%A9-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%B3%D9%8A%D9%88%D9%84-%D8%A8%D8%B9%D8%AF%D8%A9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+   "ts": 1793971104
+  },
+  {
+   "source": "السومرية",
+   "title": "النقل: الأجواء العراقية مفتوحة ولا قيود على حركة الطيران",
+   "link": "https://www.alsumaria.tv/news/localnews/580723/%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d8%ac%d9%88%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%88%d9%84%d8%a7-%d9%82%d9%8a%d9%88%d8%af-%d8%b9%d9%84%d9%89-%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793970844
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "شاب من طوزخورماتو ينهي حياته خلال بث مباشر على \"تيك توك\"",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B7%D9%88%D8%B2%D8%AE%D9%88%D8%B1%D9%85%D8%A7%D8%AA%D9%88-%D9%8A%D9%86%D9%87%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-%D8%AE%D9%84%D8%A7%D9%84-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83",
+   "ts": 1793970752
+  },
+  {
+   "source": "السومرية",
+   "title": "إصابة امرأة بجروح خطيرة على يد زوجها إثر مشاجرة في بغداد",
+   "link": "https://www.alsumaria.tv/news/security/580722/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d8%a8%d8%ac%d8%b1%d9%88%d8%ad-%d8%ae%d8%b7%d9%8a%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d9%8a%d8%af-%d8%b2%d9%88%d8%ac%d9%87%d8%a7-%d8%a5%d8%ab%d8%b1-%d9%85%d8%b4%d8%a7%d8%ac%d8%b1%d8%a9-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793970716
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ضمن خطة استباقية.. انتشار أمني واسع في شوارع كركوك",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%B6%D9%85%D9%86-%D8%AE%D8%B7%D8%A9-%D8%A7%D8%B3%D8%AA%D8%A8%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%85%D9%86%D9%8A-%D9%88%D8%A7%D8%B3%D8%B9-%D9%81%D9%8A-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D9%83%D8%B1%D9%83%D9%88%D9%83",
+   "ts": 1793970046
+  },
+  {
+   "source": "السومرية",
+   "title": "تركيا: إعادة تشغيل خط كركوك – بانياس لا تهدد اقتصادنا",
+   "link": "https://www.alsumaria.tv/news/economy/580721/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d8%ae%d8%b7-%d9%83%d8%b1%d9%83%d9%88%d9%83-%e2%80%93-%d8%a8%d8%a7%d9%86%d9%8a%d8%a7%d8%b3-%d9%84%d8%a7-%d8%aa%d9%87%d8%af%d8%af-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793969631
+  },
   {
    "source": "المدى",
    "title": "النزاهة تضبط 3 مسؤولين في كهرباء ميسان بتهمة الاستحواذ على 390 مليون دينار",
@@ -103,12 +163,6 @@
    "ts": 1793961123
   },
   {
-   "source": "شفق نيوز",
-   "title": "بمشاركة عراقية.. الإمارات تطيح بشبكة مخدرات دولية وتعتقل 20 متهماً",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%AA%D9%82%D9%84-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7",
-   "ts": 1793960958
-  },
-  {
    "source": "السومرية",
    "title": "مقتل منتسب في الداخلية طعناً بسكاكين خلال مشاجرة في بغداد",
    "link": "https://www.alsumaria.tv/news/security/580714/%d9%85%d9%82%d8%aa%d9%84-%d9%85%d9%86%d8%aa%d8%b3%d8%a8-%d9%81%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%b7%d8%b9%d9%86%d8%a7%d9%8b-%d8%a8%d8%b3%d9%83%d8%a7%d9%83%d9%8a%d9%86-%d8%ae%d9%84%d8%a7%d9%84-%d9%85%d8%b4%d8%a7%d8%ac%d8%b1%d8%a9-%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -121,58 +175,10 @@
    "ts": 1793960713
   },
   {
-   "source": "شفق نيوز",
-   "title": "مقتل منتسب أمني جنوبي بغداد وشرطة نينوى تلاحق قاتل عنصر بالحشد",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D9%86%D8%AA%D8%B3%D8%A8-%D9%85%D9%86%D9%8A-%D8%B7%D8%B9%D9%86%D8%A7-%D8%A8%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%83%D9%8A%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-   "ts": 1793960565
-  },
-  {
-   "source": "السومرية",
-   "title": "حصر السلاح خلال تشرين الأول.. تسجيل أسلحة أكثر من 38 ألف مواطن وضبط 4 آلاف قطعة",
-   "link": "https://www.alsumaria.tv/news/security/580712/%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d8%ad-%d8%ae%d9%84%d8%a7%d9%84-%d8%aa%d8%b4%d8%b1%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%a3%d8%b3%d9%84%d8%ad%d8%a9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793960430
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"مأسسة\" الإطار التنسيقي.. تحول تنظيمي أم تقييد للمناورة السياسية؟",
-   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D9%85-%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84-%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D8%AA%D8%AD%D9%88%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A-%D9%85-%D8%AA%D9%82%D9%8A%D9%8A%D8%AF-%D9%84%D9%84%D9%85%D9%86%D8%A7%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9",
-   "ts": 1793960180
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تغييرات مرتقبة في الممرات الجوية الإقليمية للعراق بسبب نشاط عسكري غير معلن",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%85%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84-%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%86%D8%B4%D8%A7%D8%B7-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D9%84%D9%86",
-   "ts": 1793960005
-  },
-  {
    "source": "المدى",
    "title": "الأمن الوطني يضبط طائرة مسيّرة تحمل مقذوفاً حربياً في كركوك",
    "link": "https://almadapaper.net/459983/",
    "ts": 1793959871
-  },
-  {
-   "source": "السومرية",
-   "title": "المرور تعلن قطع طريق الطوز الحولي الرابط بين بغداد وكركوك بسبب السيول",
-   "link": "https://www.alsumaria.tv/news/localnews/580711/%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1-%d8%aa%d8%b9%d9%84%d9%86-%d9%82%d8%b7%d8%b9-%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%b7%d9%88%d8%b2-%d8%a7%d9%84%d8%ad%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7-%d8%a8%d9%8a%d9%86-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793959547
-  },
-  {
-   "source": "السومرية",
-   "title": "القبانجي يدعو الحكومة لمواجهة \"الهالوين\" ويتحدث عن ملفات كردستان واحتجاجات البصرة",
-   "link": "https://www.alsumaria.tv/news/localnews/580710/%d8%a7%d9%84%d9%82%d8%a8%d8%a7%d9%86%d8%ac%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-quot%d8%a7%d9%84%d9%87%d8%a7%d9%84%d9%88%d9%8a%d9%86quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793958685
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"الفاو\" تعلن تراجع أسعار المواد الغذائية عالمياً في تشرين الأول الماضي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%81%D8%A7%D9%88-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7-%D9%8A%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84-%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A",
-   "ts": 1793958337
-  },
-  {
-   "source": "السومرية",
-   "title": "ضبط طائرة مسيّرة تحمل مقذوفاً حربياً في كركوك",
-   "link": "https://www.alsumaria.tv/news/security/580709/%d8%b6%d8%a8%d8%b7-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%85%d8%b3%d9%8a%d9%91%d8%b1%d8%a9-%d8%aa%d8%ad%d9%85%d9%84-%d9%85%d9%82%d8%b0%d9%88%d9%81%d8%a7%d9%8b-%d8%ad%d8%b1%d8%a8%d9%8a%d8%a7%d9%8b-%d9%81%d9%8a-%d9%83%d8%b1%d9%83%d9%88%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793957073
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "الذهب يتراجع إلى 4040 دولاراً للأونصة",
    "link": "https://almadapaper.net/459968/",
    "ts": 1793948565
-  },
-  {
-   "source": "المدى",
-   "title": "وزير الحرب الأميركي رداً على الحديث عن عزله: بدأنا القتال للتو وسنواصل ما بدأناه",
-   "link": "https://almadapaper.net/459965/",
-   "ts": 1793945041
   }
  ]
 }
