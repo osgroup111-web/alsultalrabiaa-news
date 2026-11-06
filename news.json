@@ -1,11 +1,53 @@
 {
- "updated": 1793982622,
+ "updated": 1793986233,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "العملية تمت بواسط.. القبض على 7 متهمين بالقتل في بغداد",
+   "link": "https://www.alsumaria.tv/news/localnews/580742/%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%aa%d9%85%d8%aa-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-7-%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d9%82%d8%aa%d9%84-%d9%81%d9%8a-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793985739
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الجيش اليمني يعلن تحييد 387 حوثياً",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%AD%D9%8A%D9%8A%D8%AF-387-%D8%AD%D9%88%D8%AB%D9%8A%D8%A7",
+   "ts": 1793985184
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "نفط البصرة يتجاوز واسط بفارق هدف في دوري النخبة لكرة اليد",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%88%D8%A7%D8%B3%D8%B7-%D8%A8%D9%81%D8%A7%D8%B1%D9%82-%D9%87%D8%AF%D9%81-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AE%D8%A8%D8%A9-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%8A%D8%AF",
+   "ts": 1793984976
+  },
+  {
+   "source": "المدى",
+   "title": "الطلبة يخطف التعادل أمام غاز الشمال في الثواني الأخيرة",
+   "link": "https://almadapaper.net/460012/",
+   "ts": 1793984330
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مقتل 4 أشخاص إثر مشاجرة \"جيران\" واعتقال القاتل جنوبي بغداد",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%82%D8%AA%D9%84-4-%D8%B4%D8%AE%D8%A7%D8%B5-%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%AC%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+   "ts": 1793984073
+  },
+  {
+   "source": "السومرية",
+   "title": "مقتل 4 أشخاص بإطلاق نار إثر مشاجرة بين جيران في بغداد",
+   "link": "https://www.alsumaria.tv/news/security/580741/%d9%85%d9%82%d8%aa%d9%84-4-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a8%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%86%d8%a7%d8%b1-%d8%a5%d8%ab%d8%b1-%d9%85%d8%b4%d8%a7%d8%ac%d8%b1%d8%a9-%d8%a8%d9%8a%d9%86-%d8%ac%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d9%8a-%d8%a8%d8%ba?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793983418
+  },
+  {
+   "source": "السومرية",
+   "title": "ميسان.. اعتقال 54 متهماً وضبط نحو 5 كيلوغرامات من المخدرات",
+   "link": "https://www.alsumaria.tv/news/security/580740/%d9%85%d9%8a%d8%b3%d8%a7%d9%86-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-54-%d9%85%d8%aa%d9%87%d9%85%d8%a7%d9%8b-%d9%88%d8%b6%d8%a8%d8%b7-%d9%86%d8%ad%d9%88-5-%d9%83%d9%8a%d9%84%d9%88%d8%ba%d8%b1%d8%a7%d9%85%d8%a7%d8%aa-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1793981905
+  },
   {
    "source": "شفق نيوز",
    "title": "نينوى وذي قار.. امرأة تقتل طليقها و7 إصابات نتيجة شجار مسلح",
@@ -115,22 +157,10 @@
    "ts": 1793976530
   },
   {
-   "source": "شفق نيوز",
-   "title": "خانقين تستعين بمنظمة دولية لإنعاش شبكة الكهرباء في مركزها التجاري",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AE%D8%A7%D9%86%D9%82%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84-%D9%86%D8%B9%D8%A7%D8%B4-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7-%D9%81%D9%8A-%D9%85%D8%B1%D9%83%D8%B2%D9%87%D8%A7-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
-   "ts": 1793975950
-  },
-  {
    "source": "السومرية",
    "title": "خلال ساعة.. اعتقال متهمين بسرقة 15.5 مليون دينار ومصوغات ذهبية من منزل في القائم",
    "link": "https://www.alsumaria.tv/news/security/580733/%d8%ae%d9%84%d8%a7%d9%84-%d8%b3%d8%a7%d8%b9%d8%a9-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a8%d8%b3%d8%b1%d9%82%d8%a9-155-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%8a%d9%86%d8%a7%d8%b1-%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793975847
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بالأرقام.. التوغلات الإسرائيلية في الأراضي السورية خلال 2026",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%A7%D9%84-%D8%B1%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84-%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-2026",
-   "ts": 1793975671
   },
   {
    "source": "المدى",
@@ -149,30 +179,6 @@
    "title": "165 ألف وظيفة جديدة في أميركا خلال تشرين الاول.. والبطالة تستقر عند 4.1%",
    "link": "https://www.alsumaria.tv/news/international/580731/165-%d8%a3%d9%84%d9%81-%d9%88%d8%b8%d9%8a%d9%81%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d8%a7-%d8%ae%d9%84%d8%a7%d9%84-%d8%aa%d8%b4%d8%b1%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1793975149
-  },
-  {
-   "source": "السومرية",
-   "title": "تهديدات بوجود متفجرات تستهدف 8 رحلات جوية في مطار براغ",
-   "link": "https://www.alsumaria.tv/news/international/580730/%d8%aa%d9%87%d8%af%d9%8a%d8%af%d8%a7%d8%aa-%d8%a8%d9%88%d8%ac%d9%88%d8%af-%d9%85%d8%aa%d9%81%d8%ac%d8%b1%d8%a7%d8%aa-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81-8-%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%ac%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b7%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793974992
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "إيران تعلن تدمير مسيّرة أميركية من طراز MQ-1 في أجواء جزيرة قشم",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D8%A7%D8%B2-MQ-1-%D9%81%D9%8A-%D8%AC%D9%88%D8%A7-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85",
-   "ts": 1793974812
-  },
-  {
-   "source": "السومرية",
-   "title": "التحالف بقيادة السعودية يعلن اعتراض مسيّرة في منطقة مكة المكرمة",
-   "link": "https://www.alsumaria.tv/news/international/580729/%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a8%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6-%d9%85%d8%b3%d9%8a%d9%91%d8%b1%d8%a9-%d9%81%d9%8a-%d9%85%d9%86%d8%b7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793974811
-  },
-  {
-   "source": "السومرية",
-   "title": "اعتقال 3 أشخاص بحوزتهم 35 صاروخاً باتجاه محافظة بابل",
-   "link": "https://www.alsumaria.tv/news/security/580728/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-3-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a8%d8%ad%d9%88%d8%b2%d8%aa%d9%87%d9%85-35-%d8%b5%d8%a7%d8%b1%d9%88%d8%ae%d8%a7%d9%8b-%d8%a8%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%a9-%d8%a8%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1793974669
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "موازنة بـ217 تريليون دينار وعجز بـ43 تريليوناً.. أرقام تثير الشكوك في العراق!",
    "link": "https://almadapaper.net/459986/",
    "ts": 1793962934
-  },
-  {
-   "source": "المدى",
-   "title": "الأمن الوطني يضبط طائرة مسيّرة تحمل مقذوفاً حربياً في كركوك",
-   "link": "https://almadapaper.net/459983/",
-   "ts": 1793959871
   }
  ]
 }
