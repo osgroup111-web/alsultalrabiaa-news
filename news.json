@@ -1,5 +1,5 @@
 {
- "updated": 1794077566,
+ "updated": 1794080031,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,10 +7,52 @@
  ],
  "items": [
   {
+   "source": "شفق نيوز",
+   "title": "إسرائيل.. تكليف زعيم المعارضة آيزنكوت رسمياً بتشكيل الحكومة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%B2%D8%B9%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9",
+   "ts": 1794079969
+  },
+  {
    "source": "السومرية",
-   "title": "صلاح الدين تقرر تعطيل دوام المدارس ليوم غد",
-   "link": "https://www.alsumaria.tv/news/localnews/580801/%d8%b5%d9%84%d8%a7%d8%ad-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d8%b9%d8%b7%d9%8a%d9%84-%d8%af%d9%88%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d9%84%d9%8a%d9%88%d9%85-%d8%ba%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794076845
+   "title": "تكليف آيزنكوت بتشكيل الحكومة الإسرائيلية",
+   "link": "https://www.alsumaria.tv/news/international/580804/%d8%aa%d9%83%d9%84%d9%8a%d9%81-%d8%a2%d9%8a%d8%b2%d9%86%d9%83%d9%88%d8%aa-%d8%a8%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794079542
+  },
+  {
+   "source": "السومرية",
+   "title": "محافظات عراقية تقرر تعطيل دوام المدارس ليوم غد",
+   "link": "https://www.alsumaria.tv/news/localnews/580801/%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d8%b9%d8%b7%d9%8a%d9%84-%d8%af%d9%88%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d9%84%d9%8a%d9%88%d9%85-%d8%ba%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794079440
+  },
+  {
+   "source": "السومرية",
+   "title": "تسجيل هزة أرضية بقوة شمال مدينة السليمانية",
+   "link": "https://www.alsumaria.tv/news/localnews/580802/%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%87%d8%b2%d8%a9-%d8%a3%d8%b1%d8%b6%d9%8a%d8%a9-%d8%a8%d9%82%d9%88%d8%a9-%d8%b4%d9%85%d8%a7%d9%84-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794078483
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "هزة أرضية تضرب شمال السليمانية دون أضرار",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%87%D8%B2%D8%A9-%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AF%D9%88%D9%86-%D8%B6%D8%B1%D8%A7%D8%B1",
+   "ts": 1794078421
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"الكتائب\" تهاجم شقيق الزيدي: عقودنا الاستثمارية هدية لك \"إن صحت\"",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D9%83%D8%AA%D8%A7-%D8%A8-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%B4%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%B9%D9%82%D9%88%D8%AF%D9%86%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%87%D8%AF%D9%8A%D8%A9-%D9%84%D9%83-%D9%86-%D8%B5%D8%AD%D8%AA",
+   "ts": 1794078393
+  },
+  {
+   "source": "المدى",
+   "title": "كتائب حزب الله تهاجم الزيدي وتطالب بالتحقيق في «إمبراطورية مالية»",
+   "link": "https://almadapaper.net/460102/",
+   "ts": 1794078301
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تظاهرات في تل أبيب للمطالبة بتشكيل حكومة من عرب إسرائيل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D9%84-%D8%A8%D9%8A%D8%A8-%D9%84%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%85%D9%86-%D8%B9%D8%B1%D8%A8-%D8%A7%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84",
+   "ts": 1794078134
   },
   {
    "source": "شفق نيوز",
@@ -32,7 +74,7 @@
   },
   {
    "source": "شفق نيوز",
-   "title": "كركوك وصلاح الدين وممثلية أربيل تعطل دوام المدارس ليوم غد الأحد (تحديث)",
+   "title": "كركوك وصلاح الدين وذي قار وممثليات أربيل والسليمانية تعطل دوام المدارس ليوم غد الأحد (تحديث)",
    "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%84%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84-%D8%AD%D8%AF",
    "ts": 1794075096
   },
@@ -85,18 +127,6 @@
    "ts": 1794073539
   },
   {
-   "source": "شفق نيوز",
-   "title": "دوري النجوم.. الجولان يُسقط الزوراء بثلاثية نظيفة في عقر داره",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D9%8A-%D8%B3%D9%82%D8%B7-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%86%D8%B8%D9%8A%D9%81%D8%A9-%D9%81%D9%8A-%D8%B9%D9%82%D8%B1-%D8%AF%D8%A7%D8%B1%D9%87",
-   "ts": 1794072625
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بغداد وأربيل تفوضان مديريات التربية تعطيل المدارس وفقاً لمخاطر الامطار (تحديث)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3",
-   "ts": 1794071857
-  },
-  {
    "source": "السومرية",
    "title": "التربية تصدر توجيهاً بشأن تعطيل دوام مدارس المحافظات التي تشهد فيضانات",
    "link": "https://www.alsumaria.tv/news/localnews/580798/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b5%d8%af%d8%b1-%d8%aa%d9%88%d8%ac%d9%8a%d9%87%d8%a7%d9%8b-%d8%a8%d8%b4%d8%a3%d9%86-%d8%aa%d8%b9%d8%b7%d9%8a%d9%84-%d8%af%d9%88%d8%a7%d9%85-%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%81%d8%b8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -127,22 +157,10 @@
    "ts": 1794070575
   },
   {
-   "source": "شفق نيوز",
-   "title": "مرتبطة بالفصائل.. شفق نيوز تنشر نسخ من العقود الملغاة في مطار الموصل",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8%D8%A7%D9%84%D9%81%D8%B5%D8%A7-%D9%84-%D8%B4%D9%81%D9%82-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D9%86%D8%B4%D8%B1-%D9%86%D8%B3%D8%AE-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D9%84%D8%BA%D8%A7%D8%A9-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84",
-   "ts": 1794068344
-  },
-  {
    "source": "السومرية",
    "title": "توجيه حكومي بإلغاء عقود 3 شركات في مطار الموصل لارتباطها بجهات مسلحة",
    "link": "https://www.alsumaria.tv/news/security/580794/%d8%aa%d9%88%d8%ac%d9%8a%d9%87-%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d8%a8%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-%d8%b9%d9%82%d9%88%d8%af-3-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b5%d9%84-%d9%84%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794068222
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق يفتح تصدير محصول الشلب إلى الأسواق الخارجية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%81%D8%AA%D8%AD-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D8%AD%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D9%84%D8%A8-%D9%84%D9%89-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9",
-   "ts": 1794068164
   },
   {
    "source": "السومرية",
@@ -169,22 +187,10 @@
    "ts": 1794065246
   },
   {
-   "source": "السومرية",
-   "title": "شركة طيران فرنسية تفاجئ رونالدو.. ماذا فعلت؟",
-   "link": "https://www.alsumaria.tv/news/international/580791/%d8%b4%d8%b1%d9%83%d8%a9-%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-%d8%aa%d9%81%d8%a7%d8%ac%d8%a6-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%85%d8%a7%d8%b0%d8%a7-%d9%81%d8%b9%d9%84%d8%aa%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794064111
-  },
-  {
    "source": "المدى",
    "title": "«البوابة الحديدية».. واشنطن توسع حصار إيران إلى البر وبحر قزوين",
    "link": "https://almadapaper.net/460085/",
    "ts": 1794062663
-  },
-  {
-   "source": "السومرية",
-   "title": "مدير مجاري كربلاء: أمطار نصف ساعة تجاوزت الطاقة الاستيعابية لمنظومة التصريف",
-   "link": "https://www.alsumaria.tv/news/localnews/580790/%d9%85%d8%af%d9%8a%d8%b1-%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d9%83%d8%b1%d8%a8%d9%84%d8%a7%d8%a1-%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d9%86%d8%b5%d9%81-%d8%b3%d8%a7%d8%b9%d8%a9-%d8%aa%d8%ac%d8%a7%d9%88%d8%b2%d8%aa-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794062522
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "واشنطن تلوّح بضرب الفصائل العراقية وإلغاء دعمها للحكومة",
    "link": "https://almadapaper.net/460073/",
    "ts": 1794056707
-  },
-  {
-   "source": "المدى",
-   "title": "850 عملية أمنية في محطات باريس ودعوة لإضراب تعليمي الثلاثاء",
-   "link": "https://almadapaper.net/460070/",
-   "ts": 1794054791
   }
  ]
 }
