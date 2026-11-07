@@ -1,11 +1,41 @@
 {
- "updated": 1794082484,
+ "updated": 1794084850,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "أربيل: مصرع شاب وفقدان طفل جراء الفيضانات",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A8%D9%8A%D9%84-%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%A7%D8%A8-%D9%88%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%B7%D9%81%D9%84-%D8%AC%D8%B1%D8%A7-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+   "ts": 1794084458
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "شمال البصرة.. الزيدي يرسل وفداً ويطلب تقريراً خلال 48 ساعة",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B1%D8%B3%D9%84-%D9%88%D9%81%D8%AF%D8%A7-%D9%88%D9%8A%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-48-%D8%B3%D8%A7%D8%B9%D8%A9",
+   "ts": 1794083771
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعمر 59 عاماً.. \"الملك كازو\" يكسر رقماً قياسياً كأكبر مشارك بالدوري الياباني",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A8%D8%B9%D9%85%D8%B1-59-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D9%83%D8%A7%D8%B2%D9%88-%D9%8A%D9%83%D8%B3%D8%B1-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D9%83-%D9%83%D8%A8%D8%B1-%D9%85%D8%B4%D8%A7%D8%B1%D9%83-%D8%A8%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A",
+   "ts": 1794083617
+  },
+  {
+   "source": "السومرية",
+   "title": "توجيه حكومي يخص محافظة البصرة",
+   "link": "https://www.alsumaria.tv/news/localnews/580808/%d8%aa%d9%88%d8%ac%d9%8a%d9%87-%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d9%8a%d8%ae%d8%b5-%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%a9-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794083525
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "كتائب \"سيد الشهداء\" ترد على وزير الخارجية: لم نوقع على وثيقة بشأن سلاحنا",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%83%D8%AA%D8%A7-%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D9%85-%D9%86%D9%88%D9%82%D8%B9-%D8%B9%D9%84%D9%89-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%A8%D8%B4-%D9%86-%D8%B3%D9%84%D8%A7%D8%AD%D9%86%D8%A7",
+   "ts": 1794083235
+  },
   {
    "source": "السومرية",
    "title": "فرنسا تبني مخبأ سريا لماكرون تحسبا لاقتحام الإليزيه",
@@ -50,7 +80,7 @@
   },
   {
    "source": "شفق نيوز",
-   "title": "أربيل تعطل دوام المدارس والجامعات ليوم غد الأحد بسبب غزارة الأمطار",
+   "title": "أربيل والسليمانية تعطلان دوام المدارس والجامعات غداً بسبب غزارة الأمطار (تحديث)",
    "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D9%88%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D9%84%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84-%D8%AD%D8%AF-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%BA%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1",
    "ts": 1794080172
   },
@@ -74,8 +104,8 @@
   },
   {
    "source": "السومرية",
-   "title": "بغداد تحتضن مهرجان العراق الدولي بحضور نجوم عرب",
-   "link": "https://www.alsumaria.tv/news/artculture/580803/%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%aa%d8%ad%d8%aa%d8%b6%d9%86-%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d8%a8%d8%ad%d8%b6%d9%88%d8%b1-%d9%86%d8%ac%d9%88%d9%85-%d8%b9%d8%b1%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "title": "بغداد تحتضن حفل مهرجان العراق الدولي بحضور نجوم عرب",
+   "link": "https://www.alsumaria.tv/news/artculture/580803/%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%aa%d8%ad%d8%aa%d8%b6%d9%86-%d8%ad%d9%81%d9%84-%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d8%a8%d8%ad%d8%b6%d9%88%d8%b1-%d9%86%d8%ac%d9%88%d9%85-%d8%b9%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794078649
   },
   {
@@ -109,34 +139,10 @@
    "ts": 1794078134
   },
   {
-   "source": "شفق نيوز",
-   "title": "العراق يطلق منصة للإبلاغ عن المحتوى الهابط في \"بثوث تيك توك\"",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D9%84-%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D9%87%D8%A7%D8%A8%D8%B7-%D9%81%D9%8A-%D8%A8%D8%AB%D9%88%D8%AB-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83",
-   "ts": 1794076606
-  },
-  {
    "source": "المدى",
    "title": "الجولان يزلزل ملعب النوارس بثلاثية تاريخية في شباك الزوراء",
    "link": "https://almadapaper.net/460099/",
    "ts": 1794076178
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "105 تريليونات دينار بين المخصصات والتحويلات.. حكومة كوردستان تكشف حسابات 12 عاماً مع بغداد",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/105-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%B5%D8%B5%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-12-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D8%B9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-   "ts": 1794076063
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "كركوك وصلاح الدين وذي قار وممثليات أربيل والسليمانية تعطل دوام المدارس ليوم غد الأحد (تحديث)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%84%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84-%D8%AD%D8%AF",
-   "ts": 1794075096
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "البحرين تقرر إعادة سفيرها إلى العراق",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D9%82%D8%B1%D8%B1-%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B3%D9%81%D9%8A%D8%B1%D9%87%D8%A7-%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1794075062
   },
   {
    "source": "السومرية",
@@ -167,12 +173,6 @@
    "title": "الحوثيون يعلنون تنفيذ ست عمليات ضد أهداف سعودية",
    "link": "https://www.alsumaria.tv/news/international/580797/%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%b3%d8%aa-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%b6%d8%af-%d8%a3%d9%87%d8%af%d8%a7%d9%81-%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794071358
-  },
-  {
-   "source": "السومرية",
-   "title": "مباحثات هندية لتوسيع صفقة بيع صواريخ للفلبين",
-   "link": "https://www.alsumaria.tv/news/international/580796/%d9%85%d8%a8%d8%a7%d8%ad%d8%ab%d8%a7%d8%aa-%d9%87%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d8%b5%d9%81%d9%82%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%84%d9%84%d9%81%d9%84%d8%a8%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794071183
   },
   {
    "source": "المدى",
