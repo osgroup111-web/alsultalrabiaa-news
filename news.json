@@ -1,11 +1,41 @@
 {
- "updated": 1794070131,
+ "updated": 1794072372,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الأمطار والسيول.. وزير التربية يوجه المديريات بتقدير تعطيل المدارس",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3",
+   "ts": 1794071857
+  },
+  {
+   "source": "السومرية",
+   "title": "التربية تصدر توجيهاً بشأن تعطيل دوام مدارس المحافظات التي تشهد فيضانات",
+   "link": "https://www.alsumaria.tv/news/localnews/580798/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b5%d8%af%d8%b1-%d8%aa%d9%88%d8%ac%d9%8a%d9%87%d8%a7%d9%8b-%d8%a8%d8%b4%d8%a3%d9%86-%d8%aa%d8%b9%d8%b7%d9%8a%d9%84-%d8%af%d9%88%d8%a7%d9%85-%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%81%d8%b8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794071683
+  },
+  {
+   "source": "السومرية",
+   "title": "الحوثيون يعلنون تنفيذ ست عمليات ضد أهداف سعودية",
+   "link": "https://www.alsumaria.tv/news/international/580797/%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%b3%d8%aa-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%b6%d8%af-%d8%a3%d9%87%d8%af%d8%a7%d9%81-%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794071358
+  },
+  {
+   "source": "السومرية",
+   "title": "أربيل.. الامطار تجبر السلطات على الطلب من المواطنين عدم مغادرة منازلهم",
+   "link": "https://www.alsumaria.tv/news/localnews/580795/%d8%a3%d8%b1%d8%a8%d9%8a%d9%84-%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1-%d8%aa%d8%ac%d8%a8%d8%b1-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b7%d9%84%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794070647
+  },
+  {
+   "source": "المدى",
+   "title": "تفاهمات مع أربع فصائل.. هل يقترب العراق من حصر السلاح؟",
+   "link": "https://almadapaper.net/460093/",
+   "ts": 1794070575
+  },
   {
    "source": "شفق نيوز",
    "title": "مرتبطة بالفصائل.. شفق نيوز تنشر نسخ من العقود الملغاة في مطار الموصل",
@@ -127,12 +157,6 @@
    "ts": 1794062241
   },
   {
-   "source": "شفق نيوز",
-   "title": "بالأسماء والمناصب.. الاتحاد الوطني يبدأ إجراءات الانسحاب من حكومة كوردستان",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%A7%D9%84-%D8%B3%D9%85%D8%A7-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D8%A8%D8%AF-%D8%AC%D8%B1%D8%A7-%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-   "ts": 1794061867
-  },
-  {
    "source": "السومرية",
    "title": "أغنى 10 أثرياء في العالم.. ماسك يخسر وبافيت يتقدم",
    "link": "https://www.alsumaria.tv/news/economy/580788/%d8%a3%d8%ba%d9%86%d9%89-10-%d8%a3%d8%ab%d8%b1%d9%8a%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%85%d8%a7%d8%b3%d9%83-%d9%8a%d8%ae%d8%b3%d8%b1-%d9%88%d8%a8%d8%a7%d9%81%d9%8a%d8%aa-%d9%8a%d8%aa%d9%82%d8%af%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -163,24 +187,6 @@
    "ts": 1794057978
   },
   {
-   "source": "السومرية",
-   "title": "وزير الخارجية: العراق خسر 60 مليار دولار جراء الحرب.. محادثات مستمرة مع الكتائب والنجباء",
-   "link": "https://www.alsumaria.tv/news/security/580785/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%ae%d8%b3%d8%b1-60-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794057804
-  },
-  {
-   "source": "السومرية",
-   "title": "تنويه الى اهالي البصرة.. لا تستغربوا هذه الاصوات",
-   "link": "https://www.alsumaria.tv/news/localnews/580784/%d8%aa%d9%86%d9%88%d9%8a%d9%87-%d8%a7%d9%84%d9%89-%d8%a7%d9%87%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d9%84%d8%a7-%d8%aa%d8%b3%d8%aa%d8%ba%d8%b1%d8%a8%d9%88%d8%a7-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d8%a7%d8%b5%d9%88%d8%a7%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794057499
-  },
-  {
-   "source": "السومرية",
-   "title": "آل ميرزا يكشف موعد إنجاز مشروع مجاري الخالص في ديالى",
-   "link": "https://www.alsumaria.tv/news/localnews/580783/%d8%a2%d9%84-%d9%85%d9%8a%d8%b1%d8%b2%d8%a7-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%b5-%d9%81%d9%8a-%d8%af%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794057227
-  },
-  {
    "source": "المدى",
    "title": "واشنطن تلوّح بضرب الفصائل العراقية وإلغاء دعمها للحكومة",
    "link": "https://almadapaper.net/460073/",
@@ -203,12 +209,6 @@
    "title": "الديمقراطيون يتحركون لإنهاء الرسوم الجمركية والصفقات المغلقة لترامب",
    "link": "https://almadapaper.net/460056/",
    "ts": 1794049256
-  },
-  {
-   "source": "المدى",
-   "title": "مفترس يهدد الثروة السمكية في العراق والزراعة تطلق 155 مليون سمكة لمواجهته",
-   "link": "https://almadapaper.net/460053/",
-   "ts": 1794048780
   }
  ]
 }
