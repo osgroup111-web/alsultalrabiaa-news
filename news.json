@@ -1,11 +1,35 @@
 {
- "updated": 1794163188,
+ "updated": 1794165838,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "زعيم الديمقراطيين في الكونغرس يؤيد عزل وزير الحرب",
+   "link": "https://www.alsumaria.tv/news/international/580871/%d8%b2%d8%b9%d9%8a%d9%85-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d9%88%d9%86%d8%ba%d8%b1%d8%b3-%d9%8a%d8%a4%d9%8a%d8%af-%d8%b9%d8%b2%d9%84-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794164460
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "رئيسة البرلمان الألماني تطالب بتعزيزات أمنية بعد واقعة العلم الفلسطيني",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B1-%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84-%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2%D8%A7%D8%AA-%D9%85%D9%86%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A",
+   "ts": 1794163398
+  },
+  {
+   "source": "المدى",
+   "title": "موازنة 2027.. صراع على الموارد وخشية من تحميل المواطن الكلفة!",
+   "link": "https://almadapaper.net/460279/",
+   "ts": 1794163266
+  },
+  {
+   "source": "السومرية",
+   "title": "روسيا تعلن إسقاط 50 مسيرة أوكرانية خلال 12 ساعة",
+   "link": "https://www.alsumaria.tv/news/international/580870/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b3%d9%82%d8%a7%d8%b7-50-%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%ae%d9%84%d8%a7%d9%84-12-%d8%b3%d8%a7%d8%b9%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794163200
+  },
   {
    "source": "السومرية",
    "title": "بالفيديو.. انهيار جزء من سقف مدرسة في ايران أثناء إجراء اختبار لوقود صاروخي",
@@ -145,18 +169,6 @@
    "ts": 1794153715
   },
   {
-   "source": "السومرية",
-   "title": "الزيدي يعود إلى بغداد بعد زيارة الأنبار وإطلاق تنفيذ 50 ألف قطعة أرض سكنية",
-   "link": "https://www.alsumaria.tv/news/localnews/580859/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a8%d8%b9%d8%af-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%b1-%d9%88%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa%d9%86%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794153162
-  },
-  {
-   "source": "السومرية",
-   "title": "اربيل تباشر بتقييم الاضرار وتؤكد: الأمطار تجاوزت قدرات المدينة وإمكاناتها",
-   "link": "https://www.alsumaria.tv/news/localnews/580858/%d8%a7%d8%b1%d8%a8%d9%8a%d9%84-%d8%aa%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a8%d8%aa%d9%82%d9%8a%d9%8a%d9%85-%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%b1-%d9%88%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%aa%d8%ac%d8%a7%d9%88%d8%b2%d8%aa-%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794153106
-  },
-  {
    "source": "شفق نيوز",
    "title": "المرور تعلن غلق نفق حيوي وسط بغداد لمدة شهر",
    "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D8%BA%D9%84%D9%82-%D9%86%D9%81%D9%82-%D8%AD%D9%8A%D9%88%D9%8A-%D9%88%D8%B3%D8%B7-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D9%85%D8%AF%D8%A9-%D8%B4%D9%87%D8%B1",
@@ -167,12 +179,6 @@
    "title": "تركيا تبدأ تسليم زيلكان.. انسحاب محدود أم نهاية الوجود العسكري؟",
    "link": "https://almadapaper.net/460267/",
    "ts": 1794152806
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "آيزنكوت بعد التكليف: إسرائيل في حالة طوارئ وأهداف الحرب لم تتحقق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D9%81%D9%8A-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B7%D9%88%D8%A7%D8%B1-%D9%88-%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%84%D9%85-%D8%AA%D8%AA%D8%AD%D9%82%D9%82",
-   "ts": 1794152443
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "الأنبار تُنجز استعدادات \"وطن\" وتخصص 50 ألف قطعة أرض سكنية للمواطنين",
    "link": "https://almadapaper.net/460252/",
    "ts": 1794142814
-  },
-  {
-   "source": "المدى",
-   "title": "إنذار طوارئ واستهداف لأرامكو.. الصواريخ الحوثية تضرب الرياض",
-   "link": "https://almadapaper.net/460249/",
-   "ts": 1794140972
   }
  ]
 }
