@@ -1,11 +1,41 @@
 {
- "updated": 1794168345,
+ "updated": 1794170776,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "\"طقس العراق\".. اندفاع كتلة باردة وانخفاض ملحوظ بالحرارة",
+   "link": "https://www.alsumaria.tv/news/weathernews/580876/quot%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82quot-%d8%a7%d9%86%d8%af%d9%81%d8%a7%d8%b9-%d9%83%d8%aa%d9%84%d8%a9-%d8%a8%d8%a7%d8%b1%d8%af%d8%a9-%d9%88%d8%a7%d9%86%d8%ae%d9%81%d8%a7%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794170280
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "موجة باردة تضرب العراق تقترب من الصفر المئوي",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%88%D8%AC%D8%A9-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D8%A7%D9%84%D9%85-%D9%88%D9%8A",
+   "ts": 1794169338
+  },
+  {
+   "source": "السومرية",
+   "title": "ثلاث مسيرات تستهدف حقل كورمور في السليمانية",
+   "link": "https://www.alsumaria.tv/news/security/580875/%d8%ab%d9%84%d8%a7%d8%ab-%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%ad%d9%82%d9%84-%d9%83%d9%88%d8%b1%d9%85%d9%88%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794168840
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "هجوم بمسيرات يستهدف حقل كورمور الغازي.. فيديو",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AD%D9%82%D9%84-%D9%83%D9%88%D8%B1%D9%85%D9%88%D8%B1-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9",
+   "ts": 1794168764
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أنواء كوردستان تعلن تراجع موجة الأمطار الليلة وتكشف معدل الهطولات",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%86%D9%88%D8%A7-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D9%87%D8%B7%D9%88%D9%84%D8%A7%D8%AA",
+   "ts": 1794168411
+  },
   {
    "source": "السومرية",
    "title": "في غزة.. خمس وفيات بينهم أطفال بانهيار جرف رملي على خيام نازحين",
@@ -121,22 +151,10 @@
    "ts": 1794158619
   },
   {
-   "source": "السومرية",
-   "title": "عراقجي: الكرة الآن في ملعب البيت الأبيض",
-   "link": "https://www.alsumaria.tv/news/international/580864/%d8%b9%d8%b1%d8%a7%d9%82%d8%ac%d9%8a-%d8%a7%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%a2%d9%86-%d9%81%d9%8a-%d9%85%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%a3%d8%a8%d9%8a%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794158359
-  },
-  {
    "source": "شفق نيوز",
    "title": "في سوق بعقوبة.. محل يختزن سبعين عاماً من \"ذاكرة الطرشي\" (صور)",
    "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%81%D9%8A-%D8%B3%D9%88%D9%82-%D8%A8%D8%B9%D9%82%D9%88%D8%A8%D8%A9-%D9%85%D8%AD%D9%84-%D9%8A%D8%AE%D8%AA%D8%B2%D9%86-%D8%B3%D8%A8%D8%B9%D9%8A%D9%86-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%B1%D8%B4%D9%8A-%D8%B5%D9%88%D8%B1",
    "ts": 1794157849
-  },
-  {
-   "source": "السومرية",
-   "title": "الجيش الإيراني: مضيق هرمز سيبقى مغلقا أمام السفن المخالفة",
-   "link": "https://www.alsumaria.tv/news/international/580863/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2-%d8%b3%d9%8a%d8%a8%d9%82%d9%89-%d9%85%d8%ba%d9%84%d9%82%d8%a7-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%81%d9%86-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794157200
   },
   {
    "source": "المدى",
@@ -157,28 +175,10 @@
    "ts": 1794155860
   },
   {
-   "source": "شفق نيوز",
-   "title": "ترمب: انتصرنا في حربي فنزويلا وإيران",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D8%A7%D9%86%D8%AA%D8%B5%D8%B1%D9%86%D8%A7-%D9%81%D9%8A-%D8%AD%D8%B1%D8%A8%D9%8A-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%88-%D9%8A%D8%B1%D8%A7%D9%86",
-   "ts": 1794155726
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تربية ديالى تعطل دوام المدارس غداً بسبب الأمطار",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AF%D9%8A%D8%A7%D9%84%D9%89-%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D9%88%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1",
-   "ts": 1794155312
-  },
-  {
    "source": "المدى",
    "title": "ميسي يصنع التاريخ ويحصد الحذاء الذهبي للموسم الثاني توالياً",
    "link": "https://almadapaper.net/460270/",
    "ts": 1794154634
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نيجيرفان بارزاني يبحث مع وفد إيران تعزيز العلاقات مع إقليم كوردستان والعراق",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%88%D9%81%D8%AF-%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1794154533
   },
   {
    "source": "المدى",
