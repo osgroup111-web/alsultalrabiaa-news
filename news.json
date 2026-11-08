@@ -1,11 +1,65 @@
 {
- "updated": 1794151563,
+ "updated": 1794153835,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الموارد المائية تكشف تفاصيل خطط إنشاء السدود واستصلاح الأراضي في العراق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7-%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AE%D8%B7%D8%B7-%D9%86%D8%B4%D8%A7-%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF-%D9%88%D8%A7%D8%B3%D8%AA%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84-%D8%B1%D8%A7%D8%B6%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1794153715
+  },
+  {
+   "source": "السومرية",
+   "title": "الزيدي يعود إلى بغداد بعد زيارة الأنبار وإطلاق تنفيذ 50 ألف قطعة أرض سكنية",
+   "link": "https://www.alsumaria.tv/news/localnews/580859/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a8%d8%b9%d8%af-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%b1-%d9%88%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa%d9%86%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794153162
+  },
+  {
+   "source": "السومرية",
+   "title": "اربيل تباشر بتقييم الاضرار وتؤكد: الأمطار تجاوزت قدرات المدينة وإمكاناتها",
+   "link": "https://www.alsumaria.tv/news/localnews/580858/%d8%a7%d8%b1%d8%a8%d9%8a%d9%84-%d8%aa%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a8%d8%aa%d9%82%d9%8a%d9%8a%d9%85-%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%b1-%d9%88%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d8%a3%d9%85%d8%b7%d8%a7%d8%b1-%d8%aa%d8%ac%d8%a7%d9%88%d8%b2%d8%aa-%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794153106
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "المرور تعلن غلق نفق حيوي وسط بغداد لمدة شهر",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D8%BA%D9%84%D9%82-%D9%86%D9%81%D9%82-%D8%AD%D9%8A%D9%88%D9%8A-%D9%88%D8%B3%D8%B7-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D9%85%D8%AF%D8%A9-%D8%B4%D9%87%D8%B1",
+   "ts": 1794153095
+  },
+  {
+   "source": "المدى",
+   "title": "تركيا تبدأ تسليم زيلكان.. انسحاب محدود أم نهاية الوجود العسكري؟",
+   "link": "https://almadapaper.net/460267/",
+   "ts": 1794152806
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "آيزنكوت بعد التكليف: إسرائيل في حالة طوارئ وأهداف الحرب لم تتحقق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D9%81%D9%8A-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B7%D9%88%D8%A7%D8%B1-%D9%88-%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%84%D9%85-%D8%AA%D8%AA%D8%AD%D9%82%D9%82",
+   "ts": 1794152443
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب: نتائج الانتخابات النصفية أعادت الولايات المتحدة خطوة عملاقة إلى الوراء",
+   "link": "https://www.alsumaria.tv/news/international/580857/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b5%d9%81%d9%8a%d8%a9-%d8%a3%d8%b9%d8%a7%d8%af%d8%aa-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794152271
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "برلماني يفتح ملف ثروة الزيدي و\"تعارض المصالح\": من أين لك هذا؟ (وثائق)",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%AB%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88-%D8%AA%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%85%D9%86-%D9%8A%D9%86-%D9%84%D9%83-%D9%87%D8%B0%D8%A7-%D9%88%D8%AB%D8%A7-%D9%82",
+   "ts": 1794152182
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "دوري النجوم.. التعادل ينهي لقاء أربيل وضيفه الغراف في ختام الجولة 13",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%8A%D9%86%D9%87%D9%8A-%D9%84%D9%82%D8%A7-%D8%B1%D8%A8%D9%8A%D9%84-%D9%88%D8%B6%D9%8A%D9%81%D9%87-%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-13",
+   "ts": 1794151777
+  },
   {
    "source": "شفق نيوز",
    "title": "عراقية تحرز المركز السابع بسباق الحواجز بأولمبياد الشباب في داكار",
@@ -91,12 +145,6 @@
    "ts": 1794147597
   },
   {
-   "source": "شفق نيوز",
-   "title": "اربيل تحصي ضحايا السيول: 3 وفيات وإنقاذ أكثر من 300 محاصر وأضرار \"كبيرة جدا\"",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A7%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%AD%D8%B5%D9%8A-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84-3-%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D9%88-%D9%86%D9%82%D8%A7%D8%B0-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-300-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1-%D9%88-%D8%B6%D8%B1%D8%A7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%AC%D8%AF%D8%A7",
-   "ts": 1794147312
-  },
-  {
    "source": "السومرية",
    "title": "اغلاق نفق مهم في بغداد",
    "link": "https://www.alsumaria.tv/news/localnews/580851/%d8%a7%d8%ba%d9%84%d8%a7%d9%82-%d9%86%d9%81%d9%82-%d9%85%d9%87%d9%85-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -107,18 +155,6 @@
    "title": "مازال يلامس الـ170 الفا.. اسعار الدولار مع اغلاق البورصة",
    "link": "https://www.alsumaria.tv/news/economy/580850/%d9%85%d8%a7%d8%b2%d8%a7%d9%84-%d9%8a%d9%84%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d9%80170-%d8%a7%d9%84%d9%81%d8%a7-%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7%d8%ba%d9%84%d8%a7%d9%82-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794147185
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "فوزان وثلاثة تعادلات في الدوري العراقي الممتاز",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%81%D9%88%D8%B2%D8%A7%D9%86-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2",
-   "ts": 1794146948
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "باراك: مستقبل العراق لشعبه وليس للفصائل.. والزيدي وجه رسالة واضحة",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D8%B4%D8%B9%D8%A8%D9%87-%D9%88%D9%84%D9%8A%D8%B3-%D9%84%D9%84%D9%81%D8%B5%D8%A7-%D9%84-%D9%88%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D8%B6%D8%AD%D8%A9",
-   "ts": 1794146926
   },
   {
    "source": "المدى",
@@ -139,40 +175,10 @@
    "ts": 1794146421
   },
   {
-   "source": "شفق نيوز",
-   "title": "مع إغلاق الأسواق.. الدولار يتراجع في بغداد وأربيل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%85%D8%B9-%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84",
-   "ts": 1794146106
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الامطار ترفع مناسيب نهر الزاب الأسفل في كركوك",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%B1%D9%81%D8%B9-%D9%85%D9%86%D8%A7%D8%B3%D9%8A%D8%A8-%D9%86%D9%87%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A8-%D8%A7%D9%84-%D8%B3%D9%81%D9%84-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-   "ts": 1794145881
-  },
-  {
-   "source": "السومرية",
-   "title": "بالصورة.. تضرر مبنى شركة \"أرامكو\" بالقصف الحوثي على الرياض",
-   "link": "https://www.alsumaria.tv/news/international/580847/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1%d8%a9-%d8%aa%d8%b6%d8%b1%d8%b1-%d9%85%d8%a8%d9%86%d9%89-%d8%b4%d8%b1%d9%83%d8%a9-quot%d8%a3%d8%b1%d8%a7%d9%85%d9%83%d9%88quot-%d8%a8%d8%a7%d9%84%d9%82%d8%b5%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794145569
-  },
-  {
-   "source": "السومرية",
-   "title": "84 خطا للنقل الجماعي في بغداد",
-   "link": "https://www.alsumaria.tv/news/localnews/580846/84-%d8%ae%d8%b7%d8%a7-%d9%84%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794144748
-  },
-  {
    "source": "المدى",
    "title": "الرباع العراقي علي عمار يتوج بطلاً لبطولة العالم لرفع الأثقال في الصين",
    "link": "https://almadapaper.net/460255/",
    "ts": 1794144667
-  },
-  {
-   "source": "السومرية",
-   "title": "مصر.. إصابة أكثر من 120 شخصاً بخروج قطار عن القضبان في الجيزة",
-   "link": "https://www.alsumaria.tv/news/international/580845/%d9%85%d8%b5%d8%b1-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-120-%d8%b4%d8%ae%d8%b5%d8%a7%d9%8b-%d8%a8%d8%ae%d8%b1%d9%88%d8%ac-%d9%82%d8%b7%d8%a7%d8%b1-%d8%b9%d9%86-%d8%a7%d9%84%d9%82%d8%b6%d8%a8%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794144385
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "العراق يحل رابعاً ببطولة العالم لكرة السرعة في مصر",
    "link": "https://almadapaper.net/460240/",
    "ts": 1794134078
-  },
-  {
-   "source": "المدى",
-   "title": "عقوبات على إسرائيل وأولوية لغزة.. برنامج رئاسي في باريس يطرحه اليسار",
-   "link": "https://almadapaper.net/460217/",
-   "ts": 1794132887
   }
  ]
 }
