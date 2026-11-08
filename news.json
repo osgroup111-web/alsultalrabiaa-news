@@ -1,11 +1,29 @@
 {
- "updated": 1794160783,
+ "updated": 1794163188,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "بالفيديو.. انهيار جزء من سقف مدرسة في ايران أثناء إجراء اختبار لوقود صاروخي",
+   "link": "https://www.alsumaria.tv/news/international/580869/%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d8%ac%d8%b2%d8%a1-%d9%85%d9%86-%d8%b3%d9%82%d9%81-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d9%81%d9%8a-%d8%a7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a3%d8%ab%d9%86%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794161937
+  },
+  {
+   "source": "السومرية",
+   "title": "22 مصاباً على الأقل بزلزال وسط اليابان",
+   "link": "https://www.alsumaria.tv/news/international/580868/22-%d9%85%d8%b5%d8%a7%d8%a8%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%82%d9%84-%d8%a8%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d9%88%d8%b3%d8%b7-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794161853
+  },
+  {
+   "source": "المدى",
+   "title": "معسكر التغيير يقترب.. هل يغادر نتنياهو السلطة؟",
+   "link": "https://almadapaper.net/460276/",
+   "ts": 1794160869
+  },
   {
    "source": "السومرية",
    "title": "القبض على ثلاثة متهمين أطلقوا العيارات النارية أثناء تشييع أحد المتوفين في بغداد",
@@ -157,22 +175,10 @@
    "ts": 1794152443
   },
   {
-   "source": "السومرية",
-   "title": "ترامب: نتائج الانتخابات النصفية أعادت الولايات المتحدة خطوة عملاقة إلى الوراء",
-   "link": "https://www.alsumaria.tv/news/international/580857/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b5%d9%81%d9%8a%d8%a9-%d8%a3%d8%b9%d8%a7%d8%af%d8%aa-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794152271
-  },
-  {
    "source": "المدى",
    "title": "المركزي يلزم المصارف بسعر 1520 ديناراً لمدفوعات البطاقات خارج العراق",
    "link": "https://almadapaper.net/460264/",
    "ts": 1794150455
-  },
-  {
-   "source": "السومرية",
-   "title": "تركيا تبدأ بخطوات التسليم التدريجي لمعسكر بعشيقة – زيلكان إلى العراق",
-   "link": "https://www.alsumaria.tv/news/security/580856/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a8%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%ac%d9%8a-%d9%84%d9%85%d8%b9%d8%b3%d9%83%d8%b1-%d8%a8%d8%b9%d8%b4%d9%8a%d9%82%d8%a9-%e2%80%93?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794150289
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "إنذار طوارئ واستهداف لأرامكو.. الصواريخ الحوثية تضرب الرياض",
    "link": "https://almadapaper.net/460249/",
    "ts": 1794140972
-  },
-  {
-   "source": "المدى",
-   "title": "النقل تنشأ أربع ساحات للتبادل التجاري على أطراف بغداد لتخفيف الزخم المروري",
-   "link": "https://almadapaper.net/460246/",
-   "ts": 1794138664
   }
  ]
 }
