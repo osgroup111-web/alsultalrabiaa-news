@@ -1,11 +1,41 @@
 {
- "updated": 1794156441,
+ "updated": 1794158779,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "طهران لواشنطن: استجيبوا لمطالبنا وسترون النتائج",
+   "link": "https://www.alsumaria.tv/news/international/580864/%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d9%84%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%a7%d8%b3%d8%aa%d8%ac%d9%8a%d8%a8%d9%88%d8%a7-%d9%84%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d9%86%d8%a7-%d9%88%d8%b3%d8%aa%d8%b1%d9%88%d9%86-%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794158359
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "في سوق بعقوبة.. محل يختزن سبعين عاماً من \"ذاكرة الطرشي\" (صور)",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%81%D9%8A-%D8%B3%D9%88%D9%82-%D8%A8%D8%B9%D9%82%D9%88%D8%A8%D8%A9-%D9%85%D8%AD%D9%84-%D9%8A%D8%AE%D8%AA%D8%B2%D9%86-%D8%B3%D8%A8%D8%B9%D9%8A%D9%86-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%B1%D8%B4%D9%8A-%D8%B5%D9%88%D8%B1",
+   "ts": 1794157849
+  },
+  {
+   "source": "السومرية",
+   "title": "الجيش الإيراني: مضيق هرمز سيبقى مغلقا أمام السفن المخالفة",
+   "link": "https://www.alsumaria.tv/news/international/580863/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2-%d8%b3%d9%8a%d8%a8%d9%82%d9%89-%d9%85%d8%ba%d9%84%d9%82%d8%a7-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%81%d9%86-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794157200
+  },
+  {
+   "source": "المدى",
+   "title": "سيول أربيل تنحسر وتترك ضحايا وخسائر واسعة.. هل انتهى الخطر؟",
+   "link": "https://almadapaper.net/460273/",
+   "ts": 1794156996
+  },
+  {
+   "source": "السومرية",
+   "title": "الصحة المصرية تعلن حصيلة ضحايا حادث تصادم قطاري العياط",
+   "link": "https://www.alsumaria.tv/news/international/580862/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7-%d8%ad%d8%a7%d8%af%d8%ab-%d8%aa%d8%b5%d8%a7%d8%af%d9%85-%d9%82%d8%b7%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794156537
+  },
   {
    "source": "شفق نيوز",
    "title": "إعلام إيراني: حريق بناقلة بعد اصطدامها بلغم في هرمز",
@@ -115,12 +145,6 @@
    "ts": 1794151777
   },
   {
-   "source": "شفق نيوز",
-   "title": "عراقية تحرز المركز السابع بسباق الحواجز بأولمبياد الشباب في داكار",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B1%D8%B2-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%A8%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%A8-%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%81%D9%8A-%D8%AF%D8%A7%D9%83%D8%A7%D8%B1",
-   "ts": 1794151325
-  },
-  {
    "source": "المدى",
    "title": "المركزي يلزم المصارف بسعر 1520 ديناراً لمدفوعات البطاقات خارج العراق",
    "link": "https://almadapaper.net/460264/",
@@ -157,24 +181,6 @@
    "ts": 1794148026
   },
   {
-   "source": "السومرية",
-   "title": "الرافدين يعلن استكمال منح الدفعة الأولى من الوجبة الرابعة لسلف المتقاعدين",
-   "link": "https://www.alsumaria.tv/news/economy/580852/%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d9%83%d9%85%d8%a7%d9%84-%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%af%d9%81%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d9%85%d9%86-%d8%a7%d9%84%d9%88%d8%ac%d8%a8%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794147597
-  },
-  {
-   "source": "السومرية",
-   "title": "اغلاق نفق مهم في بغداد",
-   "link": "https://www.alsumaria.tv/news/localnews/580851/%d8%a7%d8%ba%d9%84%d8%a7%d9%82-%d9%86%d9%81%d9%82-%d9%85%d9%87%d9%85-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794147307
-  },
-  {
-   "source": "السومرية",
-   "title": "مازال يلامس الـ170 الفا.. اسعار الدولار مع اغلاق البورصة",
-   "link": "https://www.alsumaria.tv/news/economy/580850/%d9%85%d8%a7%d8%b2%d8%a7%d9%84-%d9%8a%d9%84%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d9%80170-%d8%a7%d9%84%d9%81%d8%a7-%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7%d8%ba%d9%84%d8%a7%d9%82-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794147185
-  },
-  {
    "source": "المدى",
    "title": "العراق ثالثاً عربياً باحتياطي يتجاوز 175 طناً من الذهب",
    "link": "https://almadapaper.net/460108/",
@@ -203,12 +209,6 @@
    "title": "النقل تنشأ أربع ساحات للتبادل التجاري على أطراف بغداد لتخفيف الزخم المروري",
    "link": "https://almadapaper.net/460246/",
    "ts": 1794138664
-  },
-  {
-   "source": "المدى",
-   "title": "شركة الحفر العراقية تنجز بئر نفطية في حقل شرقي بغداد بعمق 4,165 متراً",
-   "link": "https://almadapaper.net/460243/",
-   "ts": 1794136314
   }
  ]
 }
