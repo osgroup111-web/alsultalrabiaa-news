@@ -1,11 +1,41 @@
 {
- "updated": 1794253377,
+ "updated": 1794256549,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "ترامب: قطر والسعودية تفضلان حلا سلميا للصراع الإيراني",
+   "link": "https://www.alsumaria.tv/news/international/581038/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%82%d8%b7%d8%b1-%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d9%81%d8%b6%d9%84%d8%a7%d9%86-%d8%ad%d9%84%d8%a7-%d8%b3%d9%84%d9%85%d9%8a%d8%a7-%d9%84%d9%84%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794255984
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "قصف جوي ومدفعي إسرائيلي يستهدف بلدات جنوبي لبنان",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D9%88%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+   "ts": 1794255960
+  },
+  {
+   "source": "السومرية",
+   "title": "أسعار النفط تواصل التراجع وخام برنت يهبط نحو 7%",
+   "link": "https://www.alsumaria.tv/news/economy/581037/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d9%88%d8%ae%d8%a7%d9%85-%d8%a8%d8%b1%d9%86%d8%aa-%d9%8a%d9%87%d8%a8%d8%b7-%d9%86%d8%ad%d9%88-7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794254880
+  },
+  {
+   "source": "السومرية",
+   "title": "​\"دعم الشرعية\" يعلن تدمير مصانع تابعة للحوثيين في اليمن",
+   "link": "https://www.alsumaria.tv/news/international/581036/quot%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9quot-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d9%85%d8%b5%d8%a7%d9%86%d8%b9-%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9-%d9%84%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794254100
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"كلاسيكو الملاعب\" الإسبانية يشتعل بين برشلونة والريال بسبب نهائي كأس العالم",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%88-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84-%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%8A%D8%B4%D8%AA%D8%B9%D9%84-%D8%A8%D9%8A%D9%86-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%86%D9%87%D8%A7-%D9%8A-%D9%83-%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+   "ts": 1794253854
+  },
   {
    "source": "شفق نيوز",
    "title": "أربيل تعلن قرب انتهاء حملة انتشال عشرات السيارات المتضررة من السيول (صور)",
@@ -17,6 +47,12 @@
    "title": "مضيق كافرين.. لوحة طبيعية تخطف الأنظار في محافظة إيلام (صور)",
    "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%85%D8%B6%D9%8A%D9%82-%D9%83%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%88%D8%AD%D8%A9-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%AA%D8%AE%D8%B7%D9%81-%D8%A7%D9%84-%D9%86%D8%B8%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%8A%D9%84%D8%A7%D9%85-%D8%B5%D9%88%D8%B1",
    "ts": 1794252417
+  },
+  {
+   "source": "السومرية",
+   "title": "لقاء أمريكي روسي مرتقب بشأن أوكرانيا",
+   "link": "https://www.alsumaria.tv/news/international/581035/%d9%84%d9%82%d8%a7%d8%a1-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%b1%d9%88%d8%b3%d9%8a-%d9%85%d8%b1%d8%aa%d9%82%d8%a8-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794252300
   },
   {
    "source": "شفق نيوز",
@@ -97,22 +133,10 @@
    "ts": 1794244891
   },
   {
-   "source": "شفق نيوز",
-   "title": "حين يتنفس الجبل حكمةً",
-   "link": "https://shafaq.com/ar/%D9%85%D9%82%D9%80%D8%A7%D9%84%D8%A7%D8%AA/%D8%AD%D9%8A%D9%86-%D9%8A%D8%AA%D9%86%D9%81%D8%B3-%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D8%AD%D9%83%D9%85%D8%A9",
-   "ts": 1794244842
-  },
-  {
    "source": "السومرية",
    "title": "الاحتياطي النفطي الأمريكي يتراجع لأدنى مستوى له منذ 44 عاماً",
    "link": "https://www.alsumaria.tv/news/economy/581004/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d9%8a-%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d9%84%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%84%d9%87-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794244800
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "طهران تختار مسؤول ملف كوردستان في الحرس الثوري سفيراً لها في بغداد",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D8%AA%D8%A7%D8%B1-%D9%85%D8%B3-%D9%88%D9%84-%D9%85%D9%84%D9%81-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%B3%D9%81%D9%8A%D8%B1%D8%A7-%D9%84%D9%87%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-   "ts": 1794244262
   },
   {
    "source": "السومرية",
@@ -127,40 +151,16 @@
    "ts": 1794242936
   },
   {
-   "source": "السومرية",
-   "title": "الثقافة تناقش استكمال جائزة الإبداع العراقي وتصدر توجيهاً جديداً",
-   "link": "https://www.alsumaria.tv/news/localnews/581030/%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d8%a9-%d8%aa%d9%86%d8%a7%d9%82%d8%b4-%d8%a7%d8%b3%d8%aa%d9%83%d9%85%d8%a7%d9%84-%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d8%a7%d9%84%d8%a5%d8%a8%d8%af%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%88%d8%aa%d8%b5%d8%af%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794242700
-  },
-  {
    "source": "المدى",
    "title": "جراحة القلب بالناظور في أربيل تنهي حقبة \"شق الصدر\" بـ 1800 عملية ناجحة",
    "link": "https://almadapaper.net/460446/",
    "ts": 1794242151
   },
   {
-   "source": "السومرية",
-   "title": "فيتش تثبّت تصنيف العراق وتتوقع انكماش اقتصاده 9% في 2026",
-   "link": "https://www.alsumaria.tv/news/international/581001/%d9%81%d9%8a%d8%aa%d8%b4-%d8%aa%d8%ab%d8%a8%d9%91%d8%aa-%d8%aa%d8%b5%d9%86%d9%8a%d9%81-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%88%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%a7%d9%86%d9%83%d9%85%d8%a7%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%87-9-%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794241302
-  },
-  {
-   "source": "السومرية",
-   "title": "توضيح رسمي بشان حقيقة الغزلان التي عثر عليها في العراق",
-   "link": "https://www.alsumaria.tv/news/localnews/581000/%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%b1%d8%b3%d9%85%d9%8a-%d8%a8%d8%b4%d8%a7%d9%86-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d8%ba%d8%b2%d9%84%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b9%d8%ab%d8%b1-%d8%b9%d9%84%d9%8a%d9%87%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794240528
-  },
-  {
    "source": "المدى",
    "title": "تفاهمات \"ممتازة\".. بارزاني يعلن الاتفاق مع الزيدي على موازنة الإقليم وحماية حقول النفط",
    "link": "https://almadapaper.net/460444/",
    "ts": 1794240292
-  },
-  {
-   "source": "السومرية",
-   "title": "كوشنر يكشف محاور مفاوضات أبوظبي بين روسيا وأوكرانيا.. وقف إطلاق النار والضمانات الأمنية وإعادة الإعمار",
-   "link": "https://www.alsumaria.tv/news/international/580999/%d9%83%d9%88%d8%b4%d9%86%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d8%ad%d8%a7%d9%88%d8%b1-%d9%85%d9%81%d8%a7%d9%88%d8%b6%d8%a7%d8%aa-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a8%d9%8a%d9%86-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%88%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794240237
   },
   {
    "source": "المدى",
