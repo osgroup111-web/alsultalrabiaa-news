@@ -1,11 +1,29 @@
 {
- "updated": 1794263213,
+ "updated": 1794265969,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "بعد العثور على جثتها قرب نهر.. شرطة بابل تعلن اعتقال المتهم بقتل الطفلة رهف",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%AA%D9%87%D8%A7-%D9%82%D8%B1%D8%A8-%D9%86%D9%87%D8%B1-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A8%D8%A7%D8%A8%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%B7%D9%81%D9%84%D8%A9-%D8%B1%D9%87%D9%81",
+   "ts": 1794265633
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "العراق يعيد فتح منفذ الشيب مع إيران ويقرر إغلاق مندلي مؤقتاً",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%85%D8%B9-%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%8A%D9%82%D8%B1%D8%B1-%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%AF%D9%84%D9%8A-%D9%85-%D9%82%D8%AA%D8%A7",
+   "ts": 1794264424
+  },
+  {
+   "source": "السومرية",
+   "title": "هيئة المنافذ تعلن إعادة افتتاح منفذ الشيب وإغلاق منفذ مندلي",
+   "link": "https://www.alsumaria.tv/news/localnews/581042/%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b0-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad-%d9%85%d9%86%d9%81%d8%b0-%d8%a7%d9%84%d8%b4%d9%8a%d8%a8-%d9%88%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794264351
+  },
   {
    "source": "السومرية",
    "title": "موقع أمريكي يكشف تفاصيل اجتماع ترامب مع رئيس وزراء قطر",
@@ -163,18 +181,6 @@
    "ts": 1794253854
   },
   {
-   "source": "شفق نيوز",
-   "title": "أربيل تعلن قرب انتهاء حملة انتشال عشرات السيارات المتضررة من السيول (صور)",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%B1%D8%A8-%D8%A7%D9%86%D8%AA%D9%87%D8%A7-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D9%84-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%B6%D8%B1%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84-%D8%B5%D9%88%D8%B1",
-   "ts": 1794252746
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "مضيق كافرين.. لوحة طبيعية تخطف الأنظار في محافظة إيلام (صور)",
-   "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%85%D8%B6%D9%8A%D9%82-%D9%83%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%88%D8%AD%D8%A9-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%AA%D8%AE%D8%B7%D9%81-%D8%A7%D9%84-%D9%86%D8%B8%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%8A%D9%84%D8%A7%D9%85-%D8%B5%D9%88%D8%B1",
-   "ts": 1794252417
-  },
-  {
    "source": "السومرية",
    "title": "لقاء أمريكي روسي مرتقب بشأن أوكرانيا",
    "link": "https://www.alsumaria.tv/news/international/581035/%d9%84%d9%82%d8%a7%d8%a1-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%b1%d9%88%d8%b3%d9%8a-%d9%85%d8%b1%d8%aa%d9%82%d8%a8-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -203,12 +209,6 @@
    "title": "إدراج الإخوان بقوائم الإرهاب.. ماذا يعني ذلك؟",
    "link": "https://www.alsumaria.tv/news/international/581031/%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d8%a5%d8%ae%d9%88%d8%a7%d9%86-%d8%a8%d9%82%d9%88%d8%a7%d8%a6%d9%85-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d8%b0%d9%84%d9%83%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794247676
-  },
-  {
-   "source": "السومرية",
-   "title": "قرار يفك لغز اختفاء شقيقة وزير بعد 3 سنوات.. ما القصة؟",
-   "link": "https://www.alsumaria.tv/news/international/581005/%d9%82%d8%b1%d8%a7%d8%b1-%d9%8a%d9%81%d9%83-%d9%84%d8%ba%d8%b2-%d8%a7%d8%ae%d8%aa%d9%81%d8%a7%d8%a1-%d8%b4%d9%82%d9%8a%d9%82%d8%a9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a8%d8%b9%d8%af-3-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d9%85%d8%a7-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794245238
   }
  ]
 }
