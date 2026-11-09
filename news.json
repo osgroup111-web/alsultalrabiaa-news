@@ -1,11 +1,83 @@
 {
- "updated": 1794212245,
+ "updated": 1794217001,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "الهجرة الدولية: عودة 639 أسرة نازحة في العراق منذ مطلع 2026",
+   "link": "https://www.alsumaria.tv/news/localnews/580935/%d8%a7%d9%84%d9%87%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d8%b9%d9%88%d8%af%d8%a9-639-%d8%a3%d8%b3%d8%b1%d8%a9-%d9%86%d8%a7%d8%b2%d8%ad%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%85%d9%86%d8%b0?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794216698
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الليرة التركية تتراجع إلى مستوى قياسي جديد",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF",
+   "ts": 1794215620
+  },
+  {
+   "source": "المدى",
+   "title": "أمطار تهدر وأزمة مياه تتفاقم.. مرصد العراق الأخضر ينتقد غياب خطط الحصاد المائي",
+   "link": "https://almadapaper.net/460404/",
+   "ts": 1794215428
+  },
+  {
+   "source": "السومرية",
+   "title": "مشاريع المجاري تنفذ نقلة في البنى التحتية والخدمات بمحافظة الديوانية",
+   "link": "https://www.alsumaria.tv/news/localnews/580922/%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d8%aa%d9%86%d9%81%d8%b0-%d9%86%d9%82%d9%84%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%86%d9%89-%d8%a7%d9%84%d8%aa%d8%ad%d8%aa%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794215349
+  },
+  {
+   "source": "السومرية",
+   "title": "ارتفاع أسعار الذهب في الأسواق العراقية ببغداد",
+   "link": "https://www.alsumaria.tv/news/economy/580921/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d8%a8%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794215214
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "جولات الزيدي.. مقعد عراقي في ترتيبات المرحلة المقبلة",
+   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%AC%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%85%D9%82%D8%B9%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%81%D9%8A-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
+   "ts": 1794215190
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أسعار الذهب تعاود الارتفاع في أسواق بغداد وأربيل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%81%D9%8A-%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-0",
+   "ts": 1794215051
+  },
+  {
+   "source": "السومرية",
+   "title": "البيئة تتجه لإدخال الدرونات في إزالة الألغام لأول مرة في العراق",
+   "link": "https://www.alsumaria.tv/news/localnews/580896/%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d8%a9-%d8%aa%d8%aa%d8%ac%d9%87-%d9%84%d8%a5%d8%af%d8%ae%d8%a7%d9%84-%d8%a7%d9%84%d8%af%d8%b1%d9%88%d9%86%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d9%84%d8%ba%d8%a7%d9%85-%d9%84%d8%a3%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794214117
+  },
+  {
+   "source": "المدى",
+   "title": "الدولار عند 169 ألف دينار للبيع و168 ألفاً للشراء في الأسواق المحلية",
+   "link": "https://almadapaper.net/460397/",
+   "ts": 1794213445
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيرادات العراق تتجاوز 52 تريليون دينار لغاية أيلول",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-52-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%BA%D8%A7%D9%8A%D8%A9-%D9%8A%D9%84%D9%88%D9%84",
+   "ts": 1794213280
+  },
+  {
+   "source": "السومرية",
+   "title": "مسرور بارزاني يصل إلى بغداد على رأس وفد حكومي",
+   "link": "https://www.alsumaria.tv/news/politics/580895/%d9%85%d8%b3%d8%b1%d9%88%d8%b1-%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d9%86%d9%8a-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%b9%d9%84%d9%89-%d8%b1%d8%a3%d8%b3-%d9%88%d9%81%d8%af-%d8%ad%d9%83%d9%88%d9%85%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794213131
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيران: الضغوط الأميركية لن تؤثر في علاقاتنا مع العراق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B6%D8%BA%D9%88%D8%B7-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D9%86-%D8%AA-%D8%AB%D8%B1-%D9%81%D9%8A-%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%D9%86%D8%A7-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1794212870
+  },
   {
    "source": "السومرية",
    "title": "الحج والعمرة تتحرك لحسم أسماء حجاج 2027 وتمنح مقاعد المتأخرين لفائزين جدد",
@@ -109,70 +181,10 @@
    "ts": 1794206631
   },
   {
-   "source": "السومرية",
-   "title": "ماذا يتضمن قانون البيئة؟",
-   "link": "https://www.alsumaria.tv/news/localnews/580887/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%aa%d8%b6%d9%85%d9%86-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d8%a9%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794206170
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "المنتخب الفلسطيني يصل البصرة للمشاركة في البطولة الرباعية",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9",
-   "ts": 1794206111
-  },
-  {
-   "source": "السومرية",
-   "title": "حملة امنية على معامل \"الزفت\" في بغداد",
-   "link": "https://www.alsumaria.tv/news/localnews/580886/%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%85%d9%86%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d8%b9%d8%a7%d9%85%d9%84-quot%d8%a7%d9%84%d8%b2%d9%81%d8%aaquot-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794206039
-  },
-  {
-   "source": "السومرية",
-   "title": "المخدرات والاتجار بالبشر.. القبض على شخصين في الكرادة وحي الجهاد",
-   "link": "https://www.alsumaria.tv/news/security/580885/%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d8%b1-%d8%a8%d8%a7%d9%84%d8%a8%d8%b4%d8%b1-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794205677
-  },
-  {
-   "source": "السومرية",
-   "title": "رئيس أركان الجيش يصل إلى قاطع عمليات كركوك",
-   "link": "https://www.alsumaria.tv/news/security/580884/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a3%d8%b1%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%b7%d8%b9-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d9%83%d8%b1%d9%83%d9%88%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794205547
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"عقود مقابل علاقات جنسية\".. تحقيق مع رئيس كولومبيا السابق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D9%82%D9%88%D8%AF-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B9-%D8%B1-%D9%8A%D8%B3-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82",
-   "ts": 1794205433
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "دانە غاز تعلق الإنتاج في حقل كورمور بإقليم كوردستان",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%AF%D8%A7%D9%86-%D8%BA%D8%A7%D8%B2-%D8%AA%D8%B9%D9%84%D9%82-%D8%A7%D9%84-%D9%86%D8%AA%D8%A7%D8%AC-%D9%81%D9%8A-%D8%AD%D9%82%D9%84-%D9%83%D9%88%D8%B1%D9%85%D9%88%D8%B1-%D8%A8-%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-   "ts": 1794204759
-  },
-  {
    "source": "المدى",
    "title": "كورمور في مرمى المسيّرات مجدداً.. توقف إنتاج الغاز يهدد كهرباء كوردستان بخسارة 2800 ميغاواط",
    "link": "https://almadapaper.net/460382/",
    "ts": 1794204629
-  },
-  {
-   "source": "السومرية",
-   "title": "وجبة سلف جديدة للموظفين المدنيين والعسكريين",
-   "link": "https://www.alsumaria.tv/news/localnews/580883/%d9%88%d8%ac%d8%a8%d8%a9-%d8%b3%d9%84%d9%81-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794204242
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "إيران تعلن وقف مرور النفط عبر المسار الجنوبي لمضيق هرمز",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D9%82%D9%81-%D9%85%D8%B1%D9%88%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-   "ts": 1794203975
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "واردات أميركا من نفط العراق تنهار مع فقدان 24.2 مليون برميل خلال أشهر",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%85%D9%86-%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D9%86%D9%87%D8%A7%D8%B1-%D9%85%D8%B9-%D9%81%D9%82%D8%AF%D8%A7%D9%86-24-2-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1",
-   "ts": 1794203586
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "خطة لإنشاء 4 ساحات تبادل تجاري تطوّق بغداد ومتخصصون يحذرون من البطء والتداعيات المرورية",
    "link": "https://almadapaper.net/460363/",
    "ts": 1794174599
-  },
-  {
-   "source": "المدى",
-   "title": "الشيوعي العراقي يدعو إلى إنهاء الأزمة السياسية في كردستان وحماية مكتسبات شعبها",
-   "link": "https://almadapaper.net/460361/",
-   "ts": 1794174479
-  },
-  {
-   "source": "المدى",
-   "title": "الهجرة تنسق مع العمل لإدراج الأسر العائدة في شبكة الحماية الاجتماعية",
-   "link": "https://almadapaper.net/460359/",
-   "ts": 1794174418
   }
  ]
 }
