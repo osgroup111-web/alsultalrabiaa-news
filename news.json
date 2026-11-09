@@ -1,11 +1,83 @@
 {
- "updated": 1794235741,
+ "updated": 1794239487,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "وحدة الإقليم أم مصالح النفوذ؟ معادلة كوردستان الصعبة",
+   "link": "https://shafaq.com/ar/%D9%85%D9%82%D9%80%D8%A7%D9%84%D8%A7%D8%AA/%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84-%D9%82%D9%84%D9%8A%D9%85-%D9%85-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D8%B9%D8%A8%D8%A9",
+   "ts": 1794239013
+  },
+  {
+   "source": "السومرية",
+   "title": "تاجيل اجتماع الاطار التنسيقي المقرر عقده اليوم",
+   "link": "https://www.alsumaria.tv/news/politics/580997/%d8%aa%d8%a7%d8%ac%d9%8a%d9%84-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82%d9%8a-%d8%a7%d9%84%d9%85%d9%82%d8%b1%d8%b1-%d8%b9%d9%82%d8%af%d9%87-%d8%a7%d9%84%d9%8a%d9%88%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794238681
+  },
+  {
+   "source": "المدى",
+   "title": "الحكومة الفرنسية تفتح حواراً مع النقابات حول الأجور لمواجهة الاحتجاجات",
+   "link": "https://almadapaper.net/460441/",
+   "ts": 1794238234
+  },
+  {
+   "source": "السومرية",
+   "title": "رئيس الطيران المدني السعودي للشيخ المسعودي: دول العالم الإسلامي تستلهم تجربة العراق في إدارة شؤون الحجاج",
+   "link": "https://www.alsumaria.tv/news/localnews/580996/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d9%84%d9%84%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d9%85%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d8%af%d9%88%d9%84-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794238145
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مسرور بارزاني: اتفقنا مع الزيدي على موازنة موحدة لكوردستان واجرينا مباحثات ممتازة",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%85%D8%B3%D8%B1%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D8%A7%D8%AA%D9%81%D9%82%D9%86%D8%A7-%D9%85%D8%B9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D9%84%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A7%D8%AC%D8%B1%D9%8A%D9%86%D8%A7-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D9%85%D8%AA%D8%A7%D8%B2%D8%A9",
+   "ts": 1794237726
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "العثور على جثة طفل في نهر بديالى",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%A9-%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D9%86%D9%87%D8%B1-%D8%A8%D8%AF%D9%8A%D8%A7%D9%84%D9%89",
+   "ts": 1794237485
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "خمسة لاعبين من منتخب العراق يصلون البصرة استعداداً للبطولة الدولية",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AE%D9%85%D8%B3%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B5%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+   "ts": 1794237387
+  },
+  {
+   "source": "المدى",
+   "title": "مصر تدرج تنظيم الإخوان نهائياً على قوائم الكيانات الإرهابية",
+   "link": "https://almadapaper.net/460438/",
+   "ts": 1794236487
+  },
+  {
+   "source": "السومرية",
+   "title": "تحذير من حرب محتملة مع كائنات غير بشرية!",
+   "link": "https://www.alsumaria.tv/news/miscellaneous/580994/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d9%85%d9%86-%d8%ad%d8%b1%d8%a8-%d9%85%d8%ad%d8%aa%d9%85%d9%84%d8%a9-%d9%85%d8%b9-%d9%83%d8%a7%d8%a6%d9%86%d8%a7%d8%aa-%d8%ba%d9%8a%d8%b1-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794236392
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "على طاولة حمودي.. الزيدي يبحث مع الإطار التصعيد مع الكتائب وحصر السلاح",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%AD%D9%85%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84-%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D9%83%D8%AA%D8%A7-%D8%A8-%D9%88%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+   "ts": 1794236101
+  },
+  {
+   "source": "السومرية",
+   "title": "ماذا يعني ظهور رمز الساعة في واتساب بجوار الرسائل؟",
+   "link": "https://www.alsumaria.tv/news/miscellaneous/580995/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d8%b8%d9%87%d9%88%d8%b1-%d8%b1%d9%85%d8%b2-%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a9-%d9%81%d9%8a-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%a8%d8%ac%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794236034
+  },
+  {
+   "source": "السومرية",
+   "title": "الموافقة على منح مخصصات لفئة من الموظفين",
+   "link": "https://www.alsumaria.tv/news/localnews/580993/%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d9%86%d8%ad-%d9%85%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d9%84%d9%81%d8%a6%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794235882
+  },
   {
    "source": "السومرية",
    "title": "توجيه حكومي بتوفير الغاز لكردستان لحين استئناف الإنتاج في حقل كورمور",
@@ -79,40 +151,16 @@
    "ts": 1794232857
   },
   {
-   "source": "السومرية",
-   "title": "امال الاتفاق بين واشنطن وطهران تخفض أسعار النفط 4%",
-   "link": "https://www.alsumaria.tv/news/economy/580985/%d8%a7%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a8%d9%8a%d9%86-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%88%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d8%aa%d8%ae%d9%81%d8%b6-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-4?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794232754
-  },
-  {
    "source": "المدى",
    "title": "مباحثات أمريكية قطرية في واشنطن لبحث مقترح الهدنة مع إيران",
    "link": "https://almadapaper.net/460432/",
    "ts": 1794232468
   },
   {
-   "source": "السومرية",
-   "title": "أربع سمات للأشخاص ذوي الذكاء العالي.. ما هي؟",
-   "link": "https://www.alsumaria.tv/news/miscellaneous/580984/%d8%a3%d8%b1%d8%a8%d8%b9-%d8%b3%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%b0%d9%88%d9%8a-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a-%d9%85%d8%a7-%d9%87%d9%8a%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794232441
-  },
-  {
    "source": "شفق نيوز",
    "title": "عضوة بمجلس كركوك: مرشحان تركمانيان لمنصب المحافظ ولا موعد محدد لجلسة الانتخاب",
    "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B9%D8%B6%D9%88%D8%A9-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%85%D8%B1%D8%B4%D8%AD%D8%A7%D9%86-%D8%AA%D8%B1%D9%83%D9%85%D8%A7%D9%86%D9%8A%D8%A7%D9%86-%D9%84%D9%85%D9%86%D8%B5%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%88%D9%84%D8%A7-%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%AD%D8%AF%D8%AF-%D9%84%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8",
    "ts": 1794232418
-  },
-  {
-   "source": "السومرية",
-   "title": "السفير العراقي في طهران: زيارة الزيدي إلى إيران تهدف لخفض التوتر ومنع تجدد الحرب",
-   "link": "https://www.alsumaria.tv/news/politics/580983/%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%81%d9%8a-%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d8%a5%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794231920
-  },
-  {
-   "source": "السومرية",
-   "title": "من سيكون جيمس بوند الجديد؟",
-   "link": "https://www.alsumaria.tv/news/artculture/580982/%d9%85%d9%86-%d8%b3%d9%8a%d9%83%d9%88%d9%86-%d8%ac%d9%8a%d9%85%d8%b3-%d8%a8%d9%88%d9%86%d8%af-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794231696
   },
   {
    "source": "شفق نيوز",
@@ -127,52 +175,16 @@
    "ts": 1794231638
   },
   {
-   "source": "السومرية",
-   "title": "سوريا والأردن توقعان مذكرة للربط السككي.. ممر إقليمي مرتقب يمتد من السعودية إلى تركيا",
-   "link": "https://www.alsumaria.tv/news/international/580981/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d9%86-%d9%85%d8%b0%d9%83%d8%b1%d8%a9-%d9%84%d9%84%d8%b1%d8%a8%d8%b7-%d8%a7%d9%84%d8%b3%d9%83%d9%83%d9%8a-%d9%85%d9%85%d8%b1-%d8%a5%d9%82%d9%84%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794231624
-  },
-  {
    "source": "المدى",
    "title": "الزيدي وبارزاني يتباحثان في بغداد حسم ملفات النفط والرواتب وموازنة 2027",
    "link": "https://almadapaper.net/460429/",
    "ts": 1794230996
   },
   {
-   "source": "شفق نيوز",
-   "title": "بعد استهداف كورمور.. قلق من أزمة الغاز في السليمانية وتطمينات رسمية (صور)",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%83%D9%88%D8%B1%D9%85%D9%88%D8%B1-%D9%82%D9%84%D9%82-%D9%85%D9%86-%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D9%85%D9%8A%D9%86%D8%A7%D8%AA-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9",
-   "ts": 1794230342
-  },
-  {
    "source": "المدى",
    "title": "استهداف حقل كورمور.. انقطاع في التيار الكهربائي بمدن كردستان واتهامات للفصائل المسلحة",
    "link": "https://almadapaper.net/460426/",
    "ts": 1794229359
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نينوى.. تفكيك شبكة للتلاعب بالعقارات وغسل الأموال وحجز أكثر من 40 عقاراً (فيديو)",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%BA%D8%B3%D9%84-%D8%A7%D9%84-%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%AD%D8%AC%D8%B2-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-40-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1794229319
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "المؤبد لرجل أدين بارتكاب \"فعل فاحش\" مع ابنته جنوبي العراق",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%85-%D8%A8%D8%AF-%D9%84%D8%B1%D8%AC%D9%84-%D8%AF%D9%8A%D9%86-%D8%A8%D8%A7%D8%B1%D8%AA%D9%83%D8%A7%D8%A8-%D9%81%D8%B9%D9%84-%D9%81%D8%A7%D8%AD%D8%B4-%D9%85%D8%B9-%D8%A7%D8%A8%D9%86%D8%AA%D9%87-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1794229122
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الزيدي وبارزاني يفتحان ملفات النفط والرواتب والموازنة الاتحادية",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D9%81%D8%AA%D8%AD%D8%A7%D9%86-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9",
-   "ts": 1794228842
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الأردن وسوريا.. 11 وثيقة تعاون و\"لا قوات خارج الحدود\"",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84-%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-11-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88-%D9%84%D8%A7-%D9%82%D9%88%D8%A7%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF",
-   "ts": 1794228566
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "العراق يعزي مصر بضحايا حادث تصادم القطارين في محافظة الجيزة",
    "link": "https://almadapaper.net/460412/",
    "ts": 1794221339
-  },
-  {
-   "source": "المدى",
-   "title": "المالية والبنك الدولي يتباحثان متطلبات التحول لنظام موازنة البرامج والأداء",
-   "link": "https://almadapaper.net/460408/",
-   "ts": 1794218333
-  },
-  {
-   "source": "المدى",
-   "title": "أمطار تهدر وأزمة مياه تتفاقم.. مرصد العراق الأخضر ينتقد غياب خطط الحصاد المائي",
-   "link": "https://almadapaper.net/460404/",
-   "ts": 1794215428
   }
  ]
 }
