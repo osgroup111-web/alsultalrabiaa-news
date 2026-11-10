@@ -1,11 +1,35 @@
 {
- "updated": 1794284849,
+ "updated": 1794288318,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "باراك: فرصة تاريخية لبناء مسار طموح للعلاقات مع العراق في مجالات الاقتصاد والقضاء",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%81%D8%B1%D8%B5%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%84%D8%A8%D9%86%D8%A7-%D9%85%D8%B3%D8%A7%D8%B1-%D8%B7%D9%85%D9%88%D8%AD-%D9%84%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%82%D8%B6%D8%A7",
+   "ts": 1794287230
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "التحالف يعلن اعتراض ثلاثة صواريخ وطائرة مسيرة أطلقها الحوثيون باتجاه السعودية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88%D8%B7%D8%A7-%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B7%D9%84%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+   "ts": 1794286870
+  },
+  {
+   "source": "السومرية",
+   "title": "يوميا.. نتنياهو يتصل بترامب لدفعه إلى استئناف الحرب على إيران",
+   "link": "https://www.alsumaria.tv/news/international/581043/%d9%8a%d9%88%d9%85%d9%8a%d8%a7-%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%8a%d8%aa%d8%b5%d9%84-%d8%a8%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%84%d8%af%d9%81%d8%b9%d9%87-%d8%a5%d9%84%d9%89-%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d8%a7%d9%84%d8%ad%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794286735
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أسعار الذهب تنخفض بشكل طفيف.. والمعادن النفيسة تسجل تراجعاً جماعياً",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D8%A8%D8%B4%D9%83%D9%84-%D8%B7%D9%81%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3%D8%A9-%D8%AA%D8%B3%D8%AC%D9%84-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9%D8%A7-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A7",
+   "ts": 1794284990
+  },
   {
    "source": "شفق نيوز",
    "title": "برنت قرب 91 دولاراً.. النفط يعمق خسائره لليوم الثاني على التوالي",
@@ -145,24 +169,6 @@
    "ts": 1794256953
   },
   {
-   "source": "شفق نيوز",
-   "title": "النفط يتراجع بنحو 5% بعد تصريحات ترمب بشأن إيران",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A8%D9%86%D8%AD%D9%88-5-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%AA%D8%B1%D9%85%D8%A8-%D8%A8%D8%B4-%D9%86-%D9%8A%D8%B1%D8%A7%D9%86",
-   "ts": 1794256896
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اعتقال وافد آسيوي اعتدى على عامل نظافة عراقي (فيديو)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%88%D8%A7%D9%81%D8%AF-%D8%B3%D9%8A%D9%88%D9%8A-%D8%A7%D8%B9%D8%AA%D8%AF%D9%89-%D8%B9%D9%84%D9%89-%D8%B9%D8%A7%D9%85%D9%84-%D9%86%D8%B8%D8%A7%D9%81%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1794256549
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بعد فوزهم ببطولة الخليج.. الحلبوسي يكرم منتخب قدامى لاعبي كرة القدم بـ\"المسدسات\"",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2%D9%87%D9%85-%D8%A8%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%8A%D9%83%D8%B1%D9%85-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%AF%D8%A7%D9%85%D9%89-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A8%D9%80-%D8%A7%D9%84%D9%85%D8%B3%D8%AF%D8%B3%D8%A7%D8%AA",
-   "ts": 1794256471
-  },
-  {
    "source": "السومرية",
    "title": "ترامب يتحدث عن مؤشرات إيجابية نحو إنهاء الصراع مع إيران",
    "link": "https://www.alsumaria.tv/news/international/581038/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%aa%d8%ad%d8%af%d8%ab-%d8%b9%d9%86-%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a5%d9%8a%d8%ac%d8%a7%d8%a8%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b9-%d9%85%d8%b9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -203,12 +209,6 @@
    "title": "ترامب يشكك في نزاهة انتخابات التجديد النصفي للكونغرس",
    "link": "https://www.alsumaria.tv/news/international/581033/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b4%d9%83%d9%83-%d9%81%d9%8a-%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d9%86%d8%b5%d9%81%d9%8a-%d9%84%d9%84%d9%83%d9%88%d9%86%d8%ba?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794248382
-  },
-  {
-   "source": "السومرية",
-   "title": "إدراج الإخوان بقوائم الإرهاب.. ماذا يعني ذلك؟",
-   "link": "https://www.alsumaria.tv/news/international/581031/%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d8%a5%d8%ae%d9%88%d8%a7%d9%86-%d8%a8%d9%82%d9%88%d8%a7%d8%a6%d9%85-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d8%b0%d9%84%d9%83%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794247676
   }
  ]
 }
