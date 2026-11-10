@@ -1,5 +1,5 @@
 {
- "updated": 1794288318,
+ "updated": 1794291666,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,10 +7,52 @@
  ],
  "items": [
   {
+   "source": "المدى",
+   "title": "الأنواء الجوية تتوقع أجواء صحوة وارتفاعاً تدريجياً في درجات الحرارة",
+   "link": "https://almadapaper.net/460536/",
+   "ts": 1794291386
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "دراسة: الوحدة تزيد تسارع الشيخوخة وخطر الوفاة",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B2%D9%8A%D8%AF-%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D9%88%D8%AE%D8%A9-%D9%88%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A9",
+   "ts": 1794290757
+  },
+  {
+   "source": "السومرية",
+   "title": "السليمانية تحت وطأة أزمة كورمور.. انقطاع الكهرباء وشح الوقود وارتفاع الأسعار",
+   "link": "https://www.alsumaria.tv/news/localnews/581045/%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%ad%d8%aa-%d9%88%d8%b7%d8%a3%d8%a9-%d8%a3%d8%b2%d9%85%d8%a9-%d9%83%d9%88%d8%b1%d9%85%d9%88%d8%b1-%d8%a7%d9%86%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794290095
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد ضربة جوية.. انطلاق عملية أمنية للبحث عن جثث عناصر داعش جنوبي كركوك",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A8%D8%B9%D8%AF-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%AC%D8%AB%D8%AB-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
+   "ts": 1794289782
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد تهديد إيراني.. واشنطن تنقل طائرات من بريطانيا إلى ألمانيا",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D9%86%D9%82%D9%84-%D8%B7%D8%A7-%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%89-%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
+   "ts": 1794289107
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "النفط العراقي يسجل خسائر حادة بأكثر من 7% متأثرة بهبوط الأسواق العالمية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B3%D8%AC%D9%84-%D8%AE%D8%B3%D8%A7-%D8%B1-%D8%AD%D8%A7%D8%AF%D8%A9-%D8%A8-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-7-%D9%85%D8%AA-%D8%AB%D8%B1%D8%A9-%D8%A8%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
+   "ts": 1794288538
+  },
+  {
    "source": "شفق نيوز",
    "title": "باراك: فرصة تاريخية لبناء مسار طموح للعلاقات مع العراق في مجالات الاقتصاد والقضاء",
    "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%81%D8%B1%D8%B5%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%84%D8%A8%D9%86%D8%A7-%D9%85%D8%B3%D8%A7%D8%B1-%D8%B7%D9%85%D9%88%D8%AD-%D9%84%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%82%D8%B6%D8%A7",
    "ts": 1794287230
+  },
+  {
+   "source": "السومرية",
+   "title": "ماذا قال ترامب عن محاولة عزل هيغسيث",
+   "link": "https://www.alsumaria.tv/news/international/581044/%d9%85%d8%a7%d8%b0%d8%a7-%d9%82%d8%a7%d9%84-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%b9%d9%86-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d8%b9%d8%b2%d9%84-%d9%87%d9%8a%d8%ba%d8%b3%d9%8a%d8%ab?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794287163
   },
   {
    "source": "شفق نيوز",
@@ -73,22 +115,10 @@
    "ts": 1794262624
   },
   {
-   "source": "شفق نيوز",
-   "title": "مسرور بارزاني وباراك يرحبان بالتقدم مع الزيدي بشأن الموازنة ويتطلعان لاتفاق",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%85%D8%B3%D8%B1%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%8A%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D8%B9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A8%D8%B4-%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D9%88%D9%8A%D8%AA%D8%B7%D9%84%D8%B9%D8%A7%D9%86-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82",
-   "ts": 1794262119
-  },
-  {
    "source": "السومرية",
    "title": "إخماد حريق بكرفان في فرقة الرد السريع غربي بغداد",
    "link": "https://www.alsumaria.tv/news/localnews/581041/%d8%a5%d8%ae%d9%85%d8%a7%d8%af-%d8%ad%d8%b1%d9%8a%d9%82-%d8%a8%d9%83%d8%b1%d9%81%d8%a7%d9%86-%d9%81%d9%8a-%d9%81%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d8%b1%d8%af-%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9-%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794260280
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ترمب: دول الخليج تفضل استمرار الحصار على إيران وواشنطن جاهزة للتحرك العسكري",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AA%D9%81%D8%B6%D9%84-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AC%D8%A7%D9%87%D8%B2%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A",
-   "ts": 1794260116
   },
   {
    "source": "المدى",
@@ -145,28 +175,10 @@
    "ts": 1794258300
   },
   {
-   "source": "المدى",
-   "title": "تقرير استخباري يكشف شبهات تهريب نفط مستمرة منذ 5 سنوات في جرف الصخر",
-   "link": "https://almadapaper.net/460510/",
-   "ts": 1794258300
-  },
-  {
    "source": "السومرية",
    "title": "اعتقال قاتل طفلة في بابل",
    "link": "https://www.alsumaria.tv/news/security/581039/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%82%d8%a7%d8%aa%d9%84-%d8%b7%d9%81%d9%84%d8%a9-%d9%81%d9%8a-%d8%a8%d8%a7%d8%a8%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794258251
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"تجارة الوهم\" في العراق.. مشعوذون يستغلون مخاوف ومشاكل وأمنيات ضحاياهم لكسب المال",
-   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%88%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B4%D8%B9%D9%88%D8%B0%D9%88%D9%86-%D9%8A%D8%B3%D8%AA%D8%BA%D9%84%D9%88%D9%86-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%88%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D9%88-%D9%85%D9%86%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7%D9%87%D9%85-%D9%84%D9%83%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D9%84",
-   "ts": 1794258200
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "المنتخب العراقي يصل البصرة استعداداً لافتتاح البطولة الرباعية (فيديو)",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1794256953
   },
   {
    "source": "السومرية",
@@ -197,18 +209,6 @@
    "title": "براتب 164 ألف دولار.. \"ناسا\" تبحث عن رواد لمهمة على سطح القمر",
    "link": "https://www.alsumaria.tv/news/international/581034/%d8%a8%d8%b1%d8%a7%d8%aa%d8%a8-164-%d8%a3%d9%84%d9%81-%d8%af%d9%88%d9%84%d8%a7%d8%b1-quot%d9%86%d8%a7%d8%b3%d8%a7quot-%d8%aa%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%b1%d9%88%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794250680
-  },
-  {
-   "source": "السومرية",
-   "title": "خلافات الديمقراطي والاتحاد الوطني.. المناصب ووحدة الإقليم في صدارة المواجهة",
-   "link": "https://www.alsumaria.tv/news/politics/581032/%d8%ae%d9%84%d8%a7%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b5%d8%a8-%d9%88%d9%88%d8%ad%d8%af%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794248395
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب يشكك في نزاهة انتخابات التجديد النصفي للكونغرس",
-   "link": "https://www.alsumaria.tv/news/international/581033/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b4%d9%83%d9%83-%d9%81%d9%8a-%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d9%86%d8%b5%d9%81%d9%8a-%d9%84%d9%84%d9%83%d9%88%d9%86%d8%ba?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794248382
   }
  ]
 }
