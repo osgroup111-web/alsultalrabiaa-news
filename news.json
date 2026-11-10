@@ -1,11 +1,71 @@
 {
- "updated": 1794334218,
+ "updated": 1794337423,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "مصدر أمني لبناني: العثور على جثة النائب السابق أحمد العلواني في بيروت",
+   "link": "https://www.alsumaria.tv/news/politics/581102/%d9%85%d8%b5%d8%af%d8%b1-%d8%a3%d9%85%d9%86%d9%8a-%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b9%d8%ab%d9%88%d8%b1-%d8%b9%d9%84%d9%89-%d8%ac%d8%ab%d8%a9-%d8%a7%d9%84%d9%86%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82-%d8%a3%d8%ad%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794336990
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ألمانيا تتضامن مع فرنسا ضد هجمات إيران الإلكترونية: لن يزعزعوا وحدتنا",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B6%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84-%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%86-%D9%8A%D8%B2%D8%B9%D8%B2%D8%B9%D9%88%D8%A7-%D9%88%D8%AD%D8%AF%D8%AA%D9%86%D8%A7",
+   "ts": 1794336925
+  },
+  {
+   "source": "المدى",
+   "title": "بعد أربعة أيام من اختفائه.. العثور على جثة أحمد العلواني في بيروت",
+   "link": "https://almadapaper.net/460634/",
+   "ts": 1794336779
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد اختفائه منذ 4 أيام.. العثور على جثة أحمد العلواني في بيروت",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AE%D8%AA%D9%81%D8%A7-%D9%87-%D9%85%D9%86%D8%B0-4-%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%A9-%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
+   "ts": 1794336391
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مجلس كركوك يعقد مساء غد الأربعاء جلسة لانتخاب قحطان الونداوي محافظاً",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%85%D8%AC%D9%84%D8%B3-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%8A%D8%B9%D9%82%D8%AF-%D9%85%D8%B3%D8%A7-%D8%BA%D8%AF-%D8%A7%D9%84-%D8%B1%D8%A8%D8%B9%D8%A7-%D8%AC%D9%84%D8%B3%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%82%D8%AD%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%86%D8%AF%D8%A7%D9%88%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7",
+   "ts": 1794336166
+  },
+  {
+   "source": "السومرية",
+   "title": "إيقاف الرحلات الجوية في مطار البصرة الدولي",
+   "link": "https://www.alsumaria.tv/news/localnews/581101/%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794335803
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "محافظ بابل ينفي من جرف النصر أنباء تهريب النفط: استهداف معيب",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D8%A7%D8%A8%D9%84-%D9%8A%D9%86%D9%81%D9%8A-%D9%85%D9%86-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%86%D8%A8%D8%A7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B9%D9%8A%D8%A8",
+   "ts": 1794335446
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"روانگە\" تطلق كتاب الوضع الديني والقومي في كوردستان (صور)",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D9%88%D8%A7%D9%86-%D8%AA%D8%B7%D9%84%D9%82-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D9%81%D9%8A-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B5%D9%88%D8%B1",
+   "ts": 1794335023
+  },
+  {
+   "source": "السومرية",
+   "title": "وسائل إعلام لبنانية: أنباء عن اختفاء نائب عراقي سابق في بيروت",
+   "link": "https://www.alsumaria.tv/news/politics/581100/%d9%88%d8%b3%d8%a7%d8%a6%d9%84-%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d8%a9-%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%b9%d9%86-%d8%a7%d8%ae%d8%aa%d9%81%d8%a7%d8%a1-%d9%86%d8%a7%d8%a6%d8%a8-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d8%b3%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794334473
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيران تعلن استهداف ناقلة نفط ثالثة في هرمز",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2",
+   "ts": 1794334058
+  },
   {
    "source": "السومرية",
    "title": "تقرير يكشف عن أحدث التطورات في قضية عزل هيغسيث",
@@ -85,52 +145,16 @@
    "ts": 1794329021
   },
   {
-   "source": "شفق نيوز",
-   "title": "غزة.. 7 قتلى بينهم طفل بنيران الجيش الإسرائيلي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%BA%D8%B2%D8%A9-7-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B7%D9%81%D9%84-%D8%A8%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A",
-   "ts": 1794328874
-  },
-  {
    "source": "المدى",
    "title": "خام البصرة يخسر 4 دولارات.. تراجع الأسعار يضغط على موازنة 2027!",
    "link": "https://almadapaper.net/460581/",
    "ts": 1794328842
   },
   {
-   "source": "شفق نيوز",
-   "title": "قصف وانتهاكات إسرائيلية جديدة في الجنوب السوري",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%82%D8%B5%D9%81-%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-   "ts": 1794328648
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نيجيرفان بارزاني يتوجه إلى تركيا بدعوة رسمية من أردوغان",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC%D9%87-%D9%84%D9%89-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D8%AF%D8%B9%D9%88%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86",
-   "ts": 1794328426
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عقب تهديد إيراني.. أميركا تسحب طائراتها من قاعدة بريطانية ولندن تؤكد: قواعدنا آمنة",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D9%82%D8%A8-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B3%D8%AD%D8%A8-%D8%B7%D8%A7-%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D9%84%D9%86%D8%AF%D9%86-%D8%AA-%D9%83%D8%AF-%D9%82%D9%88%D8%A7%D8%B9%D8%AF%D9%86%D8%A7-%D9%85%D9%86%D8%A9",
-   "ts": 1794328202
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "كرمانشاه.. توقعات بإنتاج 8 أطنان من الزعفران وخطط لتوسيع المساحات المزروعة",
-   "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%83%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A8-%D9%86%D8%AA%D8%A7%D8%AC-8-%D8%B7%D9%86%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D9%88%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9",
-   "ts": 1794327951
-  },
-  {
    "source": "السومرية",
    "title": "بغداد.. القبض على متهم بسرقة المنازل خلال أقل من 24 ساعة وتسترد المسروقات",
    "link": "https://www.alsumaria.tv/news/security/581094/%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d9%85%d8%aa%d9%87%d9%85-%d8%a8%d8%b3%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b2%d9%84-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%82%d9%84-%d9%85%d9%86-2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794327807
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نتنياهو يطالب بحكومة \"وحدة وطنية\" لمواجهة إيران",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%AD%D8%AF%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%8A%D8%B1%D8%A7%D9%86",
-   "ts": 1794327164
   },
   {
    "source": "السومرية",
@@ -157,28 +181,10 @@
    "ts": 1794325416
   },
   {
-   "source": "السومرية",
-   "title": "العراق يتضامن مع تركيا بعد حادث \"ولاية وان\"",
-   "link": "https://www.alsumaria.tv/news/politics/581090/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%aa%d8%b6%d8%a7%d9%85%d9%86-%d9%85%d8%b9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%a8%d8%b9%d8%af-%d8%ad%d8%a7%d8%af%d8%ab-quot%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d9%88%d8%a7%d9%86qu?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794324549
-  },
-  {
    "source": "المدى",
    "title": "رئيس الكتلة الإيزيدية: لا مؤشرات حقيقية على بدء انسحاب القوات التركية من العراق!",
    "link": "https://almadapaper.net/460575/",
    "ts": 1794324536
-  },
-  {
-   "source": "السومرية",
-   "title": "الخارجية تبحث استكمال التحضيرات لعقد مؤتمر أممي لدعم ضحايا الإرهاب في بغداد",
-   "link": "https://www.alsumaria.tv/news/politics/581089/%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d8%aa%d8%a8%d8%ad%d8%ab-%d8%a7%d8%b3%d8%aa%d9%83%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d8%a7%d8%aa-%d9%84%d8%b9%d9%82%d8%af-%d9%85%d8%a4%d8%aa%d9%85%d8%b1-%d8%a3%d9%85%d9%85%d9%8a-%d9%84%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794324483
-  },
-  {
-   "source": "السومرية",
-   "title": "ما السر وراء ندرة إصابة القلب بالسرطان.. الاجابة صادمة",
-   "link": "https://www.alsumaria.tv/news/miscellaneous/581088/%d9%85%d8%a7-%d8%a7%d9%84%d8%b3%d8%b1-%d9%88%d8%b1%d8%a7%d8%a1-%d9%86%d8%af%d8%b1%d8%a9-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a8%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%a8%d8%a9-%d8%b5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794323676
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "تحذير نيابي من انعكاسات خفض سعر برميل النفط على المشاريع",
    "link": "https://almadapaper.net/460563/",
    "ts": 1794308563
-  },
-  {
-   "source": "المدى",
-   "title": "الصحة تضبط مخزناً سرياً داخل صيدلية في بغداد يضم نحو 27 ألف قطعة دوائية مخالفة",
-   "link": "https://almadapaper.net/460560/",
-   "ts": 1794305616
   }
  ]
 }
