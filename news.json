@@ -1,11 +1,23 @@
 {
- "updated": 1794348590,
+ "updated": 1794351106,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "مجلس الأنبار يطالب الجهات الرسمية بسرعة كشف ملابسات مقتل العلواني",
+   "link": "https://www.alsumaria.tv/news/politics/581114/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d8%a9-%d8%a8%d8%b3%d8%b1%d8%b9%d8%a9-%d9%83%d8%b4%d9%81-%d9%85%d9%84%d8%a7%d8%a8%d8%b3%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794349320
+  },
+  {
+   "source": "السومرية",
+   "title": "سفارة بغداد في بيروت تصدر توضيحا يخص \"مقتل العلواني\"",
+   "link": "https://www.alsumaria.tv/news/international/581113/%d8%b3%d9%81%d8%a7%d8%b1%d8%a9-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%81%d9%8a-%d8%a8%d9%8a%d8%b1%d9%88%d8%aa-%d8%aa%d8%b5%d8%af%d8%b1-%d8%aa%d9%88%d8%b6%d9%8a%d8%ad%d8%a7-%d9%8a%d8%ae%d8%b5-quot%d9%85%d9%82%d8%aa%d9%84-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794348349
+  },
   {
    "source": "السومرية",
    "title": "مكتب العلواني يطالب الحكومة العراقية بكشف المتورطين في مقتله",
@@ -197,18 +209,6 @@
    "title": "بعد نقل أفرادها إلى إيطاليا.. قائد بعثة الناتو في العراق يستعرض أنشطتها أمام قيادة الحلف",
    "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A8%D8%B9%D8%AF-%D9%86%D9%82%D9%84-%D9%81%D8%B1%D8%A7%D8%AF%D9%87%D8%A7-%D9%84%D9%89-%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7-%D8%AF-%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%86%D8%B4%D8%B7%D8%AA%D9%87%D8%A7-%D9%85%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%81",
    "ts": 1794337871
-  },
-  {
-   "source": "السومرية",
-   "title": "مصدر أمني لبناني: العثور على جثة النائب السابق أحمد العلواني في بيروت",
-   "link": "https://www.alsumaria.tv/news/politics/581102/%d9%85%d8%b5%d8%af%d8%b1-%d8%a3%d9%85%d9%86%d9%8a-%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b9%d8%ab%d9%88%d8%b1-%d8%b9%d9%84%d9%89-%d8%ac%d8%ab%d8%a9-%d8%a7%d9%84%d9%86%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82-%d8%a3%d8%ad%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794336990
-  },
-  {
-   "source": "السومرية",
-   "title": "إيقاف الرحلات الجوية في مطار البصرة الدولي",
-   "link": "https://www.alsumaria.tv/news/localnews/581101/%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794335803
   }
  ]
 }
