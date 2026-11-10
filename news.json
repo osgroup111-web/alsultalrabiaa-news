@@ -1,11 +1,59 @@
 {
- "updated": 1794331379,
+ "updated": 1794334218,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "تقرير يكشف عن أحدث التطورات في قضية عزل هيغسيث",
+   "link": "https://www.alsumaria.tv/news/international/581099/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%ad%d8%af%d8%ab-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d9%82%d8%b6%d9%8a%d8%a9-%d8%b9%d8%b2%d9%84-%d9%87%d9%8a%d8%ba%d8%b3%d9%8a%d8%ab?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794333900
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ديالى.. الترسبات الطينية تقلص السعة التخزينية لسد مندلي بأكثر من الربع (صور)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AF%D9%8A%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B1%D8%B3%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D9%82%D9%84%D8%B5-%D8%A7%D9%84%D8%B3%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86%D9%8A%D8%A9-%D9%84%D8%B3%D8%AF-%D9%85%D9%86%D8%AF%D9%84%D9%8A-%D8%A8-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%B5%D9%88%D8%B1",
+   "ts": 1794333605
+  },
+  {
+   "source": "المدى",
+   "title": "قمة أنطاليا.. كردستان تعرض خطتها لمواجهة التغير المناخي",
+   "link": "https://almadapaper.net/460594/",
+   "ts": 1794333460
+  },
+  {
+   "source": "المدى",
+   "title": "غموض يحيط بمصير أحمد العلواني بعد أنباء اختطافه في بيروت",
+   "link": "https://almadapaper.net/460589/",
+   "ts": 1794332105
+  },
+  {
+   "source": "السومرية",
+   "title": "طهران تتحدث عن الرد الأمريكي على الشروط الإيرانية: مخادع",
+   "link": "https://www.alsumaria.tv/news/international/581098/%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d8%aa%d8%aa%d8%ad%d8%af%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d8%b1%d8%af-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794332100
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "استعداداً للبطولة الرباعية.. المنتخب العراقي يبدأ أولى تدريباته في البصرة",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%A8%D8%AF-%D9%88%D9%84%D9%89-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
+   "ts": 1794331585
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سوريا.. تحديات إدارية ومالية وأمنية تفاقم أزمة المياه في السويداء",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88-%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D8%A7%D9%82%D9%85-%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7",
+   "ts": 1794331364
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "رضائي: لا محادثات حالياً مع واشنطن",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B1%D8%B6%D8%A7-%D9%8A-%D9%84%D8%A7-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%AD%D8%A7%D9%84%D9%8A%D8%A7-%D9%85%D8%B9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
+   "ts": 1794331357
+  },
   {
    "source": "شفق نيوز",
    "title": "فقدان أثر السياسي العراقي أحمد العلواني في لبنان منذ أربعة أيام",
@@ -103,34 +151,10 @@
    "ts": 1794326027
   },
   {
-   "source": "شفق نيوز",
-   "title": "النفط تعتزم إنشاء أنبوب لنقل الغاز السائل من جنوب العراق إلى شماله",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D9%86%D8%B4%D8%A7-%D9%86%D8%A8%D9%88%D8%A8-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%B3%D8%A7-%D9%84-%D9%85%D9%86-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%89-%D8%B4%D9%85%D8%A7%D9%84%D9%87",
-   "ts": 1794325468
-  },
-  {
    "source": "السومرية",
    "title": "ما سبب منع طائرة منتخب إيران من الهبوط في مطار البصرة؟",
    "link": "https://www.alsumaria.tv/news/politics/581091/%d9%85%d8%a7-%d8%b3%d8%a8%d8%a8-%d9%85%d9%86%d8%b9-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7-%d9%81%d9%8a-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794325416
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الجيش اليمني يعلن مقتل وإصابة 190 حوثياً",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-190-%D8%AD%D9%88%D8%AB%D9%8A%D8%A7",
-   "ts": 1794325052
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "دوري الصالات.. فوزان للمصافي وغاز الجنوب وتعادلان في الجولة الثامنة",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%88%D8%B2%D8%A7%D9%86-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D9%81%D9%8A-%D9%88%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9",
-   "ts": 1794324833
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"الوحل\" يعيق الحركة التجارية في منفذ ربيعة ومجلس نينوى يعلق: مشهد مخجل (فيديو)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%88%D8%AD%D9%84-%D9%8A%D8%B9%D9%8A%D9%82-%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0-%D8%B1%D8%A8%D9%8A%D8%B9%D8%A9-%D9%88%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%8A%D8%B9%D9%84%D9%82-%D9%85%D8%B4%D9%87%D8%AF-%D9%85%D8%AE%D8%AC%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1794324801
   },
   {
    "source": "السومرية",
@@ -163,18 +187,6 @@
    "ts": 1794322413
   },
   {
-   "source": "السومرية",
-   "title": "مكتب السيد السيستاني يحدد موعد غرة جمادى الآخرة",
-   "link": "https://www.alsumaria.tv/news/localnews/581086/%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d8%aa%d8%a7%d9%86%d9%8a-%d9%8a%d8%ad%d8%af%d8%af-%d9%85%d9%88%d8%b9%d8%af-%d8%ba%d8%b1%d8%a9-%d8%ac%d9%85%d8%a7%d8%af%d9%89-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794321908
-  },
-  {
-   "source": "السومرية",
-   "title": "الاستخبارات تحبط نشاطاً لوجستياً لـ”داعش” وتدمر ثلاث مضافات في كركوك",
-   "link": "https://www.alsumaria.tv/news/security/581087/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d8%aa%d8%ad%d8%a8%d8%b7-%d9%86%d8%b4%d8%a7%d8%b7%d8%a7%d9%8b-%d9%84%d9%88%d8%ac%d8%b3%d8%aa%d9%8a%d8%a7%d9%8b-%d9%84%d9%80%d8%af%d8%a7%d8%b9%d8%b4-%d9%88%d8%aa%d8%af%d9%85%d8%b1-%d8%ab%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794321869
-  },
-  {
    "source": "المدى",
    "title": "العراق يمنع هبوط طائرة إيران.. والمنتخب يعبر من الشلامجة",
    "link": "https://almadapaper.net/460568/",
@@ -197,18 +209,6 @@
    "title": "الصحة تضبط مخزناً سرياً داخل صيدلية في بغداد يضم نحو 27 ألف قطعة دوائية مخالفة",
    "link": "https://almadapaper.net/460560/",
    "ts": 1794305616
-  },
-  {
-   "source": "المدى",
-   "title": "\"نحتاج إلى موازنة مناسبة\".. بارزاني: بغداد تعهدت باستمرار رواتب موظفي كردستان",
-   "link": "https://almadapaper.net/460555/",
-   "ts": 1794304270
-  },
-  {
-   "source": "المدى",
-   "title": "المدى تغوص في اقتصاد \"الظل العقاري\" بذي قار.. أراضٍ بمليارات ومجمعات مثيرة للجدل!",
-   "link": "https://almadapaper.net/460552/",
-   "ts": 1794301303
   }
  ]
 }
