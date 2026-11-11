@@ -1,11 +1,77 @@
 {
- "updated": 1794421222,
+ "updated": 1794425326,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الحوثيون: استهدفنا مطار الرياض ومحطة ضخ في ينبع",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D9%86%D8%A7-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%85%D8%AD%D8%B7%D8%A9-%D8%B6%D8%AE-%D9%81%D9%8A-%D9%8A%D9%86%D8%A8%D8%B9",
+   "ts": 1794424363
+  },
+  {
+   "source": "السومرية",
+   "title": "دوي انفجارين جنوبي اليمن",
+   "link": "https://www.alsumaria.tv/news/international/581182/%d8%af%d9%88%d9%8a-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d9%8a%d9%86-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%a7%d9%84%d9%8a%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794424200
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الجيش الإسرائيلي يدعو للتأهب على الحدود مع الأردن",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA-%D9%87%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84-%D8%B1%D8%AF%D9%86",
+   "ts": 1794423649
+  },
+  {
+   "source": "السومرية",
+   "title": "رئيس مجلس القضاء من لندن: لا خطوط حمراء بملاحقة المتورطين بالفساد",
+   "link": "https://www.alsumaria.tv/news/localnews/581181/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d9%85%d9%86-%d9%84%d9%86%d8%af%d9%86-%d9%84%d8%a7-%d8%ae%d8%b7%d9%88%d8%b7-%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d8%a8%d9%85%d9%84%d8%a7%d8%ad%d9%82%d8%a9-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794423600
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "المكون المسيحي يطالب بمنصب محافظ كركوك لـ\"فترة محددة\"",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D9%85%D9%83%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%85%D9%86%D8%B5%D8%A8-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%84%D9%80-%D9%81%D8%AA%D8%B1%D8%A9-%D9%85%D8%AD%D8%AF%D8%AF%D8%A9",
+   "ts": 1794423580
+  },
+  {
+   "source": "المدى",
+   "title": "«لوجيتك» تمنح 7 آلاف موظف إجازة للعب «GTA VI»",
+   "link": "https://almadapaper.net/460760/",
+   "ts": 1794423454
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "يشغل منصبا في ذي قار.. اعتقال شقيق قائد عسكري متلبساً بالرشوة",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%8A%D8%B4%D8%BA%D9%84-%D9%85%D9%86%D8%B5%D8%A8%D8%A7-%D9%81%D9%8A-%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B4%D9%82%D9%8A%D9%82-%D9%82%D8%A7-%D8%AF-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%85%D8%AA%D9%84%D8%A8%D8%B3%D8%A7-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9",
+   "ts": 1794423108
+  },
+  {
+   "source": "المدى",
+   "title": "لا صغار ولا كبار.. فائق زيدان يتعهد بملاحقة الفاسدين",
+   "link": "https://almadapaper.net/460758/",
+   "ts": 1794422602
+  },
+  {
+   "source": "السومرية",
+   "title": "إخماد حريق اندلع داخل صهريج في واسط",
+   "link": "https://www.alsumaria.tv/news/localnews/581180/%d8%a5%d8%ae%d9%85%d8%a7%d8%af-%d8%ad%d8%b1%d9%8a%d9%82-%d8%a7%d9%86%d8%af%d9%84%d8%b9-%d8%af%d8%a7%d8%ae%d9%84-%d8%b5%d9%87%d8%b1%d9%8a%d8%ac-%d9%81%d9%8a-%d9%88%d8%a7%d8%b3%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794422100
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بزشكيان يطالب بتعويضات عن الأضرار البيئية لضربات أميركا وإسرائيل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84-%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A-%D9%8A%D8%A9-%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84",
+   "ts": 1794421794
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الجيش الأميركي: نعمل على قطع طرق عمليات تهريب الحرس الثوري الإيراني",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%86%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D9%82%D8%B7%D8%B9-%D8%B7%D8%B1%D9%82-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+   "ts": 1794421782
+  },
   {
    "source": "السومرية",
    "title": "ترامب بشأن إيران: آمل ألا نضطر لتدمير المزيد فيها",
@@ -85,34 +151,10 @@
    "ts": 1794417695
   },
   {
-   "source": "شفق نيوز",
-   "title": "الخلافات السياسية تطيح بجلسة انتخاب محافظ جديد لكركوك",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D8%B1%D9%83%D9%88%D9%83",
-   "ts": 1794416659
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بعد إيطاليا.. تهديدات لمدارس ووسائل إعلام تصل إلى بريطانيا وأيرلندا",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%B9%D8%AF-%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%88%D9%88%D8%B3%D8%A7-%D9%84-%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D8%B5%D9%84-%D9%84%D9%89-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A7%D8%B3%D9%83%D8%AA%D9%84%D9%86%D8%AF%D8%A7-%D9%88-%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7",
-   "ts": 1794416500
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نعيم قاسم يوجه نداءً لثلاث دول بينها العراق: نحتاج لكل من يقدر على حمل السلاح (تحديث)",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D8%B9%D9%8A%D9%85-%D9%82%D8%A7%D8%B3%D9%85-%D9%86%D8%AD%D8%AA%D8%A7%D8%AC-%D9%84%D9%83%D9%84-%D9%85%D9%86-%D9%8A%D9%82%D8%AF%D8%B1-%D8%B9%D9%84%D9%89-%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%88",
-   "ts": 1794416309
-  },
-  {
    "source": "المدى",
    "title": "باراك: العراق مفتاح التواصل مع إيران وشراكتنا لن تنتهي",
    "link": "https://almadapaper.net/460747/",
    "ts": 1794415435
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "قاليباف: على واشنطن تنفيذ شروطنا لفتح هرمز واستئناف المفاوضات",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%82%D8%A7%D9%84%D9%8A%D8%A8%D8%A7%D9%81-%D8%B9%D9%84%D9%89-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B4%D8%B1%D9%88%D8%B7%D9%86%D8%A7-%D9%84%D9%81%D8%AA%D8%AD-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%A7%D8%B3%D8%AA-%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA",
-   "ts": 1794415272
   },
   {
    "source": "السومرية",
@@ -121,22 +163,10 @@
    "ts": 1794414916
   },
   {
-   "source": "شفق نيوز",
-   "title": "إنذار ال 72 واستعداد ما قبل العاصفة",
-   "link": "https://shafaq.com/ar/%D9%85%D9%82%D9%80%D8%A7%D9%84%D8%A7%D8%AA/%D9%86%D8%B0%D8%A7%D8%B1-%D8%A7%D9%84-72-%D9%88%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9",
-   "ts": 1794414688
-  },
-  {
    "source": "السومرية",
    "title": "بيان من الرافدين يخص سلف الوجبات الخامسة والسادسة والسابعة",
    "link": "https://www.alsumaria.tv/news/localnews/581174/%d8%a8%d9%8a%d8%a7%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%8a%d8%ae%d8%b5-%d8%b3%d9%84%d9%81-%d8%a7%d9%84%d9%88%d8%ac%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d9%88%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794414628
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "حق فطري غائب: حين ينكسر رجاء المسافر والمسن على أسفلت بغداد بحثا عن مرافق صحية",
-   "link": "https://shafaq.com/ar/%D9%85%D9%82%D9%80%D8%A7%D9%84%D8%A7%D8%AA/%D8%AD%D9%82-%D9%81%D8%B7%D8%B1%D9%8A-%D8%BA%D8%A7-%D8%A8-%D8%AD%D9%8A%D9%86-%D9%8A%D9%86%D9%83%D8%B3%D8%B1-%D8%B1%D8%AC%D8%A7-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D9%86-%D8%B9%D9%84%D9%89-%D8%B3%D9%81%D9%84%D8%AA-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%AD%D8%AB%D8%A7-%D8%B9%D9%86-%D9%85%D8%B1%D8%A7%D9%81%D9%82-%D8%B5%D8%AD%D9%8A%D8%A9",
-   "ts": 1794414567
   },
   {
    "source": "السومرية",
@@ -149,24 +179,6 @@
    "title": "فرنسا تتلقى ضربة موجعة قبل مواجهة إيطاليا",
    "link": "https://www.alsumaria.tv/Entertainment-News/581171/sports/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%aa%d9%84%d9%82%d9%89-%d8%b6%d8%b1%d8%a8%d8%a9-%d9%85%d9%88%d8%ac%d8%b9%d8%a9-%d9%82%d8%a8%d9%84-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794414074
-  },
-  {
-   "source": "السومرية",
-   "title": "\"المفتش العام\" يعيد أحمد بدير إلى المسرح",
-   "link": "https://www.alsumaria.tv/news/artculture/581170/quot%d8%a7%d9%84%d9%85%d9%81%d8%aa%d8%b4-%d8%a7%d9%84%d8%b9%d8%a7%d9%85quot-%d9%8a%d8%b9%d9%8a%d8%af-%d8%a3%d8%ad%d9%85%d8%af-%d8%a8%d8%af%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794413341
-  },
-  {
-   "source": "السومرية",
-   "title": "تصريحات إيرانية تشعل أسعار النفط من جديد",
-   "link": "https://www.alsumaria.tv/news/economy/581168/%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b4%d8%b9%d9%84-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794412963
-  },
-  {
-   "source": "السومرية",
-   "title": "انذار ومنع ظهور وغرامة على وكالة وقناة.. هيئة الاعلام تصدر اربعة بيانات",
-   "link": "https://www.alsumaria.tv/news/localnews/581169/%d8%a7%d9%86%d8%b0%d8%a7%d8%b1-%d9%88%d9%85%d9%86%d8%b9-%d8%b8%d9%87%d9%88%d8%b1-%d9%88%d8%ba%d8%b1%d8%a7%d9%85%d8%a9-%d8%b9%d9%84%d9%89-%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d9%88%d9%82%d9%86%d8%a7%d8%a9-%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794412843
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "مجموعة السبع تدين هجمات إيران.. وواشنطن تتمسك بالضغط الاقتصادي",
    "link": "https://almadapaper.net/460731/",
    "ts": 1794405617
-  },
-  {
-   "source": "المدى",
-   "title": "كتائب حزب الله تتمسك بسلاحها وتوجه اتهامات جديدة إلى الزيدي",
-   "link": "https://almadapaper.net/460728/",
-   "ts": 1794403856
-  },
-  {
-   "source": "المدى",
-   "title": "الحلبوسي يدعو للتنسيق مع لبنان لكشف ملابسات مقتل أحمد العلواني",
-   "link": "https://almadapaper.net/460724/",
-   "ts": 1794401571
   }
  ]
 }
