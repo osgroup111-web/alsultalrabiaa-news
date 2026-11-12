@@ -1,11 +1,107 @@
 {
- "updated": 1794462153,
+ "updated": 1794465910,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "سوريا.. قرابة 400 عائلة نازحة تعود إلى مناطقها الاصلية في راس العين (صور)",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B1%D8%A7%D8%A8%D8%A9-400-%D8%B9%D8%A7-%D9%84%D8%A9-%D9%86%D8%A7%D8%B2%D8%AD%D8%A9-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B5%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B5%D9%88%D8%B1",
+   "ts": 1794465785
+  },
+  {
+   "source": "السومرية",
+   "title": "البصرة على موعد مع افتتاح النفق المغمور.. وزير النقل يصل للمحافظة تمهيداً للتدشين",
+   "link": "https://www.alsumaria.tv/news/localnews/581199/%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d9%88%d8%b9%d8%af-%d9%85%d8%b9-%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad-%d8%a7%d9%84%d9%86%d9%81%d9%82-%d8%a7%d9%84%d9%85%d8%ba%d9%85%d9%88%d8%b1-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794465432
+  },
+  {
+   "source": "المدى",
+   "title": "ترامب ونتنياهو يتصادمان هاتفياً بشأن حرب إيران وتل أبيب تنفي",
+   "link": "https://almadapaper.net/460866/",
+   "ts": 1794465402
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ذي قار تتوقع تسويق 10 آلاف طن من محصول الشلب للموسم الحالي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1-%D8%AA%D8%AA%D9%88%D9%82%D8%B9-%D8%AA%D8%B3%D9%88%D9%8A%D9%82-10-%D9%84%D8%A7%D9%81-%D8%B7%D9%86-%D9%85%D9%86-%D9%85%D8%AD%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D9%84%D8%A8-%D9%84%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A",
+   "ts": 1794465332
+  },
+  {
+   "source": "السومرية",
+   "title": "سقوط مفاجئ لحارس في الإليزيه.. ماكرون يتدخل",
+   "link": "https://www.alsumaria.tv/news/international/581198/%d8%b3%d9%82%d9%88%d8%b7-%d9%85%d9%81%d8%a7%d8%ac%d8%a6-%d9%84%d8%ad%d8%a7%d8%b1%d8%b3-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%84%d9%8a%d8%b2%d9%8a%d9%87-%d9%85%d8%a7%d9%83%d8%b1%d9%88%d9%86-%d9%8a%d8%aa%d8%af%d8%ae%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794464853
+  },
+  {
+   "source": "المدى",
+   "title": "ارتفاع طفيف لخامي البصرة رغم تراجع أسعار النفط العالمية",
+   "link": "https://almadapaper.net/460862/",
+   "ts": 1794464519
+  },
+  {
+   "source": "السومرية",
+   "title": "\"الضحك ممنوع\".. حارس قبر الجندي المجهول يوبّخ وفد وزير الحرب الأميركي",
+   "link": "https://www.alsumaria.tv/news/international/581197/quot%d8%a7%d9%84%d8%b6%d8%ad%d9%83-%d9%85%d9%85%d9%86%d9%88%d8%b9quot-%d8%ad%d8%a7%d8%b1%d8%b3-%d9%82%d8%a8%d8%b1-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794464475
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سقوط شظايا صاروخين باليستيين بعد اعتراضهما في مكة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%82%D9%88%D8%B7-%D8%B4%D8%B8%D8%A7%D9%8A%D8%A7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D9%87%D9%85%D8%A7-%D9%81%D9%8A-%D9%85%D9%83%D8%A9",
+   "ts": 1794464251
+  },
+  {
+   "source": "السومرية",
+   "title": "الدولار يحلق ويسجل أعلى مستوى في 19 شهراً",
+   "link": "https://www.alsumaria.tv/news/economy/581196/%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%8a%d8%ad%d9%84%d9%82-%d9%88%d9%8a%d8%b3%d8%ac%d9%84-%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%81%d9%8a-19-%d8%b4%d9%87%d8%b1%d8%a7%d9%8b?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794463843
+  },
+  {
+   "source": "السومرية",
+   "title": "الإرساليات المخالفة تعود إلى بلدان المنشأ.. الزراعة تشدد الرقابة على اللحوم والبيض المستورد",
+   "link": "https://www.alsumaria.tv/news/localnews/581195/%d8%a7%d9%84%d8%a5%d8%b1%d8%b3%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d9%84%d9%81%d8%a9-%d8%aa%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d8%a8%d9%84%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a3-%d8%a7%d9%84%d8%b2%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794463400
+  },
+  {
+   "source": "السومرية",
+   "title": "مواجهات أوروبية وإفريقية مرتقبة اليوم.. إيطاليا تصطدم بفرنسا والسودان في اختبار صعب أمام السنغال",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581194/sports/%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a7%d8%aa-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d9%88%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9-%d9%85%d8%b1%d8%aa%d9%82%d8%a8%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d8%b5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794463130
+  },
+  {
+   "source": "السومرية",
+   "title": "العراق يراهن على 500 مليون دولار من عبور البيانات.. مشاريع استراتيجية لاستقطاب عمالقة التكنولوجيا",
+   "link": "https://www.alsumaria.tv/news/economy/581193/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-500-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d9%86-%d8%b9%d8%a8%d9%88%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794463029
+  },
+  {
+   "source": "السومرية",
+   "title": "مبعوثا ترامب في موسكو.. بوتين يستعد لاجتماع حاسم بشأن إنهاء حرب أوكرانيا",
+   "link": "https://www.alsumaria.tv/news/international/581192/%d9%85%d8%a8%d8%b9%d9%88%d8%ab%d8%a7-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%81%d9%8a-%d9%85%d9%88%d8%b3%d9%83%d9%88-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%ad%d8%a7%d8%b3%d9%85-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794462696
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "دبلن تجمع قادة أوروبا لبحث حرب أوكرانيا والذكاء الاصطناعي والتحديات الأمنية والاقتصادية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AF%D8%A8%D9%84%D9%86-%D8%AA%D8%AC%D9%85%D8%B9-%D9%82%D8%A7%D8%AF%D8%A9-%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%84%D8%A8%D8%AD%D8%AB-%D8%AD%D8%B1%D8%A8-%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84-%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9",
+   "ts": 1794462582
+  },
+  {
+   "source": "السومرية",
+   "title": "تحرك نيابي لشمول موظفي العقود بالسلف المالية.. هل تشملهم الامتيازات أسوةً بالملاك؟",
+   "link": "https://www.alsumaria.tv/news/localnews/581191/%d8%aa%d8%ad%d8%b1%d9%83-%d9%86%d9%8a%d8%a7%d8%a8%d9%8a-%d9%84%d8%b4%d9%85%d9%88%d9%84-%d9%85%d9%88%d8%b8%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%af-%d8%a8%d8%a7%d9%84%d8%b3%d9%84%d9%81-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%87%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794462324
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "خام البصرة يرتفع رغم تراجع أسعار النفط العالمية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AE%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%B1%D8%BA%D9%85-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
+   "ts": 1794462083
+  },
   {
    "source": "شفق نيوز",
    "title": "غزة.. غارة إسرائيلية تستهدف مستشفى وتوقع 6 قتلى و30 جريحاً",
@@ -47,12 +143,6 @@
    "title": "المنتخب الأمريكي ينسحب من مونديال قطر تحت 17 سنة لأسباب أمنية",
    "link": "https://www.alsumaria.tv/Entertainment-News/581188/sports/%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d9%86%d8%b3%d8%ad%d8%a8-%d9%85%d9%86-%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d9%82%d8%b7%d8%b1-%d8%aa%d8%ad%d8%aa-17-%d8%b3%d9%86%d8%a9-%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794435900
-  },
-  {
-   "source": "السومرية",
-   "title": "إيران تهدد باستهداف أي قاعدة تشارك بـ\"عدوان أمريكي\" عليها",
-   "link": "https://www.alsumaria.tv/news/international/581187/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%87%d8%af%d8%af-%d8%a8%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%a3%d9%8a-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%aa%d8%b4%d8%a7%d8%b1%d9%83-%d8%a8%d9%80quot%d8%b9%d8%af%d9%88%d8%a7%d9%86-%d8%a3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794433680
   },
   {
    "source": "المدى",
@@ -103,28 +193,10 @@
    "ts": 1794432451
   },
   {
-   "source": "المدى",
-   "title": "الاستخبارات العسكرية تدمر ثلاث مضافات لداعش في كركوك",
-   "link": "https://almadapaper.net/460829/",
-   "ts": 1794432392
-  },
-  {
-   "source": "المدى",
-   "title": "العمودالثامن: أعترف بأنني \"ملعون\"",
-   "link": "https://almadapaper.net/460827/",
-   "ts": 1794431967
-  },
-  {
    "source": "شفق نيوز",
    "title": "تعثر وعودة.. ما سبب تعطل تأسيس شركة وطنية للهاتف النقال في العراق؟",
    "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%AA%D8%B9%D8%AB%D8%B1-%D9%88%D8%B9%D9%88%D8%AF%D8%A9-%D9%85%D8%A7-%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B9%D8%B7%D9%84-%D8%AA-%D8%B3%D9%8A%D8%B3-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
    "ts": 1794431172
-  },
-  {
-   "source": "السومرية",
-   "title": "\"لإنهاء الحرب\".. حديث عن لقاء فانس ورضائي وجهاً لوجه",
-   "link": "https://www.alsumaria.tv/news/international/581186/quot%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8quot-%d8%ad%d8%af%d9%8a%d8%ab-%d8%b9%d9%86-%d9%84%d9%82%d8%a7%d8%a1-%d9%81%d8%a7%d9%86%d8%b3-%d9%88%d8%b1%d8%b6%d8%a7%d8%a6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794431100
   },
   {
    "source": "شفق نيوز",
@@ -137,78 +209,6 @@
    "title": "ليلة \"غاضبة وعاصفة\".. احتجاجات أزمة السكن تشلّ قلب إسبانيا",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%84%D9%8A%D9%84%D8%A9-%D8%BA%D8%A7%D8%B6%D8%A8%D8%A9-%D9%88%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%83%D9%86-%D8%AA%D8%B4%D9%84-%D9%82%D9%84%D8%A8-%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7",
    "ts": 1794429758
-  },
-  {
-   "source": "السومرية",
-   "title": "الجيش الأمريكي يعلن مواصلة فرض الحصار البحري على إيران",
-   "link": "https://www.alsumaria.tv/news/international/581185/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a9-%d9%81%d8%b1%d8%b6-%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a-%d8%b9%d9%84%d9%89-%d8%a5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794429000
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "وول ستريت جورنال: المطالب الأميركية غير واقعية وفانس يفكر بمحادثات مع رضائي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D8%AC%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9-%D9%88%D9%81%D8%A7%D9%86%D8%B3-%D9%8A%D9%81%D9%83%D8%B1-%D8%A8%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B1%D8%B6%D8%A7-%D9%8A",
-   "ts": 1794428523
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق يرفض الاستجابة الكاملة.. تقرير أميركي يكشف موقف جوار إيران من \"الحصار\"",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AC%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D9%82%D9%81-%D8%AC%D9%88%D8%A7%D8%B1-%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1",
-   "ts": 1794428132
-  },
-  {
-   "source": "السومرية",
-   "title": "نعيم قاسم: نرفض نزع سلاح حزب الله في ظل استمرار الاحتلال الإسرائيلي",
-   "link": "https://www.alsumaria.tv/news/international/581184/%d9%86%d8%b9%d9%8a%d9%85-%d9%82%d8%a7%d8%b3%d9%85-%d9%86%d8%b1%d9%81%d8%b6-%d9%86%d8%b2%d8%b9-%d8%b3%d9%84%d8%a7%d8%ad-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%84%d9%87-%d9%81%d9%8a-%d8%b8%d9%84-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794427658
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نيجيرفان بارزاني ورئيس الاستخبارات التركية يبحثان الأمن الإقليمي",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%88%D8%B1-%D9%8A%D8%B3-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%84-%D9%82%D9%84%D9%8A%D9%85%D9%8A",
-   "ts": 1794427016
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"الفخر الشوفيني\" بالصدارة.. دراسة: ربع الألمان يرغبون في دكتاتورية استبدادية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%81%D8%AE%D8%B1-%D8%A7%D9%84%D8%B4%D9%88%D9%81%D9%8A%D9%86%D9%8A-%D8%A8%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84-%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%B1%D8%BA%D8%A8%D9%88%D9%86-%D9%81%D9%8A-%D8%AF%D9%83%D8%AA%D8%A7%D8%AA%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%A8%D8%AF%D8%A7%D8%AF%D9%8A%D8%A9",
-   "ts": 1794426544
-  },
-  {
-   "source": "السومرية",
-   "title": "المندلاوي يدعو الشركات العالمية لبناء شراكات استراتيجية لتطوير النفط والغاز",
-   "link": "https://www.alsumaria.tv/news/economy/581183/%d8%a7%d9%84%d9%85%d9%86%d8%af%d9%84%d8%a7%d9%88%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d8%b4%d8%b1%d8%a7%d9%83%d8%a7%d8%aa-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794426300
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الحوثيون: استهدفنا مطار الرياض ومحطة ضخ في ينبع",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D9%86%D8%A7-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%85%D8%AD%D8%B7%D8%A9-%D8%B6%D8%AE-%D9%81%D9%8A-%D9%8A%D9%86%D8%A8%D8%B9",
-   "ts": 1794424363
-  },
-  {
-   "source": "السومرية",
-   "title": "دوي انفجارين جنوبي اليمن",
-   "link": "https://www.alsumaria.tv/news/international/581182/%d8%af%d9%88%d9%8a-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d9%8a%d9%86-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%a7%d9%84%d9%8a%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794424200
-  },
-  {
-   "source": "السومرية",
-   "title": "رئيس مجلس القضاء من لندن: لا خطوط حمراء بملاحقة المتورطين بالفساد",
-   "link": "https://www.alsumaria.tv/news/localnews/581181/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d9%85%d9%86-%d9%84%d9%86%d8%af%d9%86-%d9%84%d8%a7-%d8%ae%d8%b7%d9%88%d8%b7-%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d8%a8%d9%85%d9%84%d8%a7%d8%ad%d9%82%d8%a9-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794423600
-  },
-  {
-   "source": "السومرية",
-   "title": "إخماد حريق اندلع داخل صهريج في واسط",
-   "link": "https://www.alsumaria.tv/news/localnews/581180/%d8%a5%d8%ae%d9%85%d8%a7%d8%af-%d8%ad%d8%b1%d9%8a%d9%82-%d8%a7%d9%86%d8%af%d9%84%d8%b9-%d8%af%d8%a7%d8%ae%d9%84-%d8%b5%d9%87%d8%b1%d9%8a%d8%ac-%d9%81%d9%8a-%d9%88%d8%a7%d8%b3%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794422100
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب بشأن إيران: آمل ألا نضطر لتدمير المزيد فيها",
-   "link": "https://www.alsumaria.tv/news/international/581179/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%a2%d9%85%d9%84-%d8%a3%d9%84%d8%a7-%d9%86%d8%b6%d8%b7%d8%b1-%d9%84%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b2%d9%8a%d8%af-%d9%81%d9%8a%d9%87%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794421080
   }
  ]
 }
