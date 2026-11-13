@@ -1,11 +1,71 @@
 {
- "updated": 1794547655,
+ "updated": 1794551291,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "عام واحد من التدخين الإلكتروني.. ماذا يحدث لرئات الشباب؟",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%B9%D8%A7%D9%85-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%8A%D9%86-%D8%A7%D9%84-%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%B1-%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
+   "ts": 1794551062
+  },
+  {
+   "source": "السومرية",
+   "title": "محافظة عراقية تقترب من درجة الانجماد غدا",
+   "link": "https://www.alsumaria.tv/news/localnews/581290/%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%a9-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%af%d8%b1%d8%ac%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%85%d8%a7%d8%af-%d8%ba%d8%af%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794550763
+  },
+  {
+   "source": "المدى",
+   "title": "أسود الرافدين يواجهون لبنان في افتتاح بطولة البصرة الرباعية",
+   "link": "https://almadapaper.net/460963/",
+   "ts": 1794549924
+  },
+  {
+   "source": "السومرية",
+   "title": "مرسيدس تدرس إغلاق بعض مصانعها",
+   "link": "https://www.alsumaria.tv/news/international/581289/%d9%85%d8%b1%d8%b3%d9%8a%d8%af%d8%b3-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d8%a8%d8%b9%d8%b6-%d9%85%d8%b5%d8%a7%d9%86%d8%b9%d9%87%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794549526
+  },
+  {
+   "source": "السومرية",
+   "title": "من هي الدول التي طلبت من ترامب ترك الامور كما هي في ايران؟",
+   "link": "https://www.alsumaria.tv/news/international/581288/%d9%85%d9%86-%d9%87%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b7%d9%84%d8%a8%d8%aa-%d9%85%d9%86-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%aa%d8%b1%d9%83-%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%b1-%d9%83%d9%85%d8%a7-%d9%87%d9%8a-%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794549445
+  },
+  {
+   "source": "السومرية",
+   "title": "الحرس الثوري يعلن تدمير رادار أمريكي في البحرين",
+   "link": "https://www.alsumaria.tv/news/international/581287/%d8%a7%d9%84%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d8%b1%d8%a7%d8%af%d8%a7%d8%b1-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794549040
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "شباب العراق يتوجه إلى أذربيجان لمواجهة منتخبها ودياً مرتين",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D9%88%D8%AC%D9%87-%D9%84%D9%89-%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%87%D8%A7-%D9%88%D8%AF%D9%8A%D8%A7-%D9%85%D8%B1%D8%AA%D9%8A%D9%86",
+   "ts": 1794548643
+  },
+  {
+   "source": "السومرية",
+   "title": "عطل في \"مايكروسوفت\" يربك العالم",
+   "link": "https://www.alsumaria.tv/news/international/581286/%d8%b9%d8%b7%d9%84-%d9%81%d9%8a-quot%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aaquot-%d9%8a%d8%b1%d8%a8%d9%83-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794548473
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "قرار حكومي يُدخل إغلاق منفذ \"مندلي - سومار\" الحدودي مع إيران حيز التنفيذ رسمياً",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%82%D8%B1%D8%A7%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%8A-%D8%AF%D8%AE%D9%84-%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D9%85%D9%86%D8%AF%D9%84%D9%8A---%D8%B3%D9%88%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D9%8A%D8%B1%D8%A7%D9%86-%D8%AD%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7",
+   "ts": 1794548450
+  },
+  {
+   "source": "السومرية",
+   "title": "تحذير للشباب.. خطر صحي جديد للتدخين الإلكتروني",
+   "link": "https://www.alsumaria.tv/news/miscellaneous/581285/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d9%84%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d8%ae%d8%b7%d8%b1-%d8%b5%d8%ad%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%84%d9%84%d8%aa%d8%af%d8%ae%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794548354
+  },
   {
    "source": "شفق نيوز",
    "title": "اليوم.. العراق يفتتح بطولة البصرة الدولية بمواجهة لبنان",
@@ -91,40 +151,10 @@
    "ts": 1794516000
   },
   {
-   "source": "السومرية",
-   "title": "ترامب: إيران فقدت السيطرة على هرمز ولن أتردد بإجراءات عسكرية",
-   "link": "https://www.alsumaria.tv/news/international/581277/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d9%82%d8%af%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d9%87%d8%b1%d9%85%d8%b2-%d9%88%d9%84%d9%86-%d8%a3%d8%aa%d8%b1%d8%af%d8%af-%d8%a8%d8%a5%d8%ac%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794515528
-  },
-  {
    "source": "شفق نيوز",
    "title": "ترمب: قد أضرب إيران الآن",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D9%82%D8%AF-%D8%B6%D8%B1%D8%A8-%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84-%D9%86",
    "ts": 1794515406
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "النفط يواصل الصعود كاسراً حاجز 95 دولاراً للبرميل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B5%D8%B9%D9%88%D8%AF-%D9%83%D8%A7%D8%B3%D8%B1%D8%A7-%D8%AD%D8%A7%D8%AC%D8%B2-95-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
-   "ts": 1794514992
-  },
-  {
-   "source": "السومرية",
-   "title": "العراق يعزي الإمارات بضحايا حادث \"الفجيرة\"",
-   "link": "https://www.alsumaria.tv/news/politics/581275/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%b9%d8%b2%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7-%d8%ad%d8%a7%d8%af%d8%ab-quot%d8%a7%d9%84%d9%81%d8%ac%d9%8a%d8%b1%d8%a9quo?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794514963
-  },
-  {
-   "source": "السومرية",
-   "title": "ناقلة نفط تتعرض لهجوم في مضيق هرمز",
-   "link": "https://www.alsumaria.tv/news/international/581274/%d9%86%d8%a7%d9%82%d9%84%d8%a9-%d9%86%d9%81%d8%b7-%d8%aa%d8%aa%d8%b9%d8%b1%d8%b6-%d9%84%d9%87%d8%ac%d9%88%d9%85-%d9%81%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794513840
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق يبحث استيراد الغاز الأذري عبر تركيا",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84-%D8%B0%D8%B1%D9%8A-%D8%B9%D8%A8%D8%B1-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-   "ts": 1794513254
   },
   {
    "source": "المدى",
@@ -133,40 +163,16 @@
    "ts": 1794512533
   },
   {
-   "source": "شفق نيوز",
-   "title": "العراق على موعد مع أمطار وكتلة باردة يسبقها اعتدال بالأجواء",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%B9-%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D9%83%D8%AA%D9%84%D8%A9-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D9%8A%D8%B3%D8%A8%D9%82%D9%87%D8%A7-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D9%84-%D8%A8%D8%A7%D9%84-%D8%AC%D9%88%D8%A7",
-   "ts": 1794512415
-  },
-  {
    "source": "المدى",
    "title": "العراق يؤسس صندوقاً وطنياً للتشجير ويستهدف 14 ألف ميغاواط متجددة",
    "link": "https://almadapaper.net/460957/",
    "ts": 1794511776
   },
   {
-   "source": "السومرية",
-   "title": "هجوم يستهدف مدينة سيريك جنوبي إيران",
-   "link": "https://www.alsumaria.tv/news/international/581273/%d9%87%d8%ac%d9%88%d9%85-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%b3%d9%8a%d8%b1%d9%8a%d9%83-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794511602
-  },
-  {
-   "source": "السومرية",
-   "title": "واشنطن تكشف حقيقة الطلب من إسرائيل الاستعداد لتجدد الحرب مع إيران",
-   "link": "https://www.alsumaria.tv/news/international/581272/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d8%b7%d9%84%d8%a8-%d9%85%d9%86-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af-%d9%84%d8%aa%d8%ac%d8%af%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794510480
-  },
-  {
    "source": "المدى",
    "title": "«شات جي بي تي» يستعيد زخمه ويستحوذ على 81% من نشاط المنافسين",
    "link": "https://almadapaper.net/460954/",
    "ts": 1794509524
-  },
-  {
-   "source": "السومرية",
-   "title": "الاستثمار النيابية: أراضي المجمعات السكنية تمنح مجاناً والمستثمرين يحددون اسعارها",
-   "link": "https://www.alsumaria.tv/news/alsumariaspecial/581266/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%a7%d9%84%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d8%aa%d9%85%d9%86%d8%ad-%d9%85%d8%ac?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794508920
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "العراق وسوريا يبحثان مشاريع لمواجهة التصحر والعواصف الغبارية",
    "link": "https://almadapaper.net/460938/",
    "ts": 1794496048
-  },
-  {
-   "source": "المدى",
-   "title": "المركزي: تمويل الاستيراد مستمر بالسعر الرسمي ودعوة لمتابعة الحوالات",
-   "link": "https://almadapaper.net/460935/",
-   "ts": 1794494354
   }
  ]
 }
