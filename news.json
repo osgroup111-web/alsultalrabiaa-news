@@ -1,11 +1,65 @@
 {
- "updated": 1794594546,
+ "updated": 1794598155,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "«رويترز» تكشف عن علاقة أخرى لهوانغ بعد استقالته من «إنفيديا»",
+   "link": "https://almadapaper.net/461030/",
+   "ts": 1794597756
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "لقاء عراقي سوري في أبو ظبي لبحث أمن المنطقة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%84%D9%82%D8%A7-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D9%84%D8%A8%D8%AD%D8%AB-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
+   "ts": 1794597574
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سماع دوي انفجارات في جاسك الإيرانية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%85%D8%A7%D8%B9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AC%D8%A7%D8%B3%D9%83-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
+   "ts": 1794597344
+  },
+  {
+   "source": "السومرية",
+   "title": "انطلاق مهرجان الأفلام الأوروبية بنسخته الرابعة في بغداد",
+   "link": "https://www.alsumaria.tv/news/artculture/581338/%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%a8%d9%86%d8%b3%d8%ae%d8%aa%d9%87-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794596904
+  },
+  {
+   "source": "السومرية",
+   "title": "يونايتد يعين مدرباً جديداً للفريق",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581337/sports/%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%8a%d8%b9%d9%8a%d9%86-%d9%85%d8%af%d8%b1%d8%a8%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%84%d9%84%d9%81%d8%b1%d9%8a%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794595932
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الإعلام الأمني: مقتل 3 إرهابيين واعتقال رابع في التون كوبري بكركوك",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84-%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84-%D9%85%D9%86%D9%8A-%D9%85%D9%82%D8%AA%D9%84-3-%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%83%D9%88%D8%A8%D8%B1%D9%8A-%D8%A8%D9%83%D8%B1%D9%83%D9%88%D9%83",
+   "ts": 1794595781
+  },
+  {
+   "source": "السومرية",
+   "title": "الطيران الحربي يقتل 3 ارهابيين بضربة جوية في كركوك",
+   "link": "https://www.alsumaria.tv/news/localnews/581336/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d9%8a%d9%82%d8%aa%d9%84-3-%d8%a7%d8%b1%d9%87%d8%a7%d8%a8%d9%8a%d9%8a%d9%86-%d8%a8%d8%b6%d8%b1%d8%a8%d8%a9-%d8%ac%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d9%83%d8%b1%d9%83%d9%88%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794595519
+  },
+  {
+   "source": "المدى",
+   "title": "العراق يستهل بطولة البصرة الدولية بتعادل سلبي مع لبنان",
+   "link": "https://almadapaper.net/461027/",
+   "ts": 1794595492
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سفير العراق في لبنان لشفق نيوز: تسلّمنا جثمان العلواني ونستكمل إجراءات نقله للبلاد",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%84%D8%B4%D9%81%D9%82-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D8%B3%D9%84-%D9%85%D9%86%D8%A7-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D9%88%D9%86%D8%B3%D8%AA%D9%83%D9%85%D9%84-%D8%AC%D8%B1%D8%A7-%D8%A7%D8%AA-%D9%86%D9%82%D9%84%D9%87-%D9%84%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
+   "ts": 1794594478
+  },
   {
    "source": "شفق نيوز",
    "title": "قضية نيغريرا.. شهادات جديدة تعزز موقف برشلونة وتحبط مساعي ريال مدريد",
@@ -109,34 +163,10 @@
    "ts": 1794584448
   },
   {
-   "source": "شفق نيوز",
-   "title": "خاص.. تأجيل تشييع أحمد العلواني وجثمانه قد يصل العراق غداً",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AE%D8%A7%D8%B5-%D8%AA-%D8%AC%D9%8A%D9%84-%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D9%88%D8%AC%D8%AB%D9%85%D8%A7%D9%86%D9%87-%D9%82%D8%AF-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%BA%D8%AF%D8%A7",
-   "ts": 1794584194
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "10 قتلى وجرحى بحادث مروري مروع على طريق كركوك – أربيل",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/10-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D8%AD%D8%A7%D8%AF%D8%AB-%D9%85%D8%B1%D9%88%D8%B1%D9%8A-%D9%85%D8%B1%D9%88%D8%B9-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%B1%D8%A8%D9%8A%D9%84",
-   "ts": 1794583815
-  },
-  {
    "source": "المدى",
    "title": "الفيلم العراقي «البصير» يُعرض عالمياً للمرة الأولى في مهرجان القاهرة",
    "link": "https://almadapaper.net/461011/",
    "ts": 1794583718
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "رسمياً.. شمول خريجي معاهد النفط بعقود موازنة 2027",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%B4%D9%85%D9%88%D9%84-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%B9%D9%82%D9%88%D8%AF-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027",
-   "ts": 1794582715
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "آليات الشرطة يتوج بلقب دوري بغداد للشباب",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D9%8A%D8%AA%D9%88%D8%AC-%D8%A8%D9%84%D9%82%D8%A8-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
-   "ts": 1794582056
   },
   {
    "source": "السومرية",
@@ -175,40 +205,10 @@
    "ts": 1794578127
   },
   {
-   "source": "السومرية",
-   "title": "الاعلام الامني: الجهات السياسية والفصائل لا تشارك بتحقيقات تهريب الجرف",
-   "link": "https://www.alsumaria.tv/news/security/581326/%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a-%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d9%84%d8%a7-%d8%aa%d8%b4%d8%a7%d8%b1%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794577833
-  },
-  {
-   "source": "السومرية",
-   "title": "الزيدي يستطلع جوياً مسارات الطريق الحلقي الرابع في بغداد ويوجه بتسريع إنجازه",
-   "link": "https://www.alsumaria.tv/news/localnews/581325/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%b3%d8%aa%d8%b7%d9%84%d8%b9-%d8%ac%d9%88%d9%8a%d8%a7%d9%8b-%d9%85%d8%b3%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%8a-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794577747
-  },
-  {
    "source": "المدى",
    "title": "طقس مستقر في العراق وارتفاع طفيف في درجات الحرارة السبت",
    "link": "https://almadapaper.net/461003/",
    "ts": 1794577724
-  },
-  {
-   "source": "المدى",
-   "title": "انسحاب 2011 في سجال واشنطن.. مسؤولان سابقان يستحضران تجربة العراق",
-   "link": "https://almadapaper.net/460997/",
-   "ts": 1794575787
-  },
-  {
-   "source": "السومرية",
-   "title": "عبر معبر غير شرعي وفي 4 أيام فقط.. تفاصيل جديدة عن تحركات المشتبه بهما بمقتل العلواني في بيروت",
-   "link": "https://www.alsumaria.tv/news/security/581324/%d8%b9%d8%a8%d8%b1-%d9%85%d8%b9%d8%a8%d8%b1-%d8%ba%d9%8a%d8%b1-%d8%b4%d8%b1%d8%b9%d9%8a-%d9%88%d9%81%d9%8a-4-%d8%a3%d9%8a%d8%a7%d9%85-%d9%81%d9%82%d8%b7-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794574211
-  },
-  {
-   "source": "المدى",
-   "title": "إيران تعلن إسقاط طائرة مسيرة أمريكية من طراز MQ-1 قرب سيريك",
-   "link": "https://almadapaper.net/460998/",
-   "ts": 1794571733
   }
  ]
 }
