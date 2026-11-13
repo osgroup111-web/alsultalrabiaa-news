@@ -1,11 +1,59 @@
 {
- "updated": 1794598155,
+ "updated": 1794601536,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "مصرع وإصابة شابين بحادث سير في الانبار",
+   "link": "https://www.alsumaria.tv/news/localnews/581340/%d9%85%d8%b5%d8%b1%d8%b9-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b4%d8%a7%d8%a8%d9%8a%d9%86-%d8%a8%d8%ad%d8%a7%d8%af%d8%ab-%d8%b3%d9%8a%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794601091
+  },
+  {
+   "source": "السومرية",
+   "title": "الصحة العالمية: 950 ألف نازح في غزة معرضين للفيضانات",
+   "link": "https://www.alsumaria.tv/news/international/581339/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-950-%d8%a3%d9%84%d9%81-%d9%86%d8%a7%d8%b2%d8%ad-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9-%d9%85%d8%b9%d8%b1%d8%b6%d9%8a%d9%86-%d9%84%d9%84%d9%81%d9%8a%d8%b6%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794600442
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الأكبر في تاريخها.. وفد من 25 سفيرا يتوجهون لآثار وأهوار ذي قار",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D9%83%D8%A8%D8%B1-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7-%D9%88%D9%81%D8%AF-%D9%85%D9%86-25-%D8%B3%D9%81%D9%8A%D8%B1%D8%A7-%D9%8A%D8%AA%D9%88%D8%AC%D9%87%D9%88%D9%86-%D9%84-%D8%AB%D8%A7%D8%B1-%D9%88-%D9%87%D9%88%D8%A7%D8%B1-%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1",
+   "ts": 1794600327
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "وفاة شخص وإصابة آخر بحادث خطير غربي الأنبار",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%88%D9%81%D8%A7%D8%A9-%D8%B4%D8%AE%D8%B5-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D8%B1-%D8%A8%D8%AD%D8%A7%D8%AF%D8%AB-%D8%AE%D8%B7%D9%8A%D8%B1-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1",
+   "ts": 1794600020
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تقديرات إسرائيلية: الحرب مع إيران لن تندلع في الأسابيع القريبة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%B9-%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%86-%D8%AA%D9%86%D8%AF%D9%84%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84-%D8%B3%D8%A7%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A8%D8%A9",
+   "ts": 1794599927
+  },
+  {
+   "source": "المدى",
+   "title": "هل تشمل «المسطرة» الجميع؟ الملا يطرح سؤال المحاسبة أمام الزيدي",
+   "link": "https://almadapaper.net/461033/",
+   "ts": 1794599893
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "نينوى: إطفاء جميع مشاريع المياه بسبب بقع نفطية في دجلة",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%B7%D9%81%D8%A7-%D8%AC%D9%85%D9%8A%D8%B9-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A8%D9%82%D8%B9-%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D8%AC%D9%84%D8%A9",
+   "ts": 1794598411
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "غدا.. مجلس كركوك يعقد جلسة طارئة لانتخاب قحطان الونداوي محافظاً",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%BA%D8%AF%D8%A7-%D9%85%D8%AC%D9%84%D8%B3-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%8A%D8%B9%D9%82%D8%AF-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B7%D8%A7%D8%B1-%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%82%D8%AD%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%86%D8%AF%D8%A7%D9%88%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7",
+   "ts": 1794598320
+  },
   {
    "source": "المدى",
    "title": "«رويترز» تكشف عن علاقة أخرى لهوانغ بعد استقالته من «إنفيديا»",
@@ -97,46 +145,16 @@
    "ts": 1794590429
   },
   {
-   "source": "شفق نيوز",
-   "title": "وفاة طالبة خلال حفل التخرج في أربيل",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%88%D9%81%D8%A7%D8%A9-%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%AD%D9%81%D9%84-%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC-%D9%81%D9%8A-%D8%B1%D8%A8%D9%8A%D9%84",
-   "ts": 1794589717
-  },
-  {
    "source": "السومرية",
    "title": "التعادل السلبي ينهي لقاء العراق ولبنان في البطولة الرباعية",
    "link": "https://www.alsumaria.tv/Entertainment-News/581334/sports/%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%a8%d9%8a-%d9%8a%d9%86%d9%87%d9%8a-%d9%84%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794589436
   },
   {
-   "source": "شفق نيوز",
-   "title": "العراق ولبنان يتعادلان سلبياً في افتتاح بطولة البصرة الدولية",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D9%86-%D8%B3%D9%84%D8%A8%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-   "ts": 1794589331
-  },
-  {
    "source": "المدى",
    "title": "الشابندر يشكك في قدرة «صولة الفجر» على ملاحقة كبار الفاسدين",
    "link": "https://almadapaper.net/461017/",
    "ts": 1794588341
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بينها الدفاع المشترك.. تركيا وقطر توقعان 5 اتفاقيات",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D9%82%D8%B7%D8%B1-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D9%86-5-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A7%D8%AA",
-   "ts": 1794588137
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بعد تنصيب \"ليث\".. تقرير بريطاني يربط بين صعود الشرع والخزعلي لهرم السلطة",
-   "link": "https://shafaq.com/ar/%D8%AA%D8%B1%D8%AC%D9%85%D8%A7%D8%AA/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%86%D8%B5%D9%8A%D8%A8-%D9%84%D9%8A%D8%AB-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A8%D9%8A%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%88%D8%A7%D9%84%D8%AE%D8%B2%D8%B9%D9%84%D9%8A-%D9%84%D9%87%D8%B1%D9%85-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9",
-   "ts": 1794587571
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "11 عاماً على تحرير سنجار.. 75% من أهلها ينتظرون العودة",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/11-%D8%B9%D8%A7%D9%85%D8%A7-%D8%B9%D9%84%D9%89-%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D8%B3%D9%86%D8%AC%D8%A7%D8%B1-75-%D9%85%D9%86-%D9%87%D9%84%D9%87%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
-   "ts": 1794587379
   },
   {
    "source": "السومرية",
@@ -191,24 +209,6 @@
    "title": "العراق يعيد تفعيل مسار بري لتصدير النفط عبر ميناء بانياس",
    "link": "https://almadapaper.net/461005/",
    "ts": 1794579767
-  },
-  {
-   "source": "السومرية",
-   "title": "سنتكوم تعلن إسقاط مسيرتين إيرانيتين باتجاه البحرين.. وطهران تتحدث عن إسقاط مسيرة أمريكية",
-   "link": "https://www.alsumaria.tv/news/international/581328/%d8%b3%d9%86%d8%aa%d9%83%d9%88%d9%85-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b3%d9%82%d8%a7%d8%b7-%d9%85%d8%b3%d9%8a%d8%b1%d8%aa%d9%8a%d9%86-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%aa%d9%8a%d9%86-%d8%a8%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794579465
-  },
-  {
-   "source": "السومرية",
-   "title": "تطبيق المنصة ينقل جميع مباريات البطولة الرباعية في البصرة",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581327/sports/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d8%a9-%d9%8a%d9%86%d9%82%d9%84-%d8%ac%d9%85%d9%8a%d8%b9-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a%d8%a9-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794578127
-  },
-  {
-   "source": "المدى",
-   "title": "طقس مستقر في العراق وارتفاع طفيف في درجات الحرارة السبت",
-   "link": "https://almadapaper.net/461003/",
-   "ts": 1794577724
   }
  ]
 }
