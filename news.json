@@ -1,5 +1,5 @@
 {
- "updated": 1794644391,
+ "updated": 1794647789,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -8,7 +8,73 @@
  "items": [
   {
    "source": "شفق نيوز",
-   "title": "وصول جثمان النائب السابق أحمد العلواني من بيروت إلى بغداد",
+   "title": "الاستخبارات العراقية تعتقل 4 متهمين بتجارة وترويج المخدرات",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-4-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA",
+   "ts": 1794647055
+  },
+  {
+   "source": "السومرية",
+   "title": "250 دينارا تفصل الـ100$ عن الـ170 الف",
+   "link": "https://www.alsumaria.tv/news/economy/581357/250-%d8%af%d9%8a%d9%86%d8%a7%d8%b1%d8%a7-%d8%aa%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d9%80100-%d8%b9%d9%86-%d8%a7%d9%84%d9%80170-%d8%a7%d9%84%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794646868
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "انخفاض جديد بأسعار الذهب في أسواق بغداد وأربيل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84",
+   "ts": 1794646771
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "في ذكرى تأسيسها الـ 242.. نيجيرفان بارزاني: السليمانية مركز للابتكار والنضال",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%81%D9%8A-%D8%B0%D9%83%D8%B1%D9%89-%D8%AA-%D8%B3%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D9%80-242-%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%86%D8%B6%D8%A7%D9%84",
+   "ts": 1794646412
+  },
+  {
+   "source": "السومرية",
+   "title": "مايكروسوفت تعلن استعادة خدماتها بعد عطل عالمي استمر 24 ساعة",
+   "link": "https://www.alsumaria.tv/news/miscellaneous/581356/%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d8%b9%d8%a7%d8%af%d8%a9-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%87%d8%a7-%d8%a8%d8%b9%d8%af-%d8%b9%d8%b7%d9%84-%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d8%a7%d8%b3%d8%aa%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794645452
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الشاحنات تقطع طريق أربيل- كركوك احتجاجاً على إجراءات السونار",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B4%D8%A7%D8%AD%D9%86%D8%A7%D8%AA-%D8%AA%D9%82%D8%B7%D8%B9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%B1%D8%A8%D9%8A%D9%84--%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7-%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%86%D8%A7%D8%B1",
+   "ts": 1794645402
+  },
+  {
+   "source": "السومرية",
+   "title": "بالصور.. نقل جثمان احمد العلواني من بيروت إلى بغداد",
+   "link": "https://www.alsumaria.tv/news/localnews/581355/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d9%86%d9%82%d9%84-%d8%ac%d8%ab%d9%85%d8%a7%d9%86-%d8%a7%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d8%a7%d9%86%d9%8a-%d9%85%d9%86-%d8%a8%d9%8a%d8%b1%d9%88%d8%aa-%d8%a5%d9%84%d9%89-%d8%a8%d8%ba%d8%af%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794645184
+  },
+  {
+   "source": "السومرية",
+   "title": "تهديد بوجود قنبلة في مدينة بيوريا الأمريكية واوامر بإخلاء إجباري",
+   "link": "https://www.alsumaria.tv/news/international/581354/%d8%aa%d9%87%d8%af%d9%8a%d8%af-%d8%a8%d9%88%d8%ac%d9%88%d8%af-%d9%82%d9%86%d8%a8%d9%84%d8%a9-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a8%d9%8a%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d9%88%d8%a7%d9%88%d8%a7%d9%85%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794644657
+  },
+  {
+   "source": "المدى",
+   "title": "مستشار رئيس الوزراء لـ(المدى): تعظيم موارد 2027 بالأتمتة واستثمار الأصول لازيادة الضرائب",
+   "link": "https://almadapaper.net/461037/",
+   "ts": 1794644474
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بزيادة مليوني دونم.. الأمطار توسع المساحات الزراعية في العراق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A8%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%AF%D9%88%D9%86%D9%85-%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1794644469
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "متقاعدون ينتقدون آلية التقديم على سلف الرافدين: النظام يُغلق بعد 3 دقائق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%88%D9%86-%D9%8A%D9%86%D8%AA%D9%82%D8%AF%D9%88%D9%86-%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D9%84%D9%81-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A-%D8%BA%D9%84%D9%82-%D8%A8%D8%B9%D8%AF-3-%D8%AF%D9%82%D8%A7-%D9%82",
+   "ts": 1794644403
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "وصول جثمان النائب السابق أحمد العلواني إلى بغداد تمهيداً لتشييعه في الأنبار",
    "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%88%D8%B5%D9%88%D9%84-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%A7-%D8%A8-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
    "ts": 1794644013
   },
@@ -67,12 +133,6 @@
    "ts": 1794638415
   },
   {
-   "source": "شفق نيوز",
-   "title": "فرنسا تنشر 70 ألف شرطي تحسباً لموجة احتجاجات اليوم",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D9%86%D8%B4%D8%B1-70-%D9%84%D9%81-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7-%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-   "ts": 1794637788
-  },
-  {
    "source": "السومرية",
    "title": "ترتفع عدة درجات مع عودة الامطار.. تفاصيل الطقس للاسبوع الحالي",
    "link": "https://www.alsumaria.tv/news/localnews/581349/%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-%d8%b9%d8%af%d8%a9-%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d9%85%d8%b9-%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%b7%d9%82%d8%b3-%d9%84%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -85,70 +145,16 @@
    "ts": 1794637117
   },
   {
-   "source": "شفق نيوز",
-   "title": "خام البصرة ينهي الأسبوع بخسائر تتجاوز 7 دولارات للبرميل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AE%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%8A%D9%86%D9%87%D9%8A-%D8%A7%D9%84-%D8%B3%D8%A8%D9%88%D8%B9-%D8%A8%D8%AE%D8%B3%D8%A7-%D8%B1-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-7-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
-   "ts": 1794635969
-  },
-  {
    "source": "السومرية",
    "title": "انقلاب سفينة سياحية في نهر الميسيسيبي بعد اصطدامها بناقلة نفط",
    "link": "https://www.alsumaria.tv/news/international/581347/%d8%a7%d9%86%d9%82%d9%84%d8%a7%d8%a8-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%b3%d9%8a%d8%a7%d8%ad%d9%8a%d8%a9-%d9%81%d9%8a-%d9%86%d9%87%d8%b1-%d8%a7%d9%84%d9%85%d9%8a%d8%b3%d9%8a%d8%b3%d9%8a%d8%a8%d9%8a-%d8%a8%d8%b9%d8%af-%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85%d9%87%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794635751
   },
   {
-   "source": "شفق نيوز",
-   "title": "ترمب يستبعد هجوماً سيبرانياً وراء شلل الطيران الأميركي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B3%D8%AA%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%B1%D8%A7-%D8%B4%D9%84%D9%84-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
-   "ts": 1794634879
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق ولبنان يفتتحان سجل المباريات الدولية في الناصرية",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD%D8%A7%D9%86-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9",
-   "ts": 1794634746
-  },
-  {
    "source": "السومرية",
    "title": "احباط استهداف قادة العالم في دبلن",
    "link": "https://www.alsumaria.tv/news/international/581346/%d8%a7%d8%ad%d8%a8%d8%a7%d8%b7-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d9%82%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%af%d8%a8%d9%84%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794634632
-  },
-  {
-   "source": "السومرية",
-   "title": "تفاصيل ما حدث في المطارات الاميركية.. تأخر 8.5 ألف رحلة وإلغاء 6.7 ألف اخرى",
-   "link": "https://www.alsumaria.tv/news/international/581345/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%85%d8%a7-%d8%ad%d8%af%d8%ab-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a9-%d8%aa%d8%a3%d8%ae%d8%b1-85-%d8%a3%d9%84%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794634478
-  },
-  {
-   "source": "السومرية",
-   "title": "كوبا تستعد لهجوم أمريكي محتمل",
-   "link": "https://www.alsumaria.tv/news/international/581344/%d9%83%d9%88%d8%a8%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%85%d8%ad%d8%aa%d9%85%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794633701
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "طائرات أميركية تتصدى لمسيرات قرب قاعدة جوية بريطانية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B7%D8%A7-%D8%B1%D8%A7%D8%AA-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D8%A8-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9",
-   "ts": 1794633402
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اليوم.. ناشئو العراق يواجهون الصين تايبيه في تصفيات كأس آسيا",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%86%D8%A7%D8%B4-%D9%88-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%A7%D9%8A%D8%A8%D9%8A%D9%87-%D9%81%D9%8A-%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA-%D9%83-%D8%B3-%D8%B3%D9%8A%D8%A7",
-   "ts": 1794633335
-  },
-  {
-   "source": "السومرية",
-   "title": "أعلى مستوى منذ مطلع 2024.. ارتفاع التضخم في فرنسا إلى 3.4%",
-   "link": "https://www.alsumaria.tv/news/international/581343/%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%85%d9%86%d8%b0-%d9%85%d8%b7%d9%84%d8%b9-2024-%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d8%b6%d8%ae%d9%85-%d9%81%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794609204
-  },
-  {
-   "source": "السومرية",
-   "title": "انخفاض الحرارة وتأثيره على الرئتين.. نصائح لتجنب ضيق التنفس",
-   "link": "https://www.alsumaria.tv/news/miscellaneous/581342/%d8%a7%d9%86%d8%ae%d9%81%d8%a7%d8%b6-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d9%88%d8%aa%d8%a3%d8%ab%d9%8a%d8%b1%d9%87-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b1%d8%a6%d8%aa%d9%8a%d9%86-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794606133
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "تمويل عاجل وإصلاحات حتى 2029.. إقتصادي يشكك في تنفيذها!",
    "link": "https://almadapaper.net/461008/",
    "ts": 1794581554
-  },
-  {
-   "source": "المدى",
-   "title": "العراق يعيد تفعيل مسار بري لتصدير النفط عبر ميناء بانياس",
-   "link": "https://almadapaper.net/461005/",
-   "ts": 1794579767
   }
  ]
 }
