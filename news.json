@@ -1,11 +1,47 @@
 {
- "updated": 1794687383,
+ "updated": 1794690254,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "الدين الداخلي للعراق يقفز إلى 117 تريليون دينار بزيادة 29.5‌% خلال تسعة أشهر",
+   "link": "https://almadapaper.net/461135/",
+   "ts": 1794690060
+  },
+  {
+   "source": "السومرية",
+   "title": "تطور جديد يخص القوات الأمريكية في أوروبا",
+   "link": "https://www.alsumaria.tv/news/international/581401/%d8%aa%d8%b7%d9%88%d8%b1-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%ae%d8%b5-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794689115
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بغداد تستحضر تاريخها العباسي بمتحف \"الأمير سعادة\" (صور)",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B3%D8%AA%D8%AD%D8%B6%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3%D9%8A-%D8%A8%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1-%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B5%D9%88%D8%B1",
+   "ts": 1794688968
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيلام.. مهرجان \"رازان\" الثالث للقصة الكوردية يختتم أعماله بمشاركة 113 عملاً",
+   "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%8A%D9%84%D8%A7%D9%85-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B1%D8%A7%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%84%D9%84%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A9-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85-%D8%B9%D9%85%D8%A7%D9%84%D9%87-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-113-%D8%B9%D9%85%D9%84%D8%A7",
+   "ts": 1794688120
+  },
+  {
+   "source": "السومرية",
+   "title": "​روسيا: أوروبا ستكون أكثر أمنا من دون الناتو",
+   "link": "https://www.alsumaria.tv/news/international/581400/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%b3%d8%aa%d9%83%d9%88%d9%86-%d8%a3%d9%83%d8%ab%d8%b1-%d8%a3%d9%85%d9%86%d8%a7-%d9%85%d9%86-%d8%af%d9%88%d9%86-%d8%a7%d9%84%d9%86%d8%a7%d8%aa%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794687480
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "انتخاب هيئات إدارية جديدة لثلاثة أندية رياضية في كركوك",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%87%D9%8A-%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%86%D8%AF%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
+   "ts": 1794687430
+  },
   {
    "source": "السومرية",
    "title": "الأمن اللبناني ينفي إبلاغ السلطات العراقية بشأن \"قضية العلواني\"",
@@ -133,18 +169,6 @@
    "ts": 1794677460
   },
   {
-   "source": "شفق نيوز",
-   "title": "نتنياهو: علينا إزالة التهديد الإيراني \"مرة واحدة وإلى الأبد\"",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%B9%D9%84%D9%8A%D9%86%D8%A7-%D8%B2%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%88-%D9%84%D9%89-%D8%A7%D9%84-%D8%A8%D8%AF",
-   "ts": 1794677365
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الأولمبي العراقي يتعادل مع نظيره اللبناني في أول مباراة دولية بالناصرية",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84-%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%B9-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9",
-   "ts": 1794677348
-  },
-  {
    "source": "المدى",
    "title": "إيران تتغلب على فلسطين بثنائية في بطولة البصرة الدولية",
    "link": "https://almadapaper.net/461068/",
@@ -161,24 +185,6 @@
    "title": "الهند تكشف استراتيجية جديدة لبحريتها.. هذه تفاصيلها",
    "link": "https://www.alsumaria.tv/news/international/581390/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d8%aa%d9%87%d8%a7-%d9%87%d8%b0%d9%87-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794676500
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "مقتل وإصابة 4 أشخاص بانفجار سيارة مفخخة في دمشق (فيديو)",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D9%82%D8%AA%D9%84-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-4-%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D9%81%D8%AE%D8%AE%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1794676410
-  },
-  {
-   "source": "السومرية",
-   "title": "إيران تتغلب على فلسطين في بطولة البصرة الرباعية",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581389/sports/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%aa%d8%ba%d9%84%d8%a8-%d8%b9%d9%84%d9%89-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794675900
-  },
-  {
-   "source": "السومرية",
-   "title": "الديوانية.. تواصل العمل لإنجاز مشروع مجاري قضاء غماس",
-   "link": "https://www.alsumaria.tv/news/localnews/581388/%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d9%84%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d9%82%d8%b6%d8%a7%d8%a1-%d8%ba%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794674822
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "هل يعود المشمولون بالعفو إلى الوظائف؟ مجلس الدولة يجيب",
    "link": "https://almadapaper.net/461054/",
    "ts": 1794668668
-  },
-  {
-   "source": "المدى",
-   "title": "الدولار يواصل الارتفاع ويسجل 170 ألف دينار في بغداد",
-   "link": "https://almadapaper.net/461052/",
-   "ts": 1794666501
   }
  ]
 }
