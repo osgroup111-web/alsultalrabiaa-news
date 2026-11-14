@@ -1,5 +1,5 @@
 {
- "updated": 1794690254,
+ "updated": 1794692715,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,10 +7,76 @@
  ],
  "items": [
   {
+   "source": "السومرية",
+   "title": "سرقة بيانات 22 مليون مستخدم من منصة في فرنسا",
+   "link": "https://www.alsumaria.tv/news/international/581403/%d8%b3%d8%b1%d9%82%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-22-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85-%d9%85%d9%86-%d9%85%d9%86%d8%b5%d8%a9-%d9%81%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794691980
+  },
+  {
    "source": "المدى",
-   "title": "الدين الداخلي للعراق يقفز إلى 117 تريليون دينار بزيادة 29.5‌% خلال تسعة أشهر",
-   "link": "https://almadapaper.net/461135/",
-   "ts": 1794690060
+   "title": "الدولة تستأذن الفصائل لدخول جرف الصخر.. من يملك مفاتيح المعتقلات ومصانع المسيّرات؟",
+   "link": "https://almadapaper.net/461157/",
+   "ts": 1794690480
+  },
+  {
+   "source": "المدى",
+   "title": "حادثة التون كوبري تعيد ملف الفراغات الأمنية إلى الواجهة.. دعوات لتنسيق عسكري بين بغداد وأربيل لمواجهة داعش",
+   "link": "https://almadapaper.net/461153/",
+   "ts": 1794690420
+  },
+  {
+   "source": "المدى",
+   "title": "بيت المدى يستذكر فلسطين من خلال عيون فنانين ومثقفين عراقيين",
+   "link": "https://almadapaper.net/461131/",
+   "ts": 1794690360
+  },
+  {
+   "source": "المدى",
+   "title": "العمودالثامن: نظرية الشابندر في السرقة",
+   "link": "https://almadapaper.net/461133/",
+   "ts": 1794690360
+  },
+  {
+   "source": "المدى",
+   "title": "موقع إخباري: العراق يتوقع وصول أولى شحنات منظومات الدفاع الجوي قريباً",
+   "link": "https://almadapaper.net/461151/",
+   "ts": 1794690360
+  },
+  {
+   "source": "المدى",
+   "title": "قانون النفط والغاز عالق منذ عقدين.. هل تنهي تفاهمات بغداد وأربيل زمن التسويات المؤقتة؟",
+   "link": "https://almadapaper.net/461147/",
+   "ts": 1794690300
+  },
+  {
+   "source": "المدى",
+   "title": "أنجلينا جولي تختار ولاية جديدة للإقامة",
+   "link": "https://almadapaper.net/461128/",
+   "ts": 1794690240
+  },
+  {
+   "source": "المدى",
+   "title": "كوجر: تعديل الموازنة يواجه تعقيدات وحصة كردستان مرشحة للارتفاع إلى 14.14‌%",
+   "link": "https://almadapaper.net/461145/",
+   "ts": 1794690240
+  },
+  {
+   "source": "المدى",
+   "title": "أور تستقبل أكثر من 40 دبلوماسيا لفتح آفاق الاستثمار والسياحة في ذي قار",
+   "link": "https://almadapaper.net/461090/",
+   "ts": 1794690180
+  },
+  {
+   "source": "المدى",
+   "title": "قناطر: أكفٌّ يهوديّة وأكثر..",
+   "link": "https://almadapaper.net/461103/",
+   "ts": 1794690180
+  },
+  {
+   "source": "السومرية",
+   "title": "دول أوروبية تخطط لإقامة مركز لاستقبال المرحلين في رواندا",
+   "link": "https://www.alsumaria.tv/news/international/581402/%d8%af%d9%88%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d9%82%d8%a7%d9%85%d8%a9-%d9%85%d8%b1%d9%83%d8%b2-%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%8a%d9%86-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794690120
   },
   {
    "source": "السومرية",
@@ -55,12 +121,6 @@
    "ts": 1794686158
   },
   {
-   "source": "المدى",
-   "title": "موازنة 2027 أمام عجز بـ42 تريليون وشروط مشددة على إقليم كردستان",
-   "link": "https://almadapaper.net/461080/",
-   "ts": 1794685531
-  },
-  {
    "source": "شفق نيوز",
    "title": "بعد إغلاق مندلي.. إيران تشغل منفذ المنذرية على مدار الساعة",
    "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A8%D8%B9%D8%AF-%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D8%AF%D9%84%D9%8A-%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B4%D8%BA%D9%84-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9",
@@ -95,18 +155,6 @@
    "title": "طهران ترد على \"تهديدات\" واشنطن: تهدف إلى إلحاق المجاعة بالشعب",
    "link": "https://www.alsumaria.tv/news/international/581396/%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d8%aa%d8%b1%d8%af-%d8%b9%d9%84%d9%89-quot%d8%aa%d9%87%d8%af%d9%8a%d8%af%d8%a7%d8%aaquot-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d9%87%d8%af%d9%81-%d8%a5%d9%84%d9%89?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794683100
-  },
-  {
-   "source": "المدى",
-   "title": "مصافٍ وتهريب بملايين الدولارات.. الحكومة تكتفي بإعفاء تسعة مسؤولين",
-   "link": "https://almadapaper.net/461077/",
-   "ts": 1794682621
-  },
-  {
-   "source": "المدى",
-   "title": "تفتيش مشروط يوقف التحرك العسكري في جرف الصخر.. من يربح التسوية؟",
-   "link": "https://almadapaper.net/461074/",
-   "ts": 1794681860
   },
   {
    "source": "شفق نيوز",
@@ -145,12 +193,6 @@
    "ts": 1794679500
   },
   {
-   "source": "المدى",
-   "title": "إيطاليا تغرّم «ميتا» 805 ملايين يورو لوصولها إلى صور مستخدمي أندرويد",
-   "link": "https://almadapaper.net/461071/",
-   "ts": 1794679264
-  },
-  {
    "source": "السومرية",
    "title": "باكستان تعلن مقتل 16 مسلحا واثنين من أفراد قوات الأمن",
    "link": "https://www.alsumaria.tv/news/international/581394/%d8%a8%d8%a7%d9%83%d8%b3%d8%aa%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d9%85%d9%82%d8%aa%d9%84-16-%d9%85%d8%b3%d9%84%d8%ad%d8%a7-%d9%88%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%85%d9%86-%d8%a3%d9%81%d8%b1%d8%a7%d8%af-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -167,48 +209,6 @@
    "title": "الجيش الأمريكي يكشف عن \"أرقام\" تخص نقل النفط عبر هرمز",
    "link": "https://www.alsumaria.tv/news/international/581392/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-quot%d8%a3%d8%b1%d9%82%d8%a7%d9%85quot-%d8%aa%d8%ae%d8%b5-%d9%86%d9%82%d9%84-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794677460
-  },
-  {
-   "source": "المدى",
-   "title": "إيران تتغلب على فلسطين بثنائية في بطولة البصرة الدولية",
-   "link": "https://almadapaper.net/461068/",
-   "ts": 1794677091
-  },
-  {
-   "source": "السومرية",
-   "title": "​تحذير أمريكي من هجمات محتملة في الشرق الأوسط",
-   "link": "https://www.alsumaria.tv/news/international/581391/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%85%d9%86-%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d9%85%d8%ad%d8%aa%d9%85%d9%84%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%a3%d9%88%d8%b3%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794676588
-  },
-  {
-   "source": "السومرية",
-   "title": "الهند تكشف استراتيجية جديدة لبحريتها.. هذه تفاصيلها",
-   "link": "https://www.alsumaria.tv/news/international/581390/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d8%aa%d9%87%d8%a7-%d9%87%d8%b0%d9%87-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794676500
-  },
-  {
-   "source": "المدى",
-   "title": "54 دولاراً للبرميل.. المرسومي يشكك بجدوى نقل النفط إلى بانياس!",
-   "link": "https://almadapaper.net/461065/",
-   "ts": 1794673809
-  },
-  {
-   "source": "المدى",
-   "title": "هواتف ومخدرات داخل السجن.. كمين يكشف شبكة تواطؤ في الحلة",
-   "link": "https://almadapaper.net/461062/",
-   "ts": 1794672569
-  },
-  {
-   "source": "المدى",
-   "title": "دوي في جرف الصخر.. معلومات أولية تتحدث عن اختبار صاروخ",
-   "link": "https://almadapaper.net/461059/",
-   "ts": 1794669650
-  },
-  {
-   "source": "المدى",
-   "title": "هل يعود المشمولون بالعفو إلى الوظائف؟ مجلس الدولة يجيب",
-   "link": "https://almadapaper.net/461054/",
-   "ts": 1794668668
   }
  ]
 }
