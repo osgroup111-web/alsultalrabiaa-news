@@ -1,11 +1,29 @@
 {
- "updated": 1794684929,
+ "updated": 1794687383,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "الأمن اللبناني ينفي إبلاغ السلطات العراقية بشأن \"قضية العلواني\"",
+   "link": "https://www.alsumaria.tv/news/international/581399/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d8%a8%d9%84%d8%a7%d8%ba-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86-q?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794686334
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "لبنان ينفي رسمياً إبلاغ العراق بأن قضية النائب العلواني \"أخلاقية\"",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D9%86%D9%81%D9%8A-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A8%D9%84%D8%A7%D8%BA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8-%D9%86-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%A7-%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A9",
+   "ts": 1794686158
+  },
+  {
+   "source": "المدى",
+   "title": "موازنة 2027 أمام عجز بـ42 تريليون وشروط مشددة على إقليم كردستان",
+   "link": "https://almadapaper.net/461080/",
+   "ts": 1794685531
+  },
   {
    "source": "شفق نيوز",
    "title": "بعد إغلاق مندلي.. إيران تشغل منفذ المنذرية على مدار الساعة",
@@ -139,6 +157,12 @@
    "ts": 1794676588
   },
   {
+   "source": "السومرية",
+   "title": "الهند تكشف استراتيجية جديدة لبحريتها.. هذه تفاصيلها",
+   "link": "https://www.alsumaria.tv/news/international/581390/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d8%aa%d9%87%d8%a7-%d9%87%d8%b0%d9%87-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794676500
+  },
+  {
    "source": "شفق نيوز",
    "title": "مقتل وإصابة 4 أشخاص بانفجار سيارة مفخخة في دمشق (فيديو)",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D9%82%D8%AA%D9%84-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-4-%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D9%81%D8%AE%D8%AE%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
@@ -151,12 +175,6 @@
    "ts": 1794675900
   },
   {
-   "source": "شفق نيوز",
-   "title": "مخلف حربي يودي بحياة طفلة خلال رحلة سياحية في ذي قار",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%85%D8%AE%D9%84%D9%81-%D8%AD%D8%B1%D8%A8%D9%8A-%D9%8A%D9%88%D8%AF%D9%8A-%D8%A8%D8%AD%D9%8A%D8%A7%D8%A9-%D8%B7%D9%81%D9%84%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B1%D8%AD%D9%84%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1",
-   "ts": 1794675896
-  },
-  {
    "source": "السومرية",
    "title": "الديوانية.. تواصل العمل لإنجاز مشروع مجاري قضاء غماس",
    "link": "https://www.alsumaria.tv/news/localnews/581388/%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d9%84%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d9%82%d8%b6%d8%a7%d8%a1-%d8%ba%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -167,18 +185,6 @@
    "title": "54 دولاراً للبرميل.. المرسومي يشكك بجدوى نقل النفط إلى بانياس!",
    "link": "https://almadapaper.net/461065/",
    "ts": 1794673809
-  },
-  {
-   "source": "السومرية",
-   "title": "بغداد.. الإطاحة بثلاثة تجار دوليين للمخدرات وضبط 5 كغم من الكريستال",
-   "link": "https://www.alsumaria.tv/news/security/581386/%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%ad%d8%a9-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%aa%d8%ac%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d9%8a%d9%8a%d9%86-%d9%84%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%b6%d8%a8%d8%b7-5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794672925
-  },
-  {
-   "source": "السومرية",
-   "title": "وزير النقل الأمريكي: عودة حركة الطيران إلى طبيعتها بعد توقف بسبب عطل فني",
-   "link": "https://www.alsumaria.tv/news/international/581385/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%b9%d9%88%d8%af%d8%a9-%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d9%84%d9%89-%d8%b7%d8%a8%d9%8a%d8%b9%d8%aa%d9%87%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794672678
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "الدولار يواصل الارتفاع ويسجل 170 ألف دينار في بغداد",
    "link": "https://almadapaper.net/461052/",
    "ts": 1794666501
-  },
-  {
-   "source": "المدى",
-   "title": "ترمب يميل لتجميد ضرب إيران بشروط وضغوط إقليمية لكبح الحرب",
-   "link": "https://almadapaper.net/461049/",
-   "ts": 1794664811
   }
  ]
 }
