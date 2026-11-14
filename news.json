@@ -1,11 +1,53 @@
 {
- "updated": 1794636896,
+ "updated": 1794641098,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "بطولة البصرة الرباعية.. إيران تواجه فلسطين",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581351/sports/%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794640668
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "منتخب العراق للكرة الشاطئية يتوجه إلى تايلاند للمشاركة في كأس آسيا",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7-%D9%8A%D8%A9-%D9%8A%D8%AA%D9%88%D8%AC%D9%87-%D9%84%D9%89-%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%83-%D8%B3-%D8%B3%D9%8A%D8%A7",
+   "ts": 1794639983
+  },
+  {
+   "source": "السومرية",
+   "title": "وزير النقل الأمريكي يعلن إعادة فتح المجال الجوي أمام حركة الملاحة",
+   "link": "https://www.alsumaria.tv/news/international/581350/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%ac%d9%88%d9%8a-%d8%a3%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794638901
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيران تواجه فلسطين في ثاني مباريات بطولة البصرة الرباعية",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%81%D9%8A-%D8%AB%D8%A7%D9%86%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9",
+   "ts": 1794638415
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "فرنسا تنشر 70 ألف شرطي تحسباً لموجة احتجاجات اليوم",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D9%86%D8%B4%D8%B1-70-%D9%84%D9%81-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7-%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+   "ts": 1794637788
+  },
+  {
+   "source": "السومرية",
+   "title": "ترتفع عدة درجات مع عودة الامطار.. تفاصيل الطقس للاسبوع الحالي",
+   "link": "https://www.alsumaria.tv/news/localnews/581349/%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-%d8%b9%d8%af%d8%a9-%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d9%85%d8%b9-%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%b7%d9%82%d8%b3-%d9%84%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794637740
+  },
+  {
+   "source": "السومرية",
+   "title": "الفيفا يعلن عن بديل المنتخب الأمريكي في مونديال الناشئين بقطر",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581348/sports/%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7-%d9%8a%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%a8%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794637117
+  },
   {
    "source": "شفق نيوز",
    "title": "خام البصرة ينهي الأسبوع بخسائر تتجاوز 7 دولارات للبرميل",
@@ -103,34 +145,10 @@
    "ts": 1794604966
   },
   {
-   "source": "شفق نيوز",
-   "title": "\"ظروف استثنائية\" توقف حركة الطيران في جميع المطارات الأميركية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B8%D8%B1%D9%88%D9%81-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7-%D9%8A%D8%A9-%D8%AA%D9%88%D9%82%D9%81-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
-   "ts": 1794604560
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ثورة تغييرات إدارية في شركة غاز البصرة.. إعفاء قيادات وتدوير مناصب عليا",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AB%D9%88%D8%B1%D8%A9-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D8%B1%D9%83%D8%A9-%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%B9%D9%81%D8%A7-%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D8%AA%D8%AF%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D8%B9%D9%84%D9%8A%D8%A7",
-   "ts": 1794603005
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "إيران تعلن إصابة ناقلتي نفط \"مخالفتين\" في هرمز",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%B5%D8%A7%D8%A8%D8%A9-%D9%86%D8%A7%D9%82%D9%84%D8%AA%D9%8A-%D9%86%D9%81%D8%B7-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2",
-   "ts": 1794602910
-  },
-  {
    "source": "السومرية",
    "title": "مصرع وإصابة شابين بحادث سير في الانبار",
    "link": "https://www.alsumaria.tv/news/localnews/581340/%d9%85%d8%b5%d8%b1%d8%b9-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b4%d8%a7%d8%a8%d9%8a%d9%86-%d8%a8%d8%ad%d8%a7%d8%af%d8%ab-%d8%b3%d9%8a%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794601091
-  },
-  {
-   "source": "السومرية",
-   "title": "الصحة العالمية: 950 ألف نازح في غزة معرضين للفيضانات",
-   "link": "https://www.alsumaria.tv/news/international/581339/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-950-%d8%a3%d9%84%d9%81-%d9%86%d8%a7%d8%b2%d8%ad-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9-%d9%85%d8%b9%d8%b1%d8%b6%d9%8a%d9%86-%d9%84%d9%84%d9%81%d9%8a%d8%b6%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794600442
   },
   {
    "source": "المدى",
@@ -143,24 +161,6 @@
    "title": "«رويترز» تكشف عن علاقة أخرى لهوانغ بعد استقالته من «إنفيديا»",
    "link": "https://almadapaper.net/461030/",
    "ts": 1794597756
-  },
-  {
-   "source": "السومرية",
-   "title": "انطلاق مهرجان الأفلام الأوروبية بنسخته الرابعة في بغداد",
-   "link": "https://www.alsumaria.tv/news/artculture/581338/%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%a8%d9%86%d8%b3%d8%ae%d8%aa%d9%87-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794596904
-  },
-  {
-   "source": "السومرية",
-   "title": "يونايتد يعين مدرباً جديداً للفريق",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581337/sports/%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%8a%d8%b9%d9%8a%d9%86-%d9%85%d8%af%d8%b1%d8%a8%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%84%d9%84%d9%81%d8%b1%d9%8a%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794595932
-  },
-  {
-   "source": "السومرية",
-   "title": "الطيران الحربي يقتل 3 ارهابيين بضربة جوية في كركوك",
-   "link": "https://www.alsumaria.tv/news/localnews/581336/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d9%8a%d9%82%d8%aa%d9%84-3-%d8%a7%d8%b1%d9%87%d8%a7%d8%a8%d9%8a%d9%8a%d9%86-%d8%a8%d8%b6%d8%b1%d8%a8%d8%a9-%d8%ac%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d9%83%d8%b1%d9%83%d9%88%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794595519
   },
   {
    "source": "المدى",
