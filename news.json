@@ -1,5 +1,5 @@
 {
- "updated": 1794765609,
+ "updated": 1794768854,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,10 +7,70 @@
  ],
  "items": [
   {
+   "source": "المدى",
+   "title": "اقتصادي: حصة كردستان في الموازنة يجب أن تبلغ 14.14%",
+   "link": "https://almadapaper.net/461219/",
+   "ts": 1794768529
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تبدأ غداً.. أمطار متفرقة تستمر حتى الخميس في العراق",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AA%D8%A8%D8%AF-%D8%BA%D8%AF%D8%A7-%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D8%AA%D8%B3%D8%AA%D9%85%D8%B1-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1794767812
+  },
+  {
+   "source": "السومرية",
+   "title": "\"طقس العراق\".. منخفض جوي وكتلة باردة بدءاً من مساء الغد",
+   "link": "https://www.alsumaria.tv/news/weathernews/581465/quot%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82quot-%d9%85%d9%86%d8%ae%d9%81%d8%b6-%d8%ac%d9%88%d9%8a-%d9%88%d9%83%d8%aa%d9%84%d8%a9-%d8%a8%d8%a7%d8%b1%d8%af%d8%a9-%d8%a8%d8%af%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794767603
+  },
+  {
+   "source": "السومرية",
+   "title": "في المكسيك.. كارتلات المخدرات تستخدم المسيرات لاستطلاع حدود أمريكا",
+   "link": "https://www.alsumaria.tv/news/international/581464/%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%83%d8%b3%d9%8a%d9%83-%d9%83%d8%a7%d8%b1%d8%aa%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%aa%d8%b3%d8%aa%d8%ae%d8%af%d9%85-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d9%84%d8%a7%d8%b3%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794767420
+  },
+  {
+   "source": "المدى",
+   "title": "94% من أموال العراق خارج المصارف.. أين تذهب السيولة؟",
+   "link": "https://almadapaper.net/461217/",
+   "ts": 1794766390
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الحوثيون: استهداف مطار خالد والمركز المالي في الرياض",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D8%A7%D9%84%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+   "ts": 1794766181
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "جرف الصخر.. انفجارات ما قبل مهلة الجمعة",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D9%85%D9%87%D9%84%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9",
+   "ts": 1794765936
+  },
+  {
+   "source": "السومرية",
+   "title": "الحوثيون يعلنون استهداف مطار الملك خالد في الرياض",
+   "link": "https://www.alsumaria.tv/news/international/581462/%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%ae%d8%a7%d9%84%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794765739
+  },
+  {
+   "source": "السومرية",
+   "title": "76 بالمئة من التخصيص المالي لسلف مصرف الرافدين لا يزال متاحاً",
+   "link": "https://www.alsumaria.tv/news/localnews/581463/76-%d8%a8%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%ae%d8%b5%d9%8a%d8%b5-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%84%d8%b3%d9%84%d9%81-%d9%85%d8%b5%d8%b1%d9%81-%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794765545
+  },
+  {
    "source": "شفق نيوز",
    "title": "الجيش والحشد يصدان هجوماً مسلحاً بين نينوى والأنبار",
    "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D9%8A%D8%B5%D8%AF%D8%A7%D9%86-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D9%85%D8%B3%D9%84%D8%AD%D8%A7-%D8%A8%D9%8A%D9%86-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1",
    "ts": 1794765320
+  },
+  {
+   "source": "السومرية",
+   "title": "إحباط هجوم ارهابي في الحضر",
+   "link": "https://www.alsumaria.tv/news/security/581461/%d8%a5%d8%ad%d8%a8%d8%a7%d8%b7-%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d8%b1%d9%87%d8%a7%d8%a8%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%b6%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794764886
   },
   {
    "source": "السومرية",
@@ -115,64 +175,16 @@
    "ts": 1794759350
   },
   {
-   "source": "شفق نيوز",
-   "title": "كركوك.. اعتقال مسلح بحوزته 3 رمانات يدوية وكاتم للصوت وملابس عسكرية",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%B3%D9%84%D8%AD-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-3-%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%8A%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D9%83%D8%A7%D8%AA%D9%85-%D9%84%D9%84%D8%B5%D9%88%D8%AA-%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
-   "ts": 1794758844
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "فوز المصافي والأسرة في دوري الصالات.. وانطلاق دوري الدرجة الثانية لكرة القدم",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%81%D9%8A-%D9%88%D8%A7%D9%84-%D8%B3%D8%B1%D8%A9-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
-   "ts": 1794758794
-  },
-  {
    "source": "السومرية",
    "title": "حمودي: من المخجل استمرار \"طريق الموت\" في شمال البصرة رغم الإمكانيات",
    "link": "https://www.alsumaria.tv/news/politics/581454/%d8%ad%d9%85%d9%88%d8%af%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%ae%d8%ac%d9%84-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-quot%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d9%85%d9%88%d8%aaquot-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794758755
   },
   {
-   "source": "السومرية",
-   "title": "بالفيديو .. سقوط طفلين في بركة مخلفات نفطية بالمشرح ومخاوف من غياب إجراءات السلامة",
-   "link": "https://www.alsumaria.tv/news/localnews/581453/%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%b3%d9%82%d9%88%d8%b7-%d8%b7%d9%81%d9%84%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%b1%d9%83%d8%a9-%d9%85%d8%ae%d9%84%d9%81%d8%a7%d8%aa-%d9%86%d9%81%d8%b7%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%b4%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794758203
-  },
-  {
-   "source": "السومرية",
-   "title": "كريستيانو جونيور يواصل خطواته الدولية.. مشاركة جديدة مع منتخب البرتغال تحت 17 عاماً",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581452/sports/%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88-%d8%ac%d9%88%d9%86%d9%8a%d9%88%d8%b1-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%ae%d8%b7%d9%88%d8%a7%d8%aa%d9%87-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%ac%d8%af%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794758055
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بعد مكة.. السعودية تعترض مسيّرة بالمدينة المنورة",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%B9%D8%AF-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9",
-   "ts": 1794757948
-  },
-  {
    "source": "المدى",
    "title": "من اليوم.. لا بيان جمركياً دون تصديق إلكتروني",
    "link": "https://almadapaper.net/461204/",
    "ts": 1794757872
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب يتهم بايدن بتدمير هيئة تنظيم الطيران الأمريكية",
-   "link": "https://www.alsumaria.tv/news/international/581451/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%aa%d9%87%d9%85-%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d8%a8%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d9%87%d9%8a%d8%a6%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794756876
-  },
-  {
-   "source": "السومرية",
-   "title": "بيان جديد من الرافدين يخص السلف للمتقاعدين",
-   "link": "https://www.alsumaria.tv/news/localnews/581450/%d8%a8%d9%8a%d8%a7%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%8a%d8%ae%d8%b5-%d8%a7%d9%84%d8%b3%d9%84%d9%81-%d9%84%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794755850
-  },
-  {
-   "source": "السومرية",
-   "title": "وزير النقل الأمريكي: اضطرابات الطيران تنتهي اليوم أو غداً والتحقيق مستمر في سبب الخلل",
-   "link": "https://www.alsumaria.tv/news/international/581449/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%86%d8%aa%d9%87%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794754612
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "النزاهة تكشف حصيلة ملف تهريب النفط: 228 إخباراً وقضية جزائية خلال ثلاث سنوات",
    "link": "https://almadapaper.net/461191/",
    "ts": 1794747778
-  },
-  {
-   "source": "المدى",
-   "title": "لجنة نيابية تفتح ملفات تهريب النفط مع الوزير وتلوّح باستدعاء القيادات الأمنية",
-   "link": "https://almadapaper.net/461188/",
-   "ts": 1794747424
-  },
-  {
-   "source": "المدى",
-   "title": "عمليات بغداد تطيح بـ 21 متهماً بالمخدرات ومخالفة الإقامة",
-   "link": "https://almadapaper.net/461185/",
-   "ts": 1794746037
   }
  ]
 }
