@@ -1,11 +1,41 @@
 {
- "updated": 1794768854,
+ "updated": 1794771407,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "وسط تحركات أمنية.. الزيدي يبحث مع زيدان إنفاذ القانون ومكافحة التهريب",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D9%85%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8",
+   "ts": 1794770858
+  },
+  {
+   "source": "السومرية",
+   "title": "الزيدي وزيدان يبحثان إجراءات حماية الموارد الاقتصادية ومحاربة التهريب",
+   "link": "https://www.alsumaria.tv/news/politics/581467/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%88%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794770610
+  },
+  {
+   "source": "المدى",
+   "title": "منخفض جوي وكتلة باردة يضربان العراق بدءاً من الاثنين",
+   "link": "https://almadapaper.net/461237/",
+   "ts": 1794770538
+  },
+  {
+   "source": "السومرية",
+   "title": "توغل إسرائيلي جديد في ريف القنيطرة جنوبي سوريا",
+   "link": "https://www.alsumaria.tv/news/international/581466/%d8%aa%d9%88%d8%ba%d9%84-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%a7%d9%84%d9%82%d9%86%d9%8a%d8%b7%d8%b1%d8%a9-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794769763
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد هجوم الحضر.. رفع جاهزية القوات الأمنية وإطلاق عملية تفتيش في المنطقة (فيديو)",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1-%D8%B1%D9%81%D8%B9-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84-%D9%85%D9%86%D9%8A%D8%A9-%D9%88-%D8%B7%D9%84%D8%A7%D9%82-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+   "ts": 1794769606
+  },
   {
    "source": "المدى",
    "title": "اقتصادي: حصة كردستان في الموازنة يجب أن تبلغ 14.14%",
@@ -139,12 +169,6 @@
    "ts": 1794761854
   },
   {
-   "source": "السومرية",
-   "title": "أهالي منطقة النور في الشعلة يناشدون إيقاف قرار إزالة منازلهم",
-   "link": "https://www.alsumaria.tv/news/localnews/581455/%d8%a3%d9%87%d8%a7%d9%84%d9%8a-%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d8%a7%d9%84%d9%86%d9%88%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b9%d9%84%d8%a9-%d9%8a%d9%86%d8%a7%d8%b4%d8%af%d9%88%d9%86-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d9%82%d8%b1%d8%a7%d8%b1-%d8%a5%d8%b2%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794761074
-  },
-  {
    "source": "شفق نيوز",
    "title": "\"كحلتم عين العراق\".. الزيدي يحتفي بلجنة جرف الصخر (فيديو)",
    "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%83%D8%AD%D9%84%D8%AA%D9%85-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D9%84%D8%AC%D9%86%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
@@ -161,24 +185,6 @@
    "title": "لبنان يطلب من سوريا تسليم المتورطين بقتل العلواني",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B1%D8%B7%D9%8A%D9%86-%D8%A8%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A",
    "ts": 1794760227
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراق يتوج بلقب آسيا لبناء الأجسام بـ41 وساما",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D9%88%D8%AC-%D8%A8%D9%84%D9%82%D8%A8-%D8%B3%D9%8A%D8%A7-%D9%84%D8%A8%D9%86%D8%A7-%D8%A7%D9%84-%D8%AC%D8%B3%D8%A7%D9%85-%D8%A8%D9%8041-%D9%88%D8%B3%D8%A7%D9%85%D8%A7",
-   "ts": 1794759997
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ذي قار.. أحكام بالسجن بحق 3 متهمين بقتل المحقق القضائي محمود الحصيني",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1-%D8%AD%D9%83%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A8%D8%AD%D9%82-3-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D9%82%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7-%D9%8A-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%86%D9%8A",
-   "ts": 1794759350
-  },
-  {
-   "source": "السومرية",
-   "title": "حمودي: من المخجل استمرار \"طريق الموت\" في شمال البصرة رغم الإمكانيات",
-   "link": "https://www.alsumaria.tv/news/politics/581454/%d8%ad%d9%85%d9%88%d8%af%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%ae%d8%ac%d9%84-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-quot%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d9%85%d9%88%d8%aaquot-%d9%81%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794758755
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "منع خالد أبو عراق من الظهور الإعلامي 45 يوماً",
    "link": "https://almadapaper.net/461195/",
    "ts": 1794750161
-  },
-  {
-   "source": "المدى",
-   "title": "النزاهة تكشف حصيلة ملف تهريب النفط: 228 إخباراً وقضية جزائية خلال ثلاث سنوات",
-   "link": "https://almadapaper.net/461191/",
-   "ts": 1794747778
   }
  ]
 }
