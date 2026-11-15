@@ -1,11 +1,41 @@
 {
- "updated": 1794743410,
+ "updated": 1794746208,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "عمليات بغداد تطيح بـ 21 متهماً بالمخدرات ومخالفة الإقامة",
+   "link": "https://almadapaper.net/461185/",
+   "ts": 1794746037
+  },
+  {
+   "source": "السومرية",
+   "title": "مدربه السابق يكشف أسرار شخصية رونالدو في النصر: الأول حضوراً والأخير مغادرةً",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581440/sports/%d9%85%d8%af%d8%b1%d8%a8%d9%87-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82-%d9%8a%d9%83%d8%b4%d9%81-%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794745706
+  },
+  {
+   "source": "السومرية",
+   "title": "نقابة المحامين تبحث مع القنصل الأمريكي التشريعات العراقية وتحديات العمل المهني",
+   "link": "https://www.alsumaria.tv/news/localnews/581439/%d9%86%d9%82%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d8%aa%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%a7%d9%84%d9%82%d9%86%d8%b5%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794743735
+  },
+  {
+   "source": "المدى",
+   "title": "شركة نفط ميسان ترفع إنتاج محطة \"نور\" إلى أكثر من 10 آلاف برميل يومياً",
+   "link": "https://almadapaper.net/461183/",
+   "ts": 1794743724
+  },
+  {
+   "source": "السومرية",
+   "title": "برشلونة يخطط لبيع أراوخو نهائياً إلى ليفربول في الانتقالات الشتوية",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581438/sports/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%8a%d8%ae%d8%b7%d8%b7-%d9%84%d8%a8%d9%8a%d8%b9-%d8%a3%d8%b1%d8%a7%d9%88%d8%ae%d9%88-%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a7%d9%8b-%d8%a5%d9%84%d9%89-%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84-%d9%81%d9%8a-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794743400
+  },
   {
    "source": "شفق نيوز",
    "title": "سوريا.. إعادة تفعيل القصر العدلي في القامشلي تنفيذا لاتفاق الدمج",
@@ -115,12 +145,6 @@
    "ts": 1794737189
   },
   {
-   "source": "السومرية",
-   "title": "وزير الصحة: شمول جميع مرضى السكري من النوع الأول بالضمان الصحي مجاناً",
-   "link": "https://www.alsumaria.tv/news/localnews/581428/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%b4%d9%85%d9%88%d9%84-%d8%ac%d9%85%d9%8a%d8%b9-%d9%85%d8%b1%d8%b6%d9%89-%d8%a7%d9%84%d8%b3%d9%83%d8%b1%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%86%d9%88%d8%b9-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794737078
-  },
-  {
    "source": "شفق نيوز",
    "title": "ثلاث وحدات مغلقة و15 دقيقة للإعلاميين في تدريبات منتخبات بطولة البصرة الدولية",
    "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AB%D9%84%D8%A7%D8%AB-%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D9%85%D8%BA%D9%84%D9%82%D8%A9-%D9%8815-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D9%84%D9%84-%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
@@ -145,12 +169,6 @@
    "ts": 1794736173
   },
   {
-   "source": "السومرية",
-   "title": "لجنة نيابية تستضيف وزير النفط لمناقشة تهريب النفط واستهداف حقل كورمور",
-   "link": "https://www.alsumaria.tv/news/politics/581427/%d9%84%d8%ac%d9%86%d8%a9-%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%b6%d9%8a%d9%81-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%84%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%86%d9%81%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794736153
-  },
-  {
    "source": "شفق نيوز",
    "title": "القضاء العراقي: القبض على 8 موظفين في شركة توزيع المنتجات النفطية",
    "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%82%D8%B6%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-8-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9",
@@ -161,12 +179,6 @@
    "title": "القضاء يصدر أمر قبض بحق \"خالد أبو عراق\" بتهمة إهانة فئة من الشعب",
    "link": "https://almadapaper.net/461167/",
    "ts": 1794734995
-  },
-  {
-   "source": "السومرية",
-   "title": "القبض على 8 موظفين في شركة توزيع المنتجات النفطية بتهمة هدر المال العام",
-   "link": "https://www.alsumaria.tv/news/localnews/581426/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-8-%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d9%81%d9%8a-%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794734623
   },
   {
    "source": "شفق نيوز",
@@ -197,18 +209,6 @@
    "title": "حادثة التون كوبري تعيد ملف الفراغات الأمنية إلى الواجهة.. دعوات لتنسيق عسكري بين بغداد وأربيل لمواجهة داعش",
    "link": "https://almadapaper.net/461153/",
    "ts": 1794690420
-  },
-  {
-   "source": "المدى",
-   "title": "بيت المدى يستذكر فلسطين من خلال عيون فنانين ومثقفين عراقيين",
-   "link": "https://almadapaper.net/461131/",
-   "ts": 1794690360
-  },
-  {
-   "source": "المدى",
-   "title": "العمودالثامن: نظرية الشابندر في السرقة",
-   "link": "https://almadapaper.net/461133/",
-   "ts": 1794690360
   }
  ]
 }
