@@ -1,5 +1,5 @@
 {
- "updated": 1794776732,
+ "updated": 1794779217,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,64 +7,82 @@
  ],
  "items": [
   {
+   "source": "شفق نيوز",
+   "title": "بثلاثية في مدريد.. إنكلترا تثأر من إسبانيا وتنتزع صدارة مجموعتها",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%86%D9%83%D9%84%D8%AA%D8%B1%D8%A7-%D8%AA%D8%AB-%D8%B1-%D9%85%D9%86-%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%AA%D9%86%D8%AA%D8%B2%D8%B9-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
+   "ts": 1794779108
+  },
+  {
+   "source": "السومرية",
+   "title": "طهران: واشنطن قد تستغل الدبلوماسية لشن هجوم جديد",
+   "link": "https://www.alsumaria.tv/news/international/581474/%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%82%d8%af-%d8%aa%d8%b3%d8%aa%d8%ba%d9%84-%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d8%a9-%d9%84%d8%b4%d9%86-%d9%87%d8%ac%d9%88%d9%85-%d8%ac%d8%af%d9%8a%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794778920
+  },
+  {
+   "source": "السومرية",
+   "title": "اصطدام ناقلة نفط بلغم بحري شرقي مضيق هرمز",
+   "link": "https://www.alsumaria.tv/news/international/581473/%d8%a7%d8%b5%d8%b7%d8%af%d8%a7%d9%85-%d9%86%d8%a7%d9%82%d9%84%d8%a9-%d9%86%d9%81%d8%b7-%d8%a8%d9%84%d8%ba%d9%85-%d8%a8%d8%ad%d8%b1%d9%8a-%d8%b4%d8%b1%d9%82%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794777480
+  },
+  {
+   "source": "المدى",
+   "title": "6 مواقع وأنفاق لتهريب وتكرير النفط بينها منشآت صدام.. ومهلة لإخلاء الجرف حتى الجمعة",
+   "link": "https://almadapaper.net/461305/",
+   "ts": 1794777000
+  },
+  {
+   "source": "المدى",
+   "title": "ذي قار تستقبل 10 آلاف سائح أجنبي.. وانتقادات لضعف الترويج السياحي ونقص البنى التحتية",
+   "link": "https://almadapaper.net/461301/",
+   "ts": 1794776940
+  },
+  {
+   "source": "المدى",
+   "title": "منظمة دولية: تطوير القطاع الصحي في الموصل بعد 9 سنوات من تحررها من داعش",
+   "link": "https://almadapaper.net/461299/",
+   "ts": 1794776880
+  },
+  {
+   "source": "المدى",
+   "title": "اور الاثرية تستقبل سفراء العالم في ملتقى الحضارات",
+   "link": "https://almadapaper.net/461270/",
+   "ts": 1794776820
+  },
+  {
+   "source": "المدى",
+   "title": "موازنة 2027 تشعل الخلاف حول حصة الاقليم.. مطالبات برفعها إلى 14.14 %",
+   "link": "https://almadapaper.net/461295/",
+   "ts": 1794776820
+  },
+  {
+   "source": "المدى",
+   "title": "اتحاد الأدباء يحتفي بالمجموعة القصصية \"كافي\" لزهير الجزائري",
+   "link": "https://almadapaper.net/461268/",
+   "ts": 1794776760
+  },
+  {
+   "source": "المدى",
+   "title": "العمودالثامن: ظاهرة \"أبو عراق\"",
+   "link": "https://almadapaper.net/461272/",
+   "ts": 1794776760
+  },
+  {
+   "source": "المدى",
+   "title": "تايلور سويفت تعود إلى مسرح جوائز موسيقى الكانتري",
+   "link": "https://almadapaper.net/461266/",
+   "ts": 1794776700
+  },
+  {
+   "source": "المدى",
+   "title": "المحكمة الاتحادية ترفض طلبين لإيقاف قرارات برلمان كردستان",
+   "link": "https://almadapaper.net/461293/",
+   "ts": 1794776700
+  },
+  {
    "source": "المدى",
    "title": "باليت المدى: الشجرة المقدسة",
    "link": "https://almadapaper.net/461249/",
    "ts": 1794776640
-  },
-  {
-   "source": "المدى",
-   "title": "مزاد لوحة لفان غوخ بقيمة 180 مليون دولار يواجه اعتراضات",
-   "link": "https://almadapaper.net/461264/",
-   "ts": 1794776640
-  },
-  {
-   "source": "المدى",
-   "title": "العراق بانتظار ظهور رجال دولة: الرؤية والمسؤولية وبناء المستقبل",
-   "link": "https://almadapaper.net/461234/",
-   "ts": 1794776580
-  },
-  {
-   "source": "المدى",
-   "title": "سماء بغداد القِرمزية: العراق في مرآة الدبلوماسية الروسية",
-   "link": "https://almadapaper.net/461247/",
-   "ts": 1794776580
-  },
-  {
-   "source": "المدى",
-   "title": "اقــــرأ: التحول الكبير",
-   "link": "https://almadapaper.net/461262/",
-   "ts": 1794776580
-  },
-  {
-   "source": "المدى",
-   "title": "228 قضية وإخبارا بشأن تهريب النفط.. البرلمان يفتح ملفات التهريب والنزاهة تعلن حكما بالسجن بحق وكيل وزارة الكهرباء",
-   "link": "https://almadapaper.net/461286/",
-   "ts": 1794776580
-  },
-  {
-   "source": "المدى",
-   "title": "من الأغلبية النسبية إلى الأغلبية الانتخابية المباشرة نحو إصلاح ديمقراطي لنظام الحكم في العراق",
-   "link": "https://almadapaper.net/461232/",
-   "ts": 1794776520
-  },
-  {
-   "source": "المدى",
-   "title": "ايطاليا تستعيد غراتسيا ديليدا بمناسبة مئة عام على جائزة نوبل",
-   "link": "https://almadapaper.net/461245/",
-   "ts": 1794776520
-  },
-  {
-   "source": "المدى",
-   "title": "مكعب روبيك يعود إلى مسقط رأسه",
-   "link": "https://almadapaper.net/461260/",
-   "ts": 1794776520
-  },
-  {
-   "source": "المدى",
-   "title": "قاليباف: الاتفاق مع واشنطن لا يزال ممكنا وإيران تحذر من حرب جديدة",
-   "link": "https://almadapaper.net/461289/",
-   "ts": 1794776520
   },
   {
    "source": "شفق نيوز",
@@ -187,28 +205,10 @@
    "ts": 1794767420
   },
   {
-   "source": "شفق نيوز",
-   "title": "الحوثيون: استهداف مطار خالد والمركز المالي في الرياض",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D8%A7%D9%84%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
-   "ts": 1794766181
-  },
-  {
    "source": "السومرية",
    "title": "الحوثيون يعلنون استهداف مطار الملك خالد في الرياض",
    "link": "https://www.alsumaria.tv/news/international/581462/%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%ae%d8%a7%d9%84%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794765739
-  },
-  {
-   "source": "السومرية",
-   "title": "76 بالمئة من التخصيص المالي لسلف مصرف الرافدين لا يزال متاحاً",
-   "link": "https://www.alsumaria.tv/news/localnews/581463/76-%d8%a8%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%ae%d8%b5%d9%8a%d8%b5-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%84%d8%b3%d9%84%d9%81-%d9%85%d8%b5%d8%b1%d9%81-%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794765545
-  },
-  {
-   "source": "السومرية",
-   "title": "إحباط هجوم ارهابي في الحضر",
-   "link": "https://www.alsumaria.tv/news/security/581461/%d8%a5%d8%ad%d8%a8%d8%a7%d8%b7-%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d8%b1%d9%87%d8%a7%d8%a8%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%b6%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794764886
   }
  ]
 }
