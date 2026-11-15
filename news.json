@@ -1,11 +1,53 @@
 {
- "updated": 1794755498,
+ "updated": 1794757885,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "من اليوم.. لا بيان جمركياً دون تصديق إلكتروني",
+   "link": "https://almadapaper.net/461204/",
+   "ts": 1794757872
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سوريا.. اتفاق على دمج جامعتي \"روجافا والفرات\" ونصف المناهج بالكوردية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B9%D9%84%D9%89-%D8%AF%D9%85%D8%AC-%D8%AC%D8%A7%D9%85%D8%B9%D8%AA%D9%8A-%D8%B1%D9%88%D8%AC%D8%A7%D9%81%D8%A7-%D9%88%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%88%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A9",
+   "ts": 1794757031
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب يتهم بايدن بتدمير هيئة تنظيم الطيران الأمريكية",
+   "link": "https://www.alsumaria.tv/news/international/581451/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%aa%d9%87%d9%85-%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d8%a8%d8%aa%d8%af%d9%85%d9%8a%d8%b1-%d9%87%d9%8a%d8%a6%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794756876
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "المنتخب العراقي يعاود تدريباته استعداداً لمواجهة إيران في بطولة البصرة",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B9%D8%A7%D9%88%D8%AF-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
+   "ts": 1794756652
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "يونس محمود على خط اليابان.. \"مورياسو\" يضع شرطاً لتدريب منتخب العراق",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%8A%D9%88%D9%86%D8%B3-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D9%85%D9%88%D8%B1%D9%8A%D8%A7%D8%B3%D9%88-%D9%8A%D8%B6%D8%B9-%D8%B4%D8%B1%D8%B7%D8%A7-%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1794756297
+  },
+  {
+   "source": "السومرية",
+   "title": "بيان جديد من الرافدين يخص السلف للمتقاعدين",
+   "link": "https://www.alsumaria.tv/news/localnews/581450/%d8%a8%d9%8a%d8%a7%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%a7%d9%81%d8%af%d9%8a%d9%86-%d9%8a%d8%ae%d8%b5-%d8%a7%d9%84%d8%b3%d9%84%d9%81-%d9%84%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794755850
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد الفيضان.. أربيل تواصل التحقيق في الأسباب وتستعد لموسم الأمطار",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86-%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%A7%D9%84-%D8%B3%D8%A8%D8%A7%D8%A8-%D9%88%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84-%D9%85%D8%B7%D8%A7%D8%B1",
+   "ts": 1794755790
+  },
   {
    "source": "شفق نيوز",
    "title": "الكتابة على جدران الآثار.. ذكريات عابرة تشوّه هوية التراث العراقي (صور)",
@@ -97,18 +139,6 @@
    "ts": 1794751001
   },
   {
-   "source": "شفق نيوز",
-   "title": "الزيدي يمهل كتائب حزب الله لتسليم \"الجرف\" ويستعد لتحريك جهاز مكافحة الإرهاب",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%85%D9%87%D9%84-%D9%83%D8%AA%D8%A7-%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%AC%D8%B1%D9%81-%D9%88%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%83-%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84-%D8%B1%D9%87%D8%A7%D8%A8",
-   "ts": 1794750783
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "كوردستان تسحب 3 مكملات غذائية من الأسواق لاحتوائها على مادة \"خطرة\"",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AD%D8%A8-3-%D9%85%D9%83%D9%85%D9%84%D8%A7%D8%AA-%D8%BA%D8%B0%D8%A7-%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82-%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7-%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%85%D8%A7%D8%AF%D8%A9-%D8%AE%D8%B7%D8%B1%D8%A9",
-   "ts": 1794750678
-  },
-  {
    "source": "المدى",
    "title": "منع خالد أبو عراق من الظهور الإعلامي 45 يوماً",
    "link": "https://almadapaper.net/461195/",
@@ -121,22 +151,10 @@
    "ts": 1794749617
   },
   {
-   "source": "شفق نيوز",
-   "title": "الزيدي يوجه بتأمين الغذاء والدواء والوقود لمواجهة الأزمات",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%AA-%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D8%A7-%D9%88%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84-%D8%B2%D9%85%D8%A7%D8%AA",
-   "ts": 1794749543
-  },
-  {
    "source": "السومرية",
    "title": "هيئة الاعلام تقرر منع ظهور خالد ابو عراق في وسائل الاعلام",
    "link": "https://www.alsumaria.tv/news/localnews/581443/%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d9%82%d8%b1%d8%b1-%d9%85%d9%86%d8%b9-%d8%b8%d9%87%d9%88%d8%b1-%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d8%a8%d9%88-%d8%b9%d8%b1%d8%a7%d9%82-%d9%81%d9%8a-%d9%88%d8%b3%d8%a7%d8%a6%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1794749486
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الإعلام والاتصالات تمنع \"أبو عراق\" من الظهور على الشاشات",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D8%B9%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%85%D9%86%D8%B9-%D8%A8%D9%88-%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%B8%D9%87%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA",
-   "ts": 1794749398
   },
   {
    "source": "المدى",
@@ -175,22 +193,10 @@
    "ts": 1794745706
   },
   {
-   "source": "السومرية",
-   "title": "نقابة المحامين تبحث مع القنصل الأمريكي التشريعات العراقية وتحديات العمل المهني",
-   "link": "https://www.alsumaria.tv/news/localnews/581439/%d9%86%d9%82%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d8%aa%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%a7%d9%84%d9%82%d9%86%d8%b5%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794743735
-  },
-  {
    "source": "المدى",
    "title": "شركة نفط ميسان ترفع إنتاج محطة \"نور\" إلى أكثر من 10 آلاف برميل يومياً",
    "link": "https://almadapaper.net/461183/",
    "ts": 1794743724
-  },
-  {
-   "source": "السومرية",
-   "title": "برشلونة يخطط لبيع أراوخو نهائياً إلى ليفربول في الانتقالات الشتوية",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581438/sports/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%8a%d8%ae%d8%b7%d8%b7-%d9%84%d8%a8%d9%8a%d8%b9-%d8%a3%d8%b1%d8%a7%d9%88%d8%ae%d9%88-%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a7%d9%8b-%d8%a5%d9%84%d9%89-%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84-%d9%81%d9%8a-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794743400
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "السجن سبع سنوات لوكيل وزارة الكهرباء وإلزامه بتسديد 37 مليار دينار",
    "link": "https://almadapaper.net/461177/",
    "ts": 1794739350
-  },
-  {
-   "source": "المدى",
-   "title": "إيران تمتلك نحو 2500 صاروخ وتواصل ترميم ترسانتها العسكرية",
-   "link": "https://almadapaper.net/461174/",
-   "ts": 1794738583
   }
  ]
 }
