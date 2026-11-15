@@ -1,11 +1,53 @@
 {
- "updated": 1794741011,
+ "updated": 1794743410,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "سوريا.. إعادة تفعيل القصر العدلي في القامشلي تنفيذا لاتفاق الدمج",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D8%A7-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%85%D8%AC",
+   "ts": 1794743072
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "طريق التنمية والمياه والأمن.. العراق يطرح رؤيته لشراكة مستدامة مع تركيا",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%88%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B7%D8%B1%D8%AD-%D8%B1-%D9%8A%D8%AA%D9%87-%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+   "ts": 1794742832
+  },
+  {
+   "source": "السومرية",
+   "title": "البرلمان الإيراني يقر عقوبات على التعاون مع وسائل إعلام ناطقة بالفارسية",
+   "link": "https://www.alsumaria.tv/news/international/581437/%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%8a%d9%82%d8%b1-%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%85%d8%b9-%d9%88%d8%b3%d8%a7%d8%a6%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794742531
+  },
+  {
+   "source": "المدى",
+   "title": "أمانة بغداد تضع خطة من ثلاثة محاور لمواجهة الأمطار",
+   "link": "https://almadapaper.net/461180/",
+   "ts": 1794742354
+  },
+  {
+   "source": "السومرية",
+   "title": "ديوان الرقابة المالية واتحاد الصحفيين العرب يبحثان دعم العمل الإعلامي في العراق",
+   "link": "https://www.alsumaria.tv/news/localnews/581436/%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%88%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%8a%d8%a8%d8%ad%d8%ab%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794741239
+  },
+  {
+   "source": "السومرية",
+   "title": "الاتحادية ترد طلبين لوقف قرارات جلسة برلمان كردستان",
+   "link": "https://www.alsumaria.tv/news/politics/581435/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d8%a9-%d8%aa%d8%b1%d8%af-%d8%b7%d9%84%d8%a8%d9%8a%d9%86-%d9%84%d9%88%d9%82%d9%81-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ac%d9%84%d8%b3%d8%a9-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d9%83%d8%b1%d8%af%d8%b3%d8%aa%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794741100
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "سوريا.. \"الشيخ نجار\" تستعيد مصانعها وأعباء الطاقة وهجرة العمالة تعرقل التعافي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%86%D8%AC%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D9%85%D8%B5%D8%A7%D9%86%D8%B9%D9%87%D8%A7-%D9%88-%D8%B9%D8%A8%D8%A7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D9%87%D8%AC%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9-%D8%AA%D8%B9%D8%B1%D9%82%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A",
+   "ts": 1794741051
+  },
   {
    "source": "السومرية",
    "title": "الزاملي يحسم الجدل بشأن مستقبل أرنولد: مستمر في تدريب المنتخب العراقي",
@@ -127,12 +169,6 @@
    "ts": 1794734623
   },
   {
-   "source": "السومرية",
-   "title": "الذهب يرتفع في الأسواق العراقية.. مثقال الخليجي والأجنبي يسجل 923 ألف دينار",
-   "link": "https://www.alsumaria.tv/news/economy/581425/%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d8%b1%d8%aa%d9%81%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d9%85%d8%ab%d9%82%d8%a7%d9%84-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a-%d9%88%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794734279
-  },
-  {
    "source": "شفق نيوز",
    "title": "قفزة بأسعار الذهب في بغداد وأربيل",
    "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%82%D9%81%D8%B2%D8%A9-%D8%A8-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84",
@@ -145,40 +181,10 @@
    "ts": 1794733865
   },
   {
-   "source": "السومرية",
-   "title": "الاتحادية تحسم دعوى حل برلمان كردستان",
-   "link": "https://www.alsumaria.tv/news/politics/581424/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b3%d9%85-%d8%af%d8%b9%d9%88%d9%89-%d8%ad%d9%84-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d9%83%d8%b1%d8%af%d8%b3%d8%aa%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794733641
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "المحكمة الاتحادية ترد دعوى المطالبة بتعليق عمل برلمان كوردستان",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B1%D8%AF-%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D9%89-%D8%B6%D8%AF-%D8%AD%D9%84-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D8%B1%D8%AA%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9",
-   "ts": 1794733280
-  },
-  {
    "source": "المدى",
    "title": "البنك المركزي: 94% من الكتلة النقدية في العراق مكتنزة خارج المصارف",
    "link": "https://almadapaper.net/461165/",
    "ts": 1794732784
-  },
-  {
-   "source": "السومرية",
-   "title": "قاليباف: إيران ترفض استمرار حالة \"لا حرب ولا سلم\" وتربط الاتفاق مع واشنطن بقبول شروطها",
-   "link": "https://www.alsumaria.tv/news/international/581423/%d9%82%d8%a7%d9%84%d9%8a%d8%a8%d8%a7%d9%81-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b1%d9%81%d8%b6-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-%d8%ad%d8%a7%d9%84%d8%a9-quot%d9%84%d8%a7-%d8%ad%d8%b1%d8%a8-%d9%88%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794732358
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "مشروع بـ6 مليارات دينار لتأمين الطريق بين طوز خورماتو وتكريت",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%806-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%AA-%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A8%D9%8A%D9%86-%D8%B7%D9%88%D8%B2-%D8%AE%D9%88%D8%B1%D9%85%D8%A7%D8%AA%D9%88-%D9%88%D8%AA%D9%83%D8%B1%D9%8A%D8%AA",
-   "ts": 1794731441
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بحث جديد.. صوتك يحدد عمرك البيولوجي",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%A8%D8%AD%D8%AB-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B5%D9%88%D8%AA%D9%83-%D9%8A%D8%AD%D8%AF%D8%AF-%D8%B9%D9%85%D8%B1%D9%83-%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A",
-   "ts": 1794731431
   },
   {
    "source": "المدى",
@@ -202,12 +208,6 @@
    "source": "المدى",
    "title": "العمودالثامن: نظرية الشابندر في السرقة",
    "link": "https://almadapaper.net/461133/",
-   "ts": 1794690360
-  },
-  {
-   "source": "المدى",
-   "title": "موقع إخباري: العراق يتوقع وصول أولى شحنات منظومات الدفاع الجوي قريباً",
-   "link": "https://almadapaper.net/461151/",
    "ts": 1794690360
   }
  ]
