@@ -1,11 +1,71 @@
 {
- "updated": 1794737858,
+ "updated": 1794741011,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "الزاملي يحسم الجدل بشأن مستقبل أرنولد: مستمر في تدريب المنتخب العراقي",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581434/sports/%d8%a7%d9%84%d8%b2%d8%a7%d9%85%d9%84%d9%8a-%d9%8a%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d8%a8%d8%b4%d8%a3%d9%86-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a3%d8%b1%d9%86%d9%88%d9%84%d8%af-%d9%85%d8%b3%d8%aa%d9%85%d8%b1-%d9%81%d9%8a-%d8%aa%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794740887
+  },
+  {
+   "source": "المدى",
+   "title": "السجن سبع سنوات لوكيل وزارة الكهرباء وإلزامه بتسديد 37 مليار دينار",
+   "link": "https://almadapaper.net/461177/",
+   "ts": 1794739350
+  },
+  {
+   "source": "السومرية",
+   "title": "مرض القلب أنهى فرحتها بالتخرج.. تفاصيل وفاة الطالبة زيلان في أربيل",
+   "link": "https://www.alsumaria.tv/news/localnews/581433/%d9%85%d8%b1%d8%b6-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d8%a3%d9%86%d9%87%d9%89-%d9%81%d8%b1%d8%ad%d8%aa%d9%87%d8%a7-%d8%a8%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794739183
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "السجن 7 سنوات لوكيل وزارة الكهرباء وإلزامه بتسديد 37 مليار دينار",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-7-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%83%D9%8A%D9%84-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7-%D9%88-%D9%84%D8%B2%D8%A7%D9%85%D9%87-%D8%A8%D8%AA%D8%B3%D8%AF%D9%8A%D8%AF-37-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1",
+   "ts": 1794738963
+  },
+  {
+   "source": "السومرية",
+   "title": "النزاهة: السجن سبع سنوات لوكيل وزارة الكهرباء لشؤون النقل والتوزيع",
+   "link": "https://www.alsumaria.tv/news/localnews/581432/%d8%a7%d9%84%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%a7%d9%84%d8%b3%d8%ac%d9%86-%d8%b3%d8%a8%d8%b9-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d9%84%d9%88%d9%83%d9%8a%d9%84-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d9%84%d8%b4%d8%a4%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794738889
+  },
+  {
+   "source": "المدى",
+   "title": "إيران تمتلك نحو 2500 صاروخ وتواصل ترميم ترسانتها العسكرية",
+   "link": "https://almadapaper.net/461174/",
+   "ts": 1794738583
+  },
+  {
+   "source": "السومرية",
+   "title": "السجن 15 سنة بحق مدان بتهريب المشتقات النفطية في بغداد",
+   "link": "https://www.alsumaria.tv/news/localnews/581431/%d8%a7%d9%84%d8%b3%d8%ac%d9%86-15-%d8%b3%d9%86%d8%a9-%d8%a8%d8%ad%d9%82-%d9%85%d8%af%d8%a7%d9%86-%d8%a8%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794738553
+  },
+  {
+   "source": "السومرية",
+   "title": "تدريبات مغلقة لثلاثة منتخبات في بطولة البصرة الدولية",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581430/sports/%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d9%85%d8%ba%d9%84%d9%82%d8%a9-%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794738416
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "العراق بالمرتبة 47 عالمياً في الدين الحكومي المتوقع للعام الحالي بـ174 مليار دولار",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-47-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9-%D9%84%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A-%D8%A8%D9%80174-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+   "ts": 1794738246
+  },
+  {
+   "source": "السومرية",
+   "title": "التربية: أكثر من 419 ألف طالب يخوضون امتحانات الدور الثالث في عموم العراق",
+   "link": "https://www.alsumaria.tv/news/localnews/581429/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-419-%d8%a3%d9%84%d9%81-%d8%b7%d8%a7%d9%84%d8%a8-%d9%8a%d8%ae%d9%88%d8%b6%d9%88%d9%86-%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794738205
+  },
   {
    "source": "شفق نيوز",
    "title": "تجاوز 10 آلاف برميل يومياً.. قفزة بإنتاج النفط الخام من حقل \"نور\" في ميسان",
@@ -39,7 +99,7 @@
   {
    "source": "شفق نيوز",
    "title": "لتنويع الاقتصاد ومواجهة التغير المناخي.. بغداد وبرلين تطلِقان مفاوضات الشراكة الإنمائية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%84%D8%AA%D9%86%D9%88%D9%8A%D8%B9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D8%AA%D8%B7%D9%84-%D9%82%D8%A7%D9%86-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84-%D9%86%D9%85%D8%A7-%D9%8A%D8%A9",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%84%D8%AA%D9%86%D9%88%D9%8A%D8%B9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D8%AA%D8%B7%D9%84-%D9%82%D8%A7%D9%86-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84-%D9%86%D9%85%D8%A7-%D9%8A%D8%A9",
    "ts": 1794736173
   },
   {
@@ -121,54 +181,6 @@
    "ts": 1794731431
   },
   {
-   "source": "السومرية",
-   "title": "عمليات بغداد تغلق الفتحات العشوائية على طريق بغداد – صلاح الدين السريع",
-   "link": "https://www.alsumaria.tv/news/security/581422/%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%aa%d8%ba%d9%84%d9%82-%d8%a7%d9%84%d9%81%d8%aa%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b4%d9%88%d8%a7%d8%a6%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%b7%d8%b1%d9%8a%d9%82-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794731010
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الجمهور يحتفظ بالسيولة.. 94% من النقد العراقي خارج الجهاز المصرفي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%8A%D8%AD%D8%AA%D9%81%D8%B8-%D8%A8%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84%D8%A9-94-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A",
-   "ts": 1794730359
-  },
-  {
-   "source": "السومرية",
-   "title": "الامطار تعود غداً في العراق",
-   "link": "https://www.alsumaria.tv/news/localnews/581421/%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1-%d8%aa%d8%b9%d9%88%d8%af-%d8%ba%d8%af%d8%a7%d9%8b-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794730069
-  },
-  {
-   "source": "السومرية",
-   "title": "الدولار يواصل الارتفاع في بغداد ويسجل 169900 دينار لكل 100 دولار",
-   "link": "https://www.alsumaria.tv/news/economy/581420/%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%88%d9%8a%d8%b3%d8%ac%d9%84-169900-%d8%af%d9%8a%d9%86%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794729992
-  },
-  {
-   "source": "السومرية",
-   "title": "الاعلان عن حجم الخسائر في اربيل جرَّاء السيول",
-   "link": "https://www.alsumaria.tv/news/localnews/581419/%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d8%ad%d8%ac%d9%85-%d8%a7%d9%84%d8%ae%d8%b3%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d8%a7%d8%b1%d8%a8%d9%8a%d9%84-%d8%ac%d8%b1%d9%8e%d9%91%d8%a7%d8%a1-%d8%a7%d9%84%d8%b3%d9%8a%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794729840
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الأردن.. الإعدام لـ3 مدانين بتنفيذ هجوم \"إرهابي\" في الكرك",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84-%D8%B1%D8%AF%D9%86-%D8%A7%D9%84-%D8%B9%D8%AF%D8%A7%D9%85-%D9%84%D9%803-%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%87%D8%AC%D9%88%D9%85-%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D9%83",
-   "ts": 1794729388
-  },
-  {
-   "source": "السومرية",
-   "title": "التعليم تعلن نتائج تعديل الترشيح وقبول طلبة السنة السابقة (المقاعد الشاغرة)",
-   "link": "https://www.alsumaria.tv/news/localnews/581418/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%aa%d8%b9%d9%84%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d9%88%d9%82%d8%a8%d9%88%d9%84-%d8%b7%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794729132
-  },
-  {
-   "source": "السومرية",
-   "title": "القضاء الأردني: الإعدام بحق منفذي العمل الإرهابي في مدينة الكرك",
-   "link": "https://www.alsumaria.tv/news/international/581417/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d8%af%d8%a7%d9%85-%d8%a8%d8%ad%d9%82-%d9%85%d9%86%d9%81%d8%b0%d9%8a-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a5%d8%b1%d9%87%d8%a7%d8%a8%d9%8a-%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794729108
-  },
-  {
    "source": "المدى",
    "title": "الدولة تستأذن الفصائل لدخول جرف الصخر.. من يملك مفاتيح المعتقلات ومصانع المسيّرات؟",
    "link": "https://almadapaper.net/461157/",
@@ -197,18 +209,6 @@
    "title": "موقع إخباري: العراق يتوقع وصول أولى شحنات منظومات الدفاع الجوي قريباً",
    "link": "https://almadapaper.net/461151/",
    "ts": 1794690360
-  },
-  {
-   "source": "المدى",
-   "title": "قانون النفط والغاز عالق منذ عقدين.. هل تنهي تفاهمات بغداد وأربيل زمن التسويات المؤقتة؟",
-   "link": "https://almadapaper.net/461147/",
-   "ts": 1794690300
-  },
-  {
-   "source": "المدى",
-   "title": "أنجلينا جولي تختار ولاية جديدة للإقامة",
-   "link": "https://almadapaper.net/461128/",
-   "ts": 1794690240
   }
  ]
 }
