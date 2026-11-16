@@ -1,11 +1,59 @@
 {
- "updated": 1794847051,
+ "updated": 1794851092,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "بحضور رئيسي الوزراء والجمهورية.. الاطار التنسيقي يجتمع في منزل رئيس المجلس الاعلى الاسلامي",
+   "link": "https://www.alsumaria.tv/news/politics/581530/%d8%a8%d8%ad%d8%b6%d9%88%d8%b1-%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82%d9%8a-%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794850485
+  },
+  {
+   "source": "السومرية",
+   "title": "الحوثيون: 88 غارة جوية وصاروخية تستهدف اليمن",
+   "link": "https://www.alsumaria.tv/news/international/581529/%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-88-%d8%ba%d8%a7%d8%b1%d8%a9-%d8%ac%d9%88%d9%8a%d8%a9-%d9%88%d8%b5%d8%a7%d8%b1%d9%88%d8%ae%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%a7%d9%84%d9%8a%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794850080
+  },
+  {
+   "source": "السومرية",
+   "title": "تعزيزات امنية كبيرة تتجه الى جرف الصخر",
+   "link": "https://www.alsumaria.tv/news/security/581528/%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%85%d9%86%d9%8a%d8%a9-%d9%83%d8%a8%d9%8a%d8%b1%d8%a9-%d8%aa%d8%aa%d8%ac%d9%87-%d8%a7%d9%84%d9%89-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d8%b5%d8%ae%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794849445
+  },
+  {
+   "source": "السومرية",
+   "title": "موسكو تكشف تفاصيل قمة مرتقبة تجمع بوتين وترامب وشي",
+   "link": "https://www.alsumaria.tv/news/international/581527/%d9%85%d9%88%d8%b3%d9%83%d9%88-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%82%d9%85%d8%a9-%d9%85%d8%b1%d8%aa%d9%82%d8%a8%d8%a9-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%88%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%88%d8%b4%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1794849074
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الصحة العالمية تعيد أميركا إلى سجلات \"الحصبة\"",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D9%8A%D8%AF-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%84%D9%89-%D8%B3%D8%AC%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%A8%D8%A9",
+   "ts": 1794848441
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "قوات أمنية تتوجه نحو جرف النصر بعد وصول تعزيزات بشرية لـ\"الكتائب\"",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%82%D9%88%D8%A7%D8%AA-%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%AC%D9%87-%D9%86%D8%AD%D9%88-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%A8%D8%B9%D8%AF-%D9%88%D8%B5%D9%88%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2%D8%A7%D8%AA-%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%84%D9%80-%D8%A7%D9%84%D9%83%D8%AA%D8%A7-%D8%A8",
+   "ts": 1794847990
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "نفط الوسط وأمانة بغداد يحققان انتصارين كبيرين في ختام الجولة 9 لكرة الصالات",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D9%88%D8%B3%D8%B7-%D9%88-%D9%85%D8%A7%D9%86%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%8A%D8%AD%D9%82%D9%82%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%D9%8A%D9%86-%D9%83%D8%A8%D9%8A%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-9-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA",
+   "ts": 1794847508
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الحوثيون يسيطرون على أراض محاذية لساحل جنوب اليمن ويتوسعون نحو عدن",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B3%D9%8A%D8%B7%D8%B1%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%B1%D8%A7%D8%B6-%D9%85%D8%AD%D8%A7%D8%B0%D9%8A%D8%A9-%D9%84%D8%B3%D8%A7%D8%AD%D9%84-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D9%8A%D8%AA%D9%88%D8%B3%D8%B9%D9%88%D9%86-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D9%86",
+   "ts": 1794847415
+  },
   {
    "source": "شفق نيوز",
    "title": "يشبه \"كارثة تشيرنوبل\".. تحذير دولي من حادث نووي في أوكرانيا",
@@ -91,64 +139,16 @@
    "ts": 1794841234
   },
   {
-   "source": "السومرية",
-   "title": "شقيقان سعوديان يدخلان في سباق لشراء نادي إشبيلية",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581518/sports/%d8%b4%d9%82%d9%8a%d9%82%d8%a7%d9%86-%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a7%d9%86-%d9%8a%d8%af%d8%ae%d9%84%d8%a7%d9%86-%d9%81%d9%8a-%d8%b3%d8%a8%d8%a7%d9%82-%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-%d9%86%d8%a7%d8%af%d9%8a-%d8%a5%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794841065
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب: سأزور الفلبين ثم الصين.. واحتمال لقاء زعيم كوريا الشمالية مطروح",
-   "link": "https://www.alsumaria.tv/news/international/581517/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%b3%d8%a3%d8%b2%d9%88%d8%b1-%d8%a7%d9%84%d9%81%d9%84%d8%a8%d9%8a%d9%86-%d8%ab%d9%85-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d9%88%d8%a7%d8%ad%d8%aa%d9%85%d8%a7%d9%84-%d9%84%d9%82%d8%a7%d8%a1-%d8%b2%d8%b9%d9%8a%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794840702
-  },
-  {
    "source": "شفق نيوز",
    "title": "وقفة احتجاجية في السليمانية تؤكد التمسك بإقليم كوردستان",
    "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA-%D9%83%D8%AF-%D8%A7%D9%84%D8%AA%D9%85%D8%B3%D9%83-%D8%A8-%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
    "ts": 1794840312
   },
   {
-   "source": "السومرية",
-   "title": "أول رقم سلبي للامين جمال مع المنتخب الإسباني",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581516/sports/%d8%a3%d9%88%d9%84-%d8%b1%d9%82%d9%85-%d8%b3%d9%84%d8%a8%d9%8a-%d9%84%d9%84%d8%a7%d9%85%d9%8a%d9%86-%d8%ac%d9%85%d8%a7%d9%84-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794840221
-  },
-  {
    "source": "شفق نيوز",
    "title": "باكستان: ننتظر رد واشنطن على مقترح إيران الأخير",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%86%D9%86%D8%AA%D8%B8%D8%B1-%D8%B1%D8%AF-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84-%D8%AE%D9%8A%D8%B1",
    "ts": 1794840082
-  },
-  {
-   "source": "السومرية",
-   "title": "الملك السعودي يعفي قائد التحالف العسكري الذي تقوده المملكة في اليمن من منصبه",
-   "link": "https://www.alsumaria.tv/news/international/581515/%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d9%8a%d8%b9%d9%81%d9%8a-%d9%82%d8%a7%d8%a6%d8%af-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%aa%d9%82%d9%88%d8%af%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1794839975
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "إقليم كوردستان: لم نتلق أي إشعار بغلق أي منصة",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%84%D9%85-%D9%86%D8%AA%D9%84%D9%82-%D9%8A-%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A8%D8%BA%D9%84%D9%82-%D9%8A-%D9%85%D9%86%D8%B5%D8%A9",
-   "ts": 1794839712
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بتهمة \"التآمر\" مع إيران.. السجن المؤبد لعشرات رجال الدين الشيعة البحرينيين",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA-%D9%85%D8%B1-%D9%85%D8%B9-%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85-%D8%A8%D8%AF-%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D9%8A%D9%8A%D9%86",
-   "ts": 1794838796
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "النزاهة: السجن 7 سنوات لرئيس هيئة استثمار صلاح الدين",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-7-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%B1-%D9%8A%D8%B3-%D9%87%D9%8A-%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
-   "ts": 1794835823
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الدولار يغلق منخفضا في بغداد وأربيل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%BA%D9%84%D9%82-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-9",
-   "ts": 1794835747
   },
   {
    "source": "المدى",
