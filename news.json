@@ -1,11 +1,59 @@
 {
- "updated": 1795031038,
+ "updated": 1795034243,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الحوثيون: استهداف مطار خالد والمركز المالي في الرياض بصواريخ مجنحة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D8%A7%D9%84%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A8%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D8%AC%D9%86%D8%AD%D8%A9",
+   "ts": 1795034016
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الحرس الثوري: احتراق 3 ناقلات نفط منذ الصباح في هرمز",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%82-3-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D9%85%D9%86%D8%B0-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2",
+   "ts": 1795033674
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "النفط يواصل الهبوط دون 92 دولاراً للبرميل",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%AF%D9%88%D9%86-92-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
+   "ts": 1795033279
+  },
+  {
+   "source": "السومرية",
+   "title": "الجيش الإيراني يعلن اندلاع حرائق في ناقلات نفط بمضيق هرمز",
+   "link": "https://www.alsumaria.tv/news/international/581777/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d9%86%d8%af%d9%84%d8%a7%d8%b9-%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d9%81%d9%8a-%d9%86%d8%a7%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d9%81%d8%b7-%d8%a8%d9%85%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795033200
+  },
+  {
+   "source": "السومرية",
+   "title": "العقود الآجلة لخام برنت تنخفض الى 91.95 للبرميل​",
+   "link": "https://www.alsumaria.tv/news/economy/581776/%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%a2%d8%ac%d9%84%d8%a9-%d9%84%d8%ae%d8%a7%d9%85-%d8%a8%d8%b1%d9%86%d8%aa-%d8%aa%d9%86%d8%ae%d9%81%d8%b6-%d8%a7%d9%84%d9%89-9195-%d9%84%d9%84%d8%a8%d8%b1%d9%85%d9%8a%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795032060
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "واشنطن تجدد تحذير رعاياها من هجمات في السعودية والبحرين",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AC%D8%AF%D8%AF-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A7%D9%87%D8%A7-%D9%85%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
+   "ts": 1795031607
+  },
+  {
+   "source": "المدى",
+   "title": "كردستان تعلن خطتها لحقوق الإنسان وتؤكد التكامل مع بغداد",
+   "link": "https://almadapaper.net/461686/",
+   "ts": 1795031443
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بمشاركة فنانين عراقيين.. كرمانشاه تختتم الدورة الـ33 لمهرجان الفنون التشكيلية للشباب",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%86%D8%A7%D9%86%D9%8A%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A%D9%86-%D9%83%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%AA%D8%AE%D8%AA%D8%AA%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%8033-%D9%84%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%B4%D8%A8%D8%A7%D8%A8",
+   "ts": 1795031283
+  },
   {
    "source": "شفق نيوز",
    "title": "ديالى.. ضحايا خلال مطاردة مطلوب وانتشار جثة من مشروع ماء",
@@ -79,28 +127,10 @@
    "ts": 1795025264
   },
   {
-   "source": "شفق نيوز",
-   "title": "تأكيداً لشفق نيوز.. وثيقة رسمية تكشف تغييرات إدارية واسعة في غاز الجنوب",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AA-%D9%83%D9%8A%D8%AF%D8%A7-%D9%84%D8%B4%D9%81%D9%82-%D9%86%D9%8A%D9%88%D8%B2-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
-   "ts": 1795024716
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الموساد يحث واشنطن على ضربات مشتركة لإيران وأميركا تشدد الحصار البحري",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF-%D9%8A%D8%AD%D8%AB-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84-%D9%8A%D8%B1%D8%A7%D9%86-%D9%88-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B4%D8%AF%D8%AF-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A",
-   "ts": 1795024701
-  },
-  {
    "source": "السومرية",
    "title": "مؤسس تطبيق تيليجرام: ‏نشعر بالأسف تجاه الشعب العراقي",
    "link": "https://www.alsumaria.tv/news/international/581773/%d9%85%d8%a4%d8%b3%d8%b3-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%aa%d9%8a%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85-%d9%86%d8%b4%d8%b9%d8%b1-%d8%a8%d8%a7%d9%84%d8%a3%d8%b3%d9%81-%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795024584
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "سنتكوم تنفي إصابة جنود أميركيين بهجمات إيران: أكاذيب من شدة اليأس",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%AA%D9%86%D9%81%D9%8A-%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D9%86%D9%88%D8%AF-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D9%8A%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%8A%D8%B1%D8%A7%D9%86-%D9%83%D8%A7%D8%B0%D9%8A%D8%A8-%D9%85%D9%86-%D8%B4%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A-%D8%B3",
-   "ts": 1795024557
   },
   {
    "source": "المدى",
@@ -113,12 +143,6 @@
    "title": "الخزانة الأمريكية: فرض عقوبات جديدة مرتبطة بحزب الله",
    "link": "https://www.alsumaria.tv/news/international/581771/%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d9%81%d8%b1%d8%b6-%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d8%b1%d8%aa%d8%a8%d8%b7%d8%a9-%d8%a8%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795024010
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "كتلة العامري: لا نرفض دخول القوات الأمنية للجرف لكن بشرط",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D9%83%D8%AA%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%B1%D9%8A-%D9%84%D8%A7-%D9%86%D8%B1%D9%81%D8%B6-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84-%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D8%B1%D9%81-%D9%84%D9%83%D9%86-%D8%A8%D8%B4%D8%B1%D8%B7",
-   "ts": 1795023750
   },
   {
    "source": "السومرية",
@@ -139,12 +163,6 @@
    "ts": 1795022630
   },
   {
-   "source": "شفق نيوز",
-   "title": "أربيل تبدأ بتوزيع النفط الأبيض على المنازل بواقع 100 لتر غداً",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%A8%D8%AF-%D8%A8%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84-%D8%A8%D9%8A%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A8%D9%88%D8%A7%D9%82%D8%B9-100-%D9%84%D8%AA%D8%B1-%D8%BA%D8%AF%D8%A7",
-   "ts": 1795022510
-  },
-  {
    "source": "السومرية",
    "title": "كيف تعرف أن شخصاً حظر رقم هاتفك على آيفون؟",
    "link": "https://www.alsumaria.tv/news/miscellaneous/581767/%d9%83%d9%8a%d9%81-%d8%aa%d8%b9%d8%b1%d9%81-%d8%a3%d9%86-%d8%b4%d8%ae%d8%b5%d8%a7%d9%8b-%d8%ad%d8%b8%d8%b1-%d8%b1%d9%82%d9%85-%d9%87%d8%a7%d8%aa%d9%81%d9%83-%d8%b9%d9%84%d9%89-%d8%a2%d9%8a%d9%81%d9%88%d9%86%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -161,18 +179,6 @@
    "title": "لا أمطار واسعة ولا موجة برد.. ماذا ينتظر طقس العراق؟",
    "link": "https://almadapaper.net/461666/",
    "ts": 1795021251
-  },
-  {
-   "source": "السومرية",
-   "title": "تفاصيل الضربة الجوية في الانبار",
-   "link": "https://www.alsumaria.tv/news/security/581765/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%b6%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795020364
-  },
-  {
-   "source": "السومرية",
-   "title": "مبابي يمازح غولر بعد تمديد عقده مع ريال مدريد حتى 2032",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581764/sports/%d9%85%d8%a8%d8%a7%d8%a8%d9%8a-%d9%8a%d9%85%d8%a7%d8%b2%d8%ad-%d8%ba%d9%88%d9%84%d8%b1-%d8%a8%d8%b9%d8%af-%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d8%af%d9%87-%d9%85%d8%b9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d8%ad%d8%aa%d9%89?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795020158
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "أول عملية وسط غزة منذ وقف النار.. إسرائيل تعود إلى التصعيد!",
    "link": "https://almadapaper.net/461650/",
    "ts": 1795010275
-  },
-  {
-   "source": "المدى",
-   "title": "العراق يخسر أمام تايلاند في افتتاح مشواره بكأس آسيا لكرة القدم الشاطئية",
-   "link": "https://almadapaper.net/461647/",
-   "ts": 1795008979
   }
  ]
 }
