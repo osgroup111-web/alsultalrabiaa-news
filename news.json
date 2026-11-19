@@ -1,11 +1,35 @@
 {
- "updated": 1795114191,
+ "updated": 1795118110,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "مسؤول عن مقتل 150 مواطناً.. سوريا تعلن اعتقال أحد ضباط الأسد",
+   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D9%85%D8%B3-%D9%88%D9%84-%D8%B9%D9%86-%D9%85%D9%82%D8%AA%D9%84-150-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%AD%D8%AF-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D9%84-%D8%B3%D8%AF",
+   "ts": 1795115232
+  },
+  {
+   "source": "المدى",
+   "title": "كتائب حزب الله ترفض تسليم سلاحها وتؤكد: لن نخرج من جرف الصخر",
+   "link": "https://almadapaper.net/461820/",
+   "ts": 1795115131
+  },
+  {
+   "source": "السومرية",
+   "title": "توجيهات أمنية تخص ناحية جرف النصر",
+   "link": "https://www.alsumaria.tv/news/politics/581836/%d8%aa%d9%88%d8%ac%d9%8a%d9%87%d8%a7%d8%aa-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d8%aa%d8%ae%d8%b5-%d9%86%d8%a7%d8%ad%d9%8a%d8%a9-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d9%86%d8%b5%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795115010
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "التهديد الكيميائي الإيراني يدفع إسرائيل لطلب استئناف الحرب وتشكيك أميركي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7-%D9%8A-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D9%81%D8%B9-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D9%84%D8%B7%D9%84%D8%A8-%D8%A7%D8%B3%D8%AA-%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%88%D8%AA%D8%B4%D9%83%D9%8A%D9%83-%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
+   "ts": 1795114885
+  },
   {
    "source": "المدى",
    "title": "العراق يحبط تهريب 1150 قطعة أثرية ويعتقل أربعة متهمين في النجف",
@@ -127,18 +151,6 @@
    "ts": 1795106740
   },
   {
-   "source": "شفق نيوز",
-   "title": "ماجد المهندس بحالة خطرة وحفلات بغداد تؤجل",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%85%D8%A7%D8%AC%D8%AF-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%A8%D8%AD%D8%A7%D9%84%D8%A9-%D8%AE%D8%B7%D8%B1%D8%A9-%D9%88%D8%AD%D9%81%D9%84%D8%A7%D8%AA-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA-%D8%AC%D9%84",
-   "ts": 1795106301
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "غزة.. 5 قتلى في غارات إسرائيلية",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%BA%D8%B2%D8%A9-5-%D9%82%D8%AA%D9%84%D9%89-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A%D8%A9",
-   "ts": 1795106038
-  },
-  {
    "source": "السومرية",
    "title": "السعودية تعلن تضرر أحد أبراج المركز المالي في الرياض بهجوم حوثي",
    "link": "https://www.alsumaria.tv/news/international/581827/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%b6%d8%b1%d8%b1-%d8%a3%d8%ad%d8%af-%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -155,12 +167,6 @@
    "title": "مدريد يعلن تجديد عقد تشواميني حتى عام 2032",
    "link": "https://www.alsumaria.tv/Entertainment-News/581825/sports/%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d8%af-%d8%aa%d8%b4%d9%88%d8%a7%d9%85%d9%8a%d9%86%d9%8a-%d8%ad%d8%aa%d9%89-%d8%b9%d8%a7%d9%85-2032?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795102093
-  },
-  {
-   "source": "السومرية",
-   "title": "الإطاحة بشبكة لتهريب الآثار وإحباط مخطط لبيع 1150 قطعة في النجف الأشرف",
-   "link": "https://www.alsumaria.tv/news/localnews/581824/%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%ad%d8%a9-%d8%a8%d8%b4%d8%a8%d9%83%d8%a9-%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%a2%d8%ab%d8%a7%d8%b1-%d9%88%d8%a5%d8%ad%d8%a8%d8%a7%d8%b7-%d9%85%d8%ae%d8%b7%d8%b7-%d9%84%d8%a8%d9%8a%d8%b9-1150?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795100593
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "مليون مواطن سجلوا أسلحتهم والداخلية تدعو للاستفادة من المهلة المجانية",
    "link": "https://almadapaper.net/461784/",
    "ts": 1795084240
-  },
-  {
-   "source": "المدى",
-   "title": "إعادة انتشار القوات المشتركة في جرف النصر تبدأ غداً الجمعة",
-   "link": "https://almadapaper.net/461781/",
-   "ts": 1795082132
   }
  ]
 }
