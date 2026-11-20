@@ -1,11 +1,23 @@
 {
- "updated": 1795208367,
+ "updated": 1795211247,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "زوجة تطعن زوجها في رقبته أثناء نومه وينجو.. كيف؟",
+   "link": "https://www.alsumaria.tv/news/international/581899/%d8%b2%d9%88%d8%ac%d8%a9-%d8%aa%d8%b7%d8%b9%d9%86-%d8%b2%d9%88%d8%ac%d9%87%d8%a7-%d9%81%d9%8a-%d8%b1%d9%82%d8%a8%d8%aa%d9%87-%d8%a3%d8%ab%d9%86%d8%a7%d8%a1-%d9%86%d9%88%d9%85%d9%87-%d9%88%d9%8a%d9%86%d8%ac%d9%88-%d9%83%d9%8a%d9%81%d8%9f?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795209644
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "يوتيوب يتجه لدفع 3 مليارات دولار تسوية مع مدارس أميركا",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%AF%D9%81%D8%B9-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
+   "ts": 1795208756
+  },
   {
    "source": "شفق نيوز",
    "title": "عقوبات أميركية تطال 4 إيرانيين بتهمة تهريب النفط",
@@ -157,12 +169,6 @@
    "ts": 1795195882
   },
   {
-   "source": "شفق نيوز",
-   "title": "الاتصالات توقع عقدا لتبادل الإنترنت بين بغداد وإسطنبول وفرانكفورت",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D8%B9-%D8%B9%D9%82%D8%AF%D8%A7-%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84-%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D9%88%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%81%D9%88%D8%B1%D8%AA",
-   "ts": 1795195208
-  },
-  {
    "source": "السومرية",
    "title": "بطل عراقي تحوّل إنجازه إلى مأساة وطنية.. من هو سجاد جواد",
    "link": "https://www.alsumaria.tv/Entertainment-News/581888/sports/%d8%a8%d8%b7%d9%84-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d8%aa%d8%ad%d9%88%d9%91%d9%84-%d8%a5%d9%86%d8%ac%d8%a7%d8%b2%d9%87-%d8%a5%d9%84%d9%89-%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-%d9%87%d9%88-%d8%b3%d8%ac%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -173,12 +179,6 @@
    "title": "الميناء يهزم كربلاء بثلاثية ويصعد إلى المركز السابع في دوري النجوم",
    "link": "https://almadapaper.net/461880/",
    "ts": 1795193683
-  },
-  {
-   "source": "السومرية",
-   "title": "رفع حالة الانذار \"ج\" عن جميع القطعات الامنية والعسكرية",
-   "link": "https://www.alsumaria.tv/news/security/581887/%d8%b1%d9%81%d8%b9-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1-quot%d8%acquot-%d8%b9%d9%86-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795193163
   },
   {
    "source": "المدى",
