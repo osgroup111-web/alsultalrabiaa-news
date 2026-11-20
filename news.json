@@ -1,11 +1,71 @@
 {
- "updated": 1795165030,
+ "updated": 1795168521,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "زلزال بقوة 5.1 درجة يهز كاليفورنيا",
+   "link": "https://www.alsumaria.tv/news/international/581862/%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d8%a8%d9%82%d9%88%d8%a9-51-%d8%af%d8%b1%d8%ac%d8%a9-%d9%8a%d9%87%d8%b2-%d9%83%d8%a7%d9%84%d9%8a%d9%81%d9%88%d8%b1%d9%86%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795167924
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ملتقى علمي لتبادل الخبرات.. كركوك تحتضن مؤتمرها الدولي الثالث لطب الأسنان",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%B9%D9%84%D9%85%D9%8A-%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A7%D8%AA-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85-%D8%AA%D9%85%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84-%D8%B3%D9%86%D8%A7%D9%86",
+   "ts": 1795167638
+  },
+  {
+   "source": "السومرية",
+   "title": "اختراق سيبراني لوزارة الزراعة الأمريكية",
+   "link": "https://www.alsumaria.tv/news/international/581861/%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795167346
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الدفاع المدني ينتشل جثة طفل من بئر جنوبي العراق",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D9%86%D8%AA%D8%B4%D9%84-%D8%AC%D8%AB%D8%A9-%D8%B7%D9%81%D9%84-%D9%85%D9%86-%D8%A8-%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1795167114
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "النعمان: شرطة الطاقة تسلمت حماية الأنابيب النفطية في جرف الصخر",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%AA%D8%B3%D9%84%D9%85%D8%AA-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84-%D9%86%D8%A7%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
+   "ts": 1795166763
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"منتسب لكل صهريج\".. نينوى تفرض رقابة أمنية على الوقود الداخل للمحافظة",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%86%D8%AA%D8%B3%D8%A8-%D9%84%D9%83%D9%84-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%AA%D9%81%D8%B1%D8%B6-%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D9%85%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9",
+   "ts": 1795165944
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "موافقات لإدراج مناطق نفطية جديدة في كركوك ضمن جولات التراخيص",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A7%D8%AA-%D9%84-%D8%AF%D8%B1%D8%A7%D8%AC-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%B6%D9%85%D9%86-%D8%AC%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AE%D9%8A%D8%B5",
+   "ts": 1795165712
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "منتخب شباب العراق يواجه أذربيجان ودياً اليوم في باكو",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86-%D9%88%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D8%A8%D8%A7%D9%83%D9%88",
+   "ts": 1795165121
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"نهاية العالم\".. شبح يلاحق الأميركيين ويدفعهم لتخزين المؤن",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B4%D8%A8%D8%AD-%D9%8A%D9%84%D8%A7%D8%AD%D9%82-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D9%8A%D9%86-%D9%88%D9%8A%D8%AF%D9%81%D8%B9%D9%87%D9%85-%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D9%85-%D9%86",
+   "ts": 1795164997
+  },
+  {
+   "source": "السومرية",
+   "title": "نجمة أفلام إباحية تربك حسابات ناد إنجليزي",
+   "link": "https://www.alsumaria.tv/Entertainment-News/581860/sports/%d9%86%d8%ac%d9%85%d8%a9-%d8%a3%d9%81%d9%84%d8%a7%d9%85-%d8%a5%d8%a8%d8%a7%d8%ad%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a8%d9%83-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%86%d8%a7%d8%af-%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795164714
+  },
   {
    "source": "شفق نيوز",
    "title": "إسرائيل تشن هجمات جديدة على البلدات والوديان في جنوب لبنان",
@@ -103,52 +163,16 @@
    "ts": 1795158911
   },
   {
-   "source": "السومرية",
-   "title": "رئيس أركان الجيش يصل إلى جرف الصخر للإشراف على إعادة انتشار القطعات العسكرية",
-   "link": "https://www.alsumaria.tv/news/security/581850/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a3%d8%b1%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d8%b5%d8%ae%d8%b1-%d9%84%d9%84%d8%a5%d8%b4%d8%b1%d8%a7%d9%81-%d8%b9%d9%84%d9%89-%d8%a5%d8%b9%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795158589
-  },
-  {
-   "source": "السومرية",
-   "title": "قائد المقر المسيطر في جرف الصخر يفتتح المقر",
-   "link": "https://www.alsumaria.tv/news/security/581849/%d9%82%d8%a7%d8%a6%d8%af-%d8%a7%d9%84%d9%85%d9%82%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b7%d8%b1-%d9%81%d9%8a-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d8%b5%d8%ae%d8%b1-%d9%8a%d9%81%d8%aa%d8%aa%d8%ad-%d8%a7%d9%84%d9%85%d9%82%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795158546
-  },
-  {
    "source": "شفق نيوز",
    "title": "المقر المسيطر بالجرف صلاحياته كاملة بدعم من الزيدي وفتح جسر الفاضلية أمام المدنيين",
    "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%81%D8%AA%D8%AD-%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D9%81%D8%A7%D8%B6%D9%84%D9%8A%D8%A9-%D8%BA%D8%AF%D8%A7-%D9%88%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84-%D9%85%D9%86%D9%8A%D8%A9-%D8%A8%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
    "ts": 1795158517
   },
   {
-   "source": "شفق نيوز",
-   "title": "هجوم روسي على كييف يستهدف ثلاثة جسور ويوقع 3 قتلى و15 مصاباً",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%87%D8%AC%D9%88%D9%85-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%8A%D9%8A%D9%81-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B3%D9%88%D8%B1-%D9%88%D9%8A%D9%88%D9%82%D8%B9-3-%D9%82%D8%AA%D9%84%D9%89-%D9%8815-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7",
-   "ts": 1795157862
-  },
-  {
-   "source": "السومرية",
-   "title": "طقس الايام الاربعة القادمة يلغي توقعات قدوم الشتاء",
-   "link": "https://www.alsumaria.tv/news/localnews/581848/%d8%b7%d9%82%d8%b3-%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85-%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d9%8a%d9%84%d8%ba%d9%8a-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d9%82%d8%af%d9%88%d9%85-%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795157790
-  },
-  {
    "source": "المدى",
    "title": "أربع مواجهات في دوري النجوم اليوم.. الزوراء والطلبة في قمة الجولة 14",
    "link": "https://almadapaper.net/461832/",
    "ts": 1795157762
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "اليوم.. مواجهتان آسيويتان لمنتخبي العراق للناشئين والكرة الشاطئية",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%AA%D8%A7%D9%86-%D8%B3%D9%8A%D9%88%D9%8A%D8%AA%D8%A7%D9%86-%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%84%D9%86%D8%A7%D8%B4-%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7-%D9%8A%D8%A9",
-   "ts": 1795155980
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عادتان قد تساعدان في خسارة الوزن",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D8%B9%D8%A7%D8%AF%D8%AA%D8%A7%D9%86-%D9%82%D8%AF-%D8%AA%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D9%86-%D9%81%D9%8A-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D9%86",
-   "ts": 1795155603
   },
   {
    "source": "المدى",
@@ -161,30 +185,6 @@
    "title": "طقس العراق.. أمطار خفيفة في شمال البلاد وطقس صحو في بقية المناطق",
    "link": "https://almadapaper.net/461826/",
    "ts": 1795154870
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "4 مواجهات مثيرة في الجولة 14 من نجوم العراق",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/4-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D9%85%D8%AB%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-14-%D9%85%D9%86-%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1795152548
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "القوات الأمنية تباشر بافتتاح المقر المسيطر بمنطقة جرف الصخر في بابل",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%88%D9%81%D9%82-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D8%AF-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B7%D8%B1-%D8%A8%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%81%D9%8A-%D8%A8%D8%A7%D8%A8%D9%84",
-   "ts": 1795150810
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الدولار يحافظ على أعلى مستوياته في 19 شهراً بضغط من مخاوف الأسواق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-19-%D8%B4%D9%87%D8%B1%D8%A7-%D8%A8%D8%B6%D8%BA%D8%B7-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82",
-   "ts": 1795150550
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الذهب يسجل تراجعاً حاداً ويتجه لتسجيل أكبر خسارة أسبوعية منذ آذار",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B3%D8%AC%D9%84-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9%D8%A7-%D8%AD%D8%A7%D8%AF%D8%A7-%D9%88%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%83%D8%A8%D8%B1-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9-%D9%85%D9%86%D8%B0-%D8%B0%D8%A7%D8%B1",
-   "ts": 1795150112
   },
   {
    "source": "المدى",
