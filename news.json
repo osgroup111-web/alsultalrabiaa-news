@@ -1,9 +1,8 @@
 {
- "updated": 1795211247,
+ "updated": 1795214331,
  "sources": [
   "شفق نيوز",
-  "السومرية",
-  "المدى"
+  "السومرية"
  ],
  "items": [
   {
@@ -55,22 +54,10 @@
    "ts": 1795204798
   },
   {
-   "source": "المدى",
-   "title": "من «غوغل» إلى وكلاء الذكاء الاصطناعي.. تحول يعيد توزيع أرباح الإنترنت",
-   "link": "https://almadapaper.net/461891/",
-   "ts": 1795204216
-  },
-  {
    "source": "السومرية",
    "title": "رونالدو يشعل \"الكلاسيكو\" مبكرا بهدف رائع",
    "link": "https://www.alsumaria.tv/Entertainment-News/581896/sports/%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%8a%d8%b4%d8%b9%d9%84-quot%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88quot-%d9%85%d8%a8%d9%83%d8%b1%d8%a7-%d8%a8%d9%87%d8%af%d9%81-%d8%b1%d8%a7%d8%a6%d8%b9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795203448
-  },
-  {
-   "source": "المدى",
-   "title": "ترمب يلوّح بعملية عسكرية جديدة ضد إيران ويشيد برئيس الوزراء العراقي",
-   "link": "https://almadapaper.net/461888/",
-   "ts": 1795201561
   },
   {
    "source": "السومرية",
@@ -83,12 +70,6 @@
    "title": "انقاذ 5 محتجزين واخلاء 25 عائلة من حريق بمجمع سكني في بغداد",
    "link": "https://www.alsumaria.tv/news/localnews/581894/%d8%a7%d9%86%d9%82%d8%a7%d8%b0-5-%d9%85%d8%ad%d8%aa%d8%ac%d8%b2%d9%8a%d9%86-%d9%88%d8%a7%d8%ae%d9%84%d8%a7%d8%a1-25-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%85%d9%86-%d8%ad%d8%b1%d9%8a%d9%82-%d8%a8%d9%85%d8%ac%d9%85%d8%b9-%d8%b3%d9%83%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795199845
-  },
-  {
-   "source": "المدى",
-   "title": "جرف الصخر أمام اختبار الدولة.. تهدئة إعلامية وتحركات أمنية",
-   "link": "https://almadapaper.net/461886/",
-   "ts": 1795199674
   },
   {
    "source": "شفق نيوز",
@@ -145,12 +126,6 @@
    "ts": 1795196749
   },
   {
-   "source": "المدى",
-   "title": "الزوراء يمطر شباك الطلبة برباعية في دوري نجوم العراق",
-   "link": "https://almadapaper.net/461883/",
-   "ts": 1795196431
-  },
-  {
    "source": "السومرية",
    "title": "البحرية البريطانية: إصابة ناقلة بمقذوف مجهول أثناء مغادرتها مضيق هرمز",
    "link": "https://www.alsumaria.tv/news/international/581889/%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d9%86%d8%a7%d9%82%d9%84%d8%a9-%d8%a8%d9%85%d9%82%d8%b0%d9%88%d9%81-%d9%85%d8%ac%d9%87%d9%88%d9%84-%d8%a3%d8%ab%d9%86%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -173,42 +148,6 @@
    "title": "بطل عراقي تحوّل إنجازه إلى مأساة وطنية.. من هو سجاد جواد",
    "link": "https://www.alsumaria.tv/Entertainment-News/581888/sports/%d8%a8%d8%b7%d9%84-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d8%aa%d8%ad%d9%88%d9%91%d9%84-%d8%a5%d9%86%d8%ac%d8%a7%d8%b2%d9%87-%d8%a5%d9%84%d9%89-%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-%d9%87%d9%88-%d8%b3%d8%ac%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795194307
-  },
-  {
-   "source": "المدى",
-   "title": "الميناء يهزم كربلاء بثلاثية ويصعد إلى المركز السابع في دوري النجوم",
-   "link": "https://almadapaper.net/461880/",
-   "ts": 1795193683
-  },
-  {
-   "source": "المدى",
-   "title": "طيارو «بي-2» يكشفون تفاصيل الهجوم الأميركي على منشآت إيران النووية",
-   "link": "https://almadapaper.net/461877/",
-   "ts": 1795192070
-  },
-  {
-   "source": "المدى",
-   "title": "هيئة الإعلام تدعم دخول مشغل وطني جديد وترفض احتكار الجيل الخامس",
-   "link": "https://almadapaper.net/461874/",
-   "ts": 1795190531
-  },
-  {
-   "source": "المدى",
-   "title": "زاخو يفرض التعادل على الشرطة في الجولة 14 من دوري النجوم",
-   "link": "https://almadapaper.net/461871/",
-   "ts": 1795189036
-  },
-  {
-   "source": "المدى",
-   "title": "هل يتجه كردستان إلى إدارتين؟ تحليل أميركي يكشف مآلات الأزمة",
-   "link": "https://almadapaper.net/461868/",
-   "ts": 1795187382
-  },
-  {
-   "source": "المدى",
-   "title": "عقرب البصرة.. اكتشاف علمي جديد يثير اهتمام الباحثين",
-   "link": "https://almadapaper.net/461865/",
-   "ts": 1795181632
   }
  ]
 }
