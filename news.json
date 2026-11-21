@@ -1,11 +1,59 @@
 {
- "updated": 1795289377,
+ "updated": 1795292183,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "إيلام.. بطولة لـ\"أقوى رجال العشائر\" في إيران",
+   "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D9%8A%D9%84%D8%A7%D9%85-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D9%84%D9%80-%D9%82%D9%88%D9%89-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%B4%D8%A7-%D8%B1-%D9%81%D9%8A-%D9%8A%D8%B1%D8%A7%D9%86",
+   "ts": 1795291739
+  },
+  {
+   "source": "السومرية",
+   "title": "تركيا تكشف حقيقة قرار إرسال عسكريين إلى اليمن",
+   "link": "https://www.alsumaria.tv/news/international/581947/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%aa%d9%83%d8%b4%d9%81-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1-%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%8a%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795291500
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "وزير الخارجية التركي: إسرائيل قد تشن عملية عسكرية ضد سوريا",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84-%D9%82%D8%AF-%D8%AA%D8%B4%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+   "ts": 1795291461
+  },
+  {
+   "source": "المدى",
+   "title": "النجف تفتح ملف تهريب النفط.. اعتقالات وتحقيقات تطال ضباطاً ومسؤولين!",
+   "link": "https://almadapaper.net/461986/",
+   "ts": 1795290772
+  },
+  {
+   "source": "السومرية",
+   "title": "البحرين تعلن تضرر منشأة صناعية باستهداف إيراني",
+   "link": "https://www.alsumaria.tv/news/international/581946/%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%b6%d8%b1%d8%b1-%d9%85%d9%86%d8%b4%d8%a3%d8%a9-%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d8%a9-%d8%a8%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795290600
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "قيمتها نحو 3 تريليونات دينار.. 60 ألف برميل نفط تهرب يوميا من العراق",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%82%D9%8A%D9%85%D8%AA%D9%87%D8%A7-%D9%86%D8%AD%D9%88-3-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-60-%D9%84%D9%81-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D8%AA%D9%87%D8%B1%D8%A8-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1795290099
+  },
+  {
+   "source": "السومرية",
+   "title": "انفجارات من جهة البحر قرب سيريك الإيرانية",
+   "link": "https://www.alsumaria.tv/news/international/581944/%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d9%82%d8%b1%d8%a8-%d8%b3%d9%8a%d8%b1%d9%8a%d9%83-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795289760
+  },
+  {
+   "source": "السومرية",
+   "title": "التربية تعلن نتائج امتحانات الدور الثالث للمرحلة الابتدائية تباعاً",
+   "link": "https://www.alsumaria.tv/news/localnews/581945/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%88%d8%b1-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d9%84%d9%84%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795289257
+  },
   {
    "source": "السومرية",
    "title": "الزيدي والحكيم يؤكدان دعم خطط الحكومة لتحقيق الإصلاحات",
@@ -26,7 +74,7 @@
   },
   {
    "source": "شفق نيوز",
-   "title": "البحرين تعلن التصدي لهجوم جوي إيراني",
+   "title": "البحرين: هجوم إيراني يستهدف منشأة صناعية مدنية (تحديث)",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%AC%D9%88%D9%8A-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-9",
    "ts": 1795286537
   },
@@ -121,18 +169,6 @@
    "ts": 1795279898
   },
   {
-   "source": "شفق نيوز",
-   "title": "قطر وألمانيا لإيران: أوقفوا تسليح الحوثيين",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%82%D8%B7%D8%B1-%D9%88-%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%84-%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%82%D9%81%D9%88%D8%A7-%D8%AA%D8%B3%D9%84%D9%8A%D8%AD-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
-   "ts": 1795279837
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "شيوخ صلاح الدين للزيدي: أعيدوا نازحي العوجة والمناطق الأخرى إلى ديارهم",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B4%D9%8A%D9%88%D8%AE-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%84%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%B9%D9%8A%D8%AF%D9%88%D8%A7-%D9%86%D8%A7%D8%B2%D8%AD%D9%8A-%D8%A7%D9%84%D8%B9%D9%88%D8%AC%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84-%D8%AE%D8%B1%D9%89-%D9%84%D9%89-%D8%AF%D9%8A%D8%A7%D8%B1%D9%87%D9%85",
-   "ts": 1795277963
-  },
-  {
    "source": "السومرية",
    "title": "القبض على حسين العباسي بتهمة تهريب النفط في النجف",
    "link": "https://www.alsumaria.tv/news/security/581937/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b3%d9%8a-%d8%a8%d8%aa%d9%87%d9%85%d8%a9-%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%ac%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -145,22 +181,10 @@
    "ts": 1795277623
   },
   {
-   "source": "شفق نيوز",
-   "title": "الزيدي يوجه بحل أزمة رواتب \"شهداء نينوى\" وإلغاء الجزء السكني من \"بوليفارد الموصل\"",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%AD%D9%84-%D8%B2%D9%85%D8%A9-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D8%B4%D9%87%D8%AF%D8%A7-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88-%D9%84%D8%BA%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A-%D9%85%D9%86-%D8%A8%D9%88%D9%84%D9%8A%D9%81%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84",
-   "ts": 1795277606
-  },
-  {
    "source": "المدى",
    "title": "العمل: تخفيض الأجور الدراسية لأبناء ذوي الإعاقة مستمر",
    "link": "https://almadapaper.net/461972/",
    "ts": 1795276973
-  },
-  {
-   "source": "السومرية",
-   "title": "مانشستر سيتي يتعثر أمام فولهام ويواصل نزيف النقاط في الدوري الإنجليزي",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581935/sports/%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%8a%d8%aa%d8%b9%d8%ab%d8%b1-%d8%a3%d9%85%d8%a7%d9%85-%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85-%d9%88%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d9%86%d8%b2%d9%8a%d9%81-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795275805
   },
   {
    "source": "المدى",
@@ -175,40 +199,16 @@
    "ts": 1795273084
   },
   {
-   "source": "السومرية",
-   "title": "تفكيك شبكة للإتجار بالأعضاء البشرية اتخذت من مكتب بواجهة إنسانية غطاءً لنشاطها في بغداد",
-   "link": "https://www.alsumaria.tv/news/security/581934/%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d9%84%d9%84%d8%a5%d8%aa%d8%ac%d8%a7%d8%b1-%d8%a8%d8%a7%d9%84%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d8%a7%d8%aa%d8%ae%d8%b0%d8%aa-%d9%85%d9%86-%d9%85%d9%83%d8%aa%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795272621
-  },
-  {
    "source": "المدى",
    "title": "العراق يستعيد مهاجرين عراقيين من ليبيا ويكشف حصيلة العائدين",
    "link": "https://almadapaper.net/461963/",
    "ts": 1795271126
   },
   {
-   "source": "السومرية",
-   "title": "الزيدي يترأس اجتماع مجلس الاستقرار المالي والمصارف الحكومية ويصدر جملة توجيهات",
-   "link": "https://www.alsumaria.tv/news/economy/581933/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%aa%d8%b1%d8%a3%d8%b3-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%88%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795270541
-  },
-  {
    "source": "المدى",
    "title": "القضاء يوقف 8 من شرطة الطاقة ويصدر أمري قبض بقضية تهريب نفط في النجف",
    "link": "https://almadapaper.net/461959/",
    "ts": 1795269227
-  },
-  {
-   "source": "السومرية",
-   "title": "إيران تعلن إصابة مقاتلة أمريكية بصاروخ فوق مياه الخليج",
-   "link": "https://www.alsumaria.tv/news/international/581932/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d9%85%d9%82%d8%a7%d8%aa%d9%84%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%a8%d8%b5%d8%a7%d8%b1%d9%88%d8%ae-%d9%81%d9%88%d9%82-%d9%85%d9%8a%d8%a7%d9%87-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795269103
-  },
-  {
-   "source": "المدى",
-   "title": "كواليس جلسة الساعدي.. صراخ ومواجهة مع القاضية واتهامات خطيرة",
-   "link": "https://almadapaper.net/461956/",
-   "ts": 1795267707
   }
  ]
 }
