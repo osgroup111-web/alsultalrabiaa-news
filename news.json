@@ -1,11 +1,71 @@
 {
- "updated": 1795372557,
+ "updated": 1795376011,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "مقتل أربعة أطفال جراء انفجار لغم في سوريا",
+   "link": "https://www.alsumaria.tv/news/international/582012/%d9%85%d9%82%d8%aa%d9%84-%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d9%84%d8%ba%d9%85-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795375800
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "منتحل صفة موظف حكومي يحتال على مواطنين بـ25 مليون دينار في صلاح الدين",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%86%D8%AA%D8%AD%D9%84-%D8%B5%D9%81%D8%A9-%D9%85%D9%88%D8%B8%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%8A%D8%AD%D8%AA%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A8%D9%8025-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+   "ts": 1795375759
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الأنبار.. \"منهولة\" تبتلع 3 أشخاص وتخنق منقذاً في هيت (فيديو)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1-%D9%85%D9%86%D9%87%D9%88%D9%84%D8%A9-%D8%AA%D8%A8%D8%AA%D9%84%D8%B9-3-%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%AA%D8%AE%D9%86%D9%82-%D9%85%D9%86%D9%82%D8%B0%D8%A7-%D9%81%D9%8A-%D9%87%D9%8A%D8%AA-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+   "ts": 1795375485
+  },
+  {
+   "source": "السومرية",
+   "title": "وفاة ثلاثة أشخاص داخل \"منهولة\" للصرف الصحي في هيت",
+   "link": "https://www.alsumaria.tv/news/localnews/582011/%d9%88%d9%81%d8%a7%d8%a9-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%af%d8%a7%d8%ae%d9%84-quot%d9%85%d9%86%d9%87%d9%88%d9%84%d8%a9quot-%d9%84%d9%84%d8%b5%d8%b1%d9%81-%d8%a7%d9%84%d8%b5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795374720
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ثقب في الأنبوب الاستراتيجي.. شفق نيوز تكشف تفاصيل تهريب النفط في النجف",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AB%D9%82%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84-%D9%86%D8%A8%D9%88%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%B4%D9%81%D9%82-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-3",
+   "ts": 1795374341
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد أسبوع من العطش والصقيع.. المياه تعود إلى منازل جومان (صور)",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%B9%D8%AF-%D8%B3%D8%A8%D9%88%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B7%D8%B4-%D9%88%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%AC%D9%88%D9%85%D8%A7%D9%86-%D8%B5%D9%88%D8%B1",
+   "ts": 1795373711
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "كهرباء ديالى تعزو انقطاع الطاقة الى تسرب غازي في منظومة (GIS)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%83%D9%87%D8%B1%D8%A8%D8%A7-%D8%AF%D9%8A%D8%A7%D9%84%D9%89-%D8%AA%D8%B9%D8%B2%D9%88-%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%89-%D8%AA%D8%B3%D8%B1%D8%A8-%D8%BA%D8%A7%D8%B2%D9%8A-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-GIS",
+   "ts": 1795373478
+  },
+  {
+   "source": "السومرية",
+   "title": "في ليبيا.. هجوم بحري جديد واعتراض أكثر من 12 مسيرة",
+   "link": "https://www.alsumaria.tv/news/international/582010/%d9%81%d9%8a-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d9%87%d8%ac%d9%88%d9%85-%d8%a8%d8%ad%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-12-%d9%85%d8%b3%d9%8a%d8%b1%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795373400
+  },
+  {
+   "source": "المدى",
+   "title": "جرف الصخر تعيد خلط أوراق الفصائل.. قيادة موحدة وتشكيل مسلح جديد وانشقاقات محتملة!",
+   "link": "https://almadapaper.net/462162/",
+   "ts": 1795372865
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "عشية زيارة الزيدي.. انطلاق أعمال الاجتماعات التحضيرية العراقية - المصرية في القاهرة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%B9%D8%B4%D9%8A%D8%A9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9---%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9",
+   "ts": 1795372712
+  },
   {
    "source": "شفق نيوز",
    "title": "بني حسن تدعو أميرها المعتقل بقضية تهريب النفط إلى \"الصبر\": سنكشف الحقيقة قريباً",
@@ -85,12 +145,6 @@
    "ts": 1795367700
   },
   {
-   "source": "شفق نيوز",
-   "title": "الأطول خلال الشهر.. توغل إسرائيلي متواصل في ريف درعا الغربي بسوريا (فيديو)",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84-%D8%B7%D9%88%D9%84-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D9%87%D8%B1-%D8%AA%D9%88%D8%BA%D9%84-%D8%B3%D8%B1%D8%A7-%D9%8A%D9%84%D9%8A-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1795367259
-  },
-  {
    "source": "السومرية",
    "title": "استهداف سفينة تجارية في ليبيا",
    "link": "https://www.alsumaria.tv/news/international/582002/%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d8%a9-%d9%81%d9%8a-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -103,24 +157,6 @@
    "ts": 1795366884
   },
   {
-   "source": "شفق نيوز",
-   "title": "بمشاركة عربية.. انطلاق مهرجان \"أبي تمام\" في الموصل (صور)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A8%D9%8A-%D8%AA%D9%85%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D8%B5%D9%88%D8%B1",
-   "ts": 1795366458
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تقرير صحفي: تفويج 2000 جندي سوداني من 10 آلاف للقتال في اليمن",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%B5%D8%AD%D9%81%D9%8A-%D8%AA%D9%81%D9%88%D9%8A%D8%AC-2000-%D8%AC%D9%86%D8%AF%D9%8A-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%85%D9%86-10-%D9%84%D8%A7%D9%81-%D9%84%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
-   "ts": 1795365847
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العراقي \"سجاد مكسر\" يتوّج بذهبية بطولة للمصارعة في القاهرة",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%B3%D8%AC%D8%A7%D8%AF-%D8%B9%D9%84%D9%8A-%D9%85%D9%83%D8%B3%D8%B1-%D9%8A%D8%AA%D9%88-%D8%AC-%D8%A8%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9",
-   "ts": 1795365805
-  },
-  {
    "source": "المدى",
    "title": "ترامب يصعّد ضد شومر.. والديمقراطيون يبحثون عن قيادة جديدة",
    "link": "https://almadapaper.net/462156/",
@@ -131,36 +167,6 @@
    "title": "الصين تفتح تحقيقاً مع نائب المدير العام لمؤسسة البترول الوطنية للاشتباه بانتهاكات قانونية",
    "link": "https://www.alsumaria.tv/news/international/582000/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%aa%d9%81%d8%aa%d8%ad-%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d9%8b-%d9%85%d8%b9-%d9%86%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a9-%d8%a7%d9%84%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795364575
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "إصابة ناقلتين في هرمز و\"حادث\" يتعلق بناقلة وقوات عسكرية بخليج عُمان",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B5%D8%A7%D8%A8%D8%A9-%D9%86%D8%A7%D9%82%D9%84%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D9%88-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D9%82%D9%88%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A8%D8%AE%D9%84%D9%8A%D8%AC-%D8%B9-%D9%85%D8%A7%D9%86",
-   "ts": 1795364540
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ثلث \"الكتائب\" خارج الجرف.. انسحاب تدريجي يمتد لأشهر وتمركز قرب حطين والعسكري",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AB%D9%84%D8%AB-%D8%A7%D9%84%D9%83%D8%AA%D8%A7-%D8%A8-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AC%D8%B1%D9%81-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A-%D9%8A%D9%85%D8%AA%D8%AF-%D9%84-%D8%B4%D9%87%D8%B1-%D9%88%D8%AA%D9%85%D8%B1%D9%83%D8%B2-%D9%82%D8%B1%D8%A8-%D8%AD%D8%B7%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A",
-   "ts": 1795364485
-  },
-  {
-   "source": "السومرية",
-   "title": "شيوخ بني حسن يعلنون دعمهم للشيخ حسين الحسناوي: نثق بالقضاء ولا توجد إدانة حتى الآن",
-   "link": "https://www.alsumaria.tv/news/localnews/582004/%d8%b4%d9%8a%d9%88%d8%ae-%d8%a8%d9%86%d9%8a-%d8%ad%d8%b3%d9%86-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d8%af%d8%b9%d9%85%d9%87%d9%85-%d9%84%d9%84%d8%b4%d9%8a%d8%ae-%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d8%b3%d9%86%d8%a7%d9%88%d9%8a-%d9%86%d8%ab%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795364272
-  },
-  {
-   "source": "السومرية",
-   "title": "مصادر: مخططان لاثارة الاضطرابات في العراق",
-   "link": "https://www.alsumaria.tv/news/localnews/581999/%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d9%85%d8%ae%d8%b7%d8%b7%d8%a7%d9%86-%d9%84%d8%a7%d8%ab%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795364143
-  },
-  {
-   "source": "السومرية",
-   "title": "إقالة مسؤول بسبب مشاركته في إنتاج أفلام إباحية",
-   "link": "https://www.alsumaria.tv/news/international/581998/%d8%a5%d9%82%d8%a7%d9%84%d8%a9-%d9%85%d8%b3%d8%a4%d9%88%d9%84-%d8%a8%d8%b3%d8%a8%d8%a8-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%aa%d9%87-%d9%81%d9%8a-%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d8%a3%d9%81%d9%84%d8%a7%d9%85-%d8%a5%d8%a8%d8%a7%d8%ad%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795363399
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "نهاية \"خطاب جزيرة\".. اشتباك مسلح يطيح بأحد أبرز عناصر داعش في ديالى",
    "link": "https://almadapaper.net/462130/",
    "ts": 1795351831
-  },
-  {
-   "source": "المدى",
-   "title": "هجمات متبادلة ووساطات متعثرة والخليج يترقب انفجاراً جديداً في هرمز!",
-   "link": "https://almadapaper.net/462126/",
-   "ts": 1795350341
   }
  ]
 }
