@@ -1,11 +1,23 @@
 {
- "updated": 1795382194,
+ "updated": 1795385503,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "العراق ومصر يبحثان تعزيز التعاون وتوسيع الشراكة",
+   "link": "https://www.alsumaria.tv/news/politics/582018/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%88%d9%85%d8%b5%d8%b1-%d9%8a%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%88%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%83%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795383360
+  },
+  {
+   "source": "السومرية",
+   "title": "رغم الحرب.. غزة تسجل أعلى حصيلة مواليد شهرية في تاريخها",
+   "link": "https://www.alsumaria.tv/news/international/582017/%d8%b1%d8%ba%d9%85-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%ba%d8%b2%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a3%d8%b9%d9%84%d9%89-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d9%85%d9%88%d8%a7%d9%84%d9%8a%d8%af-%d8%b4%d9%87%d8%b1%d9%8a%d8%a9-%d9%81%d9%8a-%d8%aa%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795382400
+  },
   {
    "source": "المدى",
    "title": "\"ثقوب النفط\" تهدد وزيراً .. وتعيد فتح ملف 300 مزرعة سرية",
@@ -38,6 +50,12 @@
   },
   {
    "source": "المدى",
+   "title": "الادباء والمركز الثقافي يحتفون بالترجمة",
+   "link": "https://almadapaper.net/462217/",
+   "ts": 1795381560
+  },
+  {
+   "source": "المدى",
    "title": "العمودالثامن: الزيدي على مائدة الاطار",
    "link": "https://almadapaper.net/462221/",
    "ts": 1795381560
@@ -65,12 +83,6 @@
    "title": "إزالة تجاوزات شارع الشيخ عمر في بغداد.. وأصحاب المحال يطالبون بإنهاء تأهيل الأرصفة",
    "link": "https://almadapaper.net/462236/",
    "ts": 1795381500
-  },
-  {
-   "source": "المدى",
-   "title": "باليت المدى: أريكة بيضاء",
-   "link": "https://almadapaper.net/462198/",
-   "ts": 1795381440
   },
   {
    "source": "شفق نيوز",
@@ -197,18 +209,6 @@
    "title": "ترامب يهدد باستئناف الحرب على إيران إذا لم يتم التوصل لاتفاق",
    "link": "https://www.alsumaria.tv/news/international/582007/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%87%d8%af%d8%af-%d8%a8%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d8%b0%d8%a7-%d9%84%d9%85-%d9%8a%d8%aa%d9%85-%d8%a7%d9%84%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795369225
-  },
-  {
-   "source": "السومرية",
-   "title": "قبطان يروي تفاصيل التصدي لهجمات قراصنة بالبحر الأحمر",
-   "link": "https://www.alsumaria.tv/news/international/582006/%d9%82%d8%a8%d8%b7%d8%a7%d9%86-%d9%8a%d8%b1%d9%88%d9%8a-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%aa%d8%b5%d8%af%d9%8a-%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d9%82%d8%b1%d8%a7%d8%b5%d9%86%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795368998
-  },
-  {
-   "source": "السومرية",
-   "title": "انتشار اللواء 72 بالحشد في جرف النصر (صور)",
-   "link": "https://www.alsumaria.tv/news/security/582005/%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a1-72-%d8%a8%d8%a7%d9%84%d8%ad%d8%b4%d8%af-%d9%81%d9%8a-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d8%b5%d9%88%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795368902
   }
  ]
 }
