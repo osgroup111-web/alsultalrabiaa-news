@@ -1,11 +1,47 @@
 {
- "updated": 1795342858,
+ "updated": 1795345858,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "عمليات بغداد: تشديد الإجراءات الأمنية عند مداخل العاصمة وملاحقة مسارات تهريب النفط",
+   "link": "https://almadapaper.net/462120/",
+   "ts": 1795345220
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "قائد إيراني يلمح إلى إمكانية تغيير فتوى صناعة السلاح النووي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%82%D8%A7-%D8%AF-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D9%84%D9%85%D8%AD-%D9%84%D9%89-%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D9%81%D8%AA%D9%88%D9%89-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A",
+   "ts": 1795344648
+  },
+  {
+   "source": "السومرية",
+   "title": "الأحوال المدنية توضح حقيقة دمج بطاقة السكن بالبطاقة الوطنية",
+   "link": "https://www.alsumaria.tv/news/security/581972/%d8%a7%d9%84%d8%a3%d8%ad%d9%88%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d8%a9-%d8%aa%d9%88%d8%b6%d8%ad-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%af%d9%85%d8%ac-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%a8%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795344482
+  },
+  {
+   "source": "السومرية",
+   "title": "الزيدي يزور القاهرة غداً لتوقيع اتفاقيات ومذكرات تفاهم مع مصر",
+   "link": "https://www.alsumaria.tv/news/politics/581971/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%b2%d9%88%d8%b1-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%ba%d8%af%d8%a7%d9%8b-%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d9%88%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795344343
+  },
+  {
+   "source": "المدى",
+   "title": "السجن 6 سنوات لأربعة مدانين باعوا طفلاً حديث الولادة في بغداد",
+   "link": "https://almadapaper.net/462117/",
+   "ts": 1795343506
+  },
+  {
+   "source": "السومرية",
+   "title": "وزير الموارد المائية يعفي مدير مشروع الغراف بسبب التقصير",
+   "link": "https://www.alsumaria.tv/news/localnews/581970/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d9%8a%d8%a9-%d9%8a%d8%b9%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%ba%d8%b1%d8%a7%d9%81-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795342790
+  },
   {
    "source": "السومرية",
    "title": "الشرطة السويدية تعتزم افتتاح مركز أمني في العراق لملاحقة زعماء العصابات",
@@ -145,12 +181,6 @@
    "ts": 1795336459
   },
   {
-   "source": "شفق نيوز",
-   "title": "متعاقدو تربية البصرة يغلقون المديرية احتجاجاً على تأخر رواتبهم منذ 5 أشهر",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%AA%D8%B9%D8%A7%D9%82%D8%AF%D9%88-%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%8A%D8%BA%D9%84%D9%82%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D8%AA-%D8%AE%D8%B1-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%D9%87%D9%85-%D9%85%D9%86%D8%B0-5-%D8%B4%D9%87%D8%B1",
-   "ts": 1795336393
-  },
-  {
    "source": "السومرية",
    "title": "لجنة حكومية تصل الأنبار لتدقيق رواتب الشهداء والجرحى المتوقفة",
    "link": "https://www.alsumaria.tv/news/localnews/581961/%d9%84%d8%ac%d9%86%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%b1-%d9%84%d8%aa%d8%af%d9%82%d9%8a%d9%82-%d8%b1%d9%88%d8%a7%d8%aa%d8%a8-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%ac%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -163,28 +193,10 @@
    "ts": 1795335475
   },
   {
-   "source": "السومرية",
-   "title": "الدولار مستمر بالارتفاع مسجلا اكثر من الـ170 الفا",
-   "link": "https://www.alsumaria.tv/news/economy/581960/%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%b3%d8%aa%d9%85%d8%b1-%d8%a8%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d9%85%d8%b3%d8%ac%d9%84%d8%a7-%d8%a7%d9%83%d8%ab%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d9%80170-%d8%a7%d9%84%d9%81%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795334442
-  },
-  {
    "source": "المدى",
    "title": "8 آلاف نشاط مخالف تخنق بغداد.. مرصد بيئي يتهم الجهات المعنية بالتقصير!",
    "link": "https://almadapaper.net/462088/",
    "ts": 1795333309
-  },
-  {
-   "source": "السومرية",
-   "title": "الإطاحة بعاملتين أجنبيتين اعتدتا بالضرب على مواطنة في بغداد",
-   "link": "https://www.alsumaria.tv/news/security/581959/%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%ad%d8%a9-%d8%a8%d8%b9%d8%a7%d9%85%d9%84%d8%aa%d9%8a%d9%86-%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%aa%d9%8a%d9%86-%d8%a7%d8%b9%d8%aa%d8%af%d8%aa%d8%a7-%d8%a8%d8%a7%d9%84%d8%b6%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d9%85%d9%88%d8%a7%d8%b7%d9%86%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795332391
-  },
-  {
-   "source": "السومرية",
-   "title": "هزة ارضية تضرب نينوى",
-   "link": "https://www.alsumaria.tv/news/localnews/581958/%d9%87%d8%b2%d8%a9-%d8%a7%d8%b1%d8%b6%d9%8a%d8%a9-%d8%aa%d8%b6%d8%b1%d8%a8-%d9%86%d9%8a%d9%86%d9%88%d9%89?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795331667
   },
   {
    "source": "المدى",
@@ -197,18 +209,6 @@
    "title": "الداخلية تبدأ دمج بيانات السكن بالبطاقة الوطنية وتستعد لإطلاق تحديث إلكتروني",
    "link": "https://almadapaper.net/462080/",
    "ts": 1795329441
-  },
-  {
-   "source": "المدى",
-   "title": "الأنواء الجوية: انخفاض جديد في درجات الحرارة خلال الأيام المقبلة",
-   "link": "https://almadapaper.net/462075/",
-   "ts": 1795328405
-  },
-  {
-   "source": "المدى",
-   "title": "قاآني نجح في شراء وقت إضافي.. وكتائب حزب الله قد تحتاج سنة لمغادرة جرف الصخر",
-   "link": "https://almadapaper.net/462068/",
-   "ts": 1795295340
   }
  ]
 }
