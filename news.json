@@ -1,11 +1,65 @@
 {
- "updated": 1795367561,
+ "updated": 1795370004,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "احباط محاولة لتهريب سموم في العراق",
+   "link": "https://www.alsumaria.tv/news/security/582008/%d8%a7%d8%ad%d8%a8%d8%a7%d8%b7-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%b3%d9%85%d9%88%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795369487
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الحشد الشعبي: لواء 72 باشر الانتشار في الجرف وفتح الطريق امام الزائرين",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%84%D9%88%D8%A7-72-%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B1%D9%81-%D9%88%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B2%D8%A7-%D8%B1%D9%8A%D9%86",
+   "ts": 1795369412
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب يهدد باستئناف الحرب على إيران إذا لم يتم التوصل لاتفاق",
+   "link": "https://www.alsumaria.tv/news/international/582007/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%87%d8%af%d8%af-%d8%a8%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d8%b0%d8%a7-%d9%84%d9%85-%d9%8a%d8%aa%d9%85-%d8%a7%d9%84%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795369225
+  },
+  {
+   "source": "المدى",
+   "title": "3.7 تريليونات دينار مستردة.. فكم تخفي ملفات تهريب النفط؟",
+   "link": "https://almadapaper.net/462159/",
+   "ts": 1795369200
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الحوثيون يعلنون استهداف مصفاة نفطية سعودية و\"التحالف\" يؤكد تدمير مسيرة بسماء المملكة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%8A-%D9%83%D8%AF-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A8%D8%B3%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9",
+   "ts": 1795369065
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "عارض مفاجئ يقطع الكهرباء عن مناطق واسعة في ديالى",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B9%D8%A7%D8%B1%D8%B6-%D9%85%D9%81%D8%A7%D8%AC-%D9%8A%D9%82%D8%B7%D8%B9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7-%D8%B9%D9%86-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%81%D9%8A-%D8%AF%D9%8A%D8%A7%D9%84%D9%89",
+   "ts": 1795369012
+  },
+  {
+   "source": "السومرية",
+   "title": "قبطان يروي تفاصيل التصدي لهجمات قراصنة بالبحر الأحمر",
+   "link": "https://www.alsumaria.tv/news/international/582006/%d9%82%d8%a8%d8%b7%d8%a7%d9%86-%d9%8a%d8%b1%d9%88%d9%8a-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%aa%d8%b5%d8%af%d9%8a-%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d9%82%d8%b1%d8%a7%d8%b5%d9%86%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795368998
+  },
+  {
+   "source": "السومرية",
+   "title": "انتشار اللواء 72 بالحشد في جرف النصر (صور)",
+   "link": "https://www.alsumaria.tv/news/security/582005/%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a1-72-%d8%a8%d8%a7%d9%84%d8%ad%d8%b4%d8%af-%d9%81%d9%8a-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d8%b5%d9%88%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795368902
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب يحذر من سياسة الحدود المفتوحة: تدمر الدول",
+   "link": "https://www.alsumaria.tv/news/international/582003/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d8%aa%d8%af%d9%85%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795367700
+  },
   {
    "source": "شفق نيوز",
    "title": "الأطول خلال الشهر.. توغل إسرائيلي متواصل في ريف درعا الغربي بسوريا (فيديو)",
@@ -68,6 +122,12 @@
   },
   {
    "source": "السومرية",
+   "title": "شيوخ بني حسن يعلنون دعمهم للشيخ حسين الحسناوي: نثق بالقضاء ولا توجد إدانة حتى الآن",
+   "link": "https://www.alsumaria.tv/news/localnews/582004/%d8%b4%d9%8a%d9%88%d8%ae-%d8%a8%d9%86%d9%8a-%d8%ad%d8%b3%d9%86-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d8%af%d8%b9%d9%85%d9%87%d9%85-%d9%84%d9%84%d8%b4%d9%8a%d8%ae-%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d8%b3%d9%86%d8%a7%d9%88%d9%8a-%d9%86%d8%ab%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795364272
+  },
+  {
+   "source": "السومرية",
    "title": "مصادر: مخططان لاثارة الاضطرابات في العراق",
    "link": "https://www.alsumaria.tv/news/localnews/581999/%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d9%85%d8%ae%d8%b7%d8%b7%d8%a7%d9%86-%d9%84%d8%a7%d8%ab%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795364143
@@ -109,64 +169,10 @@
    "ts": 1795361323
   },
   {
-   "source": "السومرية",
-   "title": "العراق يسجل اكبر تراجع اقليمي في شحنات الهواتف",
-   "link": "https://www.alsumaria.tv/news/miscellaneous/581995/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%b3%d8%ac%d9%84-%d8%a7%d9%83%d8%a8%d8%b1-%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a7%d9%82%d9%84%d9%8a%d9%85%d9%8a-%d9%81%d9%8a-%d8%b4%d8%ad%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795361166
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تشكيل هيئة مؤقتة لإدارة نادي الميناء برئاسة العيداني",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%87%D9%8A-%D8%A9-%D9%85-%D9%82%D8%AA%D8%A9-%D9%84-%D8%AF%D8%A7%D8%B1%D8%A9-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D9%86%D8%A7-%D8%A8%D8%B1-%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D8%AF%D8%A7%D9%86%D9%8A",
-   "ts": 1795360814
-  },
-  {
-   "source": "السومرية",
-   "title": "برشلونة يقلب تأخره بهدفين إلى فوز مثير على فياريال ويستعيد صدارة الدوري الإسباني",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581994/sports/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%8a%d9%82%d9%84%d8%a8-%d8%aa%d8%a3%d8%ae%d8%b1%d9%87-%d8%a8%d9%87%d8%af%d9%81%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d9%81%d9%88%d8%b2-%d9%85%d8%ab%d9%8a%d8%b1-%d8%b9%d9%84%d9%89-%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795360710
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "وزارة النقل والاتصالات الكوردستانية توجه شركات الإنترنت بحجب \"تلغرام\" مؤقتاً",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%88%D8%AC%D9%87-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84-%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A8%D8%AD%D8%AC%D8%A8-%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%85-%D9%85-%D9%82%D8%AA%D8%A7",
-   "ts": 1795360477
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "منتخب العراق لقصار القامة يخسر أمام البرازيل في مستهل مشواره بمونديال المغرب",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%82%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%A9-%D9%8A%D8%AE%D8%B3%D8%B1-%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D9%87%D9%84-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
-   "ts": 1795360285
-  },
-  {
    "source": "المدى",
    "title": "بعد جرف الصخر.. هل تفتح الحكومة ملف العوجة والمناطق المغلقة؟",
    "link": "https://almadapaper.net/462151/",
    "ts": 1795359721
-  },
-  {
-   "source": "السومرية",
-   "title": "اقليم كردستان يقرر ايقاف منصة (التليجرام)",
-   "link": "https://www.alsumaria.tv/news/localnews/581993/%d8%a7%d9%82%d9%84%d9%8a%d9%85-%d9%83%d8%b1%d8%af%d8%b3%d8%aa%d8%a7%d9%86-%d9%8a%d9%82%d8%b1%d8%b1-%d8%a7%d9%8a%d9%82%d8%a7%d9%81-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%aa%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795359668
-  },
-  {
-   "source": "السومرية",
-   "title": "وزير النقل الأميركي: عودة حركة الطيران إلى طبيعتها بحلول الاثنين",
-   "link": "https://www.alsumaria.tv/news/international/581992/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a-%d8%b9%d9%88%d8%af%d8%a9-%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d9%84%d9%89-%d8%b7%d8%a8%d9%8a%d8%b9%d8%aa%d9%87%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795359591
-  },
-  {
-   "source": "السومرية",
-   "title": "الزيدي يعلن قرب إرسال موازنة 2027 إلى البرلمان",
-   "link": "https://www.alsumaria.tv/news/politics/581991/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d9%82%d8%b1%d8%a8-%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d9%85%d9%88%d8%a7%d8%b2%d9%86%d8%a9-2027-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795359164
-  },
-  {
-   "source": "السومرية",
-   "title": "ميسي يثير الجدل بتصرف غير رياضي",
-   "link": "https://www.alsumaria.tv/Entertainment-News/581990/sports/%d9%85%d9%8a%d8%b3%d9%8a-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d8%a8%d8%aa%d8%b5%d8%b1%d9%81-%d8%ba%d9%8a%d8%b1-%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795358657
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "هجمات متبادلة ووساطات متعثرة والخليج يترقب انفجاراً جديداً في هرمز!",
    "link": "https://almadapaper.net/462126/",
    "ts": 1795350341
-  },
-  {
-   "source": "المدى",
-   "title": "طوارئ على الورق.. الوزارات تواصل تلويث \"دجلة\" وتحذيرات من كارثة تمتد جنوباً !",
-   "link": "https://almadapaper.net/462123/",
-   "ts": 1795347982
   }
  ]
 }
