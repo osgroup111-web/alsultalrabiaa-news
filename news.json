@@ -1,11 +1,65 @@
 {
- "updated": 1795410432,
+ "updated": 1795414504,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "العراق يعيد 30 طناً من \"لسان الجاموس\" الهندي لمخالفته ضوابط الاستيراد",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%8A%D8%AF-30-%D8%B7%D9%86%D8%A7-%D9%85%D9%86-%D9%84%D8%B3%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A-%D9%84%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA%D9%87-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF",
+   "ts": 1795414100
+  },
+  {
+   "source": "المدى",
+   "title": "بعد خسارة 9% في أسبوع.. الذهب يعود للصعود في الأسواق الآسيوية",
+   "link": "https://almadapaper.net/462259/",
+   "ts": 1795413561
+  },
+  {
+   "source": "السومرية",
+   "title": "قرار مفاجئ يلغي 429 رحلة في بروكسل",
+   "link": "https://www.alsumaria.tv/news/international/582022/%d9%82%d8%b1%d8%a7%d8%b1-%d9%85%d9%81%d8%a7%d8%ac%d8%a6-%d9%8a%d9%84%d8%ba%d9%8a-429-%d8%b1%d8%ad%d9%84%d8%a9-%d9%81%d9%8a-%d8%a8%d8%b1%d9%88%d9%83%d8%b3%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795412747
+  },
+  {
+   "source": "السومرية",
+   "title": "مصرع حداد وإصابة موظف بحريق داخل \"تريلة\" حكومية في بغداد",
+   "link": "https://www.alsumaria.tv/news/localnews/582021/%d9%85%d8%b5%d8%b1%d8%b9-%d8%ad%d8%af%d8%a7%d8%af-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d9%85%d9%88%d8%b8%d9%81-%d8%a8%d8%ad%d8%b1%d9%8a%d9%82-%d8%af%d8%a7%d8%ae%d9%84-quot%d8%aa%d8%b1%d9%8a%d9%84%d8%a9quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795412602
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مصرع حداد وإصابة موظف بحريق داخل شاحنة حكومية في بغداد",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B5%D8%B1%D8%B9-%D8%AD%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%B8%D9%81-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B4%D8%A7%D8%AD%D9%86%D8%A9-%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+   "ts": 1795411922
+  },
+  {
+   "source": "السومرية",
+   "title": "إصابة 9 أشخاص بالرصاص في هجوم على حفل موسيقي بوسط كاليفورنيا",
+   "link": "https://www.alsumaria.tv/news/international/582020/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-9-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a8%d8%a7%d9%84%d8%b1%d8%b5%d8%a7%d8%b5-%d9%81%d9%8a-%d9%87%d8%ac%d9%88%d9%85-%d8%b9%d9%84%d9%89-%d8%ad%d9%81%d9%84-%d9%85%d9%88%d8%b3%d9%8a%d9%82%d9%8a-%d8%a8%d9%88%d8%b3%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795411759
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"كوب31\".. النفوذ السعودي يعرقل أي اتفاق بشأن الوقود الأحفوري",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%83%D9%88%D8%A831-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%B9%D8%B1%D9%82%D9%84-%D9%8A-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A8%D8%B4-%D9%86-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84-%D8%AD%D9%81%D9%88%D8%B1%D9%8A",
+   "ts": 1795411723
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "في البصرة.. الجوية العراقي يواجه الغرافة القطري بحثاً عن فوز ثان في النخبة الآسيوي",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D8%A8%D8%AD%D8%AB%D8%A7-%D8%B9%D9%86-%D9%81%D9%88%D8%B2-%D8%AB%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AE%D8%A8%D8%A9-%D8%A7%D9%84-%D8%B3%D9%8A%D9%88%D9%8A",
+   "ts": 1795411469
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "ما علاقة إيران؟.. كوريا الجنوبية توضح أسباب تمديد انتشار قواتها بالخليج",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%8A%D8%B1%D8%A7%D9%86-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+   "ts": 1795410833
+  },
   {
    "source": "شفق نيوز",
    "title": "الذهب يتعافى من أدنى مستوى في 14 شهراً والمعادن النفيسة ترتفع",
@@ -97,12 +151,6 @@
    "ts": 1795381500
   },
   {
-   "source": "المدى",
-   "title": "إزالة تجاوزات شارع الشيخ عمر في بغداد.. وأصحاب المحال يطالبون بإنهاء تأهيل الأرصفة",
-   "link": "https://almadapaper.net/462236/",
-   "ts": 1795381500
-  },
-  {
    "source": "شفق نيوز",
    "title": "3.79 مليارات دولار في يوم واحد.. \"حمّى GTA VI\" تجتاح العراق وتصل إلى التحريم",
    "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/3-79-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D9%8A%D9%88%D9%85-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AD%D9%85-%D9%89-GTA-VI-%D8%AA%D8%AC%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%B5%D9%84-%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85",
@@ -145,18 +193,6 @@
    "ts": 1795377735
   },
   {
-   "source": "شفق نيوز",
-   "title": "حكومة إقليم كوردستان تنفي أنباء متداولة بشأن فحوى لقاءات الفياض مع القيادات الكوردية",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D9%86%D8%A8%D8%A7-%D9%85%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A9-%D8%A8%D8%B4-%D9%86-%D9%81%D8%AD%D9%88%D9%89-%D9%84%D9%82%D8%A7-%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%8A%D8%A7%D8%B6-%D9%85%D8%B9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A9",
-   "ts": 1795377259
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "دهوك.. 7 إصابات بتصادم عنيف بين مركبتين في العمادية",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%AF%D9%87%D9%88%D9%83-7-%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D8%AA%D8%B5%D8%A7%D8%AF%D9%85-%D8%B9%D9%86%D9%8A%D9%81-%D8%A8%D9%8A%D9%86-%D9%85%D8%B1%D9%83%D8%A8%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%AF%D9%8A%D8%A9",
-   "ts": 1795376385
-  },
-  {
    "source": "السومرية",
    "title": "الحشد الشعبي يعفي قائد عمليات الفرات الأوسط (وثيقة)",
    "link": "https://www.alsumaria.tv/news/security/582013/%d8%a7%d9%84%d8%ad%d8%b4%d8%af-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a-%d9%8a%d8%b9%d9%81%d9%8a-%d9%82%d8%a7%d8%a6%d8%af-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%88%d8%b3%d8%b7-%d9%88%d8%ab%d9%8a%d9%82%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -169,46 +205,10 @@
    "ts": 1795375800
   },
   {
-   "source": "شفق نيوز",
-   "title": "منتحل صفة موظف حكومي يحتال على مواطنين بـ25 مليون دينار في صلاح الدين",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%86%D8%AA%D8%AD%D9%84-%D8%B5%D9%81%D8%A9-%D9%85%D9%88%D8%B8%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%8A%D8%AD%D8%AA%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A8%D9%8025-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
-   "ts": 1795375759
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الأنبار.. \"منهولة\" تبتلع 3 أشخاص وتخنق 6 آخرين في هيت (فيديو)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1-%D9%85%D9%86%D9%87%D9%88%D9%84%D8%A9-%D8%AA%D8%A8%D8%AA%D9%84%D8%B9-3-%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%AA%D8%AE%D9%86%D9%82-%D9%85%D9%86%D9%82%D8%B0%D8%A7-%D9%81%D9%8A-%D9%87%D9%8A%D8%AA-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-   "ts": 1795375485
-  },
-  {
    "source": "السومرية",
    "title": "وفاة ثلاثة أشخاص داخل \"منهولة\" للصرف الصحي في هيت",
    "link": "https://www.alsumaria.tv/news/localnews/582011/%d9%88%d9%81%d8%a7%d8%a9-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%af%d8%a7%d8%ae%d9%84-quot%d9%85%d9%86%d9%87%d9%88%d9%84%d8%a9quot-%d9%84%d9%84%d8%b5%d8%b1%d9%81-%d8%a7%d9%84%d8%b5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795374720
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ثقب في الأنبوب الاستراتيجي.. شفق نيوز تكشف تفاصيل تهريب النفط في النجف",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AB%D9%82%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84-%D9%86%D8%A8%D9%88%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%B4%D9%81%D9%82-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-3",
-   "ts": 1795374341
-  },
-  {
-   "source": "السومرية",
-   "title": "في ليبيا.. هجوم بحري جديد واعتراض 12 مسيرة",
-   "link": "https://www.alsumaria.tv/news/international/582010/%d9%81%d9%8a-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d9%87%d8%ac%d9%88%d9%85-%d8%a8%d8%ad%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6-12-%d9%85%d8%b3%d9%8a%d8%b1%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795373400
-  },
-  {
-   "source": "السومرية",
-   "title": "البرلمان العربي يحذر من تحويل الدول العربية لساحات لتصدير الصراعات​",
-   "link": "https://www.alsumaria.tv/news/international/582009/%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%aa%d8%ad%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d8%b3%d8%a7%d8%ad%d8%a7%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795371120
-  },
-  {
-   "source": "السومرية",
-   "title": "احباط محاولة لتهريب سموم في العراق",
-   "link": "https://www.alsumaria.tv/news/security/582008/%d8%a7%d8%ad%d8%a8%d8%a7%d8%b7-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%b3%d9%85%d9%88%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795369487
   }
  ]
 }
