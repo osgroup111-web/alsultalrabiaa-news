@@ -1,11 +1,17 @@
 {
- "updated": 1795472290,
+ "updated": 1795476000,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "انفجارات في ثلاث ناقلات نفط بمضيق هرمز",
+   "link": "https://www.alsumaria.tv/news/international/582090/%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%ab%d9%84%d8%a7%d8%ab-%d9%86%d8%a7%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d9%81%d8%b7-%d8%a8%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795472280
+  },
   {
    "source": "السومرية",
    "title": "إصابات بحادث سير \"مروع\" في كربلاء",
@@ -203,12 +209,6 @@
    "title": "وزير النفط يكشف تفاصيل التهريب: سرقات عبر الأنابيب وخروقات في الحقول الشمالية",
    "link": "https://www.alsumaria.tv/news/economy/582080/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%b3%d8%b1%d9%82%d8%a7%d8%aa-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a3%d9%86%d8%a7%d8%a8%d9%8a%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795455510
-  },
-  {
-   "source": "السومرية",
-   "title": "بـ15 هدفا.. إسبانيا تحقق ثاني أكبر انتصار في تاريخ كأس العالم",
-   "link": "https://www.alsumaria.tv/Entertainment-News/582078/sports/%d8%a8%d9%8015-%d9%87%d8%af%d9%81%d8%a7-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%ad%d9%82%d9%82-%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d9%83%d8%a8%d8%b1-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d9%81%d9%8a-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795455352
   }
  ]
 }
