@@ -1,11 +1,95 @@
 {
- "updated": 1795465442,
+ "updated": 1795468589,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "إصابات بحادث سير \"مروع\" في كربلاء",
+   "link": "https://www.alsumaria.tv/news/localnews/582089/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a8%d8%ad%d8%a7%d8%af%d8%ab-%d8%b3%d9%8a%d8%b1-quot%d9%85%d8%b1%d9%88%d8%b9quot-%d9%81%d9%8a-%d9%83%d8%b1%d8%a8%d9%84%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795468080
+  },
+  {
+   "source": "المدى",
+   "title": "\"بطيء وروتيني\".. وزير النفط خارج الحكومةبطلب من السوداني والبديل شخصية سياسية",
+   "link": "https://almadapaper.net/462406/",
+   "ts": 1795468080
+  },
+  {
+   "source": "المدى",
+   "title": "من الكتب إلى الموسيقى والفنون.. «الصويرة تقرأ» يوسع فعالياته في موسمه الثاني",
+   "link": "https://almadapaper.net/462378/",
+   "ts": 1795468020
+  },
+  {
+   "source": "المدى",
+   "title": "عارف الساعدي: الاحتفاء بأبي تمام هو احتفاء بالموصل",
+   "link": "https://almadapaper.net/462376/",
+   "ts": 1795467960
+  },
+  {
+   "source": "المدى",
+   "title": "بدء جلسات محاكمة آلاف المشتبه بهم من داعش في العراق بعد نقلهم من سوريا",
+   "link": "https://almadapaper.net/462404/",
+   "ts": 1795467960
+  },
+  {
+   "source": "المدى",
+   "title": "متسابقات عربيات في ملكة جمال الكون 2026",
+   "link": "https://almadapaper.net/462374/",
+   "ts": 1795467900
+  },
+  {
+   "source": "المدى",
+   "title": "العمودالثامن: الفيلم العراقي \"أنابيب وثقوب\"",
+   "link": "https://almadapaper.net/462380/",
+   "ts": 1795467900
+  },
+  {
+   "source": "المدى",
+   "title": "اختناقات طالبات ميسان تتكرر.. الأهالي يحمّلون التربية المسؤولية وينتظرون حسم التحقيقات",
+   "link": "https://almadapaper.net/462402/",
+   "ts": 1795467900
+  },
+  {
+   "source": "المدى",
+   "title": "اقــــرأ: تشكيل العراق المعاصر",
+   "link": "https://almadapaper.net/462372/",
+   "ts": 1795467840
+  },
+  {
+   "source": "المدى",
+   "title": "العراق يتجه لإنهاء عسكرة المدن وسحب القوات القتالية من الشوارع",
+   "link": "https://almadapaper.net/462395/",
+   "ts": 1795467840
+  },
+  {
+   "source": "المدى",
+   "title": "من مأساة غاليليو إلى فتاوى التكفير في العراق مراجعة التاريخ ومسؤولية الضمير",
+   "link": "https://almadapaper.net/462353/",
+   "ts": 1795467780
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بيع البحوث.. الذكاء الاصطناعي \"يستنفر\" الجامعات العراقية",
+   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%A8%D8%AD%D9%88%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%A7-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+   "ts": 1795467756
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد أشهر من الجدل.. المغرب بطلاً لأمم أفريقيا على حساب السنغال",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A8%D8%B9%D8%AF-%D8%B4%D9%87%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A8%D8%B7%D9%84%D8%A7-%D9%84-%D9%85%D9%85-%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84",
+   "ts": 1795467630
+  },
+  {
+   "source": "السومرية",
+   "title": "بريطانيا.. إجلاء أكثر من 12 ألف شخص من حفل لمغني راب",
+   "link": "https://www.alsumaria.tv/news/international/582088/%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d8%a5%d8%ac%d9%84%d8%a7%d8%a1-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-12-%d8%a3%d9%84%d9%81-%d8%b4%d8%ae%d8%b5-%d9%85%d9%86-%d8%ad%d9%81%d9%84-%d9%84%d9%85%d8%ba%d9%86%d9%8a-%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795465320
+  },
   {
    "source": "شفق نيوز",
    "title": "القوة الجوية العراقي يتغلب على الغرافة القطري في دوري أبطال آسيا للنخبة",
@@ -91,12 +175,6 @@
    "ts": 1795458324
   },
   {
-   "source": "شفق نيوز",
-   "title": "74 جلدة لمغنية إيرانية بسبب حفل على \"يوتيوب\"",
-   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/74-%D8%AC%D9%84%D8%AF%D8%A9-%D9%84%D9%85%D8%BA%D9%86%D9%8A%D8%A9-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AD%D9%81%D9%84-%D8%B9%D9%84%D9%89-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8",
-   "ts": 1795457954
-  },
-  {
    "source": "السومرية",
    "title": "السجن 10 سنوات بحق مدانين بحيازة والاتجار باليورانيوم في العراق",
    "link": "https://www.alsumaria.tv/news/localnews/582083/%d8%a7%d9%84%d8%b3%d8%ac%d9%86-10-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d8%a8%d8%ad%d9%82-%d9%85%d8%af%d8%a7%d9%86%d9%8a%d9%86-%d8%a8%d8%ad%d9%8a%d8%a7%d8%b2%d8%a9-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%ac%d8%a7%d8%b1-%d8%a8%d8%a7%d9%84%d9%8a%d9%88%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -109,28 +187,10 @@
    "ts": 1795457520
   },
   {
-   "source": "المدى",
-   "title": "لماذا نمرض في الشتاء؟ أطباء يكشفون السر وراء نزلات البرد",
-   "link": "https://almadapaper.net/462342/",
-   "ts": 1795457445
-  },
-  {
    "source": "السومرية",
    "title": "برنت يهبط دون 89 دولارا للمرة الأولى منذ ثلاثة أشهر",
    "link": "https://www.alsumaria.tv/news/economy/582081/%d8%a8%d8%b1%d9%86%d8%aa-%d9%8a%d9%87%d8%a8%d8%b7-%d8%af%d9%88%d9%86-89-%d8%af%d9%88%d9%84%d8%a7%d8%b1%d8%a7-%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d9%85%d9%86%d8%b0-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d8%b4%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795457280
-  },
-  {
-   "source": "المدى",
-   "title": "طهران تهدد بضرب القواعد الأمريكية في أوروبا وتل أبيب تضغط لشن هجوم مشترك",
-   "link": "https://almadapaper.net/462338/",
-   "ts": 1795456881
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"رويترز\": واشنطن تدرس أول خطة لتدريب الجيش السوري",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AF%D8%B1%D8%B3-%D9%88%D9%84-%D8%AE%D8%B7%D8%A9-%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-   "ts": 1795456806
   },
   {
    "source": "السومرية",
@@ -149,66 +209,6 @@
    "title": "بـ15 هدفا.. إسبانيا تحقق ثاني أكبر انتصار في تاريخ كأس العالم",
    "link": "https://www.alsumaria.tv/Entertainment-News/582078/sports/%d8%a8%d9%8015-%d9%87%d8%af%d9%81%d8%a7-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d8%ad%d9%82%d9%82-%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d9%83%d8%a8%d8%b1-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d9%81%d9%8a-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795455352
-  },
-  {
-   "source": "السومرية",
-   "title": "إيران تعلن إسقاط مسيرة أمريكية شرق مضيق هرمز",
-   "link": "https://www.alsumaria.tv/news/international/582077/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d8%b3%d9%82%d8%a7%d8%b7-%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%b4%d8%b1%d9%82-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795455097
-  },
-  {
-   "source": "المدى",
-   "title": "محادثات الذكاء الاصطناعي في دائرة الخطر.. ثغرات وروابط مشاركة تفضح أسرار المستخدمين",
-   "link": "https://almadapaper.net/462335/",
-   "ts": 1795454914
-  },
-  {
-   "source": "السومرية",
-   "title": "روسيا تعلن قصف قاطرة وسفينة شحن شرق أوديسا",
-   "link": "https://www.alsumaria.tv/news/international/582076/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b9%d9%84%d9%86-%d9%82%d8%b5%d9%81-%d9%82%d8%a7%d8%b7%d8%b1%d8%a9-%d9%88%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%b4%d8%ad%d9%86-%d8%b4%d8%b1%d9%82-%d8%a3%d9%88%d8%af%d9%8a%d8%b3%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795453284
-  },
-  {
-   "source": "المدى",
-   "title": "اتفاق عراقي مصري على إلغاء تأشيرات الدخول وتعزيز التعاون المشترك",
-   "link": "https://almadapaper.net/462332/",
-   "ts": 1795452941
-  },
-  {
-   "source": "المدى",
-   "title": "الحلبوسي يطلب من القضاء التحقيق في اتهامات تطاله وأسرته بامتلاك معمل لتهريب النفط في الأنبار",
-   "link": "https://almadapaper.net/462328/",
-   "ts": 1795451288
-  },
-  {
-   "source": "المدى",
-   "title": "استنفار خدمي وهندسي في أربيل لتفادي مخاطر السيول والفيضانات خلال موسم الأمطار",
-   "link": "https://almadapaper.net/462325/",
-   "ts": 1795449428
-  },
-  {
-   "source": "المدى",
-   "title": "اعتقال منفذي التفجير الذي استهدف منزل مدير إنتاج الطاقة الكهربائية في البصرة",
-   "link": "https://almadapaper.net/462322/",
-   "ts": 1795447749
-  },
-  {
-   "source": "المدى",
-   "title": "لأنبار تبحث إعادة نازحي جرف الصخر والعويسات عبر مسك الأرض وتشكيل لجنة خدمية",
-   "link": "https://almadapaper.net/462319/",
-   "ts": 1795446538
-  },
-  {
-   "source": "المدى",
-   "title": "وزير النفط ينفي أنباء استقالته ويُبقي قرار التنحي رهناً بمستوى الأداء",
-   "link": "https://almadapaper.net/462316/",
-   "ts": 1795442978
-  },
-  {
-   "source": "المدى",
-   "title": "أربيل تفتتح معرضها الدولي التاسع للأغذية والتغليف بمشاركة 286 شركة عالمية ومحلية",
-   "link": "https://almadapaper.net/462304/",
-   "ts": 1795440837
   }
  ]
 }
