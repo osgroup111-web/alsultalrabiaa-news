@@ -1,11 +1,95 @@
 {
- "updated": 1795533176,
+ "updated": 1795537563,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الجيل الجديد يدعو القوى الكوردستانية لاجتماع عاجل وتوحيد الموقف إزاء قرارات بغداد",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%82%D9%88%D9%89-%D8%A7%D9%84%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B9%D8%A7%D8%AC%D9%84-%D9%88%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%81-%D8%B2%D8%A7-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+   "ts": 1795537170
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تكليف العميد عماد عمر البرزنجي قائداً لشرطة كركوك بالوكالة",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%AF-%D8%B9%D9%85%D8%A7%D8%AF-%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2%D9%86%D8%AC%D9%8A-%D9%82%D8%A7-%D8%AF%D8%A7-%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A8%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9",
+   "ts": 1795536791
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بافل طالباني: الدستور والحوار السبيل الوحيد لحل الخلافات",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%A7%D9%81%D9%84-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%AD%D9%8A%D8%AF-%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA",
+   "ts": 1795536643
+  },
+  {
+   "source": "السومرية",
+   "title": "طالباني: الحوار والدستور السبيل الوحيد لحل الخلافات وضمان حقوق الجميع",
+   "link": "https://www.alsumaria.tv/news/localnews/582192/%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1-%d8%a7%d9%84%d8%b3%d8%a8%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%84%d8%ad%d9%84-%d8%a7%d9%84%d8%ae%d9%84%d8%a7%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795536433
+  },
+  {
+   "source": "المدى",
+   "title": "الحبس سنتين لمدير مركز شرطة أحداث الرصافة بتهمة الرشوة",
+   "link": "https://almadapaper.net/462503/",
+   "ts": 1795536428
+  },
+  {
+   "source": "السومرية",
+   "title": "أتروشي: ملفات النفط والمنافذ الحدودية في إقليم كردستان تُحل بالحوار مع بغداد",
+   "link": "https://www.alsumaria.tv/news/politics/582191/%d8%a3%d8%aa%d8%b1%d9%88%d8%b4%d9%8a-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%88%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b0-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a5%d9%82%d9%84%d9%8a%d9%85-%d9%83%d8%b1%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795536151
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "فقدان 175 مهاجراً بعد اختفاء قاربهم في البحر قبالة السنغال",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%81%D9%82%D8%AF%D8%A7%D9%86-175-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AE%D8%AA%D9%81%D8%A7-%D9%82%D8%A7%D8%B1%D8%A8%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84",
+   "ts": 1795536136
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيران.. وفاة 20 شخصاً وتسمم 365 إثر تناول كحول \"مغشوش\"",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%A7%D8%A9-20-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%88%D8%AA%D8%B3%D9%85%D9%85-365-%D8%AB%D8%B1-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D9%83%D8%AD%D9%88%D9%84-%D9%85%D8%BA%D8%B4%D9%88%D8%B4",
+   "ts": 1795535824
+  },
+  {
+   "source": "المدى",
+   "title": "السنغال تستعيد عرش أفريقيا بقرار قضائي وتسقط تتويج المغرب!",
+   "link": "https://almadapaper.net/462494/",
+   "ts": 1795534232
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إنفلونزا الطيور.. وفاة بشرية وإصابتان في أميركا",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1-%D9%88%D9%81%D8%A7%D8%A9-%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88-%D8%B5%D8%A7%D8%A8%D8%AA%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
+   "ts": 1795533852
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الدفاع المدني في النجف يكشف عن انخفاض حوادث الحرائق بنسبة 95.4%",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7-%D9%82-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-95-4",
+   "ts": 1795533712
+  },
+  {
+   "source": "السومرية",
+   "title": "محكمة التحكيم الرياضية تعيد لقب أمم إفريقيا إلى السنغال وتسحب التتويج من المغرب",
+   "link": "https://www.alsumaria.tv/Entertainment-News/582190/sports/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9-%d8%aa%d8%b9%d9%8a%d8%af-%d9%84%d9%82%d8%a8-%d8%a3%d9%85%d9%85-%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%a5%d9%84%d9%89-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795533414
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "النزاهة: الحبس سنتين لمدير مركز شرطة أحداث الرصافة بتهمة الرشوة",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D8%B3%D9%86%D8%AA%D9%8A%D9%86-%D9%84%D9%85%D8%AF%D9%8A%D8%B1-%D9%85%D8%B1%D9%83%D8%B2-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D9%81%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9",
+   "ts": 1795533376
+  },
+  {
+   "source": "السومرية",
+   "title": "بعد ضبطه بالرشوة.. الحبس الشديد لسنتين وغرامة ماليَّة بحقّ مدير مركز شرطة أحداث الرصافة",
+   "link": "https://www.alsumaria.tv/news/localnews/582189/%d8%a8%d8%b9%d8%af-%d8%b6%d8%a8%d8%b7%d9%87-%d8%a8%d8%a7%d9%84%d8%b1%d8%b4%d9%88%d8%a9-%d8%a7%d9%84%d8%ad%d8%a8%d8%b3-%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af-%d9%84%d8%b3%d9%86%d8%aa%d9%8a%d9%86-%d9%88%d8%ba%d8%b1%d8%a7%d9%85%d8%a9-%d9%85%d8%a7%d9%84%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795533271
+  },
   {
    "source": "المدى",
    "title": "النازحون يترقبون.. هل تنهي الحكومة أزمة جرف الصخر؟",
@@ -50,21 +134,9 @@
   },
   {
    "source": "شفق نيوز",
-   "title": "السعودية: هجوم \"إرهابي\" يستهدف أحد أبراج المركز المالي",
+   "title": "السعودية: 11 مصاباً بهجوم حوثي استهدف الرياض (تحديث)",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%87%D8%AC%D9%88%D9%85-%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AD%D8%AF-%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A",
    "ts": 1795530203
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "أربيل تطلق حملة لمناهضة العنف.. ووزير الداخلية: حماية المرأة أولوية وطنية (صور)",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AD%D9%85%D9%84%D8%A9-%D9%84%D9%85%D9%86%D8%A7%D9%87%D8%B6%D8%A9-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1-%D8%A9-%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%B5%D9%88%D8%B1",
-   "ts": 1795530098
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بارزاني يوجه رسالة إلى بغداد: علينا جميعاً التمسك بالدستور والحكمة ونرفض التصرف بمزاج شخصي",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B9%D9%84%D9%8A%D9%86%D8%A7-%D8%AC%D9%85%D9%8A%D8%B9%D8%A7-%D8%A7%D9%84%D8%AA%D9%85%D8%B3%D9%83-%D8%A8%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%88%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%81-%D8%A8%D9%85%D8%B2%D8%A7%D8%AC-%D8%B4%D8%AE%D8%B5%D9%8A",
-   "ts": 1795530042
   },
   {
    "source": "السومرية",
@@ -73,28 +145,10 @@
    "ts": 1795529516
   },
   {
-   "source": "شفق نيوز",
-   "title": "فلاح يقتل أباً ويصيب نجله بنزاع على أرض زراعية في كركوك",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%81%D9%84%D8%A7%D8%AD-%D9%8A%D9%82%D8%AA%D9%84-%D8%A8%D8%A7-%D9%88%D9%8A%D8%B5%D9%8A%D8%A8-%D9%86%D8%AC%D9%84%D9%87-%D8%A8%D9%86%D8%B2%D8%A7%D8%B9-%D8%B9%D9%84%D9%89-%D8%B1%D8%B6-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-   "ts": 1795529297
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ضبط منصتين لإطلاق الطائرات المسيّرة شمالي ميسان (صور)",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%B6%D8%A8%D8%B7-%D9%85%D9%86%D8%B5%D8%AA%D9%8A%D9%86-%D9%84-%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B7%D8%A7-%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A-%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D8%B5%D9%88%D8%B1",
-   "ts": 1795528947
-  },
-  {
    "source": "السومرية",
    "title": "ضبط منصتين لإطلاق الطائرات المسيّرة شمال ميسان",
    "link": "https://www.alsumaria.tv/news/security/582185/%d8%b6%d8%a8%d8%b7-%d9%85%d9%86%d8%b5%d8%aa%d9%8a%d9%86-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d9%91%d8%b1%d8%a9-%d8%b4%d9%85%d8%a7%d9%84-%d9%85%d9%8a%d8%b3%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795528861
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "السلطات الإيرانية تعتقل فناناً كوردياً في سردشت",
-   "link": "https://shafaq.com/ar/%D8%AA%D8%B1%D8%AC%D9%85%D8%A7%D8%AA/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D9%81%D9%86%D8%A7%D9%86%D8%A7-%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D8%B1%D8%AF%D8%B4%D8%AA",
-   "ts": 1795528753
   },
   {
    "source": "المدى",
@@ -109,12 +163,6 @@
    "ts": 1795528196
   },
   {
-   "source": "شفق نيوز",
-   "title": "الدولار ينخفض في بغداد واربيل عند الإغلاق",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%86%D8%AE%D9%81%D8%B6-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D8%B1%D8%A8%D9%8A%D9%84-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84-%D8%BA%D9%84%D8%A7%D9%82",
-   "ts": 1795527745
-  },
-  {
    "source": "السومرية",
    "title": "الديمقراطي والاتحاد يرفضان قرارات بغداد: المساس بكردستان خط احمر",
    "link": "https://www.alsumaria.tv/news/localnews/582183/%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d9%8a%d8%b1%d9%81%d8%b6%d8%a7%d9%86-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b3-%d8%a8%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -125,18 +173,6 @@
    "title": "هجمات سيبرانية تستهدف 50 سفينة.. واشنطن تشتبه بإيران",
    "link": "https://almadapaper.net/462484/",
    "ts": 1795527526
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بعد اتهامها بتهريب النفط في النجف.. النجباء تتجه إلى القضاء",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D9%86%D8%AC%D8%A8%D8%A7-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D9%85%D9%82%D8%A7%D8%B6%D8%A7%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
-   "ts": 1795527126
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الديمقراطي والاتحاد الوطني يرفضان قرارات بغداد: المساس بحقوق كوردستان \"خط أحمر\"",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D8%B1%D9%81%D8%B6%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B3-%D8%A8%D8%AD%D9%82%D9%88%D9%82-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%B7-%D8%AD%D9%85%D8%B1",
-   "ts": 1795527076
   },
   {
    "source": "السومرية",
@@ -163,12 +199,6 @@
    "ts": 1795523567
   },
   {
-   "source": "السومرية",
-   "title": "استهداف ثلاث سفن بمقذوفات مجهولة في مضيق هرمز واندلاع حريق بسفينة قبالة خورفكان",
-   "link": "https://www.alsumaria.tv/news/international/582180/%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%ab%d9%84%d8%a7%d8%ab-%d8%b3%d9%81%d9%86-%d8%a8%d9%85%d9%82%d8%b0%d9%88%d9%81%d8%a7%d8%aa-%d9%85%d8%ac%d9%87%d9%88%d9%84%d8%a9-%d9%81%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2-%d9%88%d8%a7%d9%86%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795522910
-  },
-  {
    "source": "المدى",
    "title": "إخلاء المدن من القطعات العسكرية.. توجيهات جديدة من وزير الدفاع",
    "link": "https://almadapaper.net/462475/",
@@ -179,36 +209,6 @@
    "title": "بعد قرارات الزيدي بشأن النفط والمنافذ.. بارزاني: بيان بغداد غير مقبول ونرفض الإجراءات الأحادية",
    "link": "https://almadapaper.net/462472/",
    "ts": 1795521873
-  },
-  {
-   "source": "السومرية",
-   "title": "وزير الدفاع يصدر امرا الى القطعات العسكرية",
-   "link": "https://www.alsumaria.tv/news/security/582179/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%8a%d8%b5%d8%af%d8%b1-%d8%a7%d9%85%d8%b1%d8%a7-%d8%a7%d9%84%d9%89-%d8%a7%d9%84%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795521507
-  },
-  {
-   "source": "السومرية",
-   "title": "بارزاني: بيان بغداد اليوم غير مقبول",
-   "link": "https://www.alsumaria.tv/news/politics/582178/%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d9%86%d9%8a-%d8%a8%d9%8a%d8%a7%d9%86-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%ba%d9%8a%d8%b1-%d9%85%d9%82%d8%a8%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795521416
-  },
-  {
-   "source": "السومرية",
-   "title": "صحة غزة تعلن حالة \"الإنذار الوبائي\" جراء ارتفاع إصابات التهاب السحايا",
-   "link": "https://www.alsumaria.tv/news/international/582177/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%ad%d8%a7%d9%84%d8%a9-quot%d8%a7%d9%84%d8%a5%d9%86%d8%b0%d8%a7%d8%b1-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8aquot-%d8%ac%d8%b1%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795520324
-  },
-  {
-   "source": "المدى",
-   "title": "إيران تشترط سبعة مطالب لفتح \"هرمز\" وتتوعد برد بلا قيود جغرافية",
-   "link": "https://almadapaper.net/462469/",
-   "ts": 1795519911
-  },
-  {
-   "source": "المدى",
-   "title": "رواتب معلّقة منذ سنوات.. لجنة حكومية تتحرك لحسم ملف 36 ألف راتب للشهداء والجرحى في الأنبار",
-   "link": "https://almadapaper.net/462466/",
-   "ts": 1795517662
   }
  ]
 }
