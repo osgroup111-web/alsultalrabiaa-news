@@ -1,11 +1,113 @@
 {
- "updated": 1795520270,
+ "updated": 1795524291,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "ديالى تعد مشاريع بـ600 مليار دينار وتؤكد خلوها من \"بشاعة\" تهريب النفط",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AF%D9%8A%D8%A7%D9%84%D9%89-%D8%AA%D8%B9%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A8%D9%80600-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%88%D8%AA-%D9%83%D8%AF-%D8%AE%D9%84%D9%88%D9%87%D8%A7-%D9%85%D9%86-%D8%A8%D8%B4%D8%A7%D8%B9%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
+   "ts": 1795524055
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الأنبار.. سحب يد قائممقام هيت ومديري البلدية والمجاري لمدة 30 يوماً (تحديث)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D8%B5%D9%8A%D8%A9-%D8%A8%D8%B3%D8%AD%D8%A8-%D9%8A%D8%AF-%D9%85%D8%B3-%D9%88%D9%84%D9%8A%D9%86-%D9%85%D8%AD%D9%84%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D9%87%D9%88%D9%84%D8%A9",
+   "ts": 1795523648
+  },
+  {
+   "source": "المدى",
+   "title": "عدادات ذكية للجميع وخفض الضائعات إلى 10%.. الكهرباء تطلق عقود الامتياز",
+   "link": "https://almadapaper.net/462478/",
+   "ts": 1795523567
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "محافظ بابل الجديد يضع أولويات المشاريع على طاولة مجلس الوزراء",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B6%D8%B9-%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7",
+   "ts": 1795523226
+  },
+  {
+   "source": "السومرية",
+   "title": "استهداف ثلاث سفن بمقذوفات مجهولة في مضيق هرمز واندلاع حريق بسفينة قبالة خورفكان",
+   "link": "https://www.alsumaria.tv/news/international/582180/%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%ab%d9%84%d8%a7%d8%ab-%d8%b3%d9%81%d9%86-%d8%a8%d9%85%d9%82%d8%b0%d9%88%d9%81%d8%a7%d8%aa-%d9%85%d8%ac%d9%87%d9%88%d9%84%d8%a9-%d9%81%d9%8a-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2-%d9%88%d8%a7%d9%86%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795522910
+  },
+  {
+   "source": "المدى",
+   "title": "إخلاء المدن من القطعات العسكرية.. توجيهات جديدة من وزير الدفاع",
+   "link": "https://almadapaper.net/462475/",
+   "ts": 1795522579
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الدفاع العراقية تأمر الجيش بالتهيؤ لمغادرة المدن والتوجه نحو الحدود",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA-%D9%85%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A8%D8%A7%D9%84%D8%AA%D9%87%D9%8A-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%87-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF",
+   "ts": 1795521887
+  },
+  {
+   "source": "المدى",
+   "title": "بعد قرارات الزيدي بشأن النفط والمنافذ.. بارزاني: بيان بغداد غير مقبول ونرفض الإجراءات الأحادية",
+   "link": "https://almadapaper.net/462472/",
+   "ts": 1795521873
+  },
+  {
+   "source": "السومرية",
+   "title": "وزير الدفاع يصدر امرا الى القطعات العسكرية",
+   "link": "https://www.alsumaria.tv/news/security/582179/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%8a%d8%b5%d8%af%d8%b1-%d8%a7%d9%85%d8%b1%d8%a7-%d8%a7%d9%84%d9%89-%d8%a7%d9%84%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795521507
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مسرور بارزاني يرفض قرارات بغداد ويدعو إلى توحيد الصف الكوردستاني",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%85%D8%B3%D8%B1%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D8%B1%D9%81%D8%B6-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%89-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%D9%8A",
+   "ts": 1795521475
+  },
+  {
+   "source": "السومرية",
+   "title": "بارزاني: بيان بغداد اليوم غير مقبول",
+   "link": "https://www.alsumaria.tv/news/politics/582178/%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d9%86%d9%8a-%d8%a8%d9%8a%d8%a7%d9%86-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%ba%d9%8a%d8%b1-%d9%85%d9%82%d8%a8%d9%88%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795521416
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "(خاص) الحسناوي وعبد الجبار مرشحان لخلافة مصطفى سند وبدر تسمي بديل الحسني",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%AE%D8%A7%D8%B5-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D9%88%D9%8A-%D9%88%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%B1-%D9%85%D8%B1%D8%B4%D8%AD%D8%A7%D9%86-%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A9-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%B3%D9%86%D8%AF-%D9%88%D8%A8%D8%AF%D8%B1-%D8%AA%D8%B3%D9%85%D9%8A-%D8%A8%D8%AF%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D9%8A",
+   "ts": 1795521144
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تحديات الشحن والقدرة الشرائية.. معرض أربيل الدولي يفتح منافذ جديدة للصناعات الغذائية",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AD%D9%86-%D9%88%D8%A7%D9%84%D9%82%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7-%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D8%B6-%D8%B1%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7-%D9%8A%D8%A9",
+   "ts": 1795520886
+  },
+  {
+   "source": "السومرية",
+   "title": "صحة غزة تعلن حالة \"الإنذار الوبائي\" جراء ارتفاع إصابات التهاب السحايا",
+   "link": "https://www.alsumaria.tv/news/international/582177/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%ad%d8%a7%d9%84%d8%a9-quot%d8%a7%d9%84%d8%a5%d9%86%d8%b0%d8%a7%d8%b1-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8aquot-%d8%ac%d8%b1%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795520324
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تحرك نيابي لتشكيل لجنة مشتركة مع الحكومة للحد من ارتفاع الأسعار",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%AA%D8%AD%D8%B1%D9%83-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A-%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%84%D8%AC%D9%86%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%84%D9%84%D8%AD%D8%AF-%D9%85%D9%86-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84-%D8%B3%D8%B9%D8%A7%D8%B1",
+   "ts": 1795520195
+  },
+  {
+   "source": "السومرية",
+   "title": "نقابة الصحفيين تعلن دعمها لقرارات الزيدي بشأن حماية الثروات الوطنية ومكافحة تهريب النفط",
+   "link": "https://www.alsumaria.tv/news/localnews/582176/%d9%86%d9%82%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a%d9%8a%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%af%d8%b9%d9%85%d9%87%d8%a7-%d9%84%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d8%a8%d8%b4%d8%a3%d9%86-%d8%ad%d9%85%d8%a7%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795520160
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مقرها النجف.. كلية عسكرية جديدة للمسيّرات والذكاء الاصطناعي (وثيقة)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D9%82%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%83%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D9%8A-%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AB%D9%8A%D9%82%D8%A9",
+   "ts": 1795520045
+  },
   {
    "source": "المدى",
    "title": "إيران تشترط سبعة مطالب لفتح \"هرمز\" وتتوعد برد بلا قيود جغرافية",
@@ -79,52 +181,10 @@
    "ts": 1795515644
   },
   {
-   "source": "شفق نيوز",
-   "title": "أربيل تستعد لاستقبال 2027 بأكبر مهرجان لرأس السنة بمشاركة 50 فناناً",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-2027-%D8%A8-%D9%83%D8%A8%D8%B1-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D9%84%D8%B1-%D8%B3-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-50-%D9%81%D9%86%D8%A7%D9%86%D8%A7",
-   "ts": 1795515632
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بلمسات فنية ومجسمات تراثية.. فنان كوردي يعيد بناء ذاكرة كركوك (صور)",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A8%D9%84%D9%85%D8%B3%D8%A7%D8%AA-%D9%81%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D8%AC%D8%B3%D9%85%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%86%D8%A7%D9%86-%D9%83%D9%88%D8%B1%D8%AF%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A8%D9%86%D8%A7-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%B5%D9%88%D8%B1",
-   "ts": 1795514833
-  },
-  {
    "source": "المدى",
    "title": "أمانة بغداد تفرض غرامات تصل إلى 5 ملايين دينار على مشوّهي الشوارع والساحات العامة",
    "link": "https://almadapaper.net/462446/",
    "ts": 1795514412
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "25 شركة سورية تستعد للمشاركة في معرض بغداد الدولي لتعزيز حضورها بالسوق العراقية",
-   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/25-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D8%B6%D9%88%D8%B1%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-   "ts": 1795514086
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "العملة الإيرانية تتراجع مجدداً.. الدولار يتجاوز 282 ألف تومان",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A9-%D8%A7%D9%84-%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-282-%D9%84%D9%81-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-   "ts": 1795514083
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عكس الأسواق العالمية.. أسعار المشتقات النفطية تسجل ارتفاعاً في إقليم كوردستان",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B9%D9%83%D8%B3-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7-%D9%81%D9%8A-%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-   "ts": 1795514020
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ارتفاع أسعار الذهب في بغداد وأربيل",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-8-4",
-   "ts": 1795513393
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بغداد تحتضن مؤتمر الأمم المتحدة لتعزيز الدعم الدولي لضحايا الإرهاب مطلع الشهر المقبل",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85-%D8%AA%D9%85%D8%B1-%D8%A7%D9%84-%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84-%D8%B1%D9%87%D8%A7%D8%A8-%D9%85%D8%B7%D9%84%D8%B9-%D8%A7%D9%84%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-   "ts": 1795513045
   },
   {
    "source": "السومرية",
@@ -133,46 +193,10 @@
    "ts": 1795512778
   },
   {
-   "source": "السومرية",
-   "title": "اسعار جديدة للدولار امام الدينار العراقي",
-   "link": "https://www.alsumaria.tv/news/economy/582144/%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%a7%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%8a%d9%86%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795512669
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "سجاد كرمانشاه.. صرخة من أعماق أربعة قرون لاستعادة مكانته في الأسواق العالمية",
-   "link": "https://shafaq.com/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A/%D8%B3%D8%AC%D8%A7%D8%AF-%D9%83%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B5%D8%B1%D8%AE%D8%A9-%D9%85%D9%86-%D8%B9%D9%85%D8%A7%D9%82-%D8%B1%D8%A8%D8%B9%D8%A9-%D9%82%D8%B1%D9%88%D9%86-%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D9%85%D9%83%D8%A7%D9%86%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84-%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
-   "ts": 1795512344
-  },
-  {
    "source": "المدى",
    "title": "الدولار يلامس 170 ألف دينار لكل 100 دولار في الأسواق المحلية",
    "link": "https://almadapaper.net/462441/",
    "ts": 1795512183
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تكليف الفريق الركن محمد جاسم الزبيدي قائداً لعمليات كركوك",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B1%D9%83%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%AC%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%AF%D9%8A-%D9%82%D8%A7-%D8%AF%D8%A7-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-   "ts": 1795512123
-  },
-  {
-   "source": "السومرية",
-   "title": "القائد العام يكلف الفريق الركن محمد جاسم الزبيدي قائداً لعمليات كركوك",
-   "link": "https://www.alsumaria.tv/news/security/582131/%d8%a7%d9%84%d9%82%d8%a7%d8%a6%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%8a%d9%83%d9%84%d9%81-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%83%d9%86-%d9%85%d8%ad%d9%85%d8%af-%d8%ac%d8%a7%d8%b3%d9%85-%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a-%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795511430
-  },
-  {
-   "source": "السومرية",
-   "title": "اعادة فتح جسر الجمهورية وسط بغداد",
-   "link": "https://www.alsumaria.tv/news/localnews/582106/%d8%a7%d8%b9%d8%a7%d8%af%d8%a9-%d9%81%d8%aa%d8%ad-%d8%ac%d8%b3%d8%b1-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%b3%d8%b7-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795511295
-  },
-  {
-   "source": "السومرية",
-   "title": "الرجال مقابل المال.. كيف تحوّل إرسال المقاتلين السودانيين إلى اليمن إلى مصدر أرباح لجنرالات الجيش؟",
-   "link": "https://www.alsumaria.tv/news/international/582105/%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d9%85%d9%82%d8%a7%d8%a8%d9%84-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%91%d9%84-%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%aa%d9%84%d9%8a%d9%86-%d8%a7%d9%84%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795510183
   },
   {
    "source": "المدى",
@@ -181,34 +205,10 @@
    "ts": 1795509914
   },
   {
-   "source": "السومرية",
-   "title": "بالصور.. قطع جسر رئيسي في بغداد",
-   "link": "https://www.alsumaria.tv/news/localnews/582104/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d9%82%d8%b7%d8%b9-%d8%ac%d8%b3%d8%b1-%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795508761
-  },
-  {
    "source": "المدى",
    "title": "تظاهرة حاشدة لأصحاب العقود والأجراء اليوميين تغلق جسر الجمهورية وسط بغداد(صور)",
    "link": "https://almadapaper.net/462430/",
    "ts": 1795508335
-  },
-  {
-   "source": "المدى",
-   "title": "قرارات حكومية واسعة لملاحقة تهريب النفط.. إقالة قادة أمنيين وإعفاء مسؤولين",
-   "link": "https://almadapaper.net/462426/",
-   "ts": 1795507222
-  },
-  {
-   "source": "المدى",
-   "title": "خزين العراق المائي يتجاوز 30 مليار متر مكعب والموارد تضع خطة لمواجهة الفيضانات",
-   "link": "https://almadapaper.net/462423/",
-   "ts": 1795505559
-  },
-  {
-   "source": "المدى",
-   "title": "المالية تعلن صرف أكثر من تريليون و191 مليار دينار للبصرة خلال 2026",
-   "link": "https://almadapaper.net/462420/",
-   "ts": 1795503739
   }
  ]
 }
