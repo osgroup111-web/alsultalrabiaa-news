@@ -1,5 +1,5 @@
 {
- "updated": 1795634986,
+ "updated": 1795638354,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -8,15 +8,105 @@
  "items": [
   {
    "source": "المدى",
-   "title": "الرئاسات الأربع ترحب بحوار وطني لحل الأزمة بين بغداد وأربيل وتدعو إلى الإسراع بإقرار الموازنة",
-   "link": "https://almadapaper.net/462808/",
-   "ts": 1795634853
+   "title": "حين تعود الحفيدة إلى وطن الجد... التاريخ ينصف من جديد",
+   "link": "https://almadapaper.net/462734/",
+   "ts": 1795638240
   },
   {
    "source": "المدى",
-   "title": "دعوات لحسم ملفات النفط العالقة بعيداً عن المساومات السياسية",
-   "link": "https://almadapaper.net/462804/",
-   "ts": 1795634453
+   "title": "المعتزلة.. موقعهم بين الكلام والفلسفة",
+   "link": "https://almadapaper.net/462732/",
+   "ts": 1795638180
+  },
+  {
+   "source": "المدى",
+   "title": "سوريا والعراق: ساحتا التنافس الأبرز",
+   "link": "https://almadapaper.net/462730/",
+   "ts": 1795638000
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "العراق يعزي مصر بضحايا حريق الجيزة",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D8%B2%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9",
+   "ts": 1795637683
+  },
+  {
+   "source": "المدى",
+   "title": "مشروع استراتيجي بـ168 مليار دينار لإنصاف المكونات..وحقوقيون يطالبون بـ\"الإصلاح التشريعي\" قبل التنفيذ",
+   "link": "https://almadapaper.net/462716/",
+   "ts": 1795637460
+  },
+  {
+   "source": "السومرية",
+   "title": "العراق يعلن تضامنه مع مصر بعد حادث الجيزة",
+   "link": "https://www.alsumaria.tv/news/politics/582343/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d8%b6%d8%a7%d9%85%d9%86%d9%87-%d9%85%d8%b9-%d9%85%d8%b5%d8%b1-%d8%a8%d8%b9%d8%af-%d8%ad%d8%a7%d8%af%d8%ab-%d8%a7%d9%84%d8%ac%d9%8a%d8%b2%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795637331
+  },
+  {
+   "source": "المدى",
+   "title": "اتفاقيات مع الهند تفتح آفاقاً جديدة للسياحة في نيبال",
+   "link": "https://almadapaper.net/462794/",
+   "ts": 1795637100
+  },
+  {
+   "source": "المدى",
+   "title": "علاجات متقدمة لسرطانات الدم في مستشفى أجيبادم بتركيا",
+   "link": "https://almadapaper.net/462709/",
+   "ts": 1795637040
+  },
+  {
+   "source": "المدى",
+   "title": "إيران: مستعدون لتحمل الحصار الأميركي ونسعى لكبح الأسعار",
+   "link": "https://almadapaper.net/462728/",
+   "ts": 1795637040
+  },
+  {
+   "source": "المدى",
+   "title": "الأمم المتحدة تدعو للتحرك لمنع \"جرائم وحشية\" إسرائيلية بغزة",
+   "link": "https://almadapaper.net/462726/",
+   "ts": 1795636980
+  },
+  {
+   "source": "المدى",
+   "title": "زيلينسكي يعلن مسؤولية أوكرانيا عن استهداف سفينة روسية فى خليج فنلندا",
+   "link": "https://almadapaper.net/462724/",
+   "ts": 1795636920
+  },
+  {
+   "source": "المدى",
+   "title": "الصين تعيد ترتيب محركات اقتصادها.. الصادرات والطاقة النظيفة تعززان قدرتها على مواجهة التحديات",
+   "link": "https://almadapaper.net/462718/",
+   "ts": 1795636860
+  },
+  {
+   "source": "السومرية",
+   "title": "سوريا.. مسلحون يفجرون أنفسهم بنقطة للأمن في حي مشيرفة",
+   "link": "https://www.alsumaria.tv/news/international/582342/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%85%d8%b3%d9%84%d8%ad%d9%88%d9%86-%d9%8a%d9%81%d8%ac%d8%b1%d9%88%d9%86-%d8%a3%d9%86%d9%81%d8%b3%d9%87%d9%85-%d8%a8%d9%86%d9%82%d8%b7%d8%a9-%d9%84%d9%84%d8%a3%d9%85%d9%86-%d9%81%d9%8a-%d8%ad%d9%8a-%d9%85%d8%b4%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795636800
+  },
+  {
+   "source": "السومرية",
+   "title": "برشلونة يحقق فوزاً كبيراً على صباح في دوري أبطال أوروبا",
+   "link": "https://www.alsumaria.tv/Entertainment-News/582341/sports/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%8a%d8%ad%d9%82%d9%82-%d9%81%d9%88%d8%b2%d8%a7%d9%8b-%d9%83%d8%a8%d9%8a%d8%b1%d8%a7%d9%8b-%d8%b9%d9%84%d9%89-%d8%b5%d8%a8%d8%a7%d8%ad-%d9%81%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795636108
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "برشلونة يكتسح صباح برباعية في باكو ويعزز حظوظه الأوروبية",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D9%83%D8%AA%D8%B3%D8%AD-%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A8%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%A7%D9%83%D9%88-%D9%88%D9%8A%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B8%D9%88%D8%B8%D9%87-%D8%A7%D9%84-%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+   "ts": 1795635595
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مصر.. 55 قتيلاً ومصاباً بحادث سير في الجيزة (تحديث)",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D8%B5%D8%B1-45-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%A8%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+   "ts": 1795635290
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مقتل وإصابة 7 عناصر باستهداف مقر أمني بدراجة مفخخة في الحسكة بسوريا (تحديث)",
+   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%82%D8%B1-%D9%85%D9%86%D9%8A-%D8%A8%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%85%D9%81%D8%AE%D8%AE%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+   "ts": 1795634914
   },
   {
    "source": "شفق نيوز",
@@ -47,12 +137,6 @@
    "title": "قائد سنتكوم: ندعم سوريا بإحباط تهريب السلاح من الحرس الثوري للبنان",
    "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D9%82%D8%A7-%D8%AF-%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D9%86%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8-%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86",
    "ts": 1795632883
-  },
-  {
-   "source": "المدى",
-   "title": "ئاميدي يتعهد بتفعيل صلاحياته الدستورية قائداً أعلى للقوات المسلحة",
-   "link": "https://almadapaper.net/462707/",
-   "ts": 1795632200
   },
   {
    "source": "شفق نيوز",
@@ -109,34 +193,10 @@
    "ts": 1795628848
   },
   {
-   "source": "المدى",
-   "title": "تأشيرة عند الوصول بين بغداد والقاهرة.. ما تفاصيل الاتفاق؟",
-   "link": "https://almadapaper.net/462704/",
-   "ts": 1795628702
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "\"فلاي أربيل\" تدشن أولى رحلاتها إلى مطار بيروت",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%81%D9%84%D8%A7%D9%8A-%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D8%AF%D8%B4%D9%86-%D9%88%D9%84%D9%89-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
-   "ts": 1795627877
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "حكومة الزيدي تطلق منصة وطنية للمرأة ومبادرة بـ5 مليارات دينار",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B1-%D8%A9-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D9%805-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1",
-   "ts": 1795627724
-  },
-  {
    "source": "السومرية",
    "title": "ترامب: الأسهم تراجعت بشكل حاد بسبب نتائج الانتخابات",
    "link": "https://www.alsumaria.tv/news/international/582334/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a7%d9%84%d8%a3%d8%b3%d9%87%d9%85-%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9%d8%aa-%d8%a8%d8%b4%d9%83%d9%84-%d8%ad%d8%a7%d8%af-%d8%a8%d8%b3%d8%a8%d8%a8-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795627522
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "زيباري: أزمة بغداد واربيل تكمن في تعطيل الدستور وتراجع مبدأ الشراكة",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%B2%D9%8A%D8%A8%D8%A7%D8%B1%D9%8A-%D8%B2%D9%85%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D8%B1%D8%A8%D9%8A%D9%84-%D8%AA%D9%83%D9%85%D9%86-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%88%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%A8%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9",
-   "ts": 1795627154
   },
   {
    "source": "السومرية",
@@ -149,66 +209,6 @@
    "title": "طالبة إيرانية تصرخ في وجه بزشكيان",
    "link": "https://www.alsumaria.tv/news/international/582332/%d8%b7%d8%a7%d9%84%d8%a8%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d8%b1%d8%ae-%d9%81%d9%8a-%d9%88%d8%ac%d9%87-%d8%a8%d8%b2%d8%b4%d9%83%d9%8a%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795626731
-  },
-  {
-   "source": "السومرية",
-   "title": "إيران تتهم \"إسرائيل\": تسعى لجر واشنطن إلى حرب جديدة",
-   "link": "https://www.alsumaria.tv/news/international/582331/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%aa%d9%87%d9%85-quot%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84quot-%d8%aa%d8%b3%d8%b9%d9%89-%d9%84%d8%ac%d8%b1-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%a5%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795626557
-  },
-  {
-   "source": "السومرية",
-   "title": "في الصين.. بيانات تسجل أعلى مستوى للتضخم",
-   "link": "https://www.alsumaria.tv/news/international/582330/%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%84%d9%84%d8%aa%d8%b6%d8%ae%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795626364
-  },
-  {
-   "source": "المدى",
-   "title": "مستشار الأمن القومي: الاختلاف مصدر قوة وليس تهديداً للمجتمع العراقي",
-   "link": "https://almadapaper.net/462699/",
-   "ts": 1795625936
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "بعد الاعتراض.. احتساب التعادل للعراق والأرجنتين بكأس العالم لكرة القدم لقصار القامة",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%A7%D8%AD%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84-%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D9%83-%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%84%D9%82%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%A9",
-   "ts": 1795625805
-  },
-  {
-   "source": "السومرية",
-   "title": "القضاء اللبناني يلاحق 8 من حزب الله",
-   "link": "https://www.alsumaria.tv/news/international/582329/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a-%d9%8a%d9%84%d8%a7%d8%ad%d9%82-8-%d9%85%d9%86-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%84%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795625481
-  },
-  {
-   "source": "المدى",
-   "title": "غادة العاملي تطرح رؤية ميدانية لمناهضة العنف ضد المرأة",
-   "link": "https://almadapaper.net/462673/",
-   "ts": 1795622781
-  },
-  {
-   "source": "المدى",
-   "title": "نتائج الدور الثالث المهني متاحة الآن.. التربية تنشر الرابط",
-   "link": "https://almadapaper.net/462696/",
-   "ts": 1795622282
-  },
-  {
-   "source": "المدى",
-   "title": "مركز حقوقي يحذر من تصاعد التحريض القومي والطائفي في العراق",
-   "link": "https://almadapaper.net/462672/",
-   "ts": 1795620762
-  },
-  {
-   "source": "المدى",
-   "title": "بغداد وأنقرة تبحثان وضع حجر الأساس لطريق التنمية مطلع 2027",
-   "link": "https://almadapaper.net/462669/",
-   "ts": 1795618762
-  },
-  {
-   "source": "المدى",
-   "title": "حكومة الإقليم ترفض لغة التهديد وتتمسك بالحوار تحت سقف الدستور",
-   "link": "https://almadapaper.net/462666/",
-   "ts": 1795616947
   }
  ]
 }
