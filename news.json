@@ -1,11 +1,89 @@
 {
- "updated": 1795586022,
+ "updated": 1795590137,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "استعدوا للأمطار.. العراق أمام تقلبات جوية تبدأ الخميس وتشتد الأحد",
+   "link": "https://almadapaper.net/462624/",
+   "ts": 1795590040
+  },
+  {
+   "source": "السومرية",
+   "title": "أستراليا تستعيد 23 قطعة نقدية مسروقة من سفينة غارقة منذ أكثر من 300 عام",
+   "link": "https://www.alsumaria.tv/news/international/582219/%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d9%8a%d8%af-23-%d9%82%d8%b7%d8%b9%d8%a9-%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d9%85%d8%b3%d8%b1%d9%88%d9%82%d8%a9-%d9%85%d9%86-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%ba%d8%a7%d8%b1%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795589942
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أوروبا.. خطط لإنشاء صندوق تكنولوجي بقيمة 50 مليار يورو لمنافسة أميركا والصين",
+   "link": "https://shafaq.com/ar/%D9%85%D9%86%D9%88%D8%B9%D9%80%D8%A7%D8%AA/%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%84-%D9%86%D8%B4%D8%A7-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-50-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D9%8A%D9%88%D8%B1%D9%88-%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86",
+   "ts": 1795589803
+  },
+  {
+   "source": "السومرية",
+   "title": "محكمة أمريكية تدين \"هواوي\" بمساعدة إيران",
+   "link": "https://www.alsumaria.tv/news/international/582218/%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%af%d9%8a%d9%86-quot%d9%87%d9%88%d8%a7%d9%88%d9%8aquot-%d8%a8%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795589653
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مونديال قصار القامة.. العراق يرفض قرار \"التعادل\" ويتمسك بحقه في الفوز أمام الأرجنتين",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D9%82%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B1%D9%81%D8%B6-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%88%D9%8A%D8%AA%D9%85%D8%B3%D9%83-%D8%A8%D8%AD%D9%82%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D9%85%D8%A7%D9%85-%D8%A7%D9%84-%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
+   "ts": 1795589013
+  },
+  {
+   "source": "المدى",
+   "title": "الاستخبارات تلاحق فلول الإرهاب وتطيح بمتهمين اثنين في كركوك ونينوى",
+   "link": "https://almadapaper.net/462619/",
+   "ts": 1795588348
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "أربيل يواجه كاظمة الكويتي بطموح تحقيق الفوز في دوري أبطال الخليج",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B1%D8%A8%D9%8A%D9%84-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%83%D8%A7%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A-%D8%A8%D8%B7%D9%85%D9%88%D8%AD-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+   "ts": 1795587651
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "القضاء العراقي يرفع الحجز عن أموال وممتلكات رجل الأعمال فراس مجيسر (وثيق)",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D9%82%D8%B6%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%A8%D8%B1-%D8%B1%D8%AC%D9%84-%D8%A7%D9%84-%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D8%B3-%D9%85%D8%AC%D9%8A%D8%B3%D8%B1-%D9%88%D9%8A%D9%84%D8%BA%D9%8A-%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%84%D9%87-%D9%88%D9%85%D9%85%D8%AA%D9%84%D9%83%D8%A7%D8%AA%D9%87-%D9%88%D8%AB%D9%8A%D9%82%D8%A9",
+   "ts": 1795587455
+  },
+  {
+   "source": "السومرية",
+   "title": "جينيفر باريتو تتوّج بلقب ملكة جمال الكون 2026",
+   "link": "https://www.alsumaria.tv/news/miscellaneous/582217/%d8%ac%d9%8a%d9%86%d9%8a%d9%81%d8%b1-%d8%a8%d8%a7%d8%b1%d9%8a%d8%aa%d9%88-%d8%aa%d8%aa%d9%88%d9%91%d8%ac-%d8%a8%d9%84%d9%82%d8%a8-%d9%85%d9%84%d9%83%d8%a9-%d8%ac%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%83%d9%88%d9%86-2026?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795587233
+  },
+  {
+   "source": "المدى",
+   "title": "القضاء الأعلى يحذّر من تجاوز الدستور ويدعو بغداد وأربيل إلى الالتزام به",
+   "link": "https://almadapaper.net/462616/",
+   "ts": 1795586767
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "اجتماع مرتقب للرئاسات الأربع لبحث الملفات الأمنية وتوترات بغداد وأربيل",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%84%D9%84%D8%B1-%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84-%D8%B1%D8%A8%D8%B9-%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84-%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84",
+   "ts": 1795586583
+  },
+  {
+   "source": "السومرية",
+   "title": "اختراق يطال \"سي آي إيه\" ومكتب مسؤول استخباراتي أميركي بارز",
+   "link": "https://www.alsumaria.tv/news/international/582216/%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d9%8a%d8%b7%d8%a7%d9%84-quot%d8%b3%d9%8a-%d8%a2%d9%8a-%d8%a5%d9%8a%d9%87quot-%d9%88%d9%85%d9%83%d8%aa%d8%a8-%d9%85%d8%b3%d8%a4%d9%88%d9%84-%d8%a7%d8%b3%d8%aa%d8%ae?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795586040
+  },
+  {
+   "source": "السومرية",
+   "title": "القضاء يوجه دعوة الى الحكومة المركزية وحكومة إقليم كردستان وكافة القوى السياسية",
+   "link": "https://www.alsumaria.tv/news/politics/582215/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d9%8a%d9%88%d8%ac%d9%87-%d8%af%d8%b9%d9%88%d8%a9-%d8%a7%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d9%88%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a5%d9%82%d9%84%d9%8a%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795585887
+  },
   {
    "source": "شفق نيوز",
    "title": "القضاء الأعلى يدعو بغداد وأربيل والقوى السياسية للالتزام بالدستور",
@@ -53,12 +131,6 @@
    "title": "فائض المعروض يطغى على التوترات.. النفط يتراجع مع ترقب سياسة \"أوبك+\" لـ2027",
    "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%81%D8%A7-%D8%B6-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D8%B6-%D9%8A%D8%B7%D8%BA%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%82%D8%A8-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88%D8%A8%D9%83-%D9%84%D9%802027",
    "ts": 1795580590
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الحكومة العراقية: لا نستمد شرعية قراراتنا من الخارج ولا ننتظر تشجيعاً",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%84%D8%A7-%D9%86%D8%B3%D8%AA%D9%85%D8%AF-%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%D9%86%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC-%D9%88%D9%84%D8%A7-%D9%86%D9%86%D8%AA%D8%B8%D8%B1-%D8%AA%D8%B4%D8%AC%D9%8A%D8%B9%D8%A7",
-   "ts": 1795560577
   },
   {
    "source": "السومرية",
@@ -137,78 +209,6 @@
    "title": "العمودالثامن: فتوى الشهرستاني",
    "link": "https://almadapaper.net/462572/",
    "ts": 1795554360
-  },
-  {
-   "source": "المدى",
-   "title": "تسريح 80 % من عمال بعض المشاريع في المثنى.. و«التخطيط» تحذر من اتساع رقعة الفقر",
-   "link": "https://almadapaper.net/462598/",
-   "ts": 1795554360
-  },
-  {
-   "source": "المدى",
-   "title": "حفل موسيقي بلا حجاب ينتهي بـ370 جلدة في إيران",
-   "link": "https://almadapaper.net/462547/",
-   "ts": 1795554300
-  },
-  {
-   "source": "المدى",
-   "title": "مسرور بارزاني يشترط الاحتكام إلى الدستور لحل الخلافات",
-   "link": "https://almadapaper.net/462590/",
-   "ts": 1795554300
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "رئيس البرلمان العراقي يدعو إلى التهدئة بين بغداد وأربيل: لا أحد فوق الدستور",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B1-%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%87%D8%AF-%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-%D9%84%D8%A7-%D8%AD%D8%AF-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1",
-   "ts": 1795553561
-  },
-  {
-   "source": "السومرية",
-   "title": "الحلبوسي يدعو إلى تغليب المصلحة العليا للبلاد والابتعاد عن لغة التصعيد",
-   "link": "https://www.alsumaria.tv/news/politics/582207/%d8%a7%d9%84%d8%ad%d9%84%d8%a8%d9%88%d8%b3%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%aa%d8%ba%d9%84%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d9%84%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7-%d9%84%d9%84%d8%a8%d9%84%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795552732
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "برلمان كوردستان يدعو للتهدئة ويحث المؤسسات الاتحادية على الحوار المباشر والالتزام بالدستور",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D9%87%D8%AF-%D8%A9-%D9%88%D9%8A%D8%AD%D8%AB-%D8%A7%D9%84%D9%85-%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1",
-   "ts": 1795552655
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الحكومة العراقية تقر حزمة قرارات تشمل أجور المولدات والحنطة والمنافذ الحدودية",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%82%D8%B1-%D8%AD%D8%B2%D9%85%D8%A9-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B4%D9%85%D9%84-%D8%AC%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AD%D9%86%D8%B7%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9",
-   "ts": 1795552523
-  },
-  {
-   "source": "السومرية",
-   "title": "مجلس الوزراء يصدر قرارات عدة بينها يخص المولدات والمنافذ الحدودية",
-   "link": "https://www.alsumaria.tv/news/politics/582206/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%8a%d8%b5%d8%af%d8%b1-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d9%86%d9%87%d8%a7-%d9%8a%d8%ae%d8%b5-%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af%d8%a7%d8%aa-%d9%88%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795552192
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "أميركا تنفذ أكبر حملة ضد الاحتيال وتصادر نحو 17 مليار دولار",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D9%86%D9%81%D8%B0-%D9%83%D8%A8%D8%B1-%D8%AD%D9%85%D9%84%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D9%88%D8%AA%D8%B5%D8%A7%D8%AF%D8%B1-%D9%86%D8%AD%D9%88-17-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-   "ts": 1795551610
-  },
-  {
-   "source": "السومرية",
-   "title": "مصر.. قتلى وجرحى بتصادم حافلتين في أسوان",
-   "link": "https://www.alsumaria.tv/news/international/582205/%d9%85%d8%b5%d8%b1-%d9%82%d8%aa%d9%84%d9%89-%d9%88%d8%ac%d8%b1%d8%ad%d9%89-%d8%a8%d8%aa%d8%b5%d8%a7%d8%af%d9%85-%d8%ad%d8%a7%d9%81%d9%84%d8%aa%d9%8a%d9%86-%d9%81%d9%8a-%d8%a3%d8%b3%d9%88%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795551600
-  },
-  {
-   "source": "السومرية",
-   "title": "تكليف اللواء حسن كاظم رئيساً لهيئة المنافذ الحدودية",
-   "link": "https://www.alsumaria.tv/news/localnews/582204/%d8%aa%d9%83%d9%84%d9%8a%d9%81-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a1-%d8%ad%d8%b3%d9%86-%d9%83%d8%a7%d8%b8%d9%85-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a7%d9%8b-%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b0-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795549925
-  },
-  {
-   "source": "السومرية",
-   "title": "الداخلية تعلن تفكيك 6 شبكات تستغل النساء والأطفال في التسول",
-   "link": "https://www.alsumaria.tv/news/localnews/582203/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%81%d9%83%d9%8a%d9%83-6-%d8%b4%d8%a8%d9%83%d8%a7%d8%aa-%d8%aa%d8%b3%d8%aa%d8%ba%d9%84-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795549332
   }
  ]
 }
