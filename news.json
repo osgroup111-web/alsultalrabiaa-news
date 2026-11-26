@@ -1,11 +1,65 @@
 {
- "updated": 1795703276,
+ "updated": 1795707103,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "وزارة المالية تعلن اكتمال موازنة 2027",
+   "link": "https://www.alsumaria.tv/news/economy/582381/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d9%83%d8%aa%d9%85%d8%a7%d9%84-%d9%85%d9%88%d8%a7%d8%b2%d9%86%d8%a9-2027?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795706264
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "فصائل مسلحة تقود مظاهرة في الموصل لدعم إجراءات الزيدي",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%81%D8%B5%D8%A7-%D9%84-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%84%D8%AF%D8%B9%D9%85-%D8%AC%D8%B1%D8%A7-%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A",
+   "ts": 1795705757
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "السعودية: تعرض مصفاة جازان لاعتداء حوثي",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7-%D8%AD%D9%88%D8%AB%D9%8A",
+   "ts": 1795705485
+  },
+  {
+   "source": "المدى",
+   "title": "بغداد وأربيل تستعدان للحوار.. بارزاني ومعن يستبعدان المواجهة",
+   "link": "https://almadapaper.net/462834/",
+   "ts": 1795705098
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إغلاق معبر الوليد وتوجيه بغلق الممرات غير الرسمية بين أربيل ونينوى",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%82%D8%A7-%D8%AF-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%BA%D9%84%D9%82-%D8%A7%D9%84%D9%85%D9%85%D8%B1%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B1%D8%A8%D9%8A%D9%84-%D9%88%D9%86%D9%8A%D9%86%D9%88%D9%89",
+   "ts": 1795704839
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "لأول مرة.. النفط العراقية توجه بعقد اجتماع \"هيئة الرأي\" في كركوك",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%84-%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%88%D8%AC%D9%87-%D8%A8%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%87%D9%8A-%D8%A9-%D8%A7%D9%84%D8%B1-%D9%8A-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
+   "ts": 1795704824
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تجمع لأحزاب كوردية سورية: خلاف بغداد وأربيل لا يخدم الشعوب (صور)",
+   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%AA%D8%AC%D9%85%D8%B9-%D9%84-%D8%AD%D8%B2%D8%A7%D8%A8-%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%81-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-%D9%84%D8%A7-%D9%8A%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%A8-%D8%B5%D9%88%D8%B1",
+   "ts": 1795704450
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "فوزان و3 تعادلات بختام الجولة 14 من الدوري الممتاز لكرة القدم",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%81%D9%88%D8%B2%D8%A7%D9%86-%D9%883-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%A8%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-14-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
+   "ts": 1795704246
+  },
+  {
+   "source": "السومرية",
+   "title": "الزيدي: هناك من يريد زج أبناء شعبنا الكردي بأزمة التهريب لحماية نفوذه",
+   "link": "https://www.alsumaria.tv/news/localnews/582380/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%87%d9%86%d8%a7%d9%83-%d9%85%d9%86-%d9%8a%d8%b1%d9%8a%d8%af-%d8%b2%d8%ac-%d8%a3%d8%a8%d9%86%d8%a7%d8%a1-%d8%b4%d8%b9%d8%a8%d9%86%d8%a7-%d8%a7%d9%84%d9%83%d8%b1%d8%af%d9%8a-%d8%a8%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795703457
+  },
   {
    "source": "السومرية",
    "title": "القضاء يرد على طلب الحلبوسي بالتحقيق: لم يثبت وجود أنابيب لنقل النفط بالانبار",
@@ -79,28 +133,10 @@
    "ts": 1795698277
   },
   {
-   "source": "شفق نيوز",
-   "title": "الداخلية تُحدد 10 كانون الأول موعداً نهائياً لتسليم بيانات البطاقة الوطنية لمفوضية الانتخابات",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA-%D8%AD%D8%AF%D8%AF-10-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84-%D9%88%D9%84-%D9%85%D9%88%D8%B9%D8%AF%D8%A7-%D9%86%D9%87%D8%A7-%D9%8A%D8%A7-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
-   "ts": 1795697626
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "نيجيرفان بارزاني يُشدد على الحوار الدستوري بشأن قرارات بغداد الأخيرة",
-   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A-%D9%83%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%B1%D8%A8%D9%8A%D9%84-%D9%88%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-   "ts": 1795697098
-  },
-  {
    "source": "السومرية",
    "title": "الحمداني يخاطب رئيس الوزراء بشأن التنسيق بين قيادة عمليات بغداد والحكومة المحلية",
    "link": "https://www.alsumaria.tv/news/localnews/582375/%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d9%8a%d8%ae%d8%a7%d8%b7%d8%a8-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82-%d8%a8%d9%8a%d9%86-%d9%82%d9%8a%d8%a7%d8%af%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795696934
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "مسودة موازنة 2027.. دولار بـ1500 وضرائب على منازل ومشاهير واستقطاعات في الرواتب",
-   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D9%85%D8%B3%D9%88%D8%AF%D8%A9-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A8%D9%801500-%D9%88%D8%B6%D8%B1%D8%A7-%D8%A8-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%B7%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8",
-   "ts": 1795696917
   },
   {
    "source": "السومرية",
@@ -109,34 +145,16 @@
    "ts": 1795696792
   },
   {
-   "source": "شفق نيوز",
-   "title": "أهالي كوباني ينظمون مسيرة تضامنية دعماً لإقليم كوردستان",
-   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D9%87%D8%A7%D9%84%D9%8A-%D9%83%D9%88%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%86%D8%B8%D9%85%D9%88%D9%86-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AF%D8%B9%D9%85%D8%A7-%D9%84-%D9%82%D9%84%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-   "ts": 1795696634
-  },
-  {
    "source": "السومرية",
    "title": "الأمن الألماني يعتقل عراقيين بشبهة التخطيط لهجمات إرهابية",
    "link": "https://www.alsumaria.tv/news/international/582373/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d9%8a%d8%b9%d8%aa%d9%82%d9%84-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%8a%d9%86-%d8%a8%d8%b4%d8%a8%d9%87%d8%a9-%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7-%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795696112
   },
   {
-   "source": "شفق نيوز",
-   "title": "اعتقال مدير صيانة مشاريع الري والبزل في النجف بقضية تهريب النفط",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%AF%D9%8A%D8%B1-%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A8%D8%B2%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A8%D9%82%D8%B6%D9%8A%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
-   "ts": 1795695457
-  },
-  {
    "source": "السومرية",
    "title": "كوشنر يكشف العقبة الرئيسية أمام إنهاء النزاع في أوكرانيا",
    "link": "https://www.alsumaria.tv/news/international/582372/%d9%83%d9%88%d8%b4%d9%86%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d8%b9%d9%82%d8%a8%d8%a9-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d8%a7%d9%84%d9%86%d8%b2%d8%a7%d8%b9-%d9%81%d9%8a-%d8%a3%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795694908
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "وزارة النفط تُكلف مديراً جديداً لنفط الشمال وتستعد لعقد اجتماع لهيئة الرأي في كركوك",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA-%D9%83%D9%84%D9%81-%D9%85%D8%AF%D9%8A%D8%B1%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%88%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%B9%D9%82%D8%AF-%D9%87%D9%8A-%D8%A9-%D8%A7%D9%84%D8%B1-%D9%8A-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-   "ts": 1795694379
   },
   {
    "source": "السومرية",
@@ -149,18 +167,6 @@
    "title": "الداخلية تحسم الجدل بشأن مغادرة مدرب الزوراء الاراضي العراقية",
    "link": "https://www.alsumaria.tv/news/security/582371/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d8%a8%d8%b4%d8%a3%d9%86-%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%a9-%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d8%b2%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795693914
-  },
-  {
-   "source": "السومرية",
-   "title": "انفجار في مستودع نفطي بالعاصمة التايلاندية بانكوك وإصابة 7 أشخاص",
-   "link": "https://www.alsumaria.tv/news/international/582369/%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d8%b3%d8%aa%d9%88%d8%af%d8%b9-%d9%86%d9%81%d8%b7%d9%8a-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d9%84%d8%a7%d9%86%d8%af%d9%8a%d8%a9-%d8%a8%d8%a7%d9%86%d9%83%d9%88%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795693580
-  },
-  {
-   "source": "السومرية",
-   "title": "الزيدي: قرارات المحكمة الاتحادية أكدت مسؤولية الحكومة عن ضبط الحدود الدولية للعراق",
-   "link": "https://www.alsumaria.tv/news/politics/582368/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d8%a9-%d8%a3%d9%83%d8%af%d8%aa-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795692336
   },
   {
    "source": "المدى",
@@ -202,12 +208,6 @@
    "source": "المدى",
    "title": "\"أمان\" .. مبادرة من رئاسة الجمهورية للوصول إلى النساء الأكثر حاجة للحماية",
    "link": "https://almadapaper.net/462783/",
-   "ts": 1795639800
-  },
-  {
-   "source": "المدى",
-   "title": "اكتشاف أثري جديد في مدينة نينا السومرية وثلاث بعثات دولية تستعد للوصول إلى المحافظة",
-   "link": "https://almadapaper.net/462785/",
    "ts": 1795639800
   }
  ]
