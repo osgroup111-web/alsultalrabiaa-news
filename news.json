@@ -1,11 +1,65 @@
 {
- "updated": 1795711435,
+ "updated": 1795714731,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "أربعة انتصارات في الجولة 11 لدوري الصالات العراقي",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B1%D8%A8%D8%B9%D8%A9-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-11-%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
+   "ts": 1795714516
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "التربية تصدر توجيها بشأن انتشار مرض \"السحايا\" في مدارس واسط",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D8%A8%D8%B4-%D9%86-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%85%D8%B1%D8%B6-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%88%D8%A7%D8%B3%D8%B7",
+   "ts": 1795714466
+  },
+  {
+   "source": "السومرية",
+   "title": "التربية تصدر توجيهاً بعد تسجيل حالات إصابة بمرض السحايا في واسط",
+   "link": "https://www.alsumaria.tv/news/localnews/582391/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b5%d8%af%d8%b1-%d8%aa%d9%88%d8%ac%d9%8a%d9%87%d8%a7%d9%8b-%d8%a8%d8%b9%d8%af-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%ad%d8%a7%d9%84%d8%a7%d8%aa-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a8%d9%85%d8%b1%d8%b6-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795714248
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "حروب وتحولات كبرى.. أبرز 10 أحداث هزّت العالم في 2026",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AD%D8%B1%D9%88%D8%A8-%D9%88%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D9%83%D8%A8%D8%B1%D9%89-%D8%A8%D8%B1%D8%B2-10-%D8%AD%D8%AF%D8%A7%D8%AB-%D9%87%D8%B2-%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-2026",
+   "ts": 1795714208
+  },
+  {
+   "source": "السومرية",
+   "title": "ترامب يطالب بوتين بوقف عملياته في أوروبا",
+   "link": "https://www.alsumaria.tv/news/international/582390/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d8%a8%d9%88%d9%82%d9%81-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa%d9%87-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795713720
+  },
+  {
+   "source": "المدى",
+   "title": "قوات الحدود تعلن إغلاق منفذين حدوديين مع سوريا وإيران",
+   "link": "https://almadapaper.net/462848/",
+   "ts": 1795713260
+  },
+  {
+   "source": "السومرية",
+   "title": "إغلاق معبر حدودي بين العراق وسوريا",
+   "link": "https://www.alsumaria.tv/news/security/582389/%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d9%85%d8%b9%d8%a8%d8%b1-%d8%ad%d8%af%d9%88%d8%af%d9%8a-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795713188
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "عراقجي: الوسطاء مازالوا ينقلون الرسائل بين طهران وواشنطن",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D8%A7-%D9%85%D8%A7%D8%B2%D8%A7%D9%84%D9%88%D8%A7-%D9%8A%D9%86%D9%82%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7-%D9%84-%D8%A8%D9%8A%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
+   "ts": 1795713115
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "في گرمیان.. حرس الحدود الاتحادية تغلق معبر \"پشتە\" مع إيران",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D9%81%D9%8A-%D8%B1%D9%85-%D8%A7%D9%86-%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D8%AA%D8%BA%D9%84%D9%82-%D9%85%D8%B9%D8%A8%D8%B1-%D8%B4%D8%AA-%D9%85%D8%B9-%D9%8A%D8%B1%D8%A7%D9%86",
+   "ts": 1795711613
+  },
   {
    "source": "المدى",
    "title": "الحلبوسي يؤيد مبادرة زيدان لحل الخلافات بين بغداد وأربيل",
@@ -127,64 +181,16 @@
    "ts": 1795705098
   },
   {
-   "source": "شفق نيوز",
-   "title": "إغلاق معبر الوليد وتوجيه بغلق الممرات غير الرسمية بين أربيل ونينوى",
-   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%82%D8%A7-%D8%AF-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%BA%D9%84%D9%82-%D8%A7%D9%84%D9%85%D9%85%D8%B1%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B1%D8%A8%D9%8A%D9%84-%D9%88%D9%86%D9%8A%D9%86%D9%88%D9%89",
-   "ts": 1795704839
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "لأول مرة.. النفط العراقية توجه بعقد اجتماع \"هيئة الرأي\" في كركوك",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D9%84-%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%88%D8%AC%D9%87-%D8%A8%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%87%D9%8A-%D8%A9-%D8%A7%D9%84%D8%B1-%D9%8A-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-   "ts": 1795704824
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تجمع لأحزاب كوردية سورية: خلاف بغداد وأربيل لا يخدم الشعوب (صور)",
-   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%AA%D8%AC%D9%85%D8%B9-%D9%84-%D8%AD%D8%B2%D8%A7%D8%A8-%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%81-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-%D9%84%D8%A7-%D9%8A%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%A8-%D8%B5%D9%88%D8%B1",
-   "ts": 1795704450
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "فوزان و3 تعادلات بختام الجولة 14 من الدوري الممتاز لكرة القدم",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D9%81%D9%88%D8%B2%D8%A7%D9%86-%D9%883-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%A8%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-14-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
-   "ts": 1795704246
-  },
-  {
    "source": "السومرية",
    "title": "الزيدي: هناك من يريد زج أبناء شعبنا الكردي بأزمة التهريب لحماية نفوذه",
    "link": "https://www.alsumaria.tv/news/localnews/582380/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%87%d9%86%d8%a7%d9%83-%d9%85%d9%86-%d9%8a%d8%b1%d9%8a%d8%af-%d8%b2%d8%ac-%d8%a3%d8%a8%d9%86%d8%a7%d8%a1-%d8%b4%d8%b9%d8%a8%d9%86%d8%a7-%d8%a7%d9%84%d9%83%d8%b1%d8%af%d9%8a-%d8%a8%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795703457
   },
   {
-   "source": "السومرية",
-   "title": "القضاء يرد على طلب الحلبوسي بالتحقيق: لم يثبت وجود أنابيب لنقل النفط بالانبار",
-   "link": "https://www.alsumaria.tv/news/localnews/582379/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d9%8a%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d8%a8%d9%88%d8%b3%d9%8a-%d8%a8%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%84%d9%85-%d9%8a%d8%ab%d8%a8%d8%aa-%d9%88%d8%ac%d9%88%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795702939
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الشرع يُعيّن القيادية الكوردية إلهام أحمد عضواً في مجلس الشعب السوري",
-   "link": "https://shafaq.com/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A-%D8%B9%D9%8A-%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D8%A9-%D9%84%D9%87%D8%A7%D9%85-%D8%AD%D9%85%D8%AF-%D8%B9%D8%B6%D9%88%D8%A7-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-   "ts": 1795702355
-  },
-  {
    "source": "المدى",
    "title": "القضاء: لا أنابيب لتهريب النفط في مواقع الأنبار.. وصهاريج الوليد حُمّلت من الناصرية",
    "link": "https://almadapaper.net/462831/",
    "ts": 1795701329
-  },
-  {
-   "source": "السومرية",
-   "title": "وقفة تضامنية في نينوى لاجراءات الزيدي في منع التهريب",
-   "link": "https://www.alsumaria.tv/news/localnews/582378/%d9%88%d9%82%d9%81%d8%a9-%d8%aa%d8%b6%d8%a7%d9%85%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d9%86%d9%8a%d9%86%d9%88%d9%89-%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%81%d9%8a-%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d8%aa%d9%87%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795701109
-  },
-  {
-   "source": "السومرية",
-   "title": "الإعلام والاتصالات تمنع الظهور الإعلامي لمقداد الحميدان وتمام عبد الحميد",
-   "link": "https://www.alsumaria.tv/news/localnews/582377/%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%aa%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d8%b8%d9%87%d9%88%d8%b1-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d9%84%d9%85%d9%82%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795700432
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "وزير الدفاع يصل إلى قيادة عمليات الجزيرة لتفقد القطعات ومتابعة واجباتها",
    "link": "https://almadapaper.net/462822/",
    "ts": 1795682976
-  },
-  {
-   "source": "المدى",
-   "title": "الزيدي يفتح جبهات بلا نهايات.. وكردستان تستحضر زمن \"مجلس قيادة الثورة\"",
-   "link": "https://almadapaper.net/462802/",
-   "ts": 1795640160
   }
  ]
 }
