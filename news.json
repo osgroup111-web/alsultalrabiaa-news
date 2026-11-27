@@ -1,11 +1,41 @@
 {
- "updated": 1795812429,
+ "updated": 1795816076,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "السومرية",
+   "title": "تقرير أممي: 1.4 مليون فلسطيني في غزة يواجهون انعداما حادا للأمن الغذائي",
+   "link": "https://www.alsumaria.tv/news/international/582461/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a3%d9%85%d9%85%d9%8a-14-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9-%d9%8a%d9%88%d8%a7%d8%ac%d9%87%d9%88%d9%86-%d8%a7%d9%86%d8%b9%d8%af%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795815146
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد التهاب السحايا.. واسط تدرس تعطيل دوام المدارس لمدة 10 أيام",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D8%B3%D8%B7-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D8%AF%D9%88%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%84%D9%85%D8%AF%D8%A9-10-%D9%8A%D8%A7%D9%85",
+   "ts": 1795813981
+  },
+  {
+   "source": "السومرية",
+   "title": "خمس دول توقع صفقة لشراء 400 مدرعة سويدية بأكثر من 61 مليار كرونة",
+   "link": "https://www.alsumaria.tv/news/international/582460/%d8%ae%d9%85%d8%b3-%d8%af%d9%88%d9%84-%d8%aa%d9%88%d9%82%d8%b9-%d8%b5%d9%81%d9%82%d8%a9-%d9%84%d8%b4%d8%b1%d8%a7%d8%a1-400-%d9%85%d8%af%d8%b1%d8%b9%d8%a9-%d8%b3%d9%88%d9%8a%d8%af%d9%8a%d8%a9-%d8%a8%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795813338
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "متابعة \"جدية\".. التهاب السحايا يثير قلق الأهالي في العراق",
+   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D9%8A%D8%A7-%D9%8A%D8%AB%D9%8A%D8%B1-%D9%82%D9%84%D9%82-%D8%A7%D9%84-%D9%87%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+   "ts": 1795813000
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "اليمن.. تحييد 121 حوثياً وسقوط ضحايا مدنيين بقصف للجماعة",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AA%D8%AD%D9%8A%D9%8A%D8%AF-121-%D8%AD%D9%88%D8%AB%D9%8A%D8%A7-%D9%88%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D8%A9",
+   "ts": 1795812980
+  },
   {
    "source": "السومرية",
    "title": "غرق مركب على متنه 13 مصريا قرب كوبا",
@@ -109,12 +139,6 @@
    "ts": 1795802871
   },
   {
-   "source": "شفق نيوز",
-   "title": "الصين وقرغيزستان تستضيفان بطولات كرة الصالات المقبلة",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D9%82%D8%B1%D8%BA%D9%8A%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81%D8%A7%D9%86-%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
-   "ts": 1795802690
-  },
-  {
    "source": "المدى",
    "title": "الكرمة يعزز صدارته لدوري النجوم بفوز ثمين على غاز الشمال",
    "link": "https://almadapaper.net/462923/",
@@ -125,12 +149,6 @@
    "title": "منع دخول واتلاف أربع شاحنات محملة بالبطاطا التالفة إلى العراق بمنفذ ربيعة",
    "link": "https://www.alsumaria.tv/news/localnews/582453/%d9%85%d9%86%d8%b9-%d8%af%d8%ae%d9%88%d9%84-%d9%88%d8%a7%d8%aa%d9%84%d8%a7%d9%81-%d8%a3%d8%b1%d8%a8%d8%b9-%d8%b4%d8%a7%d8%ad%d9%86%d8%a7%d8%aa-%d9%85%d8%ad%d9%85%d9%84%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d8%b7%d8%a7-%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%81%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795801559
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "دوري النجوم.. الكرمة يحقق فوزاً صعباً على غاز الشمال ويحافظ على الصدارة",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D8%A9-%D9%8A%D8%AD%D9%82%D9%82-%D9%81%D9%88%D8%B2%D8%A7-%D8%B5%D8%B9%D8%A8%D8%A7-%D8%B9%D9%84%D9%89-%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%88%D9%8A%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9",
-   "ts": 1795801527
   },
   {
    "source": "السومرية",
@@ -145,12 +163,6 @@
    "ts": 1795801016
   },
   {
-   "source": "شفق نيوز",
-   "title": "هزة أرضية بقوة 2.8 درجة تضرب غربي سنجار",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%87%D8%B2%D8%A9-%D8%B1%D8%B6%D9%8A%D8%A9-%D8%A8%D9%82%D9%88%D8%A9-2-8-%D8%AF%D8%B1%D8%AC%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%B3%D9%86%D8%AC%D8%A7%D8%B1",
-   "ts": 1795800935
-  },
-  {
    "source": "السومرية",
    "title": "المركزية الأمريكية: تعطيل سفينة بخليج عمان عقب مغادرتها ميناء إيراني",
    "link": "https://www.alsumaria.tv/news/international/582451/%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b7%d9%8a%d9%84-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%a8%d8%ae%d9%84%d9%8a%d8%ac-%d8%b9%d9%85%d8%a7%d9%86-%d8%b9%d9%82%d8%a8-%d9%85%d8%ba%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -163,22 +175,10 @@
    "ts": 1795798735
   },
   {
-   "source": "السومرية",
-   "title": "صحة النجف تكشف نتائج فحوصات جميع الحالات المشتبه بإصابتها بالسحايا",
-   "link": "https://www.alsumaria.tv/news/localnews/582450/%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%81-%d8%aa%d9%83%d8%b4%d9%81-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%81%d8%ad%d9%88%d8%b5%d8%a7%d8%aa-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%a8%d9%87-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795798442
-  },
-  {
    "source": "المدى",
    "title": "صحة الأنبار تضبط 120 طناً من صدور الدجاج المهربة وتتلفها",
    "link": "https://almadapaper.net/462905/",
    "ts": 1795797610
-  },
-  {
-   "source": "السومرية",
-   "title": "ضبط 36 ألف لتر من النفط الخام معدّة للتهريب والقبض على متهمين اثنين في كركوك",
-   "link": "https://www.alsumaria.tv/news/security/582448/%d8%b6%d8%a8%d8%b7-36-%d8%a3%d9%84%d9%81-%d9%84%d8%aa%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d9%85%d8%b9%d8%af%d9%91%d8%a9-%d9%84%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d9%88%d8%a7%d9%84%d9%82%d8%a8%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795796375
   },
   {
    "source": "المدى",
