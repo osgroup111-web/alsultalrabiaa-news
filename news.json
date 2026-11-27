@@ -1,11 +1,65 @@
 {
- "updated": 1795794689,
+ "updated": 1795798642,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "شفق نيوز",
+   "title": "الجيش الأميركي: تعطيل سفينة حاولت خرق حصار إيران",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%AE%D8%B1%D9%82-%D8%AD%D8%B5%D8%A7%D8%B1-%D9%8A%D8%B1%D8%A7%D9%86",
+   "ts": 1795798220
+  },
+  {
+   "source": "المدى",
+   "title": "صحة الأنبار تضبط 120 طناً من صدور الدجاج المهربة وتتلفها",
+   "link": "https://almadapaper.net/462905/",
+   "ts": 1795797610
+  },
+  {
+   "source": "السومرية",
+   "title": "ضبط 36 ألف لتر من النفط الخام معدّة للتهريب والقبض على متهمين اثنين في كركوك",
+   "link": "https://www.alsumaria.tv/news/security/582448/%d8%b6%d8%a8%d8%b7-36-%d8%a3%d9%84%d9%81-%d9%84%d8%aa%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d8%a7%d9%84%d8%ae%d8%a7%d9%85-%d9%85%d8%b9%d8%af%d9%91%d8%a9-%d9%84%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d9%88%d8%a7%d9%84%d9%82%d8%a8%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795796375
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إحباط محاولة تهريب مشتقات نفطية في كركوك",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D8%B4%D8%AA%D9%82%D8%A7%D8%AA-%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
+   "ts": 1795796371
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الزيدي يوجّه بتوحيد التعرفة الجمركية وزيادة حصة الدولار للمسافرين",
+   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%AC-%D9%87-%D8%A8%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D8%B1%D9%83%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AD%D8%B5%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86",
+   "ts": 1795795484
+  },
+  {
+   "source": "السومرية",
+   "title": "الزيدي يوجّه بتوحيد التعرفة الكمركية وزيادة الحصص النقدية من العملة الأجنبية للمسافرين",
+   "link": "https://www.alsumaria.tv/news/politics/582447/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d9%88%d8%ac%d9%91%d9%87-%d8%a8%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%b9%d8%b1%d9%81%d8%a9-%d8%a7%d9%84%d9%83%d9%85%d8%b1%d9%83%d9%8a%d8%a9-%d9%88%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ad%d8%b5%d8%b5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795795468
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "تايلور توجه أنظار ترمب نحو جنوب العراق وتذكره بموقف أميركي راسخ تجاه كوردستان",
+   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%AA%D8%A7%D9%8A%D9%84%D9%88%D8%B1-%D8%AA%D9%88%D8%AC%D9%87-%D9%86%D8%B8%D8%A7%D8%B1-%D8%AA%D8%B1%D9%85%D8%A8-%D9%86%D8%AD%D9%88-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%B0%D9%83%D8%B1%D9%87-%D8%A8%D9%85%D9%88%D9%82%D9%81-%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B1%D8%A7%D8%B3%D8%AE-%D8%AA%D8%AC%D8%A7%D9%87-%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
+   "ts": 1795795365
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مستشار مجتبى خامنئي: لن نفتح مضيق هرمز ولن نسمح باستمرار الحصار",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D9%85%D8%AC%D8%AA%D8%A8%D9%89-%D8%AE%D8%A7%D9%85%D9%86-%D9%8A-%D9%84%D9%86-%D9%86%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D9%84%D9%86-%D9%86%D8%B3%D9%85%D8%AD-%D8%A8%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1",
+   "ts": 1795794884
+  },
+  {
+   "source": "السومرية",
+   "title": "الاحد والاثنين.. البرلمان يعقد جلستين جديدتين بداية الأسبوع المقبل",
+   "link": "https://www.alsumaria.tv/news/politics/582446/%d8%a7%d9%84%d8%a7%d8%ad%d8%af-%d9%88%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d9%8a%d8%b9%d9%82%d8%af-%d8%ac%d9%84%d8%b3%d8%aa%d9%8a%d9%86-%d8%ac%d8%af%d9%8a%d8%af%d8%aa%d9%8a%d9%86-%d8%a8%d8%af%d8%a7%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795794616
+  },
   {
    "source": "المدى",
    "title": "الحرس الثوري يصعّد في هرمز ويتوعد بكسر الحصار البحري",
@@ -115,12 +169,6 @@
    "ts": 1795789275
   },
   {
-   "source": "شفق نيوز",
-   "title": "\"مملحة الشاري\" في صلاح الدين.. مصدر رزق وذاكرة لأبناء المنطقة",
-   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D9%85%D9%85%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%85%D8%B5%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D9%88%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%84-%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-   "ts": 1795788642
-  },
-  {
    "source": "السومرية",
    "title": "التربية تعتمد آلية جديدة لنماذج الأسئلة داخل القاعة الامتحانية",
    "link": "https://www.alsumaria.tv/news/localnews/582438/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d9%85%d8%af-%d8%a2%d9%84%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%a7%d9%84%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%af%d8%a7%d8%ae%d9%84-%d8%a7%d9%84%d9%82%d8%a7%d8%b9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -131,30 +179,6 @@
    "title": "النقل: قرارات حكومية تدعم استكمال شراء طائرات بوينغ وتحديث الأسطول",
    "link": "https://almadapaper.net/462903/",
    "ts": 1795788246
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "حكم مباراة زاخو وكربلاء يحتسب الأخير خاسراً بثلاثية نظيفة لعدم اكتمال صفوفه",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%AD%D9%83%D9%85-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B2%D8%A7%D8%AE%D9%88-%D9%88%D9%83%D8%B1%D8%A8%D9%84%D8%A7-%D9%8A%D8%AD%D8%AA%D8%B3%D8%A8-%D8%A7%D9%84-%D8%AE%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B3%D8%B1%D8%A7-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%86%D8%B8%D9%8A%D9%81%D8%A9-%D9%84%D8%B9%D8%AF%D9%85-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84-%D8%B5%D9%81%D9%88%D9%81%D9%87",
-   "ts": 1795787991
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "خريجو هندسة النفط في كركوك يتظاهرون للمطالبة بالتعيين",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%AE%D8%B1%D9%8A%D8%AC%D9%88-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D9%8A%D9%8A%D9%86",
-   "ts": 1795787342
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "رئيس الجمهورية من النجف: الحوار الوطني والالتزام بالدستور أساس بناء الدولة",
-   "link": "https://shafaq.com/ar/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%B1-%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%B3%D8%A7%D8%B3-%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-   "ts": 1795787104
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "ذوو \"شهداء الإرهاب\" يتظاهرون في الموصل احتجاجاً على شمولهم بالمساءلة والعدالة",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B0%D9%88%D9%88-%D8%B4%D9%87%D8%AF%D8%A7-%D8%A7%D9%84-%D8%B1%D9%87%D8%A7%D8%A8-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D8%B4%D9%85%D9%88%D9%84%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A7-%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%B5%D9%88%D8%B1",
-   "ts": 1795786755
   },
   {
    "source": "المدى",
@@ -169,28 +193,10 @@
    "ts": 1795786537
   },
   {
-   "source": "السومرية",
-   "title": "عقار تجريبي يبعث الأمل في نفوس المصابين بألزهايمر",
-   "link": "https://www.alsumaria.tv/news/miscellaneous/582432/%d8%b9%d9%82%d8%a7%d8%b1-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a-%d9%8a%d8%a8%d8%b9%d8%ab-%d8%a7%d9%84%d8%a3%d9%85%d9%84-%d9%81%d9%8a-%d9%86%d9%81%d9%88%d8%b3-%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%a8%d9%8a%d9%86-%d8%a8%d8%a3%d9%84%d8%b2%d9%87%d8%a7%d9%8a%d9%85%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795785180
-  },
-  {
    "source": "المدى",
    "title": "النجف توضح حقيقة أنباء وفاة مصابين بالتهاب السحايا",
    "link": "https://almadapaper.net/462898/",
    "ts": 1795783024
-  },
-  {
-   "source": "السومرية",
-   "title": "إطلاق استمارة التقديم إلى المقاعد الشاغرة في الجامعات والكليات الاهلية",
-   "link": "https://www.alsumaria.tv/news/localnews/582436/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%a7%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795781889
-  },
-  {
-   "source": "السومرية",
-   "title": "خطيب الكوفة يكشف عن ظاهرة خطيرة وينتقد استعداد بعض المتدينين لتبرير الفساد",
-   "link": "https://www.alsumaria.tv/news/politics/582435/%d8%ae%d8%b7%d9%8a%d8%a8-%d8%a7%d9%84%d9%83%d9%88%d9%81%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b8%d8%a7%d9%87%d8%b1%d8%a9-%d8%ae%d8%b7%d9%8a%d8%b1%d8%a9-%d9%88%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af-%d8%a8%d8%b9%d8%b6?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795781323
   },
   {
    "source": "المدى",
@@ -203,12 +209,6 @@
    "title": "نجل خليل الحية يتعرض لمحاولة اغتيال في غزة",
    "link": "https://almadapaper.net/462891/",
    "ts": 1795778258
-  },
-  {
-   "source": "المدى",
-   "title": "العراق يعيد تشغيل أنبوب النفط مع تركيا بعد 12 عاماً",
-   "link": "https://almadapaper.net/462888/",
-   "ts": 1795776089
   }
  ]
 }
