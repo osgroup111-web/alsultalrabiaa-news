@@ -1,11 +1,89 @@
 {
- "updated": 1795766909,
+ "updated": 1795771225,
  "sources": [
   "شفق نيوز",
   "السومرية",
   "المدى"
  ],
  "items": [
+  {
+   "source": "المدى",
+   "title": "التجارة: خزين الحنطة (4.7) ملايين طن ويكفي لما بعد موسم 2027",
+   "link": "https://almadapaper.net/462878/",
+   "ts": 1795771119
+  },
+  {
+   "source": "السومرية",
+   "title": "الإعلام الأمني: رصد المحتويات المسيئة للدولة والمؤسسات الأمنية وإحالتها إلى القضاء",
+   "link": "https://www.alsumaria.tv/news/security/582419/%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a-%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%a6%d8%a9-%d9%84%d9%84%d8%af%d9%88%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%a4?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795769993
+  },
+  {
+   "source": "السومرية",
+   "title": "الداخلية تعلن القبض على قاتل الرائد حسين الجابري وتسليمه إلى العراق",
+   "link": "https://www.alsumaria.tv/news/security/582418/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%b1%d8%a7%d8%a6%d8%af-%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1%d9%8a-%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795769901
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"غير صالحة للسكن\".. أدخنة المعامل وتصريحات البيئة تحاصر بسماية",
+   "link": "https://shafaq.com/ar/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA/%D8%BA%D9%8A%D8%B1-%D8%B5%D8%A7%D9%84%D8%AD%D8%A9-%D9%84%D9%84%D8%B3%D9%83%D9%86-%D8%AF%D8%AE%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84-%D9%88%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A-%D8%A9-%D8%AA%D8%AD%D8%A7%D8%B5%D8%B1-%D8%A8%D8%B3%D9%85%D8%A7%D9%8A%D8%A9",
+   "ts": 1795769702
+  },
+  {
+   "source": "المدى",
+   "title": "القبض على المتهم الرئيسي بتنفيذ عملية اغتيال الرائد حسين الجابري",
+   "link": "https://almadapaper.net/462875/",
+   "ts": 1795769254
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "\"فضيحة المخدرات\".. الإفراج عن 3 نجوم بشروط في تركيا",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%81%D8%B6%D9%8A%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-3-%D9%86%D8%AC%D9%88%D9%85-%D8%A8%D8%B4%D8%B1%D9%88%D8%B7-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+   "ts": 1795769253
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "الدفاع المدني في الأنبار يعالج 800 مخلف حربي",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84-%D9%86%D8%A8%D8%A7%D8%B1-%D9%8A%D8%B9%D8%A7%D9%84%D8%AC-800-%D9%85%D8%AE%D9%84%D9%81-%D8%AD%D8%B1%D8%A8%D9%8A",
+   "ts": 1795769118
+  },
+  {
+   "source": "السومرية",
+   "title": "حصيلة عمليات ملاحقة شبكات تهريب النفط ومشتقاته خلال 10 أشهر",
+   "link": "https://www.alsumaria.tv/news/security/582417/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d9%85%d9%84%d8%a7%d8%ad%d9%82%d8%a9-%d8%b4%d8%a8%d9%83%d8%a7%d8%aa-%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%88%d9%85%d8%b4%d8%aa%d9%82%d8%a7%d8%aa%d9%87-%d8%ae%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795768875
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "إيران تسلّم العراق المتهم باغتيال الرائد حسين الجابري",
+   "link": "https://shafaq.com/ar/%D8%A3%D9%85%D9%80%D9%86/%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D9%84-%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%AA%D9%84-%D8%A7%D9%84%D8%B1%D8%A7-%D8%AF-%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D8%A7%D8%A8%D8%B1%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D9%85%D9%86-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9",
+   "ts": 1795767791
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "صافرة عراقية في نصف نهائي آسيا للكرة الشاطئية.. الآسيوي يكلّف أكرم مهدي بقمة اليابان وعُمان",
+   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7-%D9%8A-%D8%B3%D9%8A%D8%A7-%D9%84%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7-%D9%8A%D8%A9-%D8%A7%D9%84-%D8%B3%D9%8A%D9%88%D9%8A-%D9%8A%D9%83%D9%84-%D9%81-%D9%83%D8%B1%D9%85-%D9%85%D9%87%D8%AF%D9%8A-%D8%A8%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D9%88%D8%B9-%D9%85%D8%A7%D9%86",
+   "ts": 1795767360
+  },
+  {
+   "source": "المدى",
+   "title": "رويترز: أمريكا تشجع العراق وفنزويلا على بحث الانسحاب من أوبك",
+   "link": "https://almadapaper.net/462872/",
+   "ts": 1795767170
+  },
+  {
+   "source": "السومرية",
+   "title": "احداها بطلة مسلسل \"العشق الممنوع\".. الافراج عن 3 ممثلين مشهورين بعد تحقيقات بشبهة المخدرات",
+   "link": "https://www.alsumaria.tv/news/artculture/582416/%d8%a7%d8%ad%d8%af%d8%a7%d9%87%d8%a7-%d8%a8%d8%b7%d9%84%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-quot%d8%a7%d9%84%d8%b9%d8%b4%d9%82-%d8%a7%d9%84%d9%85%d9%85%d9%86%d9%88%d8%b9quot-%d8%a7%d9%84%d8%a7%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795767134
+  },
+  {
+   "source": "السومرية",
+   "title": "ائتلاف الإعمار والتنمية يدعم مبادرة زيدان لحل الأزمة بين بغداد وأربيل",
+   "link": "https://www.alsumaria.tv/news/politics/582415/%d8%a7%d8%a6%d8%aa%d9%84%d8%a7%d9%81-%d8%a7%d9%84%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%af%d8%b9%d9%85-%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%84%d8%ad%d9%84-%d8%a7%d9%84%d8%a3%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795766817
+  },
   {
    "source": "شفق نيوز",
    "title": "\"رويترز\": أميركا شجعت العراق وفنزويلا على الانسحاب من أوبك",
@@ -97,12 +175,6 @@
    "ts": 1795760335
   },
   {
-   "source": "شفق نيوز",
-   "title": "اعتقال عراقيين في ألمانيا للاشتباه بانتمائهما لمنظمة مرتبطة بإيران",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87-%D8%A8%D8%A7%D9%86%D8%AA%D9%85%D8%A7-%D9%87%D9%85%D8%A7-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8-%D9%8A%D8%B1%D8%A7%D9%86",
-   "ts": 1795759676
-  },
-  {
    "source": "السومرية",
    "title": "انقطاع الكهرباء عن نحو 820 ألف شخص في امريكا",
    "link": "https://www.alsumaria.tv/news/international/582409/%d8%a7%d9%86%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d8%b9%d9%86-%d9%86%d8%ad%d9%88-820-%d8%a3%d9%84%d9%81-%d8%b4%d8%ae%d8%b5-%d9%81%d9%8a-%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
@@ -113,60 +185,6 @@
    "title": "تفاصيل عملية اعتقال عراقيين في المانيا",
    "link": "https://www.alsumaria.tv/news/international/582408/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
    "ts": 1795759094
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب: واشنطن تراقب نشاطها في جبل بيكاكس",
-   "link": "https://www.alsumaria.tv/news/international/582407/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%b1%d8%a7%d9%82%d8%a8-%d9%86%d8%b4%d8%a7%d8%b7%d9%87%d8%a7-%d9%81%d9%8a-%d8%ac%d8%a8%d9%84-%d8%a8%d9%8a%d9%83%d8%a7%d9%83%d8%b3?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795758484
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "صراع الصدارة والبقاء يشتعل.. 3 مباريات تطلق منافسات الجولة 15 لنجوم العراق (تصحيح)",
-   "link": "https://shafaq.com/ar/%D8%B1%D9%8A%D9%80%D8%A7%D8%B6%D8%A9/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%82%D8%A7-%D9%8A%D8%B4%D8%AA%D8%B9%D9%84-4-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-15-%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-   "ts": 1795756913
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "عاصفة تحرم أكثر من 836 ألف أميركي من الكهرباء",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%AA%D8%AD%D8%B1%D9%85-%D9%83%D8%AB%D8%B1-%D9%85%D9%86-836-%D9%84%D9%81-%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7",
-   "ts": 1795756801
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الدولار يحوم قرب أعلى مستوى في 22 شهراً وسط تذبذب أسهم الذكاء الاصطناعي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AD%D9%88%D9%85-%D9%82%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-22-%D8%B4%D9%87%D8%B1%D8%A7-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B0%D8%A8%D8%B0%D8%A8-%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
-   "ts": 1795755293
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "الذهب يستقر ويتجه لمكاسب أسبوعية طفيفة ترقباً لقرار الفائدة الأميركي",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B3%D8%AA%D9%82%D8%B1-%D9%88%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9-%D8%B7%D9%81%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D9%82%D8%A8%D8%A7-%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D8%A7-%D8%AF%D8%A9-%D8%A7%D9%84-%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
-   "ts": 1795754608
-  },
-  {
-   "source": "السومرية",
-   "title": "ترامب: مشاة البحرية الأمريكية ستواصل انتشارها في الشرق الأوسط",
-   "link": "https://www.alsumaria.tv/news/international/582406/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%85%d8%b4%d8%a7%d8%a9-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%b3%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1%d9%87%d8%a7-%d9%81%d9%8a-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795734032
-  },
-  {
-   "source": "السومرية",
-   "title": "مقتل وإصابة سبعة أشخاص بإطلاق نار خلال حفل في فلوريدا",
-   "link": "https://www.alsumaria.tv/news/international/582405/%d9%85%d9%82%d8%aa%d9%84-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b3%d8%a8%d8%b9%d8%a9-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a8%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%86%d8%a7%d8%b1-%d8%ae%d9%84%d8%a7%d9%84-%d8%ad%d9%81%d9%84-%d9%81%d9%8a-%d9%81%d9%84%d9%88%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795731600
-  },
-  {
-   "source": "السومرية",
-   "title": "للمرة الأولى.. الحرارة العالمية تتجاوز مستويات ما قبل الثورة الصناعية",
-   "link": "https://www.alsumaria.tv/news/international/582404/%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d9%85%d8%b3%d8%aa%d9%88%d9%8a%d8%a7%d8%aa-%d9%85%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795727880
-  },
-  {
-   "source": "السومرية",
-   "title": "إصابة رجل وزوجته بحادث دهس جنوبي بغداد",
-   "link": "https://www.alsumaria.tv/news/localnews/582403/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b1%d8%ac%d9%84-%d9%88%d8%b2%d9%88%d8%ac%d8%aa%d9%87-%d8%a8%d8%ad%d8%a7%d8%af%d8%ab-%d8%af%d9%87%d8%b3-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795725840
   },
   {
    "source": "المدى",
@@ -191,24 +209,6 @@
    "title": "انضباط الكرة تعاقب جماهير أربيل ودهوك بعد أحداث مباراتهما",
    "link": "https://almadapaper.net/462851/",
    "ts": 1795715244
-  },
-  {
-   "source": "المدى",
-   "title": "قوات الحدود تعلن إغلاق منفذين حدوديين مع سوريا وإيران",
-   "link": "https://almadapaper.net/462848/",
-   "ts": 1795713260
-  },
-  {
-   "source": "المدى",
-   "title": "الحلبوسي يؤيد مبادرة زيدان لحل الخلافات بين بغداد وأربيل",
-   "link": "https://almadapaper.net/462844/",
-   "ts": 1795711222
-  },
-  {
-   "source": "المدى",
-   "title": "المالية تعلن اكتمال موازنة 2027 وترفع الإيرادات غير النفطية إلى 18%",
-   "link": "https://almadapaper.net/462841/",
-   "ts": 1795709342
   }
  ]
 }
