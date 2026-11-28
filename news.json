@@ -1,5 +1,5 @@
 {
- "updated": 1795863103,
+ "updated": 1795866102,
  "sources": [
   "شفق نيوز",
   "السومرية",
@@ -7,10 +7,52 @@
  ],
  "items": [
   {
+   "source": "السومرية",
+   "title": "التعليم تعلن نتائج قبول الطلبة من خريجي المدارس الدولية",
+   "link": "https://www.alsumaria.tv/news/localnews/582492/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%aa%d8%b9%d9%84%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%82%d8%a8%d9%88%d9%84-%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d8%a9-%d9%85%d9%86-%d8%ae%d8%b1%d9%8a%d8%ac%d9%8a-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795865240
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "بعد مباحثاته مع الديمقراطي.. الاتحاد الوطني يجتمع بالجيل الجديد اليوم",
+   "link": "https://shafaq.com/ar/%D9%83%D9%88%D8%B1%D8%AF%D8%B3%D9%80%D9%80%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D8%AA/%D8%A8%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA%D9%87-%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D8%AC%D8%AA%D9%85%D8%B9-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+   "ts": 1795865105
+  },
+  {
+   "source": "شفق نيوز",
+   "title": "مستشار خامنئي يهاجم بغداد بشأن إجراءاتها الحدودية",
+   "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%AE%D8%A7%D9%85%D9%86-%D9%8A-%D9%8A%D9%87%D8%A7%D8%AC%D9%85-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%B4-%D9%86-%D8%AC%D8%B1%D8%A7-%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9",
+   "ts": 1795865003
+  },
+  {
+   "source": "السومرية",
+   "title": "عطلة في مدارس واسط ليومين",
+   "link": "https://www.alsumaria.tv/news/localnews/582491/%d8%b9%d8%b7%d9%84%d8%a9-%d9%81%d9%8a-%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d9%88%d8%a7%d8%b3%d8%b7-%d9%84%d9%8a%d9%88%d9%85%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795864814
+  },
+  {
+   "source": "السومرية",
+   "title": "ما هي اعراض مرض السحايا وطرق الوقاية منه",
+   "link": "https://www.alsumaria.tv/news/localnews/582490/%d9%85%d8%a7-%d9%87%d9%8a-%d8%a7%d8%b9%d8%b1%d8%a7%d8%b6-%d9%85%d8%b1%d8%b6-%d8%a7%d9%84%d8%b3%d8%ad%d8%a7%d9%8a%d8%a7-%d9%88%d8%b7%d8%b1%d9%82-%d8%a7%d9%84%d9%88%d9%82%d8%a7%d9%8a%d8%a9-%d9%85%d9%86%d9%87?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795864394
+  },
+  {
+   "source": "السومرية",
+   "title": "وزير العدل يعلن إنجاز قاعدة بيانات العقارات ضمن مشروع توزيع مليون قطعة أرض",
+   "link": "https://www.alsumaria.tv/news/localnews/582489/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b6%d9%85%d9%86-%d9%85%d8%b4?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795864266
+  },
+  {
    "source": "شفق نيوز",
    "title": "محافظ نينوى يطرح استراتيجية رياضية تشمل ملاعب وأندية المحافظة",
    "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%8A%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B4%D9%85%D9%84-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D9%88-%D9%86%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9",
    "ts": 1795862966
+  },
+  {
+   "source": "السومرية",
+   "title": "محافظ بغداد يبشر بشان منصة التقديم على قطع الأراضي بالعاصمة",
+   "link": "https://www.alsumaria.tv/news/localnews/582488/%d9%85%d8%ad%d8%a7%d9%81%d8%b8-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%8a%d8%a8%d8%b4%d8%b1-%d8%a8%d8%b4%d8%a7%d9%86-%d9%85%d9%86%d8%b5%d8%a9-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%b9%d9%84%d9%89-%d9%82%d8%b7%d8%b9-%d8%a7%d9%84%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+   "ts": 1795862718
   },
   {
    "source": "السومرية",
@@ -115,58 +157,16 @@
    "ts": 1795859088
   },
   {
-   "source": "السومرية",
-   "title": "كربلاء: لا إصابات مسجلة بمرض السحايا حتى الان",
-   "link": "https://www.alsumaria.tv/news/localnews/582480/%d9%83%d8%b1%d8%a8%d9%84%d8%a7%d8%a1-%d9%84%d8%a7-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d8%b3%d8%ac%d9%84%d8%a9-%d8%a8%d9%85%d8%b1%d8%b6-%d8%a7%d9%84%d8%b3%d8%ad%d8%a7%d9%8a%d8%a7-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795858976
-  },
-  {
    "source": "شفق نيوز",
    "title": "مقتل 7 طلاب وإصابة 97 بانفجار قرب مدرسة في أفغانستان",
    "link": "https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D9%85%D9%82%D8%AA%D9%84-7-%D8%B7%D9%84%D8%A7%D8%A8-%D9%88-%D8%B5%D8%A7%D8%A8%D8%A9-97-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%82%D8%B1%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%81%D9%8A-%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
    "ts": 1795858813
   },
   {
-   "source": "شفق نيوز",
-   "title": "عودة ارتفاع اللسان الملحي في البصرة ومناشدة لإنقاذ الأهالي من موت بطيء",
-   "link": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%84%D8%B3%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%AD%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%88%D9%85%D9%86%D8%A7%D8%B4%D8%AF%D8%A9-%D9%84-%D9%86%D9%82%D8%A7%D8%B0-%D8%A7%D9%84-%D9%87%D8%A7%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D9%88%D8%AA-%D8%A8%D8%B7%D9%8A",
-   "ts": 1795858751
-  },
-  {
-   "source": "السومرية",
-   "title": "رابطة شركات السفر والسياحة تبحث مع وزارة السياحة افتتاح خطوط جوية مباشرة من بغداد لأوروبا",
-   "link": "https://www.alsumaria.tv/news/localnews/582479/%d8%b1%d8%a7%d8%a8%d8%b7%d8%a9-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%81%d8%b1-%d9%88%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9-%d8%aa%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795858548
-  },
-  {
-   "source": "السومرية",
-   "title": "الذهب يتوافق مع الدولار وينخفض في السوق العراقية",
-   "link": "https://www.alsumaria.tv/news/economy/582478/%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d9%85%d8%b9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%88%d9%8a%d9%86%d8%ae%d9%81%d8%b6-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795858285
-  },
-  {
-   "source": "شفق نيوز",
-   "title": "تباين أسعار الذهب في بغداد وأربيل مع هبوط الدولار",
-   "link": "https://shafaq.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D9%80%D8%A7%D8%AF/%D8%AA%D8%A8%D8%A7%D9%8A%D9%86-%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88-%D8%B1%D8%A8%D9%8A%D9%84-%D9%85%D8%B9-%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-   "ts": 1795857889
-  },
-  {
    "source": "المدى",
    "title": "قبل حوار بغداد.. السليمانية تجمع بارزاني وطالباني على طاولة واحدة",
    "link": "https://almadapaper.net/462948/",
    "ts": 1795857736
-  },
-  {
-   "source": "السومرية",
-   "title": "وفد صحي من واسط يكشف عن كارثة بسبب انتشار السحايا: 376 وفاة واصابة",
-   "link": "https://www.alsumaria.tv/news/localnews/582477/%d9%88%d9%81%d8%af-%d8%b5%d8%ad%d9%8a-%d9%85%d9%86-%d9%88%d8%a7%d8%b3%d8%b7-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%83%d8%a7%d8%b1%d8%ab%d8%a9-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d8%ad%d8%a7%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795856895
-  },
-  {
-   "source": "السومرية",
-   "title": "سارق ومتهم بالقتل و40 مخالفا.. ما حصل في جانب الرصافة من بغداد",
-   "link": "https://www.alsumaria.tv/news/security/582476/%d8%b3%d8%a7%d8%b1%d9%82-%d9%88%d9%85%d8%aa%d9%87%d9%85-%d8%a8%d8%a7%d9%84%d9%82%d8%aa%d9%84-%d9%8840-%d9%85%d8%ae%d8%a7%d9%84%d9%81%d8%a7-%d9%85%d8%a7-%d8%ad%d8%b5%d9%84-%d9%81%d9%8a-%d8%ac%d8%a7%d9%86%d8%a8-%d8%a7%d9%84%d8%b1%d8%b5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-   "ts": 1795856688
   },
   {
    "source": "المدى",
